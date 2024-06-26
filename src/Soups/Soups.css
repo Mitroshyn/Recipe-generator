@@ -1,0 +1,31 @@
+.soups-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.soup-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  width: 200px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.soup-card:hover {
+  transform: scale(1.05);
+}
+
+.soup-image {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.soup-card h2 {
+  font-size: 16px;
+  margin-top: 10px;
+}
