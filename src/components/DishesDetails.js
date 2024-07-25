@@ -14,22 +14,31 @@ export function DishesDetails() {
   if (!currentData) {
     return <div>Блюдо не найдено</div>;
   }
-  console.log("currentData", currentData, dishesData);
+  // console.log("currentData", currentData, dishesData);
   return (
     <>
-      <div className="dishDetail">
-        <h1>{currentData.title}</h1>
-        <img src={currentData.image} alt={currentData.title} />
-        <h2>Ингридиенты</h2>
-        {/* <p>{item.ingridients.map(sanitizeText).join(", ")}</p>
-            <div>
-              {item.cooking.map((step, index) => (
-                <p key={index}>
-                  {sanitizeText(step.description)}
-                  <img src={step.image} alt="" />
-                </p>
-              ))}
-            </div> */}
+      <div className="dishDetail ml-16">
+        <h1 className="text-2xl">{currentData.title}</h1>
+        <img
+          className="w-2/6"
+          src={currentData.image}
+          alt={currentData.title}
+        />
+        <h2 className="font-bold">Ингридиенты:</h2>
+        <div className="flex flex-col">
+          {currentData.ingridients.map((item, index) => (
+            <div key={index}>{sanitizeText(item)}</div>
+          ))}
+        </div>
+        <h2 className="font-bold">Приготовление:</h2>
+        <div>
+          {currentData.cooking.map((item, index) => (
+            <p key={index}>
+              {sanitizeText(item.description)}
+              <img src={item.image} alt="" />
+            </p>
+          ))}
+        </div>
       </div>
     </>
   );

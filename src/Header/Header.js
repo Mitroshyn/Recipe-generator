@@ -3,8 +3,10 @@ function Header() {
   return (
     <header className="header">
       <div className="container">
-        <div className="header-recipes">Рецепты</div>
-        <div className="header-popular-recipes">Популярные рецепты</div>
+        <div className="header-recipes text-2xl">Рецепты</div>
+        <div className="header-popular-recipes text-2xl">
+          Популярные рецепты
+        </div>
       </div>
     </header>
   );

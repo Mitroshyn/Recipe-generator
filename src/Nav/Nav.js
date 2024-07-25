@@ -4,7 +4,7 @@ import { routes } from "./routes";
 function Nav() {
   return (
     <Router>
-      <div className="container">
+      <div className="container flex">
         <nav>
           <ul>
             <li>
