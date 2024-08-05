@@ -1,1 +1,4 @@
-export function Main() {}
+
+export function Main() {
+  return <div />;
+}

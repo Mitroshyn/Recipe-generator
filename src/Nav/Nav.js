@@ -1,10 +1,11 @@
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import { routes } from "./routes";
+import { Container } from "../components/Container";
 
-function Nav() {
+export function Nav() {
   return (
-    <Router>
-      <div className="container flex">
+    <BrowserRouter>
+      <Container>
         <nav>
           <ul>
             <li>
@@ -52,8 +53,7 @@ function Nav() {
             );
           })}
         </Routes>
-      </div>
-    </Router>
+      </Container>
+    </BrowserRouter>
   );
 }
-export default Nav;

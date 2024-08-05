@@ -1,13 +1,17 @@
+import { Container } from "../components/Container";
 import "./Header.css";
+
 function Header() {
   return (
     <header className="header">
-      <div className="container">
-        <div className="header-recipes text-2xl">Рецепты</div>
-        <div className="header-popular-recipes text-2xl">
-          Популярные рецепты
+      <Container>
+        <div className="flex justify-between w-full">
+          <div className="header-recipes text-2xl">Рецепты</div>
+          <div className="header-popular-recipes text-2xl">
+            Популярные рецепты
+          </div>
         </div>
-      </div>
+      </Container>
     </header>
   );
 }
