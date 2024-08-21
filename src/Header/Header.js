@@ -3,7 +3,7 @@ import "./Header.css";
 
 function Header() {
   return (
-    <header className="header">
+    <header className="header bg-headerColor">
       <Container>
         <div className="flex justify-between w-full">
           <div className="header-recipes text-2xl">Рецепты</div>

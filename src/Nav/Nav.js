@@ -24,6 +24,10 @@ export function Nav() {
             </li>
 
             <li>
+              <Link to="/softDrinks">Безалкогольные коктейли</Link>
+            </li>
+
+            <li>
               <Link to="/soups">Soups</Link>
             </li>
 

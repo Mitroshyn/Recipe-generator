@@ -6,6 +6,7 @@ import { milkshakes, milkshakesType } from "./Milkshakes";
 import { pancakes, pancakesType } from "./Pancakes";
 import { sauces, saucesType } from "./Sauces";
 import { soups, soupsType } from "./Soups";
+import { softDrinks, softDrinksType } from "./SoftDrinks";
 
 export const dishesData = {
   [meatSaladsType]: meatSalads,
@@ -16,4 +17,5 @@ export const dishesData = {
   [saucesType]: sauces,
   [soupsType]: soups,
   [borschType]: borsches,
+  [softDrinksType]: softDrinks,
 };

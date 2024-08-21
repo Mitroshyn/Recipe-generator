@@ -38,6 +38,12 @@ import {
   fruitDrinksTags,
   fruitDrinksType,
 } from "../data/FruitDrinks";
+import {
+  softDrinks,
+  softDrinksTitle,
+  softDrinksTags,
+  softDrinksType,
+} from "../data/SoftDrinks";
 import { DishesDetails } from "../components/DishesDetails";
 
 export const routes = [
@@ -76,6 +82,17 @@ export const routes = [
         title={fruitDrinksTitle}
         tags={fruitDrinksTags}
         type={fruitDrinksType}
+      />
+    ),
+  },
+  {
+    path: "/softDrinks",
+    component: (
+      <DishesList
+        data={softDrinks}
+        title={softDrinksTitle}
+        tags={softDrinksTags}
+        type={softDrinksType}
       />
     ),
   },

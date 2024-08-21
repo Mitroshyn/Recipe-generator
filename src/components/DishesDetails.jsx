@@ -42,6 +42,7 @@ export function DishesDetails() {
               </p>
             ))}
           </div>
+          <div>Приятного аппетита!</div>
         </div>
       </div>
     </>

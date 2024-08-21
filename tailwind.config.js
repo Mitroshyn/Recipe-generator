@@ -24,6 +24,9 @@ module.exports = {
         "40-px": "40px",
         "48-px": "48px",
       },
+      colors: {
+        headerColor: "#494949",
+      },
     },
   },
   plugins: [],
