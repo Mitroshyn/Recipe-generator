@@ -2,7 +2,7 @@ export const borsches = [
   {
     title: "Борщ с пельменями",
     image:
-      "https://proxy11.online.ua/retsepty/r2-948bfcd034/small566207a70cfb1.jpg",
+      "https://proxy10.online.ua/retsepty/r2-948bfcd034/big566207a70cfb1.jpg",
     ingridients: [
       "    капуста белокочанная&nbsp;—  100&nbsp;г",
       "    свекла&nbsp;—  1&nbsp;шт.",
@@ -54,7 +54,7 @@ export const borsches = [
   {
     title: "Борщ со свекольной ботвой",
     image:
-      "https://proxy11.online.ua/retsepty/r2-a12fb90dd5/small56124e0732422.jpg",
+      "https://proxy12.online.ua/retsepty/r2-a12fb90dd5/big56124e0732422.jpg",
     ingridients: [
       "молодая свекла с&nbsp;ботвой&nbsp;—  400&nbsp;г",
       "картофель&nbsp;—  1&nbsp;шт.",
@@ -84,7 +84,7 @@ export const borsches = [
   {
     title: "Борщ постный",
     image:
-      "https://proxy11.online.ua/retsepty/r3-7470f32551/small547daf501cea9.jpg",
+      "https://proxy12.online.ua/retsepty/r3-7470f32551/big547daf501cea9.jpg",
     ingridients: [
       "перловка&nbsp;—  1&nbsp;ст.л.",
       "    растительное масло&nbsp;—  1&nbsp;ст.л.",
@@ -137,7 +137,7 @@ export const borsches = [
   {
     title: "Зеленый борщ",
     image:
-      "https://proxy11.online.ua/retsepty/r3-97fd289735/small53aae578eff97.jpg",
+      "https://proxy11.online.ua/retsepty/r3-97fd289735/big53aae578eff97.jpg",
     ingridients: [
       "картофель&nbsp;—  4&nbsp;шт.",
       " крупная луковица&nbsp;—  1&nbsp;шт.",
@@ -174,7 +174,7 @@ export const borsches = [
   {
     title: "Борщ",
     image:
-      "https://proxy11.online.ua/retsepty/r3-23d869d951/small52970c47ca447.jpg",
+      "https://proxy12.online.ua/retsepty/r3-23d869d951/big52970c47ca447.jpg",
     ingridients: [
       "свиные косточки&nbsp;—  400&nbsp;г",
       " средняя свекла&nbsp;—  1&nbsp;шт.",
@@ -224,7 +224,7 @@ export const borsches = [
   {
     title: "Борщ на костре",
     image:
-      "https://proxy11.online.ua/retsepty/r3-e38bd99bec/small519221156cf79.jpg",
+      "https://proxy10.online.ua/retsepty/r3-e38bd99bec/big519221156cf79.jpg",
     ingridients: [
       "свиные ребра 	—  1.5&nbsp;кг",
       "сало копченое -&nbsp;	200&nbsp;г",
@@ -289,7 +289,7 @@ export const borsches = [
   {
     title: "Борщ в хлебе",
     image:
-      "https://proxy11.online.ua/retsepty/r3-f150e81e16/small50f6a8807cf99.jpg",
+      "https://proxy12.online.ua/retsepty/r3-f150e81e16/big50f6a8807cf99.jpg",
     ingridients: [
       "черный хлеб&nbsp;—  буханка",
       "свекла&nbsp;—  1шт.",
@@ -342,7 +342,7 @@ export const borsches = [
   {
     title: "Украинский борщ",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d1/005/229/107/small4ca1a474de3b0.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d1/005/229/107/big4ca1a474de3b0.jpg",
     ingridients: [
       "—  свинина или&nbsp;говядина (можно кости с&nbsp;мясом)&nbsp;—  300&nbsp;—  400&nbsp;г ",
       "—  картофель&nbsp;—  2-3 шт. ",

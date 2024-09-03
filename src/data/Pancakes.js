@@ -2,7 +2,7 @@ export const pancakes = [
   {
     title: "Заварные блины на кефире",
     image:
-      "https://proxy12.online.ua/retsepty/r2-06f07a4f9e/small5714f2e4ab23a.jpg",
+      "https://proxy11.online.ua/retsepty/r2-06f07a4f9e/big5714f2e4ab23a.jpg",
     ingridients: [
       "    кефир 2,5% жирности&nbsp;—  250&nbsp;мл",
       "    вода горячая&nbsp;—  250&nbsp;мл",
@@ -40,7 +40,7 @@ export const pancakes = [
   {
     title: "Оладьи медовые",
     image:
-      "https://proxy12.online.ua/retsepty/r2-e880bb35ff/small5703cd5c1479c.png",
+      "https://proxy12.online.ua/retsepty/r2-e880bb35ff/big5703cd5c1479c.png",
     ingridients: [
       "мука&nbsp;—  1,5-2 стак.",
       "разрыхлитель&nbsp;—  10&nbsp;г",
@@ -67,7 +67,7 @@ export const pancakes = [
   {
     title: "Блинчики-синнабоны",
     image:
-      "https://proxy10.online.ua/retsepty/r2-56fba4e4a7/small56fe8b5bcd201.jpg",
+      "https://proxy11.online.ua/retsepty/r2-56fba4e4a7/big56fe8b5bcd201.jpg",
     ingridients: [
       "мука&nbsp;—  150&nbsp;г",
       "молоко&nbsp;—  1&nbsp;стак.",
@@ -75,11 +75,10 @@ export const pancakes = [
       "разрыхлитель&nbsp;—  2&nbsp;ч. л.",
       "соль&nbsp;—  ½&nbsp;ч. л.",
       "растительное масло&nbsp;—  1&nbsp;ст. л.",
-      "сливочное масло&nbsp;—  50&nbsp;г",
+      "сливочное масло&nbsp;—  100&nbsp;г",
       "коричневый сахар&nbsp;—  5&nbsp;ст. л.",
       "молотая корица&nbsp;—  ½&nbsp;ст. л.",
       "сливочный сыр&nbsp;—  100&nbsp;г",
-      "сливочное масло&nbsp;—  50&nbsp;г",
       "сахарная пудра&nbsp;—  ¾&nbsp;стак.",
       "ванильный сахар&nbsp;—  ½&nbsp;ч. л.",
     ],
@@ -121,7 +120,7 @@ export const pancakes = [
   {
     title: "Блинчики с грибами и рисом",
     image:
-      "https://proxy12.online.ua/retsepty/r3-00816bd3bc/small56e43b1ad52af.jpg",
+      "https://proxy12.online.ua/retsepty/r3-00816bd3bc/big56e43b1ad52af.jpg",
     ingridients: [
       "    мука пшеничная &nbsp;—  220&nbsp;г",
       "    вода &nbsp;—  220&nbsp;мл",
@@ -160,7 +159,7 @@ export const pancakes = [
   {
     title: "Блинчики с заварным кремом",
     image:
-      "https://proxy12.online.ua/retsepty/r2-370ab543f6/small56e43798dad52.jpg",
+      "https://proxy10.online.ua/retsepty/r2-370ab543f6/big56e43798dad52.jpg",
     ingridients: [
       "    молоко&nbsp;—  1,25&nbsp;л&nbsp;(1&nbsp;л&nbsp;—  для&nbsp;теста, остальное&nbsp;—  для&nbsp;крема)",
       "    яйца&nbsp;—  9&nbsp;шт. (8&nbsp;—  в&nbsp;тесто, 1—  в&nbsp;крем)",
@@ -208,7 +207,7 @@ export const pancakes = [
   {
     title: "Блинный торт с апельсинами",
     image:
-      "https://proxy12.online.ua/retsepty/r2-0f211c32f1/small56e30204a2957.jpg",
+      "https://proxy12.online.ua/retsepty/r2-0f211c32f1/big56e30204a2957.jpg",
     ingridients: [
       "    мука&nbsp;—  100&nbsp;г",
       "    яйцо&nbsp;—  4&nbsp;шт.",
@@ -256,7 +255,7 @@ export const pancakes = [
   {
     title: "Тонкие блины на кефире",
     image:
-      "https://proxy12.online.ua/retsepty/r3-069fa63ec0/small56e3005f1397c.jpg",
+      "https://proxy11.online.ua/retsepty/r3-069fa63ec0/big56e3005f1397c.jpg",
     ingridients: [
       "    мука пшеничная&nbsp;—  500&nbsp;г",
       "    яйцо куриное&nbsp;—  4&nbsp;шт.",
@@ -299,7 +298,7 @@ export const pancakes = [
   {
     title: "Блины на минеральной воде",
     image:
-      "https://proxy12.online.ua/retsepty/r3-d8a1f6f56a/small56e19cef994ea.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d8a1f6f56a/big56e19cef994ea.jpg",
     ingridients: [
       "    минеральная вода &nbsp;—  2&nbsp;стакана",
       "    мука&nbsp;—  1&nbsp;стакан",
@@ -334,7 +333,7 @@ export const pancakes = [
   {
     title: "Блины с тыквенной начинкой",
     image:
-      "https://proxy12.online.ua/retsepty/r2-1d76dd0c4e/small56e04e575a79f.jpg",
+      "https://proxy11.online.ua/retsepty/r2-1d76dd0c4e/big56e04e575a79f.jpg",
     ingridients: [
       "молоко&nbsp;—  1&nbsp;стакан",
       "вода&nbsp;—  1&nbsp;стакан",
@@ -369,7 +368,7 @@ export const pancakes = [
   {
     title: "Гречневые дрожжевые блины",
     image:
-      "https://proxy12.online.ua/retsepty/r3-6454fd3c91/small56e04d6d8eb12.jpg",
+      "https://proxy12.online.ua/retsepty/r3-6454fd3c91/big56e04d6d8eb12.jpg",
     ingridients: [
       "пшеничная мука&nbsp;—  75&nbsp;г",
       "гречневая мука&nbsp;—  75&nbsp;г",
@@ -392,7 +391,7 @@ export const pancakes = [
   {
     title: "Блины из печени",
     image:
-      "https://proxy12.online.ua/retsepty/r3-a8b96f9ec3/small56d5bdcb83969.jpg",
+      "https://proxy11.online.ua/retsepty/r3-a8b96f9ec3/big56d5bdcb83969.jpg",
     ingridients: [
       "    морковь&nbsp;—  1&nbsp;шт.",
       "    печень (говяжья, куриная)&nbsp;—  500&nbsp;г",
@@ -449,7 +448,7 @@ export const pancakes = [
   {
     title: "Панкейк-сердечко",
     image:
-      "https://proxy11.online.ua/retsepty/r2-307cdfcecb/small56ba100112fdd.jpg",
+      "https://proxy12.online.ua/retsepty/r2-307cdfcecb/big56ba100112fdd.jpg",
     ingridients: [
       "мука&nbsp;—  1&nbsp;стакан",
       "соль&nbsp;—  1/2&nbsp;ч.л.",
@@ -482,7 +481,7 @@ export const pancakes = [
   {
     title: "Блины с бананами и мандаринами",
     image:
-      "https://proxy12.online.ua/retsepty/r2-14924135ba/small567d7e2ff231b.jpg",
+      "https://proxy11.online.ua/retsepty/r2-14924135ba/big567d7e2ff231b.jpg",
     ingridients: [
       "пшеничная мука&nbsp;—  75&nbsp;г",
       "цельнозерновая мука&nbsp;—  75&nbsp;г",
@@ -513,7 +512,7 @@ export const pancakes = [
   {
     title: "Черные блинчики с красной икрой",
     image:
-      "https://proxy11.online.ua/retsepty/r2-8499a8973f/small567d6b89a53d2.jpg",
+      "https://proxy11.online.ua/retsepty/r2-8499a8973f/big567d6b89a53d2.jpg",
     ingridients: [
       "яйца&nbsp;—  2&nbsp;шт.",
       "молоко&nbsp;—  1,5&nbsp;стакана",
@@ -550,7 +549,7 @@ export const pancakes = [
   {
     title: "Дрожжевые оладьи на молоке",
     image:
-      "https://proxy11.online.ua/retsepty/r3-28129ec17e/small5640c876a5fef.jpg",
+      "https://proxy11.online.ua/retsepty/r3-28129ec17e/big5640c876a5fef.jpg",
     ingridients: [
       "    молоко &nbsp;—  500&nbsp;мл",
       "    мука&nbsp;—  500&nbsp;г",
@@ -601,7 +600,7 @@ export const pancakes = [
   {
     title: "Оладьи из топинамбура",
     image:
-      "https://proxy11.online.ua/retsepty/r2-613c6a5e47/small5638d941d858f.JPG",
+      "https://proxy11.online.ua/retsepty/r2-613c6a5e47/big5638d941d858f.JPG",
     ingridients: [
       "    топинамбур&nbsp;—  400&nbsp;г",
       "    адыгейский сыр&nbsp;—  200&nbsp;г",
@@ -634,7 +633,7 @@ export const pancakes = [
   {
     title: "Грибные оладьи",
     image:
-      "https://proxy11.online.ua/retsepty/r2-d8bc83f08e/small561cfc05cb68f.jpg",
+      "https://proxy11.online.ua/retsepty/r2-d8bc83f08e/big561cfc05cb68f.jpg",
     ingridients: [
       "нарезанные грибы&nbsp;—  250&nbsp;г",
       "лук репчатый&nbsp;—  1&nbsp;шт.",
@@ -671,7 +670,7 @@ export const pancakes = [
   {
     title: "Тыквенные оладьи с яблоками",
     image:
-      "https://proxy11.online.ua/retsepty/r2-12ffae9c86/small561269e6b6183.jpg",
+      "https://proxy11.online.ua/retsepty/r2-12ffae9c86/big561269e6b6183.jpg",
     ingridients: [
       "    тыква&nbsp;—  400&nbsp;г",
       "    яйца&nbsp;—  2&nbsp;шт.",
@@ -700,7 +699,7 @@ export const pancakes = [
   {
     title: "Блин с жидким шоколадным центром",
     image:
-      "https://proxy11.online.ua/retsepty/r3-57ed8de042/small55fb153364d36.jpg",
+      "https://proxy10.online.ua/retsepty/r3-57ed8de042/big55fb153364d36.jpg",
     ingridients: [
       "разрыхлитель&nbsp;—  1&nbsp;ст. л.",
       "соль&nbsp;—  1&nbsp;щепотка",
@@ -731,7 +730,7 @@ export const pancakes = [
   {
     title: "Оладьи с вишней",
     image:
-      "https://proxy11.online.ua/retsepty/r2-68336965a2/small55c8eb6935ad7.jpg",
+      "https://proxy11.online.ua/retsepty/r2-68336965a2/big55c8eb6935ad7.jpg",
     ingridients: [
       "мука&nbsp;—  200&nbsp;г",
       "молоко&nbsp;—  150&nbsp;мл",
@@ -751,7 +750,7 @@ export const pancakes = [
   {
     title: "Морковно-яблочные оладьи",
     image:
-      "https://proxy12.online.ua/retsepty/r2-6ca980a5d7/small55a3e049dc2b4.jpg",
+      "https://proxy11.online.ua/retsepty/r2-6ca980a5d7/big55a3e049dc2b4.jpg",
     ingridients: [
       "яблоки&nbsp;—  2&nbsp;шт.",
       "морковь&nbsp;—  3&nbsp;шт.",
@@ -790,7 +789,7 @@ export const pancakes = [
   {
     title: "Оладьи с яйцом и зеленым луком",
     image:
-      "https://proxy12.online.ua/retsepty/r2-67d1f8fed2/small551be5a2dc896.jpg",
+      "https://proxy11.online.ua/retsepty/r2-67d1f8fed2/big551be5a2dc896.jpg",
     ingridients: [
       "яйцо&nbsp;—  2&nbsp;шт.",
       "мука&nbsp;—  7&nbsp;ст.л.",
@@ -818,7 +817,7 @@ export const pancakes = [
   {
     title: "Французские блинчики",
     image:
-      "https://proxy10.online.ua/retsepty/r2-477e6d6f42/small54e4b057a605b.jpg",
+      "https://proxy11.online.ua/retsepty/r2-477e6d6f42/big54e4b057a605b.jpg",
     ingridients: [
       "мука&nbsp;—  1&nbsp;чашка (240&nbsp;г)",
       "молоко&nbsp;—  1&nbsp;и 1/2&nbsp;чашки",
@@ -897,7 +896,7 @@ export const pancakes = [
   {
     title: "Оладьи на йогурте",
     image:
-      "https://proxy10.online.ua/retsepty/r2-c898753058/small54e4add964ef9.jpg",
+      "https://proxy12.online.ua/retsepty/r2-c898753058/big54e4add964ef9.jpg",
     ingridients: [
       "    яйцо куриное&nbsp;—  1&nbsp;шт.",
       "    мука&nbsp;—  200&nbsp;г",
@@ -937,7 +936,7 @@ export const pancakes = [
   {
     title: "Крахмальные блинчики на кефире",
     image:
-      "https://proxy10.online.ua/retsepty/r2-be6ef97656/small54e4aab9c92ee.jpg",
+      "https://proxy12.online.ua/retsepty/r2-be6ef97656/big54e4aab9c92ee.jpg",
     ingridients: [
       "    крахмал&nbsp;—  10&nbsp;ст.л.",
       "    кефир (лучше обезжиренный)&nbsp;—  1&nbsp;ст. ",
@@ -973,7 +972,7 @@ export const pancakes = [
   {
     title: "Шахматный террин из блинов",
     image:
-      "https://proxy10.online.ua/retsepty/r2-caa2104420/small54e46a6364d5b.jpg",
+      "https://proxy10.online.ua/retsepty/r2-caa2104420/big54e46a6364d5b.jpg",
     ingridients: [
       "готовые блины&nbsp;—  9-10 шт.",
       "отварное куриное филе&nbsp;—  200-250 г",
@@ -1061,7 +1060,7 @@ export const pancakes = [
     title:
       "Роллы из рисовых блинчиков с творожно-банановым кремом и шоколадным соусом",
     image:
-      "https://proxy10.online.ua/retsepty/r2-ed0968d94b/small54e4625b7eb20.jpg",
+      "https://proxy10.online.ua/retsepty/r2-ed0968d94b/big54e4625b7eb20.jpg",
     ingridients: [
       "рисовая мука&nbsp;—  200&nbsp;г",
       "крахмал картофельный&nbsp;—  20&nbsp;г",
@@ -1114,7 +1113,7 @@ export const pancakes = [
   {
     title: "Блины картофельные",
     image:
-      "https://proxy10.online.ua/retsepty/r2-b9a764036e/small54e3764fb26cf.jpg",
+      "https://proxy11.online.ua/retsepty/r2-b9a764036e/big54e3764fb26cf.jpg",
     ingridients: [
       "яйцо&nbsp;—  1&nbsp;шт.",
       "картофель&nbsp;—  2&nbsp;шт.",
@@ -1166,7 +1165,7 @@ export const pancakes = [
   {
     title: "Блины с яблоками",
     image:
-      "https://proxy10.online.ua/retsepty/r2-bfe54fb611/small54e36efc4a52f.jpg",
+      "https://proxy11.online.ua/retsepty/r2-bfe54fb611/big54e36efc4a52f.jpg",
     ingridients: [
       "    мука&nbsp;—  2&nbsp;ст.",
       "    молоко&nbsp;—  0,5&nbsp;ст.",
@@ -1205,7 +1204,7 @@ export const pancakes = [
   {
     title: "Блинчики с шоколадной начинкой",
     image:
-      "https://proxy10.online.ua/retsepty/r2-76963ceedc/small54e36c429341b.jpg",
+      "https://proxy12.online.ua/retsepty/r2-76963ceedc/big54e36c429341b.jpg",
     ingridients: [
       "блины &nbsp;—  10&nbsp;шт.",
       "шоколадная плитка&nbsp;—  100&nbsp;г",
@@ -1227,7 +1226,7 @@ export const pancakes = [
   {
     title: "Блины на томатном соке",
     image:
-      "https://proxy10.online.ua/retsepty/r2-0abe656e0e/small54e22cfeb32f5.jpg",
+      "https://proxy10.online.ua/retsepty/r2-0abe656e0e/big54e22cfeb32f5.jpg",
     ingridients: [
       "мука&nbsp;—  2&nbsp;ст.л.",
       "молоко&nbsp;—  1&nbsp;ст.",
@@ -1255,7 +1254,7 @@ export const pancakes = [
   {
     title: "Свекольные блины",
     image:
-      "https://proxy10.online.ua/retsepty/r2-101fd29781/small54e22a8a6acb3.jpg",
+      "https://proxy12.online.ua/retsepty/r2-101fd29781/big54e22a8a6acb3.jpg",
     ingridients: [
       "масло подсолнечное рафинированное&nbsp;—  50&nbsp;мл",
       "	молоко&nbsp;—  1.5&nbsp;ст.",
@@ -1300,7 +1299,7 @@ export const pancakes = [
   {
     title: "Блины с сыром и базиликом",
     image:
-      "https://proxy11.online.ua/retsepty/r2-cdde273731/small54e228875603f.jpg",
+      "https://proxy12.online.ua/retsepty/r2-cdde273731/big54e228875603f.jpg",
     ingridients: [
       "    мука&nbsp;—  550&nbsp;г (примерно 2&nbsp;стакана)",
       "    яйца&nbsp;—  5&nbsp;шт.",
@@ -1325,7 +1324,7 @@ export const pancakes = [
   {
     title: "Шоколадные блины с нежной начинкой",
     image:
-      "https://proxy11.online.ua/retsepty/r2-d9934a31b4/small54e22669e8a67.jpg",
+      "https://proxy12.online.ua/retsepty/r2-d9934a31b4/big54e22669e8a67.jpg",
     ingridients: [
       "молоко&nbsp;—  1&nbsp;стакан",
       "яйца&nbsp;—  2&nbsp;шт.",
@@ -1351,7 +1350,7 @@ export const pancakes = [
   {
     title: "Радужные блины",
     image:
-      "https://proxy11.online.ua/retsepty/r2-9543f512d0/small531074744c3ac.jpg",
+      "https://proxy10.online.ua/retsepty/r2-9543f512d0/big531074744c3ac.jpg",
     ingridients: [
       "    мука&nbsp;—  2&nbsp;стакана",
       "    молоко&nbsp;—  100&nbsp;мл",
@@ -1384,7 +1383,7 @@ export const pancakes = [
   {
     title: "Блинные роллы",
     image:
-      "https://proxy11.online.ua/retsepty/r2-5dff440492/small53107393430dd.jpg",
+      "https://proxy12.online.ua/retsepty/r2-5dff440492/big53107393430dd.jpg",
     ingridients: [
       "    кефир&nbsp;—  500&nbsp;мл",
       "    яйца&nbsp;—  1&nbsp;шт.",
@@ -1412,7 +1411,7 @@ export const pancakes = [
   {
     title: "Пышные блины на молоке",
     image:
-      "https://proxy11.online.ua/retsepty/r2-0539a21c71/small52973aba082ca.jpg",
+      "https://proxy11.online.ua/retsepty/r2-0539a21c71/big52973aba082ca.jpg",
     ingridients: [
       "  яйца&nbsp;—  2&nbsp;шт.",
       "молоко&nbsp;—  300&nbsp;мл ",
@@ -1459,7 +1458,7 @@ export const pancakes = [
   {
     title: "Заварные блины на молоке",
     image:
-      "https://proxy11.online.ua/retsepty/r2-743890b4ba/small530ef6bf97ab5.jpg",
+      "https://proxy12.online.ua/retsepty/r2-743890b4ba/big530ef6bf97ab5.jpg",
     ingridients: [
       "молоко&nbsp;—  500&nbsp;мл",
       "яйца&nbsp;—  2&nbsp;шт.",
@@ -1488,9 +1487,9 @@ export const pancakes = [
     ],
   },
   {
-    title: "Блины нлимонные",
+    title: "Блины лимонные",
     image:
-      "https://proxy11.online.ua/retsepty/r3-05e58d3a63/small530ca68cde547.jpg",
+      "https://proxy12.online.ua/retsepty/r3-05e58d3a63/big530ca68cde547.jpg",
     ingridients: [
       "    мука&nbsp;—  100&nbsp;г",
       "    сахар&nbsp;—  1&nbsp;ст.л.",
@@ -1521,7 +1520,7 @@ export const pancakes = [
   {
     title: "Шоколадные блинчики на молоке",
     image:
-      "https://proxy11.online.ua/retsepty/r2-0830747e9d/small530ca425621a4.jpg",
+      "https://proxy10.online.ua/retsepty/r2-0830747e9d/big530ca425621a4.jpg",
     ingridients: [
       "сахар&nbsp;—  2&nbsp;ст.л.",
       "молоко—  3&nbsp;ст.",
@@ -1561,7 +1560,7 @@ export const pancakes = [
   {
     title: "Тонкие блины на ряженке",
     image:
-      "https://proxy11.online.ua/retsepty/r2-edbe01b4c9/small530ca066dca96.jpg",
+      "https://proxy10.online.ua/retsepty/r2-edbe01b4c9/big530ca066dca96.jpg",
     ingridients: [
       "ряженка&nbsp;—  0,5&nbsp;л",
       "яйца&nbsp;—  3&nbsp;шт.",
@@ -1596,7 +1595,7 @@ export const pancakes = [
   {
     title: "Карибские блинчики",
     image:
-      "https://proxy11.online.ua/retsepty/r3-1b8d80b43a/small530b6a9b589bc.jpg",
+      "https://proxy12.online.ua/retsepty/r3-1b8d80b43a/big530b6a9b589bc.jpg",
     ingridients: [
       "теплое молоко&nbsp;—  300&nbsp;мл",
       "мука&nbsp;—  100-150 г",
@@ -1630,7 +1629,7 @@ export const pancakes = [
   {
     title: "Блины с творогом ветчиной и зеленью",
     image:
-      "https://proxy11.online.ua/retsepty/r3-51c109a68c/small530b512d819f2.jpg",
+      "https://proxy11.online.ua/retsepty/r3-51c109a68c/big530b512d819f2.jpg",
     ingridients: [
       "    яйца&nbsp;—  3&nbsp;шт.",
       "    молоко&nbsp;—  280&nbsp;мл",
@@ -1662,7 +1661,7 @@ export const pancakes = [
   {
     title: "Ажурные блинчики",
     image:
-      "https://proxy11.online.ua/retsepty/r2-1a3ca687a0/small530b4fbb84928.jpg",
+      "https://proxy10.online.ua/retsepty/r2-1a3ca687a0/big530b4fbb84928.jpg",
     ingridients: [
       "молоко&nbsp;—  200&nbsp;мл",
       "    яйца&nbsp;—  2&nbsp;шт.",
@@ -1702,7 +1701,7 @@ export const pancakes = [
   {
     title: "Ржаные блинчики",
     image:
-      "https://proxy12.online.ua/retsepty/r2-b82b99f485/small5307245ea9707.jpg",
+      "https://proxy11.online.ua/retsepty/r2-b82b99f485/big5307245ea9707.jpg",
     ingridients: [
       "ржаная мука&nbsp;—  1&nbsp;стакан",
       " пшеничная мука&nbsp;—  1&nbsp;стакан",
@@ -1730,7 +1729,7 @@ export const pancakes = [
   {
     title: "Оладьи с черникой",
     image:
-      "https://proxy12.online.ua/retsepty/r3-dca2837a73/small530722c527da4.jpg",
+      "https://proxy10.online.ua/retsepty/r3-dca2837a73/big530722c527da4.jpg",
     ingridients: [
       "черника (можно использовать смородину)&nbsp;—  100&nbsp;г",
       " яйцо&nbsp;—  1&nbsp;шт.",
@@ -1763,7 +1762,7 @@ export const pancakes = [
   {
     title: "Мини-блинчики с острым сметанным кремом",
     image:
-      "https://proxy12.online.ua/retsepty/r3-716ba9fc2f/small52970277151d6.jpg",
+      "https://proxy10.online.ua/retsepty/r3-716ba9fc2f/big52970277151d6.jpg",
     ingridients: [
       "мука&nbsp;—  160&nbsp;г",
       " разрыхлитель&nbsp;—  1&nbsp;ч.л.",
@@ -1821,7 +1820,7 @@ export const pancakes = [
   {
     title: "Кукурузные оладьи",
     image:
-      "https://proxy12.online.ua/retsepty/r3-1c1d339553/small52973484ce2c6.jpg",
+      "https://proxy12.online.ua/retsepty/r3-1c1d339553/big52973484ce2c6.jpg",
     ingridients: [
       "консервированная кукуруза&nbsp;—  200&nbsp;г",
       " молоко&nbsp;—  80&nbsp;мл",
@@ -1868,7 +1867,7 @@ export const pancakes = [
   {
     title: "Дрожжевые блины с красной икрой",
     image:
-      "https://proxy12.online.ua/retsepty/r2-fab4f67e7b/small5305f6de268ee.jpg",
+      "https://proxy10.online.ua/retsepty/r2-fab4f67e7b/big5305f6de268ee.jpg",
     ingridients: [
       "свежие дрожжи&nbsp;—  25&nbsp;г",
       "молоко&nbsp;—  0,5&nbsp;л",
@@ -1925,7 +1924,7 @@ export const pancakes = [
   {
     title: "Яблочные оладьи",
     image:
-      "https://proxy12.online.ua/retsepty/r2-6c2b563f9f/small5296eae4e84be.jpg",
+      "https://proxy10.online.ua/retsepty/r2-6c2b563f9f/big5296eae4e84be.jpg",
     ingridients: [
       "мука&nbsp;—  340&nbsp;г",
       "разрыхлитель&nbsp;—  1&nbsp;ч.л.",
@@ -1975,7 +1974,7 @@ export const pancakes = [
   {
     title: "Гурьевские блины",
     image:
-      "https://proxy12.online.ua/retsepty/r3-9d0457499f/small53036a8b0c50a.jpg",
+      "https://proxy12.online.ua/retsepty/r3-9d0457499f/big53036a8b0c50a.jpg",
     ingridients: [
       "мука&nbsp;—  2,5&nbsp;стакана (стакан 200&nbsp;мл)",
       " яйца&nbsp;—  5&nbsp;шт.",
@@ -2012,7 +2011,7 @@ export const pancakes = [
   {
     title: "Блины с припеком",
     image:
-      "https://proxy12.online.ua/retsepty/r2-03c7ce3d58/small530368b9bcb44.jpg",
+      "https://proxy11.online.ua/retsepty/r2-03c7ce3d58/big530368b9bcb44.jpg",
     ingridients: [
       "яйца&nbsp;—  2&nbsp;шт.",
       "молоко&nbsp;—  0,5&nbsp;л&nbsp;",
@@ -2075,7 +2074,7 @@ export const pancakes = [
   {
     title: "Блины с рикоттой и маком",
     image:
-      "https://proxy12.online.ua/retsepty/r3-37f87e3bf4/small5297339891dea.jpg",
+      "https://proxy10.online.ua/retsepty/r3-37f87e3bf4/big5297339891dea.jpg",
     ingridients: [
       "яйца&nbsp;—  6&nbsp;шт. (белки и&nbsp;желтки отдельно)",
       " рикотта&nbsp;—  400&nbsp;г",
@@ -2125,7 +2124,7 @@ export const pancakes = [
   {
     title: "Блины с красной рыбой",
     image:
-      "https://proxy12.online.ua/retsepty/r2-baa2cb72c7/small5273c6e3a4f48.jpg",
+      "https://proxy10.online.ua/retsepty/r2-baa2cb72c7/big5273c6e3a4f48.jpg",
     ingridients: [
       "блины",
       "любая слабосоленая красная рыба",
@@ -2156,7 +2155,7 @@ export const pancakes = [
   {
     title: "Оладьи с бананом",
     image:
-      "https://proxy12.online.ua/retsepty/r2-6a18e61c2d/small525e9e1d52218.jpg",
+      "https://proxy12.online.ua/retsepty/r2-6a18e61c2d/big525e9e1d52218.jpg",
     ingridients: [
       "бананы&nbsp;—  2&nbsp;шт.",
       "сахар&nbsp;—  1&nbsp;стакан",
@@ -2179,7 +2178,7 @@ export const pancakes = [
   {
     title: "Блинный торт с яблоками,изюмом и бананами",
     image:
-      "https://proxy12.online.ua/retsepty/r3-af6c1f34cc/small524eda3f4e158.jpg",
+      "https://proxy10.online.ua/retsepty/r3-af6c1f34cc/big524eda3f4e158.jpg",
     ingridients: [
       "блины&nbsp;—  5-7 шт.",
       "изюм&nbsp;—  2&nbsp;жмени",
@@ -2218,7 +2217,7 @@ export const pancakes = [
   {
     title: "Оладьи из кукурузной муки",
     image:
-      "https://proxy10.online.ua/retsepty/r2-6ba715673d/small51a5c6e3777e1.jpg",
+      "https://proxy10.online.ua/retsepty/r2-6ba715673d/big51a5c6e3777e1.jpg",
     ingridients: [
       "Мука кукурузная 	120&nbsp;г&nbsp;	",
       "Мука пшеничная 	200&nbsp;г",
@@ -2256,7 +2255,7 @@ export const pancakes = [
   {
     title: "Яблочно-творожные оладьи",
     image:
-      "https://proxy10.online.ua/retsepty/r2-5dc1fcb766/small520b7f6faecc7.jpg",
+      "https://proxy10.online.ua/retsepty/r2-5dc1fcb766/big520b7f6faecc7.jpg",
     ingridients: [
       "яблоко&nbsp;—  1&nbsp;шт.",
       "творог&nbsp;—  1&nbsp;стакан",
@@ -2301,7 +2300,7 @@ export const pancakes = [
   {
     title: "Морковные блины с сыром и фетой",
     image:
-      "https://proxy10.online.ua/retsepty/r3-333fe155c6/small51a4ac9304421.JPG",
+      "https://proxy10.online.ua/retsepty/r3-333fe155c6/big51a4ac9304421.JPG",
     ingridients: [
       "Яйцо куриное 	2&nbsp;шт. 	",
       "Мука пшеничная 	175&nbsp;г",
@@ -2366,7 +2365,7 @@ export const pancakes = [
   {
     title: "Блины по-пикардийски",
     image:
-      "https://proxy10.online.ua/retsepty/r2-a7a6ae8aad/small51ae4be80091a.jpg",
+      "https://proxy12.online.ua/retsepty/r2-a7a6ae8aad/big51ae4be80091a.jpg",
     ingridients: [
       "Яйцо куриное 	2&nbsp;шт. 	",
       "Молоко 	500&nbsp;мл",
@@ -2414,7 +2413,7 @@ export const pancakes = [
   {
     title: "Блины 'Богатые'",
     image:
-      "https://proxy10.online.ua/retsepty/r3-4a79bc452d/small51a5c7932e01a.jpg",
+      "https://proxy12.online.ua/retsepty/r3-4a79bc452d/big51a5c7932e01a.jpg",
     ingridients: [
       "Мука пшеничная 	250&nbsp;г&nbsp;	",
       "Молоко 	600&nbsp;мл",
@@ -2453,7 +2452,7 @@ export const pancakes = [
   {
     title: "Блины 'Нежность'",
     image:
-      "https://proxy10.online.ua/retsepty/r2-3c815559a8/small51a5c7137b27c.jpg",
+      "https://proxy12.online.ua/retsepty/r2-3c815559a8/big51a5c7137b27c.jpg",
     ingridients: [
       "Мука пшеничная 	240&nbsp;г&nbsp;	",
       "Молоко 	600&nbsp;мл",
@@ -2491,7 +2490,7 @@ export const pancakes = [
   {
     title: "Блинчики с курицей",
     image:
-      "https://proxy10.online.ua/retsepty/r2-7f970e81fc/small51ac8b694735f.jpg",
+      "https://proxy12.online.ua/retsepty/r2-7f970e81fc/big51ac8b694735f.jpg",
     ingridients: [
       "Куриная грудка 	800&nbsp;г&nbsp;	",
       "Морковь 	100&nbsp;г",
@@ -2556,7 +2555,7 @@ export const pancakes = [
   {
     title: "Овсяные оладьи с шоколадом",
     image:
-      "https://proxy10.online.ua/retsepty/r2-1a8d5fd2d1/small515ed5ab36c47.jpg",
+      "https://proxy12.online.ua/retsepty/r2-1a8d5fd2d1/big515ed5ab36c47.jpg",
     ingridients: [
       "банан&nbsp;—  1&nbsp;шт.",
       "разрыхлитель&nbsp;—  1&nbsp;ч.л.",
@@ -2595,7 +2594,7 @@ export const pancakes = [
   {
     title: "Творожно-ореховые блины",
     image:
-      "https://proxy10.online.ua/retsepty/r2-8c29d600dd/small514325b18895c.JPG",
+      "https://proxy12.online.ua/retsepty/r2-8c29d600dd/big514325b18895c.JPG",
     ingridients: [
       "творог&nbsp;—  250&nbsp;г",
       "молоко&nbsp;—  220&nbsp;мл",
@@ -2632,7 +2631,7 @@ export const pancakes = [
   {
     title: "Блины на кипятке",
     image:
-      "https://proxy10.online.ua/retsepty/r2-fa34648275/small51431b668ad96.jpg",
+      "https://proxy11.online.ua/retsepty/r2-fa34648275/big51431b668ad96.jpg",
     ingridients: [
       "яйцо&nbsp;—  1&nbsp;шт.",
       "растительное масло&nbsp;—  1&nbsp;ч.л.",
@@ -2668,7 +2667,7 @@ export const pancakes = [
   {
     title: "Блинчики с бананами",
     image:
-      "https://proxy10.online.ua/retsepty/r3-b799e7e599/small514315c0ef491.jpg",
+      "https://proxy11.online.ua/retsepty/r3-b799e7e599/big514315c0ef491.jpg",
     ingridients: [
       "    мука&nbsp;—  1&nbsp;стакан",
       "    разрыхлитель&nbsp;—  1&nbsp;ч.л.",
@@ -2700,7 +2699,7 @@ export const pancakes = [
   {
     title: "Свекольные блины с сырной начинкой",
     image:
-      "https://proxy10.online.ua/retsepty/r3-800d5333d8/small5141e64f8109b.jpg",
+      "https://proxy12.online.ua/retsepty/r3-800d5333d8/big5141e64f8109b.jpg",
     ingridients: [
       "мука&nbsp;—  1&nbsp;ст.",
       "молоко&nbsp;—  200&nbsp;мл",
@@ -2777,7 +2776,7 @@ export const pancakes = [
   {
     title: "Блины на минералке",
     image:
-      "https://proxy11.online.ua/retsepty/r2-0fde571956/small514094f61cdc5.jpg",
+      "https://proxy10.online.ua/retsepty/r2-0fde571956/big514094f61cdc5.jpg",
     ingridients: [
       "яйца&nbsp;—  1&nbsp;шт.",
       "сахар&nbsp;—  2&nbsp;ст. л.",
@@ -2823,7 +2822,7 @@ export const pancakes = [
   {
     title: "Блины 'Улитки'",
     image:
-      "https://proxy11.online.ua/retsepty/r2-c80936742f/small514083f3eef1f.jpg",
+      "https://proxy10.online.ua/retsepty/r2-c80936742f/big514083f3eef1f.jpg",
     ingridients: [
       "молоко&nbsp;—  1&nbsp;стакан",
       "яйца —  2 шт.",
@@ -2858,7 +2857,7 @@ export const pancakes = [
   {
     title: "Шоколадные блины с творогом и пьяной вишней",
     image:
-      "https://proxy11.online.ua/retsepty/r2-72a773bfdf/small514080d5ea9e7.jpg",
+      "https://proxy11.online.ua/retsepty/r2-72a773bfdf/big514080d5ea9e7.jpg",
     ingridients: [
       "шоколад —  50 г",
       "корица —  1/3 ч.л.",
@@ -2880,14 +2879,14 @@ export const pancakes = [
       },
       {
         description:
-          "Для начинки все, кроме вишни, взбить до&nbsp;однородной пышной массы. Выложить на&nbsp;блин 2&nbsp;ст.л. начинки и&nbsp;полоску вишни. Свернуть рулетом. Подавать с&nbsp;шоколадом.",
+          "Для начинки творог,пудру,сметану и апельсиновую цедру взбить до&nbsp;однородной пышной массы. Выложить на&nbsp;блин 2&nbsp;ст.л. начинки и&nbsp;полоску вишни. Свернуть рулетом. Подавать с&nbsp;шоколадом.",
       },
     ],
   },
   {
     title: "Блинно творожная запеканка",
     image:
-      "https://proxy11.online.ua/retsepty/r2-2c5cbda3c4/small513f4fa41e9d5.jpg",
+      "https://proxy11.online.ua/retsepty/r2-2c5cbda3c4/big513f4fa41e9d5.jpg",
     ingridients: [
       "    мука&nbsp;—  1&nbsp;стакан",
       "    соль (щепотка)",
@@ -2933,7 +2932,7 @@ export const pancakes = [
   {
     title: "Толстые дрожжевые блины",
     image:
-      "https://proxy11.online.ua/retsepty/r3-4155d4df24/small513f40bdac7e7.jpg",
+      "https://proxy12.online.ua/retsepty/r3-4155d4df24/big513f40bdac7e7.jpg",
     ingridients: [
       "яйца&nbsp;—  2&nbsp;шт.",
       "молоко&nbsp;—  5&nbsp;ст.",
@@ -2970,7 +2969,7 @@ export const pancakes = [
   {
     title: "Нежные блинчики с форелью и сливочным кремом",
     image:
-      "https://proxy11.online.ua/retsepty/r3-19dbd8494e/small513dea5bc7ce8.jpg",
+      "https://proxy12.online.ua/retsepty/r3-19dbd8494e/big513dea5bc7ce8.jpg",
     ingridients: [
       "яйцо&nbsp;—  1&nbsp;шт.",
       "сахар&nbsp;—  1&nbsp;ч. л.",
@@ -3019,7 +3018,7 @@ export const pancakes = [
   {
     title: "Грибные оладьи с сырным соусом",
     image:
-      "https://proxy11.online.ua/retsepty/r3-6d8091bb90/small513ddd9de5cc8.jpg",
+      "https://proxy12.online.ua/retsepty/r3-6d8091bb90/big513ddd9de5cc8.jpg",
     ingridients: [
       "ряженка&nbsp;—  250&nbsp;г",
       "мука&nbsp;—  100&nbsp;г",
@@ -3062,7 +3061,7 @@ export const pancakes = [
   {
     title: "Блины на воде",
     image:
-      "https://proxy11.online.ua/retsepty/r3-42ba9ca976/small513dd39bcf9da.jpg",
+      "https://proxy11.online.ua/retsepty/r3-42ba9ca976/big513dd39bcf9da.jpg",
     ingridients: [
       "мука&nbsp;—  500&nbsp;г",
       "вода&nbsp;—  3&nbsp;стакана и&nbsp;1&nbsp;стакан для&nbsp;разведения лимонной кислоты",
@@ -3087,7 +3086,7 @@ export const pancakes = [
   {
     title: "Кружевные блины",
     image:
-      "https://proxy11.online.ua/retsepty/r2-70b7031958/small513655a8d579c.jpg",
+      "https://proxy10.online.ua/retsepty/r2-70b7031958/big513655a8d579c.jpg",
     ingridients: [
       "молоко&nbsp;—  0,5&nbsp;л",
       "мука пшеничная&nbsp;—  1,5&nbsp;стакана",
@@ -3106,7 +3105,7 @@ export const pancakes = [
   {
     title: "Блины с припеком",
     image:
-      "https://proxy11.online.ua/retsepty/r2-1ad4ddec6a/small513652edecc6a.jpg",
+      "https://proxy11.online.ua/retsepty/r2-1ad4ddec6a/big513652edecc6a.jpg",
     ingridients: [
       "мука&nbsp;—  200&nbsp;г",
       "молоко&nbsp;—  0,5&nbsp;л.",
@@ -3140,7 +3139,7 @@ export const pancakes = [
   {
     title: "Манные блины на дрожжах",
     image:
-      "https://proxy11.online.ua/retsepty/r3-ab5b9e5103/small5134aa82c2b5d.jpg",
+      "https://proxy10.online.ua/retsepty/r3-ab5b9e5103/big5134aa82c2b5d.jpg",
     ingridients: [
       "    манная каша (50&nbsp;г&nbsp;манки+500 мл&nbsp;молока) ",
       "    мука&nbsp;—  250&nbsp;г",
@@ -3172,7 +3171,7 @@ export const pancakes = [
   {
     title: "Блинчатый пирог с мясом,рисом и пекинской капустой",
     image:
-      "https://proxy11.online.ua/retsepty/r2-1e25507a55/small5134a7a21c73d.jpg",
+      "https://proxy10.online.ua/retsepty/r2-1e25507a55/big5134a7a21c73d.jpg",
     ingridients: [
       "мука&nbsp;—  500&nbsp;г",
       "молоко&nbsp;—  3&nbsp;стакана",
@@ -3227,7 +3226,7 @@ export const pancakes = [
   {
     title: "Кукурузные блинчики с кленовым сиропом",
     image:
-      "https://proxy11.online.ua/retsepty/r3-5bc8ade149/small5134a342a0529.jpg",
+      "https://proxy10.online.ua/retsepty/r3-5bc8ade149/big5134a342a0529.jpg",
     ingridients: [
       "кукурузная мука&nbsp;—  1,5&nbsp;стакана",
       "пшеничная мука&nbsp;—  1/4&nbsp;стакана",
@@ -3257,7 +3256,7 @@ export const pancakes = [
   {
     title: "Шоколадные оладушки",
     image:
-      "https://proxy11.online.ua/retsepty/r2-2b8ba294a6/small5134a0344ce91.jpg",
+      "https://proxy12.online.ua/retsepty/r2-2b8ba294a6/big5134a0344ce91.jpg",
     ingridients: [
       "молоко&nbsp;—  160&nbsp;г",
       "яйца&nbsp;—  1&nbsp;шт.",
@@ -3289,7 +3288,7 @@ export const pancakes = [
   {
     title: "Блинчатый торт с апельсиновым джемом",
     image:
-      "https://proxy11.online.ua/retsepty/r2-141f552ccd/small512764e5121d6.jpg",
+      "https://proxy10.online.ua/retsepty/r2-141f552ccd/big512764e5121d6.jpg",
     ingridients: [
       "апельсиновый джем&nbsp;—  200&nbsp;мл",
       "мука&nbsp;—  150&nbsp;г",
@@ -3311,7 +3310,7 @@ export const pancakes = [
   {
     title: "Розовые блины с апельсиновым соусом",
     image:
-      "https://proxy11.online.ua/retsepty/r3-880709d859/small50c64872172f4.jpg",
+      "https://proxy10.online.ua/retsepty/r2-edd17506a4/big512631e3801c7.jpg",
     ingridients: [
       "мука&nbsp;—  125&nbsp;г",
       "сахар&nbsp;—  1&nbsp;чайная ложка",
@@ -3350,7 +3349,7 @@ export const pancakes = [
   {
     title: "Блинчики 'Царские'",
     image:
-      "https://proxy11.online.ua/retsepty/r2-41d4bc6eea/small51222fafa4a5c.jpg",
+      "https://proxy11.online.ua/retsepty/r2-41d4bc6eea/big51222fafa4a5c.jpg",
     ingridients: [
       "молоко&nbsp;—  0.4&nbsp;л",
       "мука&nbsp;—  240&nbsp;г",
@@ -3376,7 +3375,7 @@ export const pancakes = [
   {
     title: "Блинные роллы с фруктами",
     image:
-      "https://proxy11.online.ua/retsepty/r3-880709d859/small50c64872172f4.jpg",
+      "https://proxy10.online.ua/retsepty/r3-880709d859/big50c64872172f4.jpg",
     ingridients: [
       "молоко&nbsp;—  1&nbsp;л",
       "яйца&nbsp;—  4&nbsp;шт.",
@@ -3402,7 +3401,7 @@ export const pancakes = [
   {
     title: "Блинные мешочки с жюльеном",
     image:
-      "https://proxy11.online.ua/retsepty/r3-ef6113549c/small50781cb4ac436.JPG",
+      "https://proxy11.online.ua/retsepty/r3-ef6113549c/big50781cb4ac436.JPG",
     ingridients: [
       "готовые блины",
       "куриное филе&nbsp;—  1-2 шт.",
@@ -3431,7 +3430,7 @@ export const pancakes = [
   {
     title: "Овсяные оладьи с малиной",
     image:
-      "https://proxy11.online.ua/retsepty/r2-0a9f356158/small5012f641d4ccb.jpg",
+      "https://proxy11.online.ua/retsepty/r2-0a9f356158/big5012f641d4ccb.jpg",
     ingridients: [
       "геркулес&nbsp;—  ½&nbsp;стакана",
       "творог (1%)&nbsp;—  100&nbsp;г",
@@ -3458,7 +3457,7 @@ export const pancakes = [
   {
     title: "Оладьи из цуккини",
     image:
-      "https://proxy11.online.ua/retsepty/r3-8ca7b38421/small4ff71aa575d88.jpg",
+      "https://proxy11.online.ua/retsepty/r3-8ca7b38421/big4ff71aa575d88.jpg",
     ingridients: [
       "цуккини (небольшие)&nbsp;—  4&nbsp;шт.",
       "мука&nbsp;—  4-5 ст.л.",
@@ -3499,7 +3498,7 @@ export const pancakes = [
   {
     title: "Овощные оладушки с сырной корочкой",
     image:
-      "https://proxy12.online.ua/retsepty/r3-511ce7814a/small4f23e7bb9e7a2.jpg",
+      "https://proxy11.online.ua/retsepty/r3-511ce7814a/big4f23e7bb9e7a2.jpg",
     ingridients: [
       "Кабачки 	250&nbsp;г&nbsp;",
       "	Морковь 	250&nbsp;г",
@@ -3548,7 +3547,7 @@ export const pancakes = [
   {
     title: "Гороховые оладьи",
     image:
-      "https://proxy12.online.ua/retsepty/r3-d74f209c98/small4f23e9c7ec5b8.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d74f209c98/big4f23e9c7ec5b8.jpg",
     ingridients: [
       "Горошек зеленый замороженый 400 г",
       "Укроп 30&nbsp;г ",
@@ -3606,7 +3605,7 @@ export const pancakes = [
   {
     title: "Оладьи на дрожжах с морковью",
     image:
-      "https://proxy12.online.ua/retsepty/r3-9fe2855d20/small4f23e7dfda0bc.jpg",
+      "https://proxy10.online.ua/retsepty/r3-9fe2855d20/big4f23e7dfda0bc.jpg",
     ingridients: [
       "Молоко 	300&nbsp;мл&nbsp;	",
       "Соль 	½ ч.л.",
@@ -3675,7 +3674,7 @@ export const pancakes = [
   {
     title: "Тонкие блинчики с пряной яблочной начинкой",
     image:
-      "https://proxy12.online.ua/retsepty/r3-c5f86cf9c1/small4f23e7f941755.jpg",
+      "https://proxy12.online.ua/retsepty/r3-c5f86cf9c1/big4f23e7f941755.jpg",
     ingridients: [
       "Яблоки (160&nbsp;г) 	2&nbsp;шт. 	",
       "Сливочное масло 	20&nbsp;г",
@@ -3720,7 +3719,7 @@ export const pancakes = [
   {
     title: "Гречневые галетты с яйцом",
     image:
-      "https://proxy12.online.ua/retsepty/r3-8788782b01/small4f23e82f4abc6.jpg",
+      "https://proxy12.online.ua/retsepty/r3-8788782b01/big4f23e82f4abc6.jpg",
     ingridients: [
       "Мука пшеничная 	125&nbsp;г&nbsp;	",
       "Мука гречневая 	125&nbsp;г",
@@ -3781,7 +3780,7 @@ export const pancakes = [
   {
     title: "Гречневые блины",
     image:
-      "https://proxy12.online.ua/retsepty/r3-b7f03dc877/small4f23ea72d9505.jpg",
+      "https://proxy11.online.ua/retsepty/r3-b7f03dc877/big4f23ea72d9505.jpg",
     ingridients: [
       "Мука пшеничная 	125&nbsp;г&nbsp;	",
       "Мука гречневая 	125&nbsp;г",
@@ -3836,7 +3835,7 @@ export const pancakes = [
   {
     title: "Блины с селедью",
     image:
-      "https://proxy12.online.ua/retsepty/r2-546548ffc4/small4f42c0b84e45a.jpg",
+      "https://proxy11.online.ua/retsepty/r2-546548ffc4/big4f42c0b84e45a.jpg",
     ingridients: [
       "молоко&nbsp;—  1&nbsp;л",
       "яйцо&nbsp;—  1&nbsp;шт.",
@@ -3865,7 +3864,7 @@ export const pancakes = [
   {
     title: "Медовые оладьи",
     image:
-      "https://proxy12.online.ua/retsepty/r3-1abec20e65/small4f23ea6b68088.jpg",
+      "https://proxy10.online.ua/retsepty/r3-1abec20e65/big4f23ea6b68088.jpg",
     ingridients: [
       "Мука пшеничная 	300&nbsp;г&nbsp;	",
       "Разрыхлитель теста 	10&nbsp;г",
@@ -3899,7 +3898,7 @@ export const pancakes = [
   {
     title: "Блинчики с творогом",
     image:
-      "https://proxy12.online.ua/retsepty/r3-731a1f4f36/small4f23e81160770.jpg",
+      "https://proxy12.online.ua/retsepty/r3-731a1f4f36/big4f23e81160770.jpg",
     ingridients: [
       "Мука пшеничная 	250&nbsp;г&nbsp;	",
       "Молоко 	500&nbsp;мл",
@@ -3966,7 +3965,7 @@ export const pancakes = [
   {
     title: "Блинчики 'Сюзетт'",
     image:
-      "https://proxy12.online.ua/retsepty/r3-1d102f8f3d/small4f23e843bc817.jpg",
+      "https://proxy11.online.ua/retsepty/r3-1d102f8f3d/big4f23e843bc817.jpg",
     ingridients: [
       "Мука пшеничная 	100&nbsp;г&nbsp;	",
       "Сахарная пудра 	100&nbsp;г",
@@ -4029,7 +4028,7 @@ export const pancakes = [
   {
     title: "Дрожжевые оладьи",
     image:
-      "https://proxy12.online.ua/retsepty/r3-c29e3889e3/small4f23e80282a53.jpg",
+      "https://proxy12.online.ua/retsepty/r3-c29e3889e3/big4f23e80282a53.jpg",
     ingridients: [
       "Сахар-песок 	15&nbsp;г&nbsp;	",
       "Дрожжи сухие быстродействующие 	5&nbsp;г",
@@ -4063,7 +4062,7 @@ export const pancakes = [
   {
     title: "Блинчики с творогом запеченные в сметане",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2771426fa/small4f23ea641e8bd.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2771426fa/big4f23ea641e8bd.jpg",
     ingridients: [
       "Творог 	100&nbsp;г&nbsp;	",
       "Сахар-песок 	30&nbsp;г",
@@ -4111,7 +4110,7 @@ export const pancakes = [
   {
     title: "Блинчики с мясом",
     image:
-      "https://proxy11.online.ua/retsepty/r3-c9b4c72471/small4f23ea815ad9a.jpg",
+      "https://proxy10.online.ua/retsepty/r3-c9b4c72471/big4f23ea815ad9a.jpg",
     ingridients: [
       "Соль 	1.5&nbsp;ч.л. 	",
       "Перец черный горошком 	5&nbsp;шт.",
@@ -4180,7 +4179,7 @@ export const pancakes = [
   {
     title: "Кукурузные оладьи",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/007/197/035/small4df1357bbf3c3.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d3/007/197/035/big4df1357bbf3c3.jpg",
     ingridients: [
       "консервированная кукуруза&nbsp;—  200&nbsp;г",
       "молоко&nbsp;—  80&nbsp;мл",
@@ -4205,7 +4204,7 @@ export const pancakes = [
   {
     title: "Творожные оладьи",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/007/076/040/small4ddd5bc19b48a.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/007/076/040/big4ddd5bc19b48a.jpg",
     ingridients: [
       "творог&nbsp;—  500&nbsp;г",
       "яйца&nbsp;—  6&nbsp;шт.",
@@ -4250,7 +4249,7 @@ export const pancakes = [
   {
     title: "Тоненькие блинчики",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/004/023/165/small4d6fe4563d078.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d3/004/023/165/big4d6fe4563d078.jpg",
     ingridients: [
       "—  мука&nbsp;—  5&nbsp;ст.",
       "—  молоко&nbsp;—  7,5&nbsp;ст.",
@@ -4281,7 +4280,7 @@ export const pancakes = [
   {
     title: "Блины на фруктовом соке",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/004/021/229/small4d6f8182bb129.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/004/021/229/big4d6f8182bb129.jpg",
     ingridients: [
       "—  мука&nbsp;—  800&nbsp;г",
       "—  яйца&nbsp;—  4&nbsp;шт.",
@@ -4312,7 +4311,7 @@ export const pancakes = [
   {
     title: "Блинные мешочки с курицей",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/004/019/079/small4d6ea1ae8bd11.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/004/019/079/big4d6ea1ae8bd11.jpg",
     ingridients: [
       "—  молоко&nbsp;—  3&nbsp;ст.",
       "—  мука&nbsp;—  2&nbsp;ст.",
@@ -4346,7 +4345,7 @@ export const pancakes = [
   {
     title: "Блинчики с печенью трески",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/004/010/158/small4d6bf0902e045.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d3/004/010/158/big4d6bf0902e045.jpg",
     ingridients: [
       "—  готовые блинчики&nbsp;—  7-8 шт.",
       "—  печень трески&nbsp;—  2&nbsp;банки",
@@ -4383,7 +4382,7 @@ export const pancakes = [
   {
     title: "Блинчики с маком",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/003/248/283/small4d6802827ef26.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d3/003/248/283/big4d6802827ef26.jpg",
     ingridients: [
       "—  молоко (теплое)&nbsp;—  2,5&nbsp;ст.",
       "—  мак&nbsp;—  2&nbsp;ст.л.",
@@ -4412,7 +4411,7 @@ export const pancakes = [
   {
     title: "Блины на кефире",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d1/005/235/117/small4cade18f9b9ac.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d1/005/235/117/big4cade18f9b9ac.jpg",
     ingridients: [
       "Кефир 1000 мл ",
       "Яйцо куриное 4 шт. ",
@@ -4475,7 +4474,7 @@ export const pancakes = [
   {
     title: "Блины с зеленым луком",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d1/005/235/120/small4cade39802308.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d1/005/235/120/big4cade39802308.jpg",
     ingridients: [
       "Мука пшеничная 300 г ",
       "Соль ½ ч.л. ",
@@ -4522,7 +4521,7 @@ export const pancakes = [
   {
     title: "Оладьи с яблоками",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/017/167/small4cade3a4ee816.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d3/001/017/167/big4cade3a4ee816.jpg",
     ingridients: [
       "Кефир 								500&nbsp;мл&nbsp;															",
       "Мука пшеничная 								300&nbsp;г&nbsp;															",
@@ -4574,7 +4573,7 @@ export const pancakes = [
   {
     title: "Блины скороспелые",
     image:
-      "https://proxy11.online.ua/retsepty/r2-d8bc83f08e/small561cfc05cb68f.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d2/005/249/264/big4cade3b2edb04.jpg",
     ingridients: [
       " Яйцо куриное 3 шт. ",
       "Соль ½ ч.л. ",
@@ -4629,7 +4628,7 @@ export const pancakes = [
   {
     title: "Блинчики со сливами",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/250/066/small4cade817ae06c.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d2/005/250/066/big4cade817ae06c.jpg",
     ingridients: [
       " Сахар-песок 210 г ",
       "Соль ½ ч.л. ",
@@ -4714,7 +4713,7 @@ export const pancakes = [
   {
     title: "Блины шоколадные",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/017/254/small4cade83766e07.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d3/001/017/254/big4cade83766e07.jpg",
     ingridients: [
       "Молоко коровье 550 мл ",
       "Шоколад темный 70-80% какао 100 г",
@@ -4775,7 +4774,7 @@ export const pancakes = [
   {
     title: "Банановые блинчики с клубничным соусом",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/017/256/small4cade8430c7c2.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/001/017/256/big4cade8430c7c2.jpg",
     ingridients: [
       "Молоко коровье 200 мл ",
       "Бананы 2 шт. ",
@@ -4832,7 +4831,7 @@ export const pancakes = [
   {
     title: "Шоколадные оладьи",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/235/227/small4cade84e0d26a.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d1/005/235/227/big4cade84e0d26a.jpg",
     ingridients: [
       "Тан негазированный 								400&nbsp;мл&nbsp;															",
       "Мука пшеничная 								300&nbsp;г&nbsp;															",
@@ -4871,7 +4870,7 @@ export const pancakes = [
   {
     title: "Дрожжевые блины",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/235/232/small4cade8606b570.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d1/005/235/232/big4cade8606b570.jpg",
     ingridients: [
       " Сахар-песок 60 г ",
       "Соль морская 1 ч.л.",
@@ -4917,7 +4916,7 @@ export const pancakes = [
   {
     title: "Тыквенные оладьи",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/250/075/small4cade86a842d9.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/250/075/big4cade86a842d9.jpg",
     ingridients: [
       "Тыква 								400&nbsp;г&nbsp;															",
       "Разрыхлитель теста 								5&nbsp;г&nbsp;															",
@@ -4962,7 +4961,7 @@ export const pancakes = [
   {
     title: "Блинчатый пирог с лососем",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/235/236/small4cade874e27d3.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d1/005/235/236/big4cade874e27d3.jpg",
     ingridients: [
       "Сметана 40 % 350 г ",
       "Мука пшеничная 400 г ",
@@ -5076,7 +5075,7 @@ export const pancakes = [
   {
     title: "Зеленые оладьи из шпината и брокколи",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/235/243/small4cade8920726a.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d1/005/235/243/big4cade8920726a.jpg",
     ingridients: [
       "Шпинат 200 г ",
       "Брокколи, калабриз 200 г ",
@@ -5125,7 +5124,7 @@ export const pancakes = [
   {
     title: "Рисово-кукурузные оладьи с творогом",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/250/082/small4cade89a2811a.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/250/082/big4cade89a2811a.jpg",
     ingridients: [
       "Разрыхлитель теста 								5&nbsp;г&nbsp;															",
       "Мука рисовая 								200 г 															",
@@ -5161,7 +5160,7 @@ export const pancakes = [
   {
     title: "Кабачковые оладьи",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/235/246/small4cade8a2b4fdc.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d1/005/235/246/big4cade8a2b4fdc.jpg",
     ingridients: [
       "Кабачки 500 г ",
       "Овсяные хлопья крупные (Геркулес) 70 г ",
@@ -5201,7 +5200,7 @@ export const pancakes = [
   {
     title: "Рисовые блинчики с грушевым соусом",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/235/249/small4cade8aa73a70.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d1/005/235/249/big4cade8aa73a70.jpg",
     ingridients: [
       "Молоко коровье 								500&nbsp;мл&nbsp;															",
       "Мука рисовая 								200&nbsp;г&nbsp;															",
@@ -5256,7 +5255,7 @@ export const pancakes = [
   {
     title: "Блинчики с икрой",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/017/286/small4cade8d7d8729.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/001/017/286/big4cade8d7d8729.jpg",
     ingridients: [
       " Яйцо куриное 3 шт. ",
       "Соль ½ ч.л. ",
@@ -5296,7 +5295,7 @@ export const pancakes = [
   {
     title: "Блинный пирог с творожной начинкой",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/250/094/small4cade8e1df4ee.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d2/005/250/094/big4cade8e1df4ee.jpg",
     ingridients: [
       "Молоко коровье 300 мл ",
       "Мука пшеничная 250 г ",
@@ -5358,7 +5357,7 @@ export const pancakes = [
   {
     title: "Манные оладьи",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/250/097/small4cade8f3dde41.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d2/005/250/097/big4cade8f3dde41.jpg",
     ingridients: [
       " Манка, манная крупа 100 г ",
       "Молоко коровье 400 мл ",
@@ -5414,7 +5413,7 @@ export const pancakes = [
   {
     title: "Блинчики с сердцем",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/250/107/small4cade9269f878.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d2/005/250/107/big4cade9269f878.jpg",
     ingridients: [
       " Перец черный горошком 7 шт. ",
       "Лавровый лист 1 шт. ",
@@ -5468,7 +5467,7 @@ export const pancakes = [
   {
     title: "Пышные оладьи с вишней",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/017/300/small4cade93130696.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/001/017/300/big4cade93130696.jpg",
     ingridients: [
       "Разрыхлитель теста 								5&nbsp;г&nbsp;															",
       "Молоко коровье 								150&nbsp;мл&nbsp;															",
@@ -5503,7 +5502,7 @@ export const pancakes = [
   {
     title: "Блинчики с курицей",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/135/240/small4cada1408c3eb.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/135/240/big4cada1408c3eb.jpg",
     ingridients: [
       "3&nbsp;яйца",
       "3&nbsp;стакана молока",
@@ -5538,7 +5537,7 @@ export const pancakes = [
   {
     title: "Оладьи с черникой",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/014/253/small4cada1efbd59b.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d3/001/014/253/big4cada1efbd59b.jpg",
     ingridients: [
       "3&nbsp;яйца",
       "200&nbsp;мл. муки",

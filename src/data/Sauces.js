@@ -2,7 +2,7 @@ export const sauces = [
   {
     title: "Домашний майонез",
     image:
-      "https://proxy11.online.ua/retsepty/r2-4026c63a91/small5775735f1065e.jpg",
+      "https://proxy11.online.ua/retsepty/r2-4026c63a91/big5775735f1065e.jpg",
     ingridients: [
       "яйца куриные (1 целое и 1 желток) —  2 шт.",
       "горчица —  1 ст.л.",
@@ -38,7 +38,7 @@ export const sauces = [
   {
     title: "Домашний майонез в индийском стиле",
     image:
-      "https://proxy11.online.ua/retsepty/r2-6794a4bfab/small57514aa34b8fc.jpg",
+      "https://proxy11.online.ua/retsepty/r2-6794a4bfab/big57514aa34b8fc.jpg",
     ingridients: [
       "порошок карри&nbsp;—  1&nbsp;ст.л.",
       " небольшая луковица&nbsp;—  1&nbsp;шт.",
@@ -90,7 +90,7 @@ export const sauces = [
   {
     title: "Сырный соус",
     image:
-      "https://proxy11.online.ua/retsepty/r2-b8bfbda2c4/small5719eb98b0b95.jpg",
+      "https://proxy12.online.ua/retsepty/r2-b8bfbda2c4/big5719eb98b0b95.jpg",
     ingridients: [
       "жирные сливки (от 30% и&nbsp;выше)&nbsp;—  200&nbsp;мл",
       " сливочный сыр&nbsp;—  125&nbsp;г",
@@ -136,7 +136,7 @@ export const sauces = [
   {
     title: "Сливочно-чесночный соус",
     image:
-      "https://proxy11.online.ua/retsepty/r2-0e788dc0c2/small570d08369143b.jpg",
+      "https://proxy10.online.ua/retsepty/r2-0e788dc0c2/big570d08369143b.jpg",
     ingridients: [
       "сливочное масло&nbsp;—  35&nbsp;г",
       "оливковое масло&nbsp;—  20&nbsp;мл",
@@ -185,7 +185,7 @@ export const sauces = [
   {
     title: "Инвертный сахарный сироп",
     image:
-      "https://proxy11.online.ua/retsepty/r2-e650f68284/small57081f57425fb.jpg",
+      "https://proxy10.online.ua/retsepty/r2-e650f68284/big57081f57425fb.jpg",
     ingridients: [
       "сахар&nbsp;—  700&nbsp;г",
       " кипяток&nbsp;—  260&nbsp;мл",
@@ -221,7 +221,7 @@ export const sauces = [
   {
     title: "Майонез постный (гороховый)",
     image:
-      "https://proxy11.online.ua/retsepty/r3-97d569aa7e/small56ec25ed9480c.jpg",
+      "https://proxy11.online.ua/retsepty/r3-97d569aa7e/big56ec25ed9480c.jpg",
     ingridients: [
       "гороховые хлопья&nbsp;—  1&nbsp;ст. л.",
       "или горох колотый&nbsp;—  1&nbsp;ст. л.",
@@ -268,7 +268,7 @@ export const sauces = [
   {
     title: "Луковый мармелад",
     image:
-      "https://proxy11.online.ua/retsepty/r3-b11ed4f33b/small56b71928a475b.jpg",
+      "https://proxy12.online.ua/retsepty/r3-b11ed4f33b/big56b71928a475b.jpg",
     ingridients: [
       "красный лук&nbsp;—  1&nbsp;кг",
       " оливковое масло&nbsp;—  50&nbsp;мл",
@@ -329,7 +329,7 @@ export const sauces = [
   {
     title: "Соус для салата Цезарь без майонеза",
     image:
-      "https://proxy11.online.ua/retsepty/r2-02bf882ddd/small56b38c663fea4.jpg",
+      "https://proxy12.online.ua/retsepty/r2-02bf882ddd/big56b38c663fea4.jpg",
     ingridients: [
       "чеснок&nbsp;—  2&nbsp;зубчика",
       "яичный желток&nbsp;—  1&nbsp;шт.",
@@ -356,7 +356,7 @@ export const sauces = [
   {
     title: "Соус к дерунам",
     image:
-      "https://proxy11.online.ua/retsepty/r3-4bad3bcef6/small56ab9085a0291.jpg",
+      "https://proxy12.online.ua/retsepty/r3-4bad3bcef6/big56ab9085a0291.jpg",
     ingridients: [
       "    сметана &nbsp;—  0,5&nbsp;стакана",
       "    лук&nbsp;зеленый&nbsp;—  1&nbsp;пучок",
@@ -386,7 +386,7 @@ export const sauces = [
   {
     title: "Соус Песто с кедровыми орешками",
     image:
-      "https://proxy11.online.ua/retsepty/r2-9e1d1647c2/small567d8102682ec.jpg",
+      "https://proxy10.online.ua/retsepty/r2-9e1d1647c2/big567d8102682ec.jpg",
     ingridients: [
       "зеленый базилик&nbsp;—  50&nbsp;г",
       "сыр пармезан&nbsp;—  50&nbsp;г",
@@ -418,7 +418,7 @@ export const sauces = [
   {
     title: "Мятный соус к мясу",
     image:
-      "https://proxy11.online.ua/retsepty/r3-9876da9f10/small5671e2674f7fc.jpg",
+      "https://proxy11.online.ua/retsepty/r3-9876da9f10/big5671e2674f7fc.jpg",
     ingridients: [
       "мята&nbsp;—  40&nbsp;г",
       " кинза&nbsp;—  40&nbsp;г",
@@ -447,7 +447,7 @@ export const sauces = [
   {
     title: "Соус Ремулад",
     image:
-      "https://proxy11.online.ua/retsepty/r3-8afd2d08b5/small565ec4a7d73dc.jpg",
+      "https://proxy12.online.ua/retsepty/r3-8afd2d08b5/big565ec4a7d73dc.jpg",
     ingridients: [
       "желтки&nbsp;—  2&nbsp;шт.",
       " горчица&nbsp;—  2&nbsp;ч.л.",
@@ -489,7 +489,7 @@ export const sauces = [
   {
     title: "Клюквенно-апельсиновый соус",
     image:
-      "https://proxy12.online.ua/retsepty/r3-8cbac464c4/small5645fab6b740a.jpg",
+      "https://proxy11.online.ua/retsepty/r3-8cbac464c4/big5645fab6b740a.jpg",
     ingridients: [
       "апельсины&nbsp;—  2&nbsp;шт.",
       "сахар&nbsp;—  220&nbsp;г",
@@ -516,7 +516,7 @@ export const sauces = [
   {
     title: "Крем 'Шантильи'",
     image:
-      "https://proxy12.online.ua/retsepty/r2-ac14aa75ea/small5638d40ee25b8.jpg",
+      "https://proxy12.online.ua/retsepty/r2-ac14aa75ea/big5638d40ee25b8.jpg",
     ingridients: [
       "    сливки для&nbsp;взбивания (жирностью 30-36%)&nbsp;—  500&nbsp;мл",
       "    сахарная пудра&nbsp;—  4&nbsp;ст.л.",
@@ -541,7 +541,7 @@ export const sauces = [
   {
     title: "Соус Бер Руж",
     image:
-      "https://proxy12.online.ua/retsepty/r2-018b317fe0/small5633ebe716208.jpg",
+      "https://proxy11.online.ua/retsepty/r2-018b317fe0/big5633ebe716208.jpg",
     ingridients: [
       "красное сухое вино&nbsp;—  150&nbsp;мл",
       " куриный бульон&nbsp;—  50&nbsp;мл",
@@ -570,7 +570,7 @@ export const sauces = [
   {
     title: "Домашняя арахисовая паста",
     image:
-      "https://proxy12.online.ua/retsepty/r2-23083c57cf/small561f6e9e8e3e7.jpg",
+      "https://proxy11.online.ua/retsepty/r2-23083c57cf/big561f6e9e8e3e7.jpg",
     ingridients: [
       "сырой арахис&nbsp;—  500&nbsp;г",
       " соль и&nbsp;сахар&nbsp;—  по&nbsp;вкусу",
@@ -607,7 +607,7 @@ export const sauces = [
   {
     title: "Заправка из авокадо для салата 'Цезарь'",
     image:
-      "https://proxy12.online.ua/retsepty/r2-e005577b3e/small561e5a3cf2f61.jpg",
+      "https://proxy12.online.ua/retsepty/r2-e005577b3e/big561e5a3cf2f61.jpg",
     ingridients: [
       "    авокадо (спелое)&nbsp;—  1&nbsp;шт.",
       "    лимон&nbsp;—  1&nbsp;шт.",
@@ -645,7 +645,7 @@ export const sauces = [
   {
     title: "Соус Ромеско",
     image:
-      "https://proxy12.online.ua/retsepty/r2-6199b68a8f/small561e57c222de3.jpg",
+      "https://proxy12.online.ua/retsepty/r2-6199b68a8f/big561e57c222de3.jpg",
     ingridients: [
       "    вишневый уксус&nbsp;—  1&nbsp;ст. л.",
       "    миндаль маркона&nbsp;—  150&nbsp;г",
@@ -678,7 +678,7 @@ export const sauces = [
   {
     title: "Белый соус для пиццы",
     image:
-      "https://proxy12.online.ua/retsepty/r2-4d1bb403c1/small561671cf6617e.jpg",
+      "https://proxy12.online.ua/retsepty/r2-4d1bb403c1/big561671cf6617e.jpg",
     ingridients: [
       "    сливочное масло&nbsp;—  50&nbsp;г",
       "    чеснок&nbsp;—  3&nbsp;зубчика",
@@ -737,7 +737,7 @@ export const sauces = [
   {
     title: "Соус 'Ткемали'",
     image:
-      "https://proxy12.online.ua/retsepty/r2-a327c5d298/small56127f1b10659.JPG",
+      "https://proxy11.online.ua/retsepty/r2-a327c5d298/big56127f1b10659.JPG",
     ingridients: [
       "    кориандр&nbsp;—  3&nbsp;ч.л.",
       "    красный молотый перец&nbsp;—  1,5&nbsp;ч.л.",
@@ -758,7 +758,7 @@ export const sauces = [
   {
     title: "Вареная сгущенка в микроволновке",
     image:
-      "https://proxy12.online.ua/retsepty/r3-4544eb717b/small5612678dd2005.jpg",
+      "https://proxy10.online.ua/retsepty/r3-4544eb717b/big5612678dd2005.jpg",
     ingridients: ["сгущенка&nbsp;—  400&nbsp;г"],
     cooking: [
       {
@@ -782,7 +782,7 @@ export const sauces = [
   {
     title: "Дип из красной фасоли",
     image:
-      "https://proxy12.online.ua/retsepty/r2-d7b8c8030d/small5600735837934.jpg",
+      "https://proxy10.online.ua/retsepty/r2-d7b8c8030d/big5600735837934.jpg",
     ingridients: [
       "отварная или&nbsp;консервированная красная фасоль&nbsp;—  300&nbsp;г (вес нетто, без&nbsp;жидкости)",
       " сметана&nbsp;—  2&nbsp;ст.л.",
@@ -812,7 +812,7 @@ export const sauces = [
   {
     title: "Шоколадно-масляный крем для тортов",
     image:
-      "https://proxy12.online.ua/retsepty/r3-3379cfe6dd/small5601a948df962.jpg",
+      "https://proxy12.online.ua/retsepty/r3-3379cfe6dd/big5601a948df962.jpg",
     ingridients: [
       "сливочное масло&nbsp;—  120&nbsp;г",
       "яйцо&nbsp;—  1&nbsp;шт.",
@@ -840,7 +840,7 @@ export const sauces = [
   {
     title: "Медовый соус барбекю",
     image:
-      "https://proxy12.online.ua/retsepty/r2-c3e97d5e32/small559306d7968bb.jpg",
+      "https://proxy10.online.ua/retsepty/r2-c3e97d5e32/big559306d7968bb.jpg",
     ingridients: [
       "крупная луковица&nbsp;—  1&nbsp;шт.",
       " чеснок&nbsp;—  3&nbsp;зубчика",
@@ -880,7 +880,7 @@ export const sauces = [
   {
     title: "Соус 'Тартар'",
     image:
-      "https://proxy11.online.ua/retsepty/r2-fb3bb96076/small557ec5c84cdea.jpg",
+      "https://proxy12.online.ua/retsepty/r2-fb3bb96076/big557ec5c84cdea.jpg",
     ingridients: [
       "майонез&nbsp;—  120&nbsp;г",
       " нарубленные корнишоны&nbsp;—  1&nbsp;ст.л.",
@@ -910,7 +910,7 @@ export const sauces = [
   {
     title: "Сливочно-ореховый соус",
     image:
-      "https://proxy11.online.ua/retsepty/r2-611d25012f/small557abea315c2a.jpg",
+      "https://proxy12.online.ua/retsepty/r2-611d25012f/big557abea315c2a.jpg",
     ingridients: [
       "сметана&nbsp;—  100&nbsp;г",
       "соевый соус&nbsp;—  2&nbsp;ч. л.",
@@ -942,7 +942,7 @@ export const sauces = [
   {
     title: "Дип из авокадо с мятой",
     image:
-      "https://proxy11.online.ua/retsepty/r2-1768e02441/small55380f580abfe.jpg",
+      "https://proxy12.online.ua/retsepty/r2-1768e02441/big55380f580abfe.jpg",
     ingridients: [
       "крупное спелое авокадо&nbsp;—  1&nbsp;шт.",
       " сок&nbsp;половины лайма",
@@ -975,7 +975,7 @@ export const sauces = [
   {
     title: "Постный овощной соус",
     image:
-      "https://proxy11.online.ua/retsepty/r2-63b2eb29a0/small54ec873ee5b89.jpg",
+      "https://proxy11.online.ua/retsepty/r2-63b2eb29a0/big54ec873ee5b89.jpg",
     ingridients: [
       "авокадо&nbsp;—  1&nbsp;часть",
       "свежий огурец&nbsp;—  1&nbsp;часть ",
@@ -991,7 +991,7 @@ export const sauces = [
   {
     title: "Голландский соус",
     image:
-      "https://proxy11.online.ua/retsepty/r2-b4381a17b9/small54db2bb82135e.jpg",
+      "https://proxy11.online.ua/retsepty/r2-b4381a17b9/big54db2bb82135e.jpg",
     ingridients: [
       "маленькая луковица&nbsp;—  1/2&nbsp;шт.",
       " петрушка&nbsp;—  2-3 веточки",
@@ -1035,7 +1035,7 @@ export const sauces = [
   {
     title: "Чесночная заправка винегрет",
     image:
-      "https://proxy11.online.ua/retsepty/r3-21391e5582/small529738930c91d.jpg",
+      "https://proxy10.online.ua/retsepty/r3-21391e5582/big529738930c91d.jpg",
     ingridients: [
       "чеснок&nbsp;—  2&nbsp;зубчика",
       " красный винный уксус&nbsp;—  3&nbsp;ст.л.",
@@ -1063,7 +1063,7 @@ export const sauces = [
   {
     title: "Хумус с вялеными томатами",
     image:
-      "https://proxy11.online.ua/retsepty/r2-3f917146d5/small538f8c5868b54.jpg",
+      "https://proxy11.online.ua/retsepty/r2-3f917146d5/big538f8c5868b54.jpg",
     ingridients: [
       "отварной нут&nbsp;—  350&nbsp;г",
       " вяленые помидоры&nbsp;—  5-6 половинок",
@@ -1095,7 +1095,7 @@ export const sauces = [
   {
     title: "Айоли с базиликом",
     image:
-      "https://proxy11.online.ua/retsepty/r2-012a706ea8/small546921e82694e.jpg",
+      "https://proxy12.online.ua/retsepty/r2-012a706ea8/big546921e82694e.jpg",
     ingridients: [
       "белый хлеб без&nbsp;корки&nbsp;—  2&nbsp;куска",
       " молоко&nbsp;—  100&nbsp;мл",
@@ -1138,21 +1138,43 @@ export const sauces = [
   {
     title: "Имбирный сироп",
     image:
-      "https://proxy11.online.ua/retsepty/r2-11276391be/small5436a2923f6fa.jpg",
-    ingridients: [],
+      "https://proxy10.online.ua/retsepty/r2-11276391be/big5436a2923f6fa.jpg",
+    ingridients: [
+      "свежий имбирь&nbsp;—  250&nbsp;г",
+      " сахар&nbsp;—  400&nbsp;г",
+      " вода&nbsp;—  500&nbsp;мл",
+    ],
     cooking: [
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
+      {
+        description:
+          "Имбирь чистим и&nbsp;нарезаем ломтиками. Добавляем сахар, вливаем воду и&nbsp;ставим на&nbsp;огонь.",
+        image:
+          "https://proxy11.online.ua/retsepty/r2-7d316d7d38/big5297648f57082.jpg",
+      },
+      {
+        description:
+          "Доводим до&nbsp;кипения, уменьшаем огонь и&nbsp;варим примерно 1&nbsp;час. Накрываем крышкой и&nbsp;даем постоять около часа.",
+      },
+      {
+        description: "Затем процеживаем и охлаждаем.",
+        image:
+          "https://proxy11.online.ua/retsepty/r2-6de78b0515/big529764939067e.jpg",
+      },
+      {
+        description: "Кусочки имбиря кладем на фольгу и подсушиваем.",
+        image:
+          "https://proxy11.online.ua/retsepty/r2-89341032c3/big52976495dc557.jpg",
+      },
+      {
+        description:
+          "Сироп можно хранить до&nbsp;недели в&nbsp;холодильнике или&nbsp;разлить в&nbsp;стерилизованные банки и&nbsp;закатать.",
+      },
     ],
   },
   {
     title: "Клюквенно-имбирный соус",
     image:
-      "https://proxy11.online.ua/retsepty/r3-f38a107a30/small5297458929de4.jpg",
+      "https://proxy12.online.ua/retsepty/r3-f38a107a30/big5297458929de4.jpg",
     ingridients: [
       "свежий имбирь&nbsp;—  250&nbsp;г",
       " сахар&nbsp;—  400&nbsp;г",
@@ -1192,7 +1214,7 @@ export const sauces = [
   {
     title: "Карамельный соус",
     image:
-      "https://proxy11.online.ua/retsepty/r2-27ac45b584/small5297074ad5bde.jpg",
+      "https://proxy11.online.ua/retsepty/r2-27ac45b584/big5297074ad5bde.jpg",
     ingridients: [
       "сахар&nbsp;—  200&nbsp;г",
       " сливочное масло&nbsp;—  150&nbsp;г",
@@ -1230,7 +1252,7 @@ export const sauces = [
   {
     title: "Огуречно-ананасовая сальса",
     image:
-      "https://proxy11.online.ua/retsepty/r2-cd67763d92/small52974fb5564ce.jpg",
+      "https://proxy10.online.ua/retsepty/r2-cd67763d92/big52974fb5564ce.jpg",
     ingridients: [
       "сок 1&nbsp;лайма (2&nbsp;ст.л)",
       " мед&nbsp;—  1&nbsp;ст.л.",
@@ -1278,7 +1300,7 @@ export const sauces = [
   {
     title: "Огуречно-йогуртовый дип",
     image:
-      "https://proxy10.online.ua/retsepty/r2-e2c79c63df/small529755a5db1cb.jpg",
+      "https://proxy12.online.ua/retsepty/r2-e2c79c63df/big529755a5db1cb.jpg",
     ingridients: [
       "натуральный йогурт (предпочтителен густой греческий)&nbsp;—  300&nbsp;г",
       " небольшие огурцы&nbsp;—  2&nbsp;шт.",
@@ -1301,7 +1323,7 @@ export const sauces = [
   {
     title: "Соус батард",
     image:
-      "https://proxy10.online.ua/retsepty/r2-a3ca7e4095/small52961cfd2aab6.jpg",
+      "https://proxy12.online.ua/retsepty/r2-a3ca7e4095/big52961cfd2aab6.jpg",
     ingridients: [
       "сливочное масло&nbsp;—  250&nbsp;г",
       " мука&nbsp;—  3&nbsp;ст.л.",
@@ -1333,7 +1355,7 @@ export const sauces = [
   {
     title: "Сливочно-огуречный соус с чесноком",
     image:
-      "https://proxy10.online.ua/retsepty/r3-19f730b16d/small5296f08563ba8.jpg",
+      "https://proxy10.online.ua/retsepty/r3-19f730b16d/big5296f08563ba8.jpg",
     ingridients: [
       "средний грунтовой огурец&nbsp;—  1&nbsp;шт.",
       " сливочный сыр&nbsp;типа филадельфии&nbsp;—  120&nbsp;г",
@@ -1359,7 +1381,7 @@ export const sauces = [
   {
     title: "Мятно-йогуртовая заправка",
     image:
-      "https://proxy10.online.ua/retsepty/r2-efae2490f1/small5297099e604f3.jpg",
+      "https://proxy10.online.ua/retsepty/r2-efae2490f1/big5297099e604f3.jpg",
     ingridients: [
       "натуральный йогурт&nbsp;—  120&nbsp;г",
       " небольшая горсть листьев мяты",
@@ -1383,7 +1405,7 @@ export const sauces = [
   {
     title: "Сальса фреска",
     image:
-      "https://proxy10.online.ua/retsepty/r3-6a532a7f9c/small529759f71caeb.jpg",
+      "https://proxy12.online.ua/retsepty/r3-6a532a7f9c/big529759f71caeb.jpg",
     ingridients: [
       "спелые помидоры&nbsp;—  2&nbsp;шт.",
       " небольшая салатная луковица&nbsp;—  1&nbsp;шт.",
@@ -1424,7 +1446,7 @@ export const sauces = [
   {
     title: "Соус песто",
     image:
-      "https://proxy10.online.ua/retsepty/r3-11d67c4d10/small5296f197bc59b.jpg",
+      "https://proxy10.online.ua/retsepty/r3-11d67c4d10/big5296f197bc59b.jpg",
     ingridients: [
       "зеленый (!) базилик&nbsp;—  1&nbsp;пучок (50&nbsp;г)",
       " тертый пармезан&nbsp;—  50&nbsp;г",
@@ -1443,7 +1465,7 @@ export const sauces = [
   {
     title: "Дип из авокадо и голубого сыра",
     image:
-      "https://proxy10.online.ua/retsepty/r2-66254f27a3/small5296e67166a83.jpg",
+      "https://proxy12.online.ua/retsepty/r2-66254f27a3/big5296e67166a83.jpg",
     ingridients: [
       "авокадо&nbsp;—  1&nbsp;шт.",
       " маленькая луковица&nbsp;—  1/2&nbsp;шт. (1&nbsp;ст.л. в&nbsp;мелко нарубленном виде)",
@@ -1472,7 +1494,7 @@ export const sauces = [
   {
     title: "Дип из печеных перцев и грецких орехов",
     image:
-      "https://proxy10.online.ua/retsepty/r2-fafb9d861d/small52970fa965ae7.jpg",
+      "https://proxy12.online.ua/retsepty/r2-fafb9d861d/big52970fa965ae7.jpg",
     ingridients: [
       "средние красные сладкие перцы&nbsp;—  3&nbsp;шт.",
       " панировочные сухари хорошего качества&nbsp;—  4&nbsp;ст.л.",
@@ -1515,7 +1537,7 @@ export const sauces = [
   {
     title: "Баба-гануш",
     image:
-      "https://proxy10.online.ua/retsepty/r3-ce00d08dcc/small5297110f77811.jpg",
+      "https://proxy12.online.ua/retsepty/r3-ce00d08dcc/big5297110f77811.jpg",
     ingridients: [
       "крупные баклажаны&nbsp;—  2&nbsp;шт.",
       " чеснок&nbsp;—  4&nbsp;зубчика",
@@ -1550,7 +1572,7 @@ export const sauces = [
   {
     title: "Хумус с печеным сладким перцем",
     image:
-      "https://proxy10.online.ua/retsepty/r2-9a0192f596/small529616951b0b4.jpg",
+      "https://proxy10.online.ua/retsepty/r2-9a0192f596/big529616951b0b4.jpg",
     ingridients: [
       "отваренный нут&nbsp;—  300&nbsp;г",
       " чеснок&nbsp;—  2&nbsp;зубчика",
@@ -1594,7 +1616,7 @@ export const sauces = [
   {
     title: "Базиликовый соус",
     image:
-      "https://proxy10.online.ua/retsepty/r3-1466921ac0/small53732da9bcc75.jpg",
+      "https://proxy11.online.ua/retsepty/r3-1466921ac0/big53732da9bcc75.jpg",
     ingridients: [
       "майонез&nbsp;—  225&nbsp;г",
       " белый винный уксус&nbsp;—  2&nbsp;ч.л.",
@@ -1612,7 +1634,7 @@ export const sauces = [
   {
     title: "Томатный соус",
     image:
-      "https://proxy10.online.ua/retsepty/r3-e2e3f61402/small5372302697205.jpg",
+      "https://proxy10.online.ua/retsepty/r3-e2e3f61402/big5372302697205.jpg",
     ingridients: [
       "пальчиковые помидоры&nbsp;—  1,6&nbsp;кг",
       " томатная паста хорошего качества&nbsp;—  200&nbsp;г",
@@ -1665,7 +1687,7 @@ export const sauces = [
   {
     title: "Дип из феты с редисом",
     image:
-      "https://proxy12.online.ua/retsepty/r2-15af023dc1/small5296ff9ed6b84.jpg",
+      "https://proxy10.online.ua/retsepty/r2-15af023dc1/big5296ff9ed6b84.jpg",
     ingridients: [
       "фета&nbsp;—  250&nbsp;г",
       " натуральный йогурт&nbsp;—  60&nbsp;г",
@@ -1713,7 +1735,7 @@ export const sauces = [
   {
     title: "Дип из сметаны с хреном",
     image:
-      "https://proxy12.online.ua/retsepty/r2-0406b5fcba/small52960b65b789c.jpg",
+      "https://proxy10.online.ua/retsepty/r2-0406b5fcba/big52960b65b789c.jpg",
     ingridients: [
       "густая сметана&nbsp;—  350-400 г",
       " готовый белый хрен&nbsp;—  3&nbsp;ст.л.",
@@ -1735,7 +1757,7 @@ export const sauces = [
   {
     title: "Луковый дип",
     image:
-      "https://proxy12.online.ua/retsepty/r2-d7ec3c5996/small52972d6c84ee1.jpg",
+      "https://proxy11.online.ua/retsepty/r2-d7ec3c5996/big52972d6c84ee1.jpg",
     ingridients: [
       "лук&nbsp;—  2&nbsp;шт.",
       " оливковое масло&nbsp;—  2&nbsp;ст.л.",
@@ -1787,7 +1809,7 @@ export const sauces = [
   {
     title: "Сырный соус 'Морнэ'",
     image:
-      "https://proxy12.online.ua/retsepty/r2-725ffacbcd/small52960634b3633.jpg",
+      "https://proxy10.online.ua/retsepty/r2-725ffacbcd/big52960634b3633.jpg",
     ingridients: [
       "сливочное масло&nbsp;—  50&nbsp;г",
       " мука&nbsp;—  2&nbsp;ст.л.",
@@ -1818,7 +1840,7 @@ export const sauces = [
   {
     title: "Гуакамоле",
     image:
-      "https://proxy12.online.ua/retsepty/r2-784e3c6492/small52972a2b06f41.jpg",
+      "https://proxy12.online.ua/retsepty/r2-784e3c6492/big52972a2b06f41.jpg",
     ingridients: [
       "спелое авокадо&nbsp;—  1&nbsp;шт.",
       " лайм&nbsp;—  1&nbsp;шт.",
@@ -1849,7 +1871,7 @@ export const sauces = [
   {
     title: "Горчичное масло",
     image:
-      "https://proxy12.online.ua/retsepty/r3-a73a6df3db/small5296108a415fc.jpg",
+      "https://proxy12.online.ua/retsepty/r3-a73a6df3db/big5296108a415fc.jpg",
     ingridients: [
       "сливочное масло комнатной температуры&nbsp;—  180&nbsp;г",
       " дижонская или&nbsp;другая острая горчица&nbsp;—  2&nbsp;ч.л.",
@@ -1888,7 +1910,7 @@ export const sauces = [
   {
     title: "Бальзамико-розмариновая заправка винегрет",
     image:
-      "https://proxy12.online.ua/retsepty/r2-29d0c07b30/small52973418418c7.jpg",
+      "https://proxy11.online.ua/retsepty/r2-29d0c07b30/big52973418418c7.jpg",
     ingridients: [
       "бальзамический уксус&nbsp;—  60&nbsp;мл",
       " дижонская горчица&nbsp;—  1&nbsp;ст.л.",
@@ -1917,7 +1939,7 @@ export const sauces = [
   {
     title: "Соус ранч",
     image:
-      "https://proxy12.online.ua/retsepty/r2-e40565604c/small52970c0b09a3e.jpg",
+      "https://proxy12.online.ua/retsepty/r2-e40565604c/big52970c0b09a3e.jpg",
     ingridients: [
       "натуральный йогурт&nbsp;—  125&nbsp;г",
       " майонез&nbsp;—  4&nbsp;ст.л.",
@@ -1956,7 +1978,7 @@ export const sauces = [
   {
     title: "Беарнский соус",
     image:
-      "https://proxy12.online.ua/retsepty/r3-fe21608292/small529620f265435.jpg",
+      "https://proxy10.online.ua/retsepty/r3-fe21608292/big529620f265435.jpg",
     ingridients: [
       "белое сухое вино&nbsp;—  60&nbsp;мл",
       " белый винный уксус&nbsp;—  60&nbsp;мл",
@@ -2023,7 +2045,7 @@ export const sauces = [
   {
     title: "Печеный чеснок",
     image:
-      "https://proxy12.online.ua/retsepty/r3-fde6dec05a/small52f2623b1885b.jpg",
+      "https://proxy10.online.ua/retsepty/r3-fde6dec05a/big52f2623b1885b.jpg",
     ingridients: [
       "головки чеснока&nbsp;—  250&nbsp;г ",
       " свежие листья тимьяна&nbsp;—  1&nbsp;ч.л. (можно взять 0,5&nbsp;ч.л. сушеного)",
@@ -2067,7 +2089,7 @@ export const sauces = [
   {
     title: "Грибной соус с каперсами",
     image:
-      "https://proxy12.online.ua/retsepty/r2-9830f4afba/small52d3f22a13ef9.jpg",
+      "https://proxy12.online.ua/retsepty/r2-9830f4afba/big52d3f22a13ef9.jpg",
     ingridients: [
       "шампиньоны&nbsp;—  500&nbsp;г",
       " луковица&nbsp;—  1&nbsp;шт.",
@@ -2102,7 +2124,7 @@ export const sauces = [
   {
     title: "Сливочный соус к рыбе",
     image:
-      "https://proxy12.online.ua/retsepty/r3-3c8682253b/small51f228cde86a7.jpg",
+      "https://proxy10.online.ua/retsepty/r3-3c8682253b/big51f228cde86a7.jpg",
     ingridients: [
       "Сливки 20-22% 	200&nbsp;мл&nbsp;	",
       "Горчица дижонская 	4&nbsp;ч.л.",
@@ -2153,7 +2175,7 @@ export const sauces = [
   {
     title: "Сырный соус",
     image:
-      "https://proxy12.online.ua/retsepty/r3-ded160f2a8/small51a73a0b4ed77.jpg",
+      "https://proxy12.online.ua/retsepty/r3-ded160f2a8/big51a73a0b4ed77.jpg",
     ingridients: [
       "сыр чеддер или&nbsp;пармезан (можно другой)&nbsp;—  120-130 г",
       "молоко&nbsp;—  600&nbsp;мл",
@@ -2188,7 +2210,7 @@ export const sauces = [
   {
     title: "Мясная подлива",
     image:
-      "https://proxy12.online.ua/retsepty/r3-5e344150c9/small519f4bb744320.JPG",
+      "https://proxy10.online.ua/retsepty/r3-5e344150c9/big519f4bb744320.JPG",
     ingridients: [
       "мясо (говядина)&nbsp;—  200&nbsp;г",
       "    лук&nbsp;—  1&nbsp;шт.",
@@ -2238,7 +2260,7 @@ export const sauces = [
   {
     title: "Чесночный дрессинг",
     image:
-      "https://proxy12.online.ua/retsepty/r3-e4eda1e339/small519bbfd46fa72.jpg",
+      "https://proxy11.online.ua/retsepty/r3-e4eda1e339/big519bbfd46fa72.jpg",
     ingridients: [
       "    сырые орехи кешью&nbsp;—  1/2&nbsp;стакана",
       "    вода&nbsp;—  1/2 + 1/4&nbsp;стакана отдельно",
@@ -2267,7 +2289,7 @@ export const sauces = [
   {
     title: "Паста из авокадо и яиц",
     image:
-      "https://proxy12.online.ua/retsepty/r3-27db328e0c/small50a2596eb9d6f.jpg",
+      "https://proxy10.online.ua/retsepty/r3-27db328e0c/big50a2596eb9d6f.jpg",
     ingridients: [
       "вареные яйца&nbsp;—  6&nbsp;шт.",
       "авокадо&nbsp;—  1&nbsp;шт.",
@@ -2290,7 +2312,7 @@ export const sauces = [
   {
     title: "Арахисовая паста",
     image:
-      "https://proxy12.online.ua/retsepty/r3-db8568c386/small50a108ec39f73.png",
+      "https://proxy11.online.ua/retsepty/r3-db8568c386/big50a108ec39f73.png",
     ingridients: [
       "    арахис жареный&nbsp;—  1,5&nbsp;стакана",
       "    масло растительное, рафинированное&nbsp;—  2&nbsp;ст. л.",
@@ -2316,7 +2338,7 @@ export const sauces = [
   {
     title: "Домашнее сгущенное молоко",
     image:
-      "https://proxy12.online.ua/retsepty/r2-2964a6b290/small50053a1570012.jpg",
+      "https://proxy12.online.ua/retsepty/r2-2964a6b290/big50053a1570012.jpg",
     ingridients: [
       "молоко&nbsp;—  250&nbsp;мл",
       "сухое молоко&nbsp;—  150&nbsp;г",
@@ -2340,7 +2362,7 @@ export const sauces = [
   {
     title: "Дзадзики",
     image:
-      "https://proxy12.online.ua/retsepty/r3-843c1529f4/small50041a080815a.jpg",
+      "https://proxy10.online.ua/retsepty/r3-843c1529f4/big50041a080815a.jpg",
     ingridients: [
       "натуральный йогурт (густой)&nbsp;—  2&nbsp;стакана",
       "огурец&nbsp;—  1&nbsp;шт.",
@@ -2369,7 +2391,7 @@ export const sauces = [
   {
     title: "Соус-варенье из острого перца к мясу",
     image:
-      "https://proxy12.online.ua/retsepty/r3-6e5d5b958d/small4f24032d338b5.jpg",
+      "https://proxy12.online.ua/retsepty/r3-6e5d5b958d/big4f24032d338b5.jpg",
     ingridients: [
       "Перец сладкий красный (паприка) 	5&nbsp;шт. 	",
       "Яблоки (160&nbsp;г) 	6&nbsp;шт.",
@@ -2444,7 +2466,7 @@ export const sauces = [
   {
     title: "Соус песто с черемшой",
     image:
-      "https://proxy12.online.ua/retsepty/r3-83770d3d64/small4f2402bfdfe81.jpg",
+      "https://proxy10.online.ua/retsepty/r3-83770d3d64/big4f2402bfdfe81.jpg",
     ingridients: [
       "Черемша 	150&nbsp;г&nbsp;	",
       "Кедровые орешки (пиния) 	50&nbsp;г",
@@ -2501,7 +2523,7 @@ export const sauces = [
   {
     title: "Шоколадная глазурь для кулича",
     image:
-      "https://proxy12.online.ua/retsepty/r3-ba5fabab06/small4f84a1ba8678b.jpg",
+      "https://proxy12.online.ua/retsepty/r3-ba5fabab06/big4f84a1ba8678b.jpg",
     ingridients: [
       "шоколад темный&nbsp;—  90&nbsp;г",
       "апельсиновый сок&nbsp;—  3&nbsp;ст. л.",
@@ -2522,7 +2544,7 @@ export const sauces = [
   {
     title: "Мятно-горчичный соус",
     image:
-      "https://proxy12.online.ua/retsepty/r3-f863531e2d/small4f240302a0eaf.jpg",
+      "https://proxy11.online.ua/retsepty/r3-f863531e2d/big4f240302a0eaf.jpg",
     ingridients: [
       "Горчица дижонская 	10&nbsp;ч.л. 	",
       "Мята свежая 	10&nbsp;г",
@@ -2581,7 +2603,7 @@ export const sauces = [
   {
     title: "Шоколадный соус к стейку из говядины",
     image:
-      "https://proxy10.online.ua/retsepty/r3-7630006291/small4f240314ecd87.jpg",
+      "https://proxy11.online.ua/retsepty/r3-7630006291/big4f240314ecd87.jpg",
     ingridients: [
       "Лук репчатый (100г) 	½ шт. 	",
       "Розмарин листья 	½ ст.л.",
@@ -2614,7 +2636,7 @@ export const sauces = [
   {
     title: "Вишневый соус и стейк ти-бон",
     image:
-      "https://proxy10.online.ua/retsepty/r3-09d101f3a8/small4f2402eea02fc.jpg",
+      "https://proxy11.online.ua/retsepty/r3-09d101f3a8/big4f2402eea02fc.jpg",
     ingridients: [
       "Стейк ти-бон 650г 	2&nbsp;шт. 	",
       "Вишня 	300&nbsp;г",
@@ -2670,7 +2692,7 @@ export const sauces = [
   {
     title: "Имбирный соус",
     image:
-      "https://proxy10.online.ua/retsepty/r3-93966a619f/small4f2402e1ed944.jpg",
+      "https://proxy12.online.ua/retsepty/r3-93966a619f/big4f2402e1ed944.jpg",
     ingridients: [
       "Сливочное масло 	120&nbsp;г&nbsp;	",
       "Имбирь свежий 	5&nbsp;см",
@@ -2724,7 +2746,7 @@ export const sauces = [
   {
     title: "Аргентинский соус Чимичурри",
     image:
-      "https://proxy10.online.ua/retsepty/r3-15b8301b8f/small4f240346cd1bc.jpg",
+      "https://proxy11.online.ua/retsepty/r3-15b8301b8f/big4f240346cd1bc.jpg",
     ingridients: [
       "Петрушка 	50&nbsp;г&nbsp;	",
       "Кинза (кориандр) 	50&nbsp;г",
@@ -2792,7 +2814,7 @@ export const sauces = [
   {
     title: "Греческий соус",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/006/195/197/small4ddd407a7a3d9.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/006/195/197/big4ddd407a7a3d9.jpg",
     ingridients: [
       "йогурт без&nbsp;добавок ('греческий'&nbsp;—  густой)&nbsp;—  300&nbsp;г",
       "огурцы&nbsp;—  1-2 шт.",
@@ -2837,7 +2859,7 @@ export const sauces = [
   {
     title: "Помидорно-мятная заправка к шашлыку",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/006/289/259/small4ddac8d0b488c.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/006/289/259/big4ddac8d0b488c.jpg",
     ingridients: [
       "помидоры (крупные)&nbsp;—  4&nbsp;шт.",
       "томатная паста&nbsp;—  1&nbsp;ст.л.",
@@ -2865,7 +2887,7 @@ export const sauces = [
   {
     title: "Как приготовить майонез",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/014/135/small4cada0e5b88b0.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/001/014/135/big4cada0e5b88b0.jpg",
     ingridients: [
       "2&nbsp;желтка куриных яиц",
       "300&nbsp;милилитров охлажденного&nbsp;(важно!)&nbsp;в холодильнике&nbsp;оливкового масла (в крайнем случае, пойдет и&nbsp;подсолнечное)",
@@ -2913,7 +2935,7 @@ export const sauces = [
   {
     title: "Мясная подлива",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/135/017/small4cada1225fc3d.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d2/005/135/017/big4cada1225fc3d.jpg",
     ingridients: [
       "мясо (телятина, но&nbsp;можно и&nbsp;любое другое)",
       "лук репчатый",
@@ -2944,7 +2966,7 @@ export const sauces = [
   {
     title: "Соус из авокадо с зеленью",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/135/056/small4cada12a642a6.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/135/056/big4cada12a642a6.jpg",
     ingridients: [
       "1&nbsp;авокадо&nbsp;",
       "1&nbsp;луковица&nbsp;",
@@ -2978,7 +3000,7 @@ export const sauces = [
   {
     title: "Томатный соус",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/146/243/small4cada19319892.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d2/005/146/243/big4cada19319892.jpg",
     ingridients: [
       "1100&nbsp;г. 'мясистых' помидор",
       "30&nbsp;мл. уксуса 9%",
@@ -3009,7 +3031,7 @@ export const sauces = [
   {
     title: "Неаполитанский соус",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/014/219/small4cada1940327b.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d3/001/014/219/big4cada1940327b.jpg",
     ingridients: ["", "", "", "", "", ""],
     cooking: [
       {
@@ -3041,7 +3063,7 @@ export const sauces = [
   {
     title: "Горчичный соус",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/147/068/small4cada1998898b.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/147/068/big4cada1998898b.jpg",
     ingridients: [
       "4&nbsp;столовые ложки дижонской горчицы",
       "1&nbsp;чайная ложка порошка горчицы",
@@ -3065,7 +3087,7 @@ export const sauces = [
   {
     title: "Ванильный соус",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/014/259/small4cada1fd9d26c.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/001/014/259/big4cada1fd9d26c.jpg",
     ingridients: [
       "3&nbsp;яйца",
       "1&nbsp;столовая ложка крахмала",
@@ -3105,7 +3127,7 @@ export const sauces = [
   {
     title: "Соус к рыбе",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/014/261/small4cada1ffbab64.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d3/001/014/261/big4cada1ffbab64.jpg",
     ingridients: [
       "400&nbsp;г. майонеза Провансаль",
       "100&nbsp;г. маринованных огурцов",
@@ -3131,7 +3153,7 @@ export const sauces = [
   {
     title: "Майонез без яиц",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d1/005/202/154/small4cada26827bff.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d1/005/202/154/big4cada26827bff.jpg",
     ingridients: [
       "150&nbsp;мл&nbsp;молока (комнатной температуры!!!)",
       "200&nbsp;мл&nbsp;подсолнечного масла",
@@ -3161,7 +3183,7 @@ export const sauces = [
   {
     title: "Клюквенный соус",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2/003/087/239/small4cada290dd2f3.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d2/003/087/239/big4cada290dd2f3.jpg",
     ingridients: [
       "1&nbsp;стакан клюквы",
       "1/2&nbsp;стакана виноградного сока (или апельсинового)",
@@ -3193,7 +3215,7 @@ export const sauces = [
   {
     title: "Зеленый соус из авокадо",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/015/018/small4cada294b4738.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d3/001/015/018/big4cada294b4738.jpg",
     ingridients: [
       "1/2&nbsp;авокадо",
       "6&nbsp;—  8&nbsp;шт оливок",
@@ -3222,7 +3244,7 @@ export const sauces = [
   {
     title: "Соус-майонез с каперсами",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/170/147/small4cada2ae42746.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d2/005/170/147/big4cada2ae42746.jpg",
     ingridients: [
       "5&nbsp;столовых ложек майонеза",
       "10&nbsp;шт. каперсов",
@@ -3240,7 +3262,7 @@ export const sauces = [
   {
     title: "Соус бешамель",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/255/016/small4caeeeafcb17e.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d2/005/255/016/big4caeeeafcb17e.jpg",
     ingridients: [
       "Сливочное масло 								50&nbsp;г&nbsp;															",
       "Мука пшеничная 								50&nbsp;г&nbsp;															",
@@ -3305,7 +3327,7 @@ export const sauces = [
   {
     title: "Быстрый домашний майонез",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/255/020/small4caeeec66021f.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/255/020/big4caeeec66021f.jpg",
     ingridients: [
       " Масло виноградных косточек 50 мл ",
       "Оливковое масло 50 мл ",
@@ -3361,7 +3383,7 @@ export const sauces = [
   {
     title: "Чесночный майонез",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/022/202/small4caeeed3d165e.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d3/001/022/202/big4caeeed3d165e.jpg",
     ingridients: [
       "Яичный желток 								2&nbsp;шт. 															",
       "Соль 								¼ ч.л. 															",
@@ -3401,7 +3423,7 @@ export const sauces = [
   {
     title: "Домашний майонез",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d1/005/240/292/small4caeeedc13669.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d1/005/240/292/big4caeeedc13669.jpg",
     ingridients: [
       "Яичный желток 								1&nbsp;шт. 															",
       "Сахар-песок 								5&nbsp;г&nbsp;															",
@@ -3443,7 +3465,7 @@ export const sauces = [
   {
     title: "Зеленый сливочный соус",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/022/205/small4caeeee380ec0.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/001/022/205/big4caeeee380ec0.jpg",
     ingridients: [
       " Сливочное масло 25 г ",
       "Перец сладкий зеленый 1 шт. ",
@@ -3509,7 +3531,7 @@ export const sauces = [
   {
     title: "Томатный соус с эстрагоном",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/255/030/small4caeeef1b6d96.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d2/005/255/030/big4caeeef1b6d96.jpg",
     ingridients: [
       "Чеснок дольки 								2&nbsp;шт. 															",
       "Оливковое масло 								40&nbsp;мл&nbsp;															",
@@ -3551,7 +3573,7 @@ export const sauces = [
   {
     title: "Яблочный соус",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/240/296/small4caeeefa472ec.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d1/005/240/296/big4caeeefa472ec.jpg",
     ingridients: [
       "Яблоки 								3&nbsp;шт. 															",
       "Лимоны 								0.3&nbsp;шт. 															",
@@ -3589,7 +3611,7 @@ export const sauces = [
   {
     title: "Горчичный майонез",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/240/299/small4caeef0276002.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d1/005/240/299/big4caeef0276002.jpg",
     ingridients: [
       "Яйцо куриное 1 шт. ",
       "Горчичное масло 150 мл ",
@@ -3631,7 +3653,7 @@ export const sauces = [
   {
     title: "Сметанный соус",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/255/035/small4caeef0ae3c6f.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d2/005/255/035/big4caeef0ae3c6f.jpg",
     ingridients: [
       "Лук зеленый 								15&nbsp;г&nbsp;															",
       "Сметана 								180&nbsp;г&nbsp;															",
@@ -3655,7 +3677,7 @@ export const sauces = [
   {
     title: "Брусничный соус",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/022/211/small4caeef12447f5.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/001/022/211/big4caeef12447f5.jpg",
     ingridients: [
       " Брусника 500 г ",
       "Сахар-песок 150 г ",
@@ -3709,7 +3731,7 @@ export const sauces = [
   {
     title: "Сладкий мятный песто",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/241/005/small4caeef21c0c82.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d1/005/241/005/big4caeef21c0c82.jpg",
     ingridients: [
       "Сахар-песок 								50&nbsp;г&nbsp;															",
       "Миндаль 								100&nbsp;г&nbsp;															",
@@ -3763,7 +3785,7 @@ export const sauces = [
   {
     title: "Томатный соус для пиццы",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/241/007/small4caeef2e2e427.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d1/005/241/007/big4caeef2e2e427.jpg",
     ingridients: [
       "Томатное пюре 								500&nbsp;г&nbsp;															",
       "Оливковое масло 								30&nbsp;мл&nbsp;															",
@@ -3801,7 +3823,7 @@ export const sauces = [
   {
     title: "Грибной соус",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/255/043/small4caeef3c6e7a8.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d2/005/255/043/big4caeef3c6e7a8.jpg",
     ingridients: [
       " Шампиньоны 500 г ",
       "Растительное масло 40 мл ",

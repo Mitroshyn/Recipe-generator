@@ -2,7 +2,7 @@ export const fruitSalads = [
   {
     title: "Салат с яблоками и малиной",
     image:
-      "https://proxy11.online.ua/retsepty/r3-c743717b0b/small579e2a9c05d37.jpg",
+      "https://proxy12.online.ua/retsepty/r3-c743717b0b/big579e2a9c05d37.jpg",
     ingridients: [
       "Фундук 1/2 чашки",
       "Малина 100 г",
@@ -40,7 +40,7 @@ export const fruitSalads = [
   {
     title: "Салат с жареными персиками и сыром моцарелла",
     image:
-      "https://proxy11.online.ua/retsepty/r2-f9275135cf/small579fc4de047c1.jpg",
+      "https://proxy10.online.ua/retsepty/r2-f9275135cf/big579fc4de047c1.jpg",
     ingridients: [
       "5 персиков",
       "3 стебля зеленого лука (нарезать)",
@@ -78,7 +78,7 @@ export const fruitSalads = [
   {
     title: "Салат с арбузом,огурцами и сыром фета",
     image:
-      "https://proxy11.online.ua/retsepty/r3-b6ba132fe0/small579e01349b6ae.jpg",
+      "https://proxy11.online.ua/retsepty/r3-b6ba132fe0/big579e01349b6ae.jpg",
     ingridients: [
       "250 г мякоти арбуза",
       "2 огурца средней величины",
@@ -101,7 +101,7 @@ export const fruitSalads = [
   {
     title: "Фруктовый салат из бананов и мандаринов с яблоками",
     image:
-      "https://proxy11.online.ua/retsepty/r2-e8752924c3/small52973070d57f2.jpg",
+      "https://proxy12.online.ua/retsepty/r2-e8752924c3/big52973070d57f2.jpg",
     ingridients: [
       "крупный банан&nbsp;—  1&nbsp;шт.",
       " крупное зеленое яблоко&nbsp;—  1&nbsp;шт.",
@@ -139,7 +139,7 @@ export const fruitSalads = [
   {
     title: "Цитрусовый салат с медовой заправкой",
     image:
-      "https://proxy11.online.ua/retsepty/r3-1279310b6c/small529731d2b9aa5.jpg",
+      "https://proxy12.online.ua/retsepty/r3-1279310b6c/big529731d2b9aa5.jpg",
     ingridients: [
       "апельсины&nbsp;—  3&nbsp;шт.",
       " красный грейпфрут&nbsp;—  1&nbsp;шт.",
@@ -164,7 +164,7 @@ export const fruitSalads = [
   {
     title: "Фруктовый салат из дыни и ананаса",
     image:
-      "https://proxy11.online.ua/retsepty/r2-db75e8af17/small5297338716943.jpg",
+      "https://proxy12.online.ua/retsepty/r2-db75e8af17/big5297338716943.jpg",
     ingridients: [
       "ананас&nbsp;—  1/2&nbsp;шт. (около 300&nbsp;г)",
       " дыня&nbsp;—  1/2&nbsp;шт. (около 400&nbsp;г)",
@@ -197,7 +197,7 @@ export const fruitSalads = [
   {
     title: "Салат из экзотических фруктов с малиной",
     image:
-      "https://proxy11.online.ua/retsepty/r3-968c62b6fd/small5296f54b685e0.jpg",
+      "https://proxy12.online.ua/retsepty/r3-968c62b6fd/big5296f54b685e0.jpg",
     ingridients: [
       "средний ананас&nbsp;—  1/2&nbsp;шт.",
       " зеленый виноград&nbsp;—  150&nbsp;г",
@@ -241,7 +241,7 @@ export const fruitSalads = [
   {
     title: "Фруктовый салат в дыне",
     image:
-      "https://proxy11.online.ua/retsepty/r3-0bd039d47b/small5296f73db7b66.jpg",
+      "https://proxy12.online.ua/retsepty/r3-0bd039d47b/big5296f73db7b66.jpg",
     ingridients: [
       "небольшая спелая дыня&nbsp;—  1&nbsp;шт. (около 800&nbsp;г)",
       " крупные апельсины&nbsp;—  2&nbsp;шт.",
@@ -298,7 +298,7 @@ export const fruitSalads = [
   {
     title: "Зеленый фруктовый салат с мороженым",
     image:
-      "https://proxy11.online.ua/retsepty/r3-379f4dad18/small52972e6f4dffa.jpg",
+      "https://proxy11.online.ua/retsepty/r3-379f4dad18/big52972e6f4dffa.jpg",
     ingridients: [
       "зеленые яблоки&nbsp;—  2&nbsp;шт.",
       " киви&nbsp;—  3&nbsp;шт.",
@@ -340,7 +340,7 @@ export const fruitSalads = [
   {
     title: "Витаминный салат с кокосом",
     image:
-      "https://proxy11.online.ua/retsepty/r2-91c314dc07/small5296f60401d3c.jpg",
+      "https://proxy10.online.ua/retsepty/r2-91c314dc07/big5296f60401d3c.jpg",
     ingridients: [
       "сладкие апельсины (предпочтительно сорта нувель)&nbsp;—  2&nbsp;шт.",
       " крупные киви&nbsp;—  3&nbsp;шт.",
@@ -361,7 +361,7 @@ export const fruitSalads = [
   {
     title: "Фруктовый салат из хурмы и граната",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/003/063/107/small4d408ce8e1f02.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d3/003/063/107/big4d408ce8e1f02.jpg",
     ingridients: [
       "—  хурма&nbsp;—  3&nbsp;шт.",
       "—  гранат&nbsp;—  1&nbsp;шт.",
@@ -386,7 +386,7 @@ export const fruitSalads = [
   {
     title: "Фруктовый салат",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/210/069/small4ca0a63dee47b.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/210/069/big4ca0a63dee47b.jpg",
     ingridients: [
       "—  бананы&nbsp;—  1-2 шт. ",
       "—  яблоко&nbsp;—  1-2 шт. ",
@@ -431,7 +431,7 @@ export const fruitSalads = [
   {
     title: "Зеленый фруктовый салат",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/190/247/small4ca0a69ad6427.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d1/005/190/247/big4ca0a69ad6427.jpg",
     ingridients: [
       "—  половина дыни ",
       "—  виноград&nbsp;—  небольшая гроздь ",
@@ -461,7 +461,7 @@ export const fruitSalads = [
   {
     title: "Легкий салат с клубникой",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/022/073/small4caee67d9ff30.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d3/001/022/073/big4caee67d9ff30.jpg",
     ingridients: [
       "Огурцы 100 г ",
       "Персики 1 шт. ",
@@ -508,7 +508,7 @@ export const fruitSalads = [
   {
     title: "Фруктовый салат с сыром горганзола",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/212/131/small4ca0a6fa845ed.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d2/005/212/131/big4ca0a6fa845ed.jpg",
     ingridients: [
       "—  персик ",
       "—  груша ",
@@ -534,7 +534,7 @@ export const fruitSalads = [
   {
     title: "Фруктовый салатик",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/003/293/small4ca0a725bbba4.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/001/003/293/big4ca0a725bbba4.jpg",
     ingridients: [
       "—  апельсин&nbsp;—  1&nbsp;шт. ",
       "—  яблоко&nbsp;—  1&nbsp;шт. ",
@@ -577,7 +577,7 @@ export const fruitSalads = [
   {
     title: "Фруктовый салат с земляничным сиропом",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/162/109/small4cada1fca7cd9.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/162/109/big4cada1fca7cd9.jpg",
     ingridients: [
       "яблоко",
       "груша",
@@ -604,7 +604,7 @@ export const fruitSalads = [
   {
     title: "Салат 'Амур'",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/198/226/small4cada1ddebc74.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d1/005/198/226/big4cada1ddebc74.jpg",
     ingridients: [
       "200&nbsp;г. куриного отварного мяса (без кожи)",
       "1&nbsp;яблоко",
@@ -634,7 +634,7 @@ export const fruitSalads = [
   {
     title: "Фруктовый салат с ананасом",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/198/189/small4cada1cbd2dd2.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d1/005/198/189/big4cada1cbd2dd2.jpg",
 
     ingridients: [
       "ананас",

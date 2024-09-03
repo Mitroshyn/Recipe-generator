@@ -15,12 +15,12 @@ export function DishesList({ data, title, tags, type }) {
         <div className="flex flex-wrap justify-evenly">
           {data.map((item, index) => (
             <div
-              className="w-2/5 p-4"
+              className="w-2/5 p-4 cursor-pointer hover:bg-blue-200 mt-1"
               key={index}
               onClick={() => historyPush(`/dishes/${type}/${item.title}`)}
             >
-              <img src={item.image} alt={item.title} />
-              <h2 className="cursor-pointer hover:bg-blue-200 mt-1">{item.title}</h2>
+              <img className="w-28 h-24" src={item.image} alt={item.title} />
+              <h2 className="">{item.title}</h2>
             </div>
           ))}
         </div>

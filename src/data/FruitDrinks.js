@@ -2,7 +2,7 @@ export const fruitDrinks = [
   {
     title: "Яблочно-клюквенный компот с имбирем",
     image:
-      "https://proxy10.online.ua/retsepty/r3-1480aff2e2/small564e49e744c20.jpg",
+      "https://proxy10.online.ua/retsepty/r3-1480aff2e2/big564e49e744c20.jpg",
     ingridients: [
       "яблоки&nbsp;—  3-4 шт.",
       " клюква (замороженную можно не&nbsp;размораживать)&nbsp;—  250&nbsp;г",
@@ -26,7 +26,7 @@ export const fruitDrinks = [
   {
     title: "Компот из сухофруктов",
     image:
-      "https://proxy10.online.ua/retsepty/r3-ec9d94e04c/small5620f53f03130.jpg",
+      "https://proxy12.online.ua/retsepty/r3-ec9d94e04c/big5620f53f03130.jpg",
     ingridients: [
       "сухофрукты (яблоки, курага, изюм, груши)&nbsp;—  600&nbsp;г",
       "сахар&nbsp;—  150&nbsp;г",
@@ -47,7 +47,7 @@ export const fruitDrinks = [
   {
     title: "Виноградный компот с мятой",
     image:
-      "https://proxy10.online.ua/retsepty/r3-adb4288c74/small55fbd6418d45f.jpg",
+      "https://proxy11.online.ua/retsepty/r3-adb4288c74/big55fbd6418d45f.jpg",
     ingridients: [
       "вода&nbsp;—  3&nbsp;л",
       " виноград&nbsp;—  400&nbsp;г (чистый вес&nbsp;ягод)",
@@ -76,7 +76,7 @@ export const fruitDrinks = [
   {
     title: "Компот из клубники и клюквы",
     image:
-      "https://proxy10.online.ua/retsepty/r3-b062c95e7e/small5345b85cee7f3.jpg",
+      "https://proxy12.online.ua/retsepty/r3-b062c95e7e/big5345b85cee7f3.jpg",
     ingridients: [
       "клубника&nbsp;—  250&nbsp;г",
       " клюква (замороженные ягоды можно не&nbsp;размораживать)&nbsp;—  250&nbsp;г",
@@ -98,7 +98,7 @@ export const fruitDrinks = [
   {
     title: "Компот из черной смородины",
     image:
-      "https://proxy10.online.ua/retsepty/r2-6452a1d003/small5012f83e74cbb.jpg",
+      "https://proxy11.online.ua/retsepty/r2-6452a1d003/big5012f83e74cbb.jpg",
     ingridients: [
       "смородина&nbsp;—  600&nbsp;г",
       "вода&nbsp;—  1,5&nbsp;л",
@@ -126,7 +126,7 @@ export const fruitDrinks = [
   {
     title: "Морс из ягод",
     image:
-      "https://proxy10.online.ua/retsepty/r2-2c6cae6a7c/small4ff3035d84d0c.jpg",
+      "https://proxy12.online.ua/retsepty/r2-2c6cae6a7c/big4ff3035d84d0c.jpg",
     ingridients: [
       "ягоды (любые, больше разных ягод&nbsp;—  вкуснее)&nbsp;—  1&nbsp;стакан",
       "вода&nbsp;—  1&nbsp;л (примерно)",
@@ -146,7 +146,7 @@ export const fruitDrinks = [
   {
     title: "Морс из красной смородины",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/003/265/small4ca0978ae5d16.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d3/001/003/265/big4ca0978ae5d16.jpg",
     ingridients: [
       "—  красная смородина&nbsp;—  500&nbsp;г ",
       "—  вода кипяченая&nbsp;—  2&nbsp;л ",
@@ -167,7 +167,7 @@ export const fruitDrinks = [
   {
     title: "Клюквенный морс с медом",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/239/029/small4caedb2d45edb.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d1/005/239/029/big4caedb2d45edb.jpg",
     ingridients: [" Клюква 700&nbsp;г", "Мёд 300&nbsp;г"],
     cooking: [
       {
@@ -205,7 +205,7 @@ export const fruitDrinks = [
   {
     title: "Компот из слив",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/253/090/small4caedaf512aec.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/253/090/big4caedaf512aec.jpg",
     ingridients: ["Сливы красные 1000&nbsp;г&nbsp;", "Сахар-песок 250&nbsp;г"],
     cooking: [
       {
@@ -236,7 +236,7 @@ export const fruitDrinks = [
   {
     title: "Ягодный компот с медом",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/020/262/small4caedae0a7c60.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d3/001/020/262/big4caedae0a7c60.jpg",
     ingridients: [
       "Клубника 								300&nbsp;г&nbsp;															",
       "Вишня 								300&nbsp;г&nbsp;															",

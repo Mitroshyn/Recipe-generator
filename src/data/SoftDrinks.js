@@ -2,7 +2,7 @@ export const softDrinks = [
   {
     title: "Смузи с абрикосом,арбузом и базиликом",
     image:
-      "https://proxy12.online.ua/retsepty/r3-e783199bde/small579e2cb5aa5d9.jpg",
+      "https://proxy12.online.ua/retsepty/r3-e783199bde/big579e2cb5aa5d9.jpg",
     ingridients: [
       "Абрикос крупный 5 шт.",
       "Арбуз небольшой (без косточек) 1/4 шт.",
@@ -26,7 +26,7 @@ export const softDrinks = [
   {
     title: "Землянично-кофейный коктейль",
     image:
-      "https://proxy12.online.ua/retsepty/r2-8c6da3cbe3/small559fef7dd9474.jpg",
+      "https://proxy12.online.ua/retsepty/r2-8c6da3cbe3/big559fef7dd9474.jpg",
     ingridients: [
       "эспрессо&nbsp;—  2&nbsp;чашки",
       "сезонные ягоды&nbsp;—  500&nbsp;мл",
@@ -54,7 +54,7 @@ export const softDrinks = [
   {
     title: "Морковно-клюквенный коктейль",
     image:
-      "https://proxy12.online.ua/retsepty/r2-04013099be/small5593fa37a933b.jpg",
+      "https://proxy12.online.ua/retsepty/r2-04013099be/big5593fa37a933b.jpg",
     ingridients: [
       "морковный сок&nbsp;—  400&nbsp;мл",
       "клюквенный сок&nbsp;—  100&nbsp;мл",
@@ -76,7 +76,7 @@ export const softDrinks = [
   {
     title: "Арбузный фреш с мятой и лимоном",
     image:
-      "https://proxy12.online.ua/retsepty/r2-905efe5954/small5579577ab22ef.jpg",
+      "https://proxy11.online.ua/retsepty/r2-905efe5954/big5579577ab22ef.jpg",
     ingridients: [
       "арбуз&nbsp;—  несколько кусочков",
       "мята&nbsp;—  несколько листиков",
@@ -107,7 +107,7 @@ export const softDrinks = [
   {
     title: "Лимонад 'Тархун'",
     image:
-      "https://proxy12.online.ua/retsepty/r2-dc826da469/small556da816cdd7a.jpg",
+      "https://proxy12.online.ua/retsepty/r2-dc826da469/big556da816cdd7a.jpg",
     ingridients: [
       "    тархун	(свежий)&nbsp;—  70&nbsp;г",
       "    лимон	—  2&nbsp;шт.",
@@ -138,7 +138,7 @@ export const softDrinks = [
   {
     title: "Горячий белый шоколад с клубникой",
     image:
-      "https://proxy12.online.ua/retsepty/r2-8d941bf81e/small5307cfe868f3c.jpg",
+      "https://proxy12.online.ua/retsepty/r2-8d941bf81e/big5307cfe868f3c.jpg",
     ingridients: [
       "замороженная клубника&nbsp;—  120&nbsp;г",
       " сахарная пудра&nbsp;—  100&nbsp;г",
@@ -185,7 +185,7 @@ export const softDrinks = [
   {
     title: "Апельсиново-ананасовый коктейль с мороженым",
     image:
-      "https://proxy12.online.ua/retsepty/r2-776d03e4bc/small51a34934249ae.jpg",
+      "https://proxy11.online.ua/retsepty/r2-776d03e4bc/big51a34934249ae.jpg",
     ingridients: [
       "    охлажденный апельсиновый сок&nbsp;—  1/3&nbsp;стакана",
       "    охлажденный ананасовый сок&nbsp;—  1/3&nbsp;стакана",
@@ -205,7 +205,7 @@ export const softDrinks = [
   {
     title: "Напиток в яблоке",
     image:
-      "https://proxy12.online.ua/retsepty/r2-b63fb5ffee/small51a346754fea1.jpg",
+      "https://proxy11.online.ua/retsepty/r2-b63fb5ffee/big51a346754fea1.jpg",
     ingridients: [
       "    яблоки&nbsp;—  12&nbsp;шт.",
       "    апельсин&nbsp;—  1&nbsp;шт.",
@@ -242,7 +242,7 @@ export const softDrinks = [
   {
     title: "Напиток с клубникой и базиликом",
     image:
-      "https://proxy12.online.ua/retsepty/r3-690eb79e72/small50167d2e6adb4.jpg",
+      "https://proxy12.online.ua/retsepty/r3-690eb79e72/big50167d2e6adb4.jpg",
     ingridients: [
       "лимонный сок&nbsp;—  2&nbsp;ст.л.",
       "сахар&nbsp;—  1&nbsp;ст.л.",
@@ -266,7 +266,7 @@ export const softDrinks = [
   {
     title: "Кокосовый коктейль с ягодами",
     image:
-      "https://proxy12.online.ua/retsepty/r3-297a351fcc/small4f23f9b483dd7.jpg",
+      "https://proxy12.online.ua/retsepty/r3-297a351fcc/big4f23f9b483dd7.jpg",
     ingridients: [
       "Клубника 	150&nbsp;г&nbsp;	",
       "Черника 	200&nbsp;г",
@@ -314,7 +314,7 @@ export const softDrinks = [
   {
     title: "Зеленый коктейль с грушей и голубикой",
     image:
-      "https://proxy12.online.ua/retsepty/r3-079769562d/small4f23f9666902c.jpg",
+      "https://proxy10.online.ua/retsepty/r3-079769562d/big4f23f9666902c.jpg",
     ingridients: [
       "Груши (140г) 	2&nbsp;шт. 	",
       "Салат зеленый 	30&nbsp;г",
@@ -353,7 +353,7 @@ export const softDrinks = [
   {
     title: "Коктейль клубника со сливками",
     image:
-      "https://proxy12.online.ua/retsepty/r3-785e17eaea/small4f23f986c77e2.jpg",
+      "https://proxy10.online.ua/retsepty/r3-785e17eaea/big4f23f986c77e2.jpg",
     ingridients: [
       "Клубника 	500&nbsp;г&nbsp;	",
       "Сливки 10-11% 	160&nbsp;мл",
@@ -391,7 +391,7 @@ export const softDrinks = [
   {
     title: "Зеленый коктейль",
     image:
-      "https://proxy11.online.ua/retsepty/r3-7c53b35b96/small4f23f99d90511.jpg",
+      "https://proxy11.online.ua/retsepty/r3-7c53b35b96/big4f23f99d90511.jpg",
     ingridients: [
       "Салат ромэн 	50&nbsp;г&nbsp;",
       "	Нектарины 	200&nbsp;г",
@@ -427,7 +427,7 @@ export const softDrinks = [
   {
     title: "Овощной коктейль",
     image:
-      "https://proxy11.online.ua/retsepty/r3-2944b28498/small4f23f971c451a.jpg",
+      "https://proxy11.online.ua/retsepty/r3-2944b28498/big4f23f971c451a.jpg",
     ingridients: [
       "Свекла 	300&nbsp;г&nbsp;",
       "	Морковь 	500&nbsp;г",
@@ -468,7 +468,7 @@ export const softDrinks = [
   {
     title: "Коктейль 'Мятный джулеп'",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/006/238/112/small4dd58b6f41f49.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d3/006/238/112/big4dd58b6f41f49.jpg",
     ingridients: [
       "минеральная вода&nbsp;—  1&nbsp;л",
       "мята&nbsp;—  4&nbsp;веточки",
@@ -497,7 +497,7 @@ export const softDrinks = [
   {
     title: "Сангрита",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/253/105/small4caedb3775a1a.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/253/105/big4caedb3775a1a.jpg",
     ingridients: [
       "Помидоры красные 								700&nbsp;г&nbsp;															",
       "Апельсины 								3&nbsp;шт. 															",
@@ -542,7 +542,7 @@ export const softDrinks = [
   {
     title: "Безалкогольный мохито",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d1/005/239/026/small4caedb2330cbc.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d1/005/239/026/big4caedb2330cbc.jpg",
     ingridients: [
       " Мята свежая 40 г ",
       "Лаймы 1 шт. ",
@@ -568,7 +568,7 @@ export const softDrinks = [
   {
     title: "Тропический коктейль",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d1/005/239/019/small4caedb0835058.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d1/005/239/019/big4caedb0835058.jpg",
     ingridients: [
       "Манго 								1&nbsp;шт. 															",
       "Киви 								1&nbsp;шт. 															",
@@ -592,7 +592,7 @@ export const softDrinks = [
   {
     title: "Фруктовый коктейль",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d1/005/239/011/small4caedacf8d126.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d1/005/239/011/big4caedacf8d126.jpg",
     ingridients: [
       "Бананы 								1&nbsp;шт. 															",
       "Киви 								2&nbsp;шт. 															",
@@ -636,7 +636,7 @@ export const softDrinks = [
   {
     title: "Клубничный коктейль",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/253/082/small4caedac87329d.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d2/005/253/082/big4caedac87329d.jpg",
     ingridients: [
       " Ананасовый сок 200 мл ",
       "Персиковый сок (нектар) 200 мл ",
@@ -666,7 +666,7 @@ export const softDrinks = [
   {
     title: "Ягодный коктейль с бананом",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/003/247/small4ca088db8f03a.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d3/001/003/247/big4ca088db8f03a.jpg",
     ingridients: [
       "—  половина банана ",
       "—  свежие или&nbsp;замороженные ягоды (клубника, черника, малина) ",
@@ -686,7 +686,7 @@ export const softDrinks = [
   {
     title: "Манго ласси",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d1/005/198/168/small4cada1bd061a7.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d1/005/198/168/big4cada1bd061a7.jpg",
     ingridients: [
       "1&nbsp;среднего размера манго",
       "50&nbsp;мл. холодной воды",
@@ -706,24 +706,6 @@ export const softDrinks = [
           "Добавить к&nbsp;манго воду, йогурт и&nbsp;сок лимона. Взбить.",
       },
       { description: "По желанию подавать можно со&nbsp;льдом." },
-    ],
-  },
-  {
-    title: "",
-    image: "",
-    ingridients: ["", "", "", "", "", "", "", "", ""],
-    cooking: [
-      {
-        description: "",
-      },
-      {
-        description: "",
-      },
-      { description: "" },
-      { description: "" },
-      {
-        description: "",
-      },
     ],
   },
 ];

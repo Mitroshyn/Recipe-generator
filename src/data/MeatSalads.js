@@ -2,7 +2,7 @@ export const meatSalads = [
   {
     title: "Салат с кукурузой и курицей",
     image:
-      "https://proxy11.online.ua/retsepty/r3-1c437649eb/small5897afa08b80d.png",
+      "https://proxy12.online.ua/retsepty/r3-1c437649eb/big5897afa08b80d.png",
     ingridients: [
       "2&nbsp;куриных филе&nbsp;",
       "1&nbsp;банка консервированной кукурузы&nbsp;",
@@ -43,7 +43,7 @@ export const meatSalads = [
   {
     title: "Салат из рукколы с куриной печенкой",
     image:
-      "https://proxy11.online.ua/retsepty/r3-023ebbd7c7/small5827086769534.png",
+      "https://proxy11.online.ua/retsepty/r3-023ebbd7c7/big5827086769534.png",
     ingridients: [
       "Куриная печень 150 г",
       "Руккола 100&nbsp;г",
@@ -91,7 +91,7 @@ export const meatSalads = [
   {
     title: "Теплый салат с говядиной и грушей",
     image:
-      "https://proxy11.online.ua/retsepty/r2-8178f7ae38/small5826fec3a2cb2.png",
+      "https://proxy10.online.ua/retsepty/r2-8178f7ae38/big5826fec3a2cb2.png",
     ingridients: [
       "Азу из говядины 200 г",
       "Помидоры 2 шт.",
@@ -129,9 +129,9 @@ export const meatSalads = [
     ],
   },
   {
-    title: "Салат из из утки с припущенными помидорами черри",
+    title: "Салат из утки с припущенными помидорами черри",
     image:
-      "https://proxy11.online.ua/retsepty/r2-24b9b39d7a/small5551c49e4e85a.jpg",
+      "https://proxy11.online.ua/retsepty/r2-24b9b39d7a/big5551c49e4e85a.jpg",
     ingridients: [
       "филе утиных грудок&nbsp;—  2&nbsp;шт.",
       " соль и&nbsp;перец&nbsp;—  по&nbsp;вкусу",
@@ -202,7 +202,7 @@ export const meatSalads = [
   {
     title: "Салат с курицей и яичными блинчиками",
     image:
-      "https://proxy11.online.ua/retsepty/r2-c3df5ddd65/small5554c22fcc21a.jpg",
+      "https://proxy12.online.ua/retsepty/r2-c3df5ddd65/big5554c22fcc21a.jpg",
     ingridients: [
       "куриное филе&nbsp;—  500&nbsp;г",
       "яйца&nbsp;—  7&nbsp;шт.",
@@ -263,7 +263,7 @@ export const meatSalads = [
   {
     title: "Салат 'Пасхальный венок'",
     image:
-      "https://proxy11.online.ua/retsepty/r2-074e31459d/small5523f1e9c4fb0.jpg",
+      "https://proxy12.online.ua/retsepty/r2-074e31459d/big5523f1e9c4fb0.jpg",
     ingridients: [
       "    картофель отварной&nbsp;—  2&nbsp;шт.",
       "    шампиньоны&nbsp;—  300&nbsp;г",
@@ -322,7 +322,7 @@ export const meatSalads = [
   {
     title: "Салат из утки с овощами и соусом наршараб",
     image:
-      "https://proxy11.online.ua/retsepty/r2-68e918eca4/small544035651389e.jpg",
+      "https://proxy12.online.ua/retsepty/r2-68e918eca4/big544035651389e.jpg",
     ingridients: [
       "утиное филе с&nbsp;кожей&nbsp;—  4&nbsp;шт.",
       " небольшая розетка брокколи (около 250&nbsp;г)",
@@ -404,7 +404,7 @@ export const meatSalads = [
   {
     title: "Теплый салат с острой говядиной и сладким перцем",
     image:
-      "https://proxy11.online.ua/retsepty/r3-4c8c6905a8/small52961cb20aee0.jpg",
+      "https://proxy10.online.ua/retsepty/r3-4c8c6905a8/big52961cb20aee0.jpg",
     ingridients: [
       "говяжья вырезка, нарезанная на&nbsp;тонкие ломтики&nbsp;—  400&nbsp;г",
       " чеснок&nbsp;—  2&nbsp;зубчика",
@@ -485,7 +485,7 @@ export const meatSalads = [
   {
     title: "Салат с курицей,вялеными томатами и жареным сыром",
     image:
-      "https://proxy11.online.ua/retsepty/r3-c41c474a8f/small5296041ac053d.jpg",
+      "https://proxy10.online.ua/retsepty/r3-c41c474a8f/big5296041ac053d.jpg",
     ingridients: [
       "крупное куриное филе (250-300 г)&nbsp;—  1&nbsp;шт.",
       " небольшой сладкий перец&nbsp;—  1&nbsp;шт.",
@@ -542,7 +542,7 @@ export const meatSalads = [
   {
     title: "Пикантный салат с курицей и виноградом",
     image:
-      "https://proxy11.online.ua/retsepty/r3-85ab383fe1/small541c2e133d8e2.jpg",
+      "https://proxy11.online.ua/retsepty/r3-85ab383fe1/big541c2e133d8e2.jpg",
     ingridients: [
       " копченое куриное бедрышко&nbsp;—  1&nbsp;шт.",
       "белый виноград&nbsp;—  горсть",
@@ -577,7 +577,7 @@ export const meatSalads = [
   {
     title: "Теплый салат из говядины и овощей",
     image:
-      "https://proxy11.online.ua/retsepty/r2-67ee1ba901/small5406e41c0466c.jpg",
+      "https://proxy10.online.ua/retsepty/r2-67ee1ba901/big5406e41c0466c.jpg",
     ingridients: [
       "филе говядины&nbsp;—  200&nbsp;г",
       "свежий шпинат&nbsp;—  150&nbsp;г",
@@ -617,7 +617,7 @@ export const meatSalads = [
   {
     title: "Салат с ростбифом и припущенными томатами черри",
     image:
-      "https://proxy11.online.ua/retsepty/r3-908f212a29/small5357849fc53cf.jpg",
+      "https://proxy10.online.ua/retsepty/r3-908f212a29/big5357849fc53cf.jpg",
     ingridients: [
       "говяжий толстый край (он же&nbsp;длиннейшая мышца)&nbsp;—  500&nbsp;г",
       " соль и&nbsp;перец&nbsp;—  по&nbsp;вкусу",
@@ -685,7 +685,7 @@ export const meatSalads = [
   {
     title: "Салат с уткой и печеным сладким перцем",
     image:
-      "https://proxy12.online.ua/retsepty/r3-2c90fc52e2/small534709d8dda6e.jpg",
+      "https://proxy11.online.ua/retsepty/r3-2c90fc52e2/big534709d8dda6e.jpg",
     ingridients: [
       "филе утиной грудки&nbsp;—  2&nbsp;шт. (около 230&nbsp;г каждое)",
       " крупный сладкий перец&nbsp;—  1&nbsp;шт.",
@@ -750,7 +750,7 @@ export const meatSalads = [
   {
     title: "Салат из курицы с цуккини и помидорами",
     image:
-      "https://proxy12.online.ua/retsepty/r2-88ed2804f8/small5296fe806a905.jpg",
+      "https://proxy12.online.ua/retsepty/r2-88ed2804f8/big5296fe806a905.jpg",
     ingridients: [
       "отварные куриные филе&nbsp;—  2&nbsp;шт.",
       " цуккини&nbsp;—  1&nbsp;шт. (около 250&nbsp;г)",
@@ -794,7 +794,7 @@ export const meatSalads = [
   {
     title: "Салат из рукколы с уткой и грушей",
     image:
-      "https://proxy12.online.ua/retsepty/r3-f5691ca9b7/small529717c19029a.jpg",
+      "https://proxy11.online.ua/retsepty/r3-f5691ca9b7/big529717c19029a.jpg",
     ingridients: [
       "утиное филе с&nbsp;кожей&nbsp;—  4&nbsp;шт.",
       " средняя груша&nbsp;—  1&nbsp;шт.",
@@ -850,7 +850,7 @@ export const meatSalads = [
   {
     title: "Азиатский салат с острой говядиной",
     image:
-      "https://proxy12.online.ua/retsepty/r3-f3ff24ac60/small529624a1a7ab5.jpg",
+      "https://proxy11.online.ua/retsepty/r3-f3ff24ac60/big529624a1a7ab5.jpg",
     ingridients: [
       "говяжья вырезка&nbsp;—  250&nbsp;г",
       " огурцы&nbsp;—  2-3 шт.",
@@ -902,7 +902,7 @@ export const meatSalads = [
   {
     title: "Салат со стейком и медово-бальзамической заправкой",
     image:
-      "https://proxy12.online.ua/retsepty/r2-53db780cd9/small529622ad01688.jpg",
+      "https://proxy12.online.ua/retsepty/r2-53db780cd9/big529622ad01688.jpg",
     ingridients: [
       "говяжий стейк из&nbsp;толстого края или&nbsp;вырезки&nbsp;—  1&nbsp;шт. (около 300-350 г)",
       " огурец&nbsp;—  1&nbsp;шт.",
@@ -952,7 +952,7 @@ export const meatSalads = [
   {
     title: "Салат из курицы и помидоров",
     image:
-      "https://proxy11.online.ua/retsepty/r3-908f212a29/small5357849fc53cf.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d6adbddd92/big5296f5b8535ee.jpg",
     ingridients: [
       "помидоры&nbsp;—  4&nbsp;шт.",
       " сельдерей&nbsp;—  1&nbsp;стебель",
@@ -1002,7 +1002,7 @@ export const meatSalads = [
   {
     title: "Салат с курицей,ананасом и арахисовой заправкой",
     image:
-      "https://proxy11.online.ua/retsepty/r3-908f212a29/small5357849fc53cf.jpg",
+      "https://proxy11.online.ua/retsepty/r2-40e1810113/big52970d20b312b.jpg",
     ingridients: [
       "куриное филе&nbsp;—  350&nbsp;г",
       " картофель&nbsp;—  400&nbsp;г",
@@ -1059,7 +1059,7 @@ export const meatSalads = [
   {
     title: "Салат из индейки в ананасе",
     image:
-      "https://proxy12.online.ua/retsepty/r3-44e93693ed/small5297089c610aa.jpg",
+      "https://proxy12.online.ua/retsepty/r3-44e93693ed/big5297089c610aa.jpg",
     ingridients: [
       "цветная капуста&nbsp;—  300&nbsp;г",
       " зеленый лук&nbsp;—  10&nbsp;перьев",
@@ -1130,7 +1130,7 @@ export const meatSalads = [
   {
     title: "Куриный салат",
     image:
-      "https://proxy12.online.ua/retsepty/r2-278130849b/small528256d8a7c65.jpg",
+      "https://proxy12.online.ua/retsepty/r2-278130849b/big528256d8a7c65.jpg",
     ingridients: [
       "китайский салат (китайская капуста)&nbsp;—  300&nbsp;г",
       "перец сладкий красный (паприка)&nbsp;—  1&nbsp;шт.",
@@ -1172,7 +1172,7 @@ export const meatSalads = [
   {
     title: "Салат 'Итальянский'",
     image:
-      "https://proxy12.online.ua/retsepty/r3-45520463e0/small527cf9294d59e.jpg",
+      "https://proxy11.online.ua/retsepty/r3-45520463e0/big527cf9294d59e.jpg",
     ingridients: [
       "куриная грудка копченая 	—  200&nbsp;г",
       "лук репчатый&nbsp;—  1&nbsp;шт.",
@@ -1214,7 +1214,7 @@ export const meatSalads = [
   {
     title: "Куриный салат с грибами",
     image:
-      "https://proxy12.online.ua/retsepty/r2-7e5974e3cb/small5257f2019a753.jpg",
+      "https://proxy11.online.ua/retsepty/r2-7e5974e3cb/big5257f2019a753.jpg",
     ingridients: [
       "куриное филе (отварное)&nbsp;—  200&nbsp;г",
       "ветчина&nbsp;—  70&nbsp;г",
@@ -1269,7 +1269,7 @@ export const meatSalads = [
   {
     title: "Салат с копченой курицей,черносливом и авокадо",
     image:
-      "https://proxy12.online.ua/retsepty/r2-4fb9a9b988/small524998ca38cd2.jpg",
+      "https://proxy11.online.ua/retsepty/r2-4fb9a9b988/big524998ca38cd2.jpg",
     ingridients: [
       "копченая курица (у меня грудка)&nbsp;—  350&nbsp;г",
       "чернослив&nbsp;—  100&nbsp;г",
@@ -1313,7 +1313,7 @@ export const meatSalads = [
   {
     title: "Салат с курицей и манго",
     image:
-      "https://proxy12.online.ua/retsepty/r2-72a991cc36/small51a7007ed6386.JPG",
+      "https://proxy11.online.ua/retsepty/r2-72a991cc36/big51a7007ed6386.JPG",
     ingridients: [
       "Куриная грудка 	500&nbsp;г&nbsp;	",
       "Соль 	1&nbsp;ч.л.",
@@ -1367,7 +1367,7 @@ export const meatSalads = [
   {
     title: "Салат с курицей-гриль",
     image:
-      "https://proxy12.online.ua/retsepty/r2-52f0debd86/small5203ae314d919.jpg",
+      "https://proxy12.online.ua/retsepty/r2-52f0debd86/big5203ae314d919.jpg",
     ingridients: [
       "салат листовой&nbsp;—  1-2 головки",
       "красный перец&nbsp;—  1&nbsp;шт.",
@@ -1443,7 +1443,7 @@ export const meatSalads = [
   {
     title: "Салат из мяса на гриле",
     image:
-      "https://proxy12.online.ua/retsepty/r2-1595c17f47/small51ff90f598c38.jpg",
+      "https://proxy12.online.ua/retsepty/r2-1595c17f47/big51ff90f598c38.jpg",
     ingridients: [
       "майонез или&nbsp;йогуртовый соус&nbsp;—  350&nbsp;г",
       "домашняя аджика&nbsp;—  300&nbsp;г",
@@ -1536,7 +1536,7 @@ export const meatSalads = [
   {
     title: "Салат с нежной говядиной",
     image:
-      "https://proxy12.online.ua/retsepty/r2-ba745a4d05/small51a5ca75e1f03.jpg",
+      "https://proxy11.online.ua/retsepty/r2-ba745a4d05/big51a5ca75e1f03.jpg",
     ingridients: [
       "Говяжья вырезка 	400&nbsp;г&nbsp;",
       "	Вустерский соус 	80&nbsp;мл",
@@ -1605,7 +1605,7 @@ export const meatSalads = [
   {
     title: "Салат с говядиной",
     image:
-      "https://proxy12.online.ua/retsepty/r3-302342d128/small51e930708d95d.jpg",
+      "https://proxy10.online.ua/retsepty/r3-302342d128/big51e930708d95d.jpg",
     ingridients: [
       "Говяжья вырезка 	300&nbsp;г&nbsp;	",
       "Соль 	½ ч.л.",
@@ -1667,7 +1667,7 @@ export const meatSalads = [
   {
     title: "Салат 'Тбилиси'",
     image:
-      "https://proxy12.online.ua/retsepty/r2-64cfe9a423/small519cb86c120ca.jpg",
+      "https://proxy12.online.ua/retsepty/r2-64cfe9a423/big519cb86c120ca.jpg",
     ingridients: [
       "красная фасоль&nbsp;—  1&nbsp;банка",
       "отварная говядина&nbsp;—  200-250 г",
@@ -1726,7 +1726,7 @@ export const meatSalads = [
   {
     title: "Куриный салат с помидорами",
     image:
-      "https://proxy12.online.ua/retsepty/r2-2475466ca9/small5194ac6963c2e.jpg",
+      "https://proxy12.online.ua/retsepty/r2-2475466ca9/big5194ac6963c2e.jpg",
     ingridients: [
       "куриные грудки&nbsp;—  2&nbsp;шт.",
       "помидоры, очищенные от&nbsp;кожуры&nbsp;—  2&nbsp;шт.",
@@ -1769,7 +1769,7 @@ export const meatSalads = [
   {
     title: "Салат 'Весенний'",
     image:
-      "https://proxy12.online.ua/retsepty/r3-4e445aa547/small515427ea51ad0.jpg",
+      "https://proxy10.online.ua/retsepty/r3-4e445aa547/big515427ea51ad0.jpg",
     ingridients: [
       "куриное филе&nbsp;—  300&nbsp;г",
       "огурцы&nbsp;—  150&nbsp;г",
@@ -1800,7 +1800,7 @@ export const meatSalads = [
   {
     title: "Салат 'Ягодка'",
     image:
-      "https://proxy12.online.ua/retsepty/r2-98b3586ba7/small51223ddbe6523.jpg",
+      "https://proxy10.online.ua/retsepty/r2-98b3586ba7/big51223ddbe6523.jpg",
     ingridients: [
       "    картофель&nbsp;—  3-4 шт.",
       "    копченая курица&nbsp;—  200&nbsp;г",
@@ -1836,7 +1836,7 @@ export const meatSalads = [
   {
     title: "Мясной салат в корзинках",
     image:
-      "https://proxy12.online.ua/retsepty/r3-10a65fb832/small50d36ff2efe04.jpg",
+      "https://proxy11.online.ua/retsepty/r3-10a65fb832/big50d36ff2efe04.jpg",
     ingridients: [
       "отварное мясо (говядина)&nbsp;—  300&nbsp;г",
       "морковь&nbsp;—  2&nbsp;шт.",
@@ -1883,7 +1883,7 @@ export const meatSalads = [
   {
     title: "Салат с копченой курицей",
     image:
-      "https://proxy12.online.ua/retsepty/r2-d30bb8c743/small50b5f9c301bed.jpg",
+      "https://proxy10.online.ua/retsepty/r2-d30bb8c743/big50b5f9c301bed.jpg",
     ingridients: [
       "копченая курица&nbsp;—  200&nbsp;г",
       "консервированная кукуруза&nbsp;—  2/3&nbsp;банки",
@@ -1911,7 +1911,7 @@ export const meatSalads = [
   {
     title: "Салат с курицей и грибами",
     image:
-      "https://proxy12.online.ua/retsepty/r2-beb37624f9/small509c0eefd3cd1.jpg",
+      "https://proxy11.online.ua/retsepty/r2-beb37624f9/big509c0eefd3cd1.jpg",
     ingridients: [
       "вареный картофель&nbsp;—  2&nbsp;шт.",
       "куриная грудка&nbsp;—  1/2&nbsp;шт.",
@@ -1949,7 +1949,7 @@ export const meatSalads = [
   {
     title: "Куриный салат с фасолью",
     image:
-      "https://proxy12.online.ua/retsepty/r2-288361807e/small5076b0d73ef6d.jpg",
+      "https://proxy10.online.ua/retsepty/r2-288361807e/big5076b0d73ef6d.jpg",
     ingridients: [
       "отварное куриное филе&nbsp;—  300&nbsp;г",
       "фасоль (отварная или&nbsp;консервированная)&nbsp;—  200&nbsp;г",
@@ -1976,7 +1976,7 @@ export const meatSalads = [
   {
     title: "Салат с курицей и виноградом",
     image:
-      "https://proxy12.online.ua/retsepty/r2-02b6c12f7b/small4feae03aa7cca.jpg",
+      "https://proxy12.online.ua/retsepty/r2-02b6c12f7b/big4feae03aa7cca.jpg",
     ingridients: [
       "копченная курица&nbsp;—  1&nbsp;грудка",
       "орехи (пекан / грецкий)&nbsp;—  60&nbsp;г",
@@ -2015,7 +2015,7 @@ export const meatSalads = [
   {
     title: "Салат с курицей и авокадо",
     image:
-      "https://proxy12.online.ua/retsepty/r2-321da61e0f/small4fe1f80fe1037.jpg",
+      "https://proxy11.online.ua/retsepty/r2-321da61e0f/big4fe1f80fe1037.jpg",
     ingridients: [
       "куриное филе&nbsp;—  300&nbsp;г",
       "авокадо&nbsp;—  1&nbsp;шт.",
@@ -2060,7 +2060,7 @@ export const meatSalads = [
   {
     title: "Салат с курицей и крабовыми палочками",
     image:
-      "https://proxy10.online.ua/retsepty/r3-ff6437ee1a/small4f2400fc81ab0.jpg",
+      "https://proxy11.online.ua/retsepty/r3-ff6437ee1a/big4f2400fc81ab0.jpg",
     ingridients: [
       "Куриное филе 	300&nbsp;г&nbsp;	",
       "Перец сладкий желтый 	1&nbsp;шт.",
@@ -2123,7 +2123,7 @@ export const meatSalads = [
   {
     title: "Салат 'Новогодний'",
     image:
-      "https://proxy10.online.ua/retsepty/r3-b2ead1028f/small4f1093ded9985.jpg",
+      "https://proxy11.online.ua/retsepty/r3-b2ead1028f/big4f1093ded9985.jpg",
     ingridients: [
       "куриное мясо&nbsp;—  300-400 г",
       "лук репчатый&nbsp;—  1&nbsp;шт.",
@@ -2148,7 +2148,7 @@ export const meatSalads = [
   {
     title: "Салат с куриным мясом",
     image:
-      "https://proxy11.online.ua/retsepty/r3-a3d538e91c/small4f0ca6e3b71a1.jpg",
+      "https://proxy11.online.ua/retsepty/r3-a3d538e91c/big4f0ca6e3b71a1.jpg",
     ingridients: [
       " куриное филе&nbsp;—  200&nbsp;г",
       "отварной картофель&nbsp;—  50&nbsp;г ",
@@ -2181,7 +2181,7 @@ export const meatSalads = [
   {
     title: "Куриный салат с виноградом",
     image:
-      "https://proxy11.online.ua/retsepty/r3-5ddb844bcf/small4eea6d549f81d.jpg",
+      "https://proxy10.online.ua/retsepty/r3-5ddb844bcf/big4eea6d549f81d.jpg",
     ingridients: [
       "яйца&nbsp;—  3&nbsp;шт.",
       "куриное филе&nbsp;—  300&nbsp;г",
@@ -2205,7 +2205,7 @@ export const meatSalads = [
   {
     title: "Мясной салат с маслинами",
     image:
-      "https://proxy11.online.ua/retsepty/r3-68b94f6816/small4ee139018e644.jpg",
+      "https://proxy12.online.ua/retsepty/r3-68b94f6816/big4ee139018e644.jpg",
     ingridients: [
       "ветчина&nbsp;—  50&nbsp;г",
       "говядина отварная&nbsp;—  50&nbsp;г",
@@ -2239,7 +2239,7 @@ export const meatSalads = [
   {
     title: "Салат 'Прага'",
     image:
-      "https://proxy10.online.ua/retsepty/r3-ff6437ee1a/small4f2400fc81ab0.jpg",
+      "https://proxy10.online.ua/retsepty/r3-767d6db419/big4edfe1202e1e8.jpg",
     ingridients: [
       "курица&nbsp;—  300&nbsp;г",
       "огурцы соленые&nbsp;—  150&nbsp;г",
@@ -2288,7 +2288,7 @@ export const meatSalads = [
   {
     title: "Салат с копченой куриной грудкой",
     image:
-      "https://proxy11.online.ua/retsepty/r3-660c2013fd/small4ed3f3d6aed8c.jpg",
+      "https://proxy10.online.ua/retsepty/r3-660c2013fd/big4ed3f3d6aed8c.jpg",
     ingridients: [
       "копченая куриная грудка&nbsp;—  300&nbsp;г",
       "чернослив&nbsp;—  200&nbsp;г",
@@ -2343,7 +2343,7 @@ export const meatSalads = [
   {
     title: "Салат с куриной грудкой и яблоками",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/009/032/289/small4e6926ebf0a76.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d3/009/032/289/big4e6926ebf0a76.jpg",
     ingridients: [
       "филе куриное&nbsp;—  2&nbsp;шт.",
       "    яблоко (кисло-сладкое)&nbsp;—  1&nbsp;шт.",
@@ -2364,7 +2364,7 @@ export const meatSalads = [
   {
     title: "Салат 'Инь Янь'",
     image:
-      "https://proxy12.online.ua/retsepty/r3-d3/003/125/160/small4d558cc69fdb6.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/003/125/160/big4d558cc69fdb6.jpg",
     ingridients: [
       "—  куриное филе&nbsp;—  300&nbsp;г",
       "—  яйца&nbsp;—  3&nbsp;шт.",
@@ -2401,7 +2401,7 @@ export const meatSalads = [
   {
     title: "Салат 'Сердце'",
     image:
-      "https://proxy12.online.ua/retsepty/r3-d3/003/125/113/small4d558279d5a51.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/003/125/113/big4d558279d5a51.jpg",
     ingridients: [
       "—  куриная грудка (вареная)&nbsp;—  1&nbsp;шт.",
       "—  яблоки (кисло-сладкие)&nbsp;—  1-2 шт.",
@@ -2452,7 +2452,7 @@ export const meatSalads = [
   {
     title: "Салат 'Морская звезда'",
     image:
-      "https://proxy12.online.ua/retsepty/r3-d3/003/071/232/small4d52f9afa31f3.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/003/071/232/big4d52f9afa31f3.jpg",
     ingridients: [
       "вареная куриная грудка&nbsp;—  250&nbsp;г ",
       "легкий майонез&nbsp;—  3&nbsp;ст. лож. ",
@@ -2473,7 +2473,7 @@ export const meatSalads = [
   {
     title: "Салат 'Подсолнух'",
     image:
-      "https://proxy12.online.ua/retsepty/r3-d3/002/249/165/small4d25bea1683a5.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/002/249/165/big4d25bea1683a5.jpg",
     ingridients: [
       "—  филе куриное отварное, 2&nbsp;кусочка;",
       "—  яйца куриные вареные, 3&nbsp;шт;",
@@ -2523,7 +2523,7 @@ export const meatSalads = [
   {
     title: "Салат 'Дубок'",
     image:
-      "https://proxy12.online.ua/retsepty/r3-d1/006/163/158/small4ceec53ce18fe.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d1/006/163/158/big4ceec53ce18fe.jpg",
     ingridients: [
       "—  шампиньоны&nbsp;—  500&nbsp;г",
       "—  мясо отварное (или ветчина)&nbsp;—  300&nbsp;г",
@@ -2556,7 +2556,7 @@ export const meatSalads = [
   {
     title: "Салат из языка",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/016/046/small4cac9f128e055.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d3/001/016/046/big4cac9f128e055.jpg",
     ingridients: [
       "—  язык говяжий или&nbsp;свиной (отварной)&nbsp;—  300-400 г&nbsp;",
       "—  маринованные огурцы&nbsp;—  3-4 шт. ",
@@ -2580,7 +2580,7 @@ export const meatSalads = [
   {
     title: "Салат 'Арагонский'",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/003/277/small4ca0a070a9f7b.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d3/001/003/277/big4ca0a070a9f7b.jpg",
     ingridients: [
       "—  ветчина&nbsp;—  150&nbsp;г ",
       "—  яйца&nbsp;—  4&nbsp;шт. ",
@@ -2624,7 +2624,7 @@ export const meatSalads = [
   {
     title: "Салат из индейки,авокадо и яблока",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/210/057/small4ca0a0e64d13b.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/210/057/big4ca0a0e64d13b.jpg",
     ingridients: [
       "—  филе индейки&nbsp;—  300&nbsp;г ",
       "—  листья салата ",
@@ -2675,7 +2675,7 @@ export const meatSalads = [
   {
     title: "Ямайский куриный салат",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d1/005/240/199/small4caee75450d4e.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d1/005/240/199/big4caee75450d4e.jpg",
     ingridients: [
       "Куриная грудка 								400&nbsp;г&nbsp;															",
       "Растительное масло 								20&nbsp;мл&nbsp;															",
@@ -2743,7 +2743,7 @@ export const meatSalads = [
   {
     title: "Салат 'Ташкент'",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/254/215/small4caee7267753e.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/254/215/big4caee7267753e.jpg",
     ingridients: [
       "Говяжья вырезка 								250&nbsp;г&nbsp;															",
       "Яйцо куриное 								2&nbsp;шт. 															",
@@ -2791,7 +2791,7 @@ export const meatSalads = [
   {
     title: "Куриный салат с манго",
     image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/022/066/small4caee65aa0474.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d3/001/022/066/big4caee65aa0474.jpg",
     ingridients: [
       " Огурцы 200 г ",
       "Куриная грудка 250 г ",
@@ -2830,7 +2830,7 @@ export const meatSalads = [
   {
     title: "Куриный салат с авокадо и сладким перцем",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/254/172/small4caee63c34c5c.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/254/172/big4caee63c34c5c.jpg",
     ingridients: [
       "Куриная грудка 250 г ",
       "Перец сладкий желтый 1 шт. ",
@@ -2880,7 +2880,7 @@ export const meatSalads = [
   {
     title: "Салат из курицы с ананасом",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/254/171/small4caee63706fb3.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d2/005/254/171/big4caee63706fb3.jpg",
     ingridients: [
       "Куриная грудка 								500&nbsp;г&nbsp;															",
       "Китайский салат (китайская капуста) 								100&nbsp;г&nbsp;															",
@@ -2912,7 +2912,7 @@ export const meatSalads = [
   {
     title: "Салат с перловкой",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/022/047/small4caee5ff4be6a.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d3/001/022/047/big4caee5ff4be6a.jpg",
     ingridients: [
       "Перловая крупа 								100&nbsp;г&nbsp;															",
       "Соль 								2&nbsp;ч.л. 															",
@@ -2952,7 +2952,7 @@ export const meatSalads = [
   {
     title: "Салат из курицы с ананасами",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/022/041/small4caee5d88baab.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d3/001/022/041/big4caee5d88baab.jpg",
     ingridients: [
       "Салат айсберг 								100&nbsp;г&nbsp;															",
       "Куриное филе 								300&nbsp;г&nbsp;															",
@@ -3002,7 +3002,7 @@ export const meatSalads = [
   {
     title: "Салат из фасоли",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/022/040/small4caee5cbedcde.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/001/022/040/big4caee5cbedcde.jpg",
     ingridients: [
       "Куриное филе 								300&nbsp;г&nbsp;															",
       "Фасоль красная в&nbsp;собственном соку 								300&nbsp;г&nbsp;															",
@@ -3048,7 +3048,7 @@ export const meatSalads = [
   {
     title: "Салат 'Милые крошки'",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/230/082/small4ca0a18a9d6e0.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d2/005/230/082/big4ca0a18a9d6e0.jpg",
     ingridients: [
       "—  перепелиные яйца ",
       "—  помидоры черри ",

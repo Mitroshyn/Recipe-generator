@@ -2,7 +2,7 @@ export const milkshakes = [
   {
     title: "Мандариновый смузи",
     image:
-      "https://proxy11.online.ua/retsepty/r3-030498604b/small56606dbe6d84d.jpg",
+      "https://proxy10.online.ua/retsepty/r3-030498604b/big56606dbe6d84d.jpg",
     ingridients: [
       "мандарины&nbsp;—  2&nbsp;шт.",
       "замороженный банан&nbsp;—  1&nbsp;шт.",
@@ -37,7 +37,7 @@ export const milkshakes = [
   {
     title: "Кофейно-мятный смузи",
     image:
-      "https://proxy11.online.ua/retsepty/r3-07c6ecaa45/small56534df593412.jpg",
+      "https://proxy11.online.ua/retsepty/r3-07c6ecaa45/big56534df593412.jpg",
     ingridients: [
       "бананы 	—  0,5&nbsp;шт.",
       "кофе эспрессо/американо 	—  50&nbsp;мл",
@@ -55,7 +55,7 @@ export const milkshakes = [
   {
     title: "Коктейль 'Молочная вишня'",
     image:
-      "https://proxy11.online.ua/retsepty/r2-87b7163f3c/small559d7bc5ebd86.jpg",
+      "https://proxy10.online.ua/retsepty/r2-87b7163f3c/big559d7bc5ebd86.jpg",
     ingridients: [
       "йогурт&nbsp;—  100&nbsp;г",
       "мороженая вишня&nbsp;—  100&nbsp;г",
@@ -81,7 +81,7 @@ export const milkshakes = [
   {
     title: "Молочный коктейль с клубникой",
     image:
-      "https://proxy11.online.ua/retsepty/r2-947b565b90/small5576fe9dc7aad.jpg",
+      "https://proxy11.online.ua/retsepty/r2-947b565b90/big5576fe9dc7aad.jpg",
     ingridients: [
       "молоко&nbsp;—  2/3&nbsp;стакана",
       "мороженое сливочное&nbsp;—  100&nbsp;г",
@@ -111,7 +111,7 @@ export const milkshakes = [
   {
     title: "Смузи с авокадо и бананом",
     image:
-      "https://proxy11.online.ua/retsepty/r2-cace6cad50/small55390079b4406.jpg",
+      "https://proxy10.online.ua/retsepty/r2-cace6cad50/big55390079b4406.jpg",
     ingridients: [
       "авокадо&nbsp;—  1/2&nbsp;шт.",
       "банан&nbsp;—  1&nbsp;шт.",
@@ -154,7 +154,7 @@ export const milkshakes = [
   {
     title: "Коктейль 'Карамельное небо'",
     image:
-      "https://proxy11.online.ua/retsepty/r2-2b047b3e14/small53c3ce2d693b2.jpg",
+      "https://proxy12.online.ua/retsepty/r2-2b047b3e14/big53c3ce2d693b2.jpg",
     ingridients: [
       "бананы&nbsp;—  2&nbsp;шт.",
       " мороженое&nbsp;—  100&nbsp;г",
@@ -171,7 +171,7 @@ export const milkshakes = [
   {
     title: "Клубничный ласси",
     image:
-      "https://proxy11.online.ua/retsepty/r2-c00eee7af0/small5296f2ae6c45b.jpg",
+      "https://proxy11.online.ua/retsepty/r2-c00eee7af0/big5296f2ae6c45b.jpg",
     ingridients: [
       "клубника&nbsp;—  200&nbsp;г",
       " мед&nbsp;—  2&nbsp;ст.л.",
@@ -189,7 +189,7 @@ export const milkshakes = [
   {
     title: "Клубнично-щоколадный шейк",
     image:
-      "https://proxy11.online.ua/retsepty/r2-0c5a713191/small52960330b22ad.jpg",
+      "https://proxy11.online.ua/retsepty/r2-0c5a713191/big52960330b22ad.jpg",
     ingridients: [
       "молоко&nbsp;—  375&nbsp;мл",
       " какао-порошок&nbsp;—  3&nbsp;ст.л.",
@@ -223,7 +223,7 @@ export const milkshakes = [
   {
     title: "Шоколадно-банановый смузи с арахисовой пастой",
     image:
-      "https://proxy11.online.ua/retsepty/r2-80bcbb9227/small5296f46ae2ae2.jpg",
+      "https://proxy10.online.ua/retsepty/r2-80bcbb9227/big5296f46ae2ae2.jpg",
     ingridients: [
       "бананы (они могут быть слегка перезрелыми)&nbsp;—  2&nbsp;шт.",
       " молоко&nbsp;—  250&nbsp;мл",
@@ -254,7 +254,7 @@ export const milkshakes = [
   {
     title: "Молочный коктейль",
     image:
-      "https://proxy11.online.ua/retsepty/r2-80456e91df/small5296e3e5a084a.jpg",
+      "https://proxy12.online.ua/retsepty/r2-80456e91df/big5296e3e5a084a.jpg",
     ingridients: [
       "молоко&nbsp;—  600&nbsp;мл",
       " пломбир&nbsp;—  500&nbsp;г",
@@ -278,7 +278,7 @@ export const milkshakes = [
   {
     title: "Молочно-манговый коктейль",
     image:
-      "https://proxy11.online.ua/retsepty/r3-7491cab511/small5195e049c6535.jpg",
+      "https://proxy10.online.ua/retsepty/r3-7491cab511/big5195e049c6535.jpg",
     ingridients: [
       "    пюре из&nbsp;манго",
       "    молоко&nbsp;—  1&nbsp;ст.",
@@ -296,7 +296,7 @@ export const milkshakes = [
   {
     title: "Малиновый коктейль",
     image:
-      "https://proxy10.online.ua/retsepty/r2-782c1015aa/small500f025520637.jpg",
+      "https://proxy10.online.ua/retsepty/r2-782c1015aa/big500f025520637.jpg",
     ingridients: [
       "малина&nbsp;—  250&nbsp;г",
       "молоко&nbsp;—  300&nbsp;мл",
@@ -313,7 +313,7 @@ export const milkshakes = [
   {
     title: "Молочный коктейль с мороженым",
     image:
-      "https://proxy10.online.ua/retsepty/r3-053108c27e/small4f23f9e0ac643.jpg",
+      "https://proxy10.online.ua/retsepty/r3-053108c27e/big4f23f9e0ac643.jpg",
     ingridients: [
       "Бананы 	1&nbsp;шт. 	",
       "Молоко 	200&nbsp;мл",
@@ -341,7 +341,7 @@ export const milkshakes = [
   {
     title: "Молочный коктейль с бананом",
     image:
-      "https://proxy10.online.ua/retsepty/r3-7c9c016b78/small4f23f9cfd23c3.jpg",
+      "https://proxy10.online.ua/retsepty/r3-7c9c016b78/big4f23f9cfd23c3.jpg",
     ingridients: [
       "Бананы 	1&nbsp;шт. 	",
       "Молоко 	200&nbsp;мл",
@@ -376,7 +376,7 @@ export const milkshakes = [
   {
     title: "Молочный коктейль с черникой",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/003/267/small4ca098914799c.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d3/001/003/267/big4ca098914799c.jpg",
     ingridients: [
       "—  мороженое (пломбир)&nbsp;—  0,5&nbsp;кг&nbsp;",
       "—  молоко&nbsp;—  1/3&nbsp;стакана ",
@@ -404,7 +404,7 @@ export const milkshakes = [
   {
     title: "Горячий банановый коктейль с шоколадом",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/253/096/small4caedb13661d6.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/253/096/big4caedb13661d6.jpg",
     ingridients: [
       "Молоко коровье 500&nbsp;мл",
       "Ваниль в&nbsp;стручках 1&nbsp;шт.",
@@ -450,7 +450,7 @@ export const milkshakes = [
   {
     title: "Бананово-клубничный коктейль",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/020/272/small4caedb0d3d8be.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/001/020/272/big4caedb0d3d8be.jpg",
     ingridients: [
       "Сливки 20-22% 100&nbsp;мл",
       "Бананы 1&nbsp;шт.",
@@ -486,7 +486,7 @@ export const milkshakes = [
   {
     title: "Шоколадно-ягодный милк-шейк",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/239/012/small4caedaef5545f.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d1/005/239/012/big4caedaef5545f.jpg",
     ingridients: [
       "Молоко коровье 								350&nbsp;мл&nbsp;															",
       "Какао-порошок 								25&nbsp;г&nbsp;															",
@@ -519,7 +519,7 @@ export const milkshakes = [
   {
     title: "Шоколадный милк-шейк",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/212/124/small4c7c02bfc09d3.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d2/005/212/124/big4c7c02bfc09d3.jpg",
     ingridients: [
       "—  молоко&nbsp;—  50&nbsp;мл ",
       "—  шоколадное мороженое&nbsp;—  100&nbsp;г ",
@@ -535,7 +535,7 @@ export const milkshakes = [
   {
     title: "Клубничный шейк",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/014/211/small4cada1844a0a3.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d3/001/014/211/big4cada1844a0a3.jpg",
     ingridients: [
       "20&nbsp;ягод клубники среднего размера",
       "300&nbsp;г. молока",
@@ -552,7 +552,7 @@ export const milkshakes = [
   {
     title: "Клубничный шейк с апельсиновым соком",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/187/024/small4cada17da3061.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d1/005/187/024/big4cada17da3061.jpg",
     ingridients: [
       "10&nbsp;средних ягод клубники",
       "150&nbsp;г. апельсинового сока",

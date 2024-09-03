@@ -2,7 +2,7 @@ export const soups = [
   {
     title: "Острый вегетарианский суп с черной фасолью",
     image:
-      "https://proxy12.online.ua/retsepty/r3-9f59f9f249/small58ba75ddb1b90.png",
+      "https://proxy11.online.ua/retsepty/r3-9f59f9f249/big58ba75ddb1b90.png",
     ingridients: [
       "Вода 3/4 чашки",
       "Красный лук 1 шт.",
@@ -53,7 +53,7 @@ export const soups = [
   {
     title: "Чечевичный суп",
     image:
-      "https://proxy12.online.ua/retsepty/r3-058381bb2a/small5897b855652e7.png",
+      "https://proxy10.online.ua/retsepty/r3-058381bb2a/big5897b855652e7.png",
     ingridients: [
       "Чечевица серая 100 грамм",
       "Перловка 70 грамм",
@@ -108,7 +108,7 @@ export const soups = [
   {
     title: "Мексиканкий томатный суп",
     image:
-      "https://proxy12.online.ua/retsepty/r2-cf2481c872/small58548acae6953.png",
+      "https://proxy11.online.ua/retsepty/r2-cf2481c872/big58548acae6953.png",
     ingridients: [
       "Оливковое масло 2 ст. л.",
       "Красный перец чили 1/2 шт.",
@@ -146,7 +146,7 @@ export const soups = [
   {
     title: "Суп из брокколи и сыра",
     image:
-      "https://proxy12.online.ua/retsepty/r2-26566ca417/small585489ad03aea.png",
+      "https://proxy11.online.ua/retsepty/r2-26566ca417/big585489ad03aea.png",
     ingridients: [
       "Овощной бульон 3 чашки",
       "Соцветия брокколи 4 чашки",
@@ -185,7 +185,7 @@ export const soups = [
   {
     title: "Крем-суп с курицей и брокколи",
     image:
-      "https://proxy12.online.ua/retsepty/r3-1a33e5f51c/small5827029293b62.png",
+      "https://proxy11.online.ua/retsepty/r3-1a33e5f51c/big5827029293b62.png",
     ingridients: [
       "Куриное филе без кости 2,5 шт.",
       "Молоко 1,5% 400 мл",
@@ -225,7 +225,7 @@ export const soups = [
   {
     title: "Сырный суп по-французски и с чесночными гренками",
     image:
-      "https://proxy12.online.ua/retsepty/r3-ec499c942f/small57853f28c7ad3.jpg",
+      "https://proxy11.online.ua/retsepty/r3-ec499c942f/big57853f28c7ad3.jpg",
     ingridients: [
       "куриное филе —  400 г",
       "мягкий плавленый сыр —  200 г",
@@ -271,7 +271,7 @@ export const soups = [
   {
     title: "Суп из курицы с вялеными томатами",
     image:
-      "https://proxy12.online.ua/retsepty/r3-cac63e0874/small5738e6d8d7b33.jpg",
+      "https://proxy11.online.ua/retsepty/r3-cac63e0874/big5738e6d8d7b33.jpg",
     ingridients: [
       "курица, весом около 1,7-1,8&nbsp;кг&nbsp;(нужно всё, кроме грудки)&nbsp;—  1&nbsp;шт.",
       " небольшая луковица&nbsp;—  1&nbsp;шт. и&nbsp;1&nbsp;средняя",
@@ -333,7 +333,7 @@ export const soups = [
   {
     title: "Гуляшевка",
     image:
-      "https://proxy11.online.ua/retsepty/r3-f4ccdb5364/small5733a0d77be6e.jpg",
+      "https://proxy12.online.ua/retsepty/r3-f4ccdb5364/big5733a0d77be6e.jpg",
     ingridients: [
       "крупная луковица&nbsp;—  1&nbsp;шт.",
       " крупная морковь&nbsp;—  1&nbsp;шт.",
@@ -379,7 +379,7 @@ export const soups = [
   {
     title: "Суп из утки с капустой и грибами",
     image:
-      "https://proxy11.online.ua/retsepty/r3-a8c3ac48a8/small5729bd9b52bae.jpg",
+      "https://proxy12.online.ua/retsepty/r3-a8c3ac48a8/big5729bd9b52bae.jpg",
     ingridients: [
       "не очень жирная утка весом около 2&nbsp;кг&nbsp;—  1&nbsp;шт.",
       " небольшая луковица&nbsp;—  1&nbsp;шт. + 1&nbsp;крупная",
@@ -457,7 +457,7 @@ export const soups = [
   {
     title: "Быстрый куриный суп",
     image:
-      "https://proxy12.online.ua/retsepty/r3-66fdbd8118/small570d09377dc92.jpg",
+      "https://proxy12.online.ua/retsepty/r3-66fdbd8118/big570d09377dc92.jpg",
     ingridients: [
       "насыщенный куриный бульон&nbsp;—  400&nbsp;мл",
       "отварное яйцо&nbsp;—  2&nbsp;шт.",
@@ -482,7 +482,7 @@ export const soups = [
   {
     title: "Томатный суп с фаршем и грибами",
     image:
-      "https://proxy12.online.ua/retsepty/r3-dd44ab5724/small5708c8175a8ae.jpg",
+      "https://proxy10.online.ua/retsepty/r3-dd44ab5724/big5708c8175a8ae.jpg",
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " крупный стебель сельдерея&nbsp;—  1&nbsp;шт.",
@@ -540,7 +540,7 @@ export const soups = [
   {
     title: "Фасолада-греческий фасолевый суп",
     image:
-      "https://proxy12.online.ua/retsepty/r3-d915febec0/small56f946d01ff92.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d915febec0/big56f946d01ff92.jpg",
     ingridients: [
       "фасоль&nbsp;—  375&nbsp;г",
       "асафетида молотая&nbsp;—  1/2&nbsp;ч. л.",
@@ -572,7 +572,7 @@ export const soups = [
   {
     title: "Суп из сушеных грибов",
     image:
-      "https://proxy11.online.ua/retsepty/r2-da50f26dcf/small5682aef2e0336.jpg",
+      "https://proxy11.online.ua/retsepty/r2-95d5d1878b/big56efeade70f01.jpg",
     ingridients: [
       "картофель&nbsp;—  2&nbsp;шт.",
       "грибы (сушеные)&nbsp;—  1&nbsp;ст.",
@@ -623,7 +623,7 @@ export const soups = [
   {
     title: "Альбондигас-мексиканский суп с фрикадельками",
     image:
-      "https://proxy12.online.ua/retsepty/r3-5230c41f99/small56c0fc65d3172.jpg",
+      "https://proxy12.online.ua/retsepty/r3-5230c41f99/big56c0fc65d3172.jpg",
     ingridients: [
       "мясной фарш&nbsp;—  1&nbsp;кг",
       " чеснок&nbsp;—  2&nbsp;зубчика",
@@ -688,7 +688,7 @@ export const soups = [
   {
     title: "Куриный суп с яйцом",
     image:
-      "https://proxy12.online.ua/retsepty/r2-6367456dfb/small56b0dbac8dc23.jpg",
+      "https://proxy11.online.ua/retsepty/r2-6367456dfb/big56b0dbac8dc23.jpg",
     ingridients: [
       "курица&nbsp;—  1&nbsp;кг",
       "луковица&nbsp;—  1&nbsp;шт.",
@@ -712,7 +712,7 @@ export const soups = [
   {
     title: "Кислые щи с потрошками",
     image:
-      "https://proxy12.online.ua/retsepty/r2-853bc798c3/small56af94aee2221.jpg",
+      "https://proxy12.online.ua/retsepty/r2-853bc798c3/big56af94aee2221.jpg",
     ingridients: [
       "    утиные шея&nbsp;и потроха (или куриные потрошка)&nbsp;—  0,5&nbsp;кг",
       "    картофель&nbsp;—  2&nbsp;шт.",
@@ -751,7 +751,7 @@ export const soups = [
   {
     title: "Чили-суп из курицы с грибами",
     image:
-      "https://proxy12.online.ua/retsepty/r3-79f3010459/small568e3aa716dbb.jpg",
+      "https://proxy10.online.ua/retsepty/r3-79f3010459/big568e3aa716dbb.jpg",
     ingridients: [
       "курица, весом около 1,7&nbsp;кг&nbsp;—  1&nbsp;шт.",
       " маленькая луковица&nbsp;—  1-2 шт.",
@@ -817,7 +817,7 @@ export const soups = [
   {
     title: "Густой суп с говядиной,тыквой и перловкой",
     image:
-      "https://proxy12.online.ua/retsepty/r2-a449caf4f2/small566604e7c1c20.jpg",
+      "https://proxy11.online.ua/retsepty/r2-a449caf4f2/big566604e7c1c20.jpg",
     ingridients: [
       "Для бульона:",
       "говяжья грудинка на&nbsp;кости&nbsp;—  1,5&nbsp;кг",
@@ -884,7 +884,7 @@ export const soups = [
   {
     title: "Тыквенный суп-пюре с жареным острым фаршем",
     image:
-      "https://proxy12.online.ua/retsepty/r3-7ba1c59265/small565c21a813af8.jpg",
+      "https://proxy10.online.ua/retsepty/r3-7ba1c59265/big565c21a813af8.jpg",
     ingridients: [
       "очищенная тыква&nbsp;—  450&nbsp;г",
       " средняя морковь&nbsp;—  1&nbsp;шт.",
@@ -941,7 +941,7 @@ export const soups = [
   {
     title: "Острый томатный суп с бараниной и рисом",
     image:
-      "https://proxy12.online.ua/retsepty/r2-84d94dd290/small56411ae799f64.jpg",
+      "https://proxy12.online.ua/retsepty/r2-84d94dd290/big56411ae799f64.jpg",
     ingridients: [
       "баранина на&nbsp;кости&nbsp;—  800&nbsp;г",
       " луковица&nbsp;—  1&nbsp;шт.",
@@ -989,7 +989,7 @@ export const soups = [
   {
     title: "Грибной суп с булгуром",
     image:
-      "https://proxy12.online.ua/retsepty/r3-d63bb7dd13/small563ccc7476cc0.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d63bb7dd13/big563ccc7476cc0.jpg",
     ingridients: [
       "    очищенные грибы&nbsp;—  800&nbsp;г",
       "    морковь&nbsp;—  1&nbsp;шт.",
@@ -1020,7 +1020,7 @@ export const soups = [
   {
     title: "Сырный суп с рыбой",
     image:
-      "https://proxy12.online.ua/retsepty/r3-b591abf388/small5630fc29ba7b1.jpg",
+      "https://proxy12.online.ua/retsepty/r3-b591abf388/big5630fc29ba7b1.jpg",
     ingridients: [
       "филе осетрины&nbsp;—  150&nbsp;г",
       "плавленый сыр&nbsp;—  100&nbsp;г",
@@ -1049,7 +1049,7 @@ export const soups = [
   {
     title: "Суп из красной чечевицы с тыквой",
     image:
-      "https://proxy12.online.ua/retsepty/r2-2966d2787e/small52ffe6e75feb5.jpg",
+      "https://proxy12.online.ua/retsepty/r2-2966d2787e/big52ffe6e75feb5.jpg",
     ingridients: [
       "небольшие луковицы&nbsp;—  2&nbsp;шт.",
       " средняя морковь&nbsp;—  1&nbsp;шт.",
@@ -1098,7 +1098,7 @@ export const soups = [
   {
     title: "Суп из красной чечевицы",
     image:
-      "https://proxy12.online.ua/retsepty/r3-092fb710bf/small56290de4041dd.jpg",
+      "https://proxy12.online.ua/retsepty/r3-092fb710bf/big56290de4041dd.jpg",
     ingridients: [
       "чечевица красная&nbsp;—  1&nbsp;стакан",
       "репчатый лук&nbsp;—  1&nbsp;шт.",
@@ -1142,7 +1142,7 @@ export const soups = [
   {
     title: "Острый куриный суп в мексиканском стиле",
     image:
-      "https://proxy12.online.ua/retsepty/r3-2f8858855f/small529732c5034aa.jpg",
+      "https://proxy10.online.ua/retsepty/r3-2f8858855f/big529732c5034aa.jpg",
     ingridients: [
       "куриные окорочка&nbsp;—  3&nbsp;шт.",
       " крупная луковица&nbsp;—  1&nbsp;шт.",
@@ -1201,7 +1201,7 @@ export const soups = [
   {
     title: "Быстрый куриный суп",
     image:
-      "https://proxy12.online.ua/retsepty/r3-813bfdc959/small5620ee320a273.jpg",
+      "https://proxy12.online.ua/retsepty/r3-813bfdc959/big5620ee320a273.jpg",
     ingridients: [
       "насыщенный куриный бульон&nbsp;—  400&nbsp;мл",
       "вареное яйцо&nbsp;—  2&nbsp;шт.",
@@ -1222,7 +1222,7 @@ export const soups = [
   {
     title: "Сладко-острый суп с индейкой и карри",
     image:
-      "https://proxy12.online.ua/retsepty/r2-e019662e8b/small52972ef3f3c55.jpg",
+      "https://proxy12.online.ua/retsepty/r2-e019662e8b/big52972ef3f3c55.jpg",
     ingridients: [
       "картофель&nbsp;—  3&nbsp;шт.",
       " подогретое молоко&nbsp;—  50&nbsp;мл",
@@ -1294,7 +1294,7 @@ export const soups = [
   {
     title: "Огненный куриный суп",
     image:
-      "https://proxy12.online.ua/retsepty/r2-03e6b3babf/small5617b517546d0.jpg",
+      "https://proxy11.online.ua/retsepty/r2-03e6b3babf/big5617b517546d0.jpg",
     ingridients: [
       "средняя курица, около 1,6&nbsp;кг&nbsp;—  1&nbsp;шт.",
       " крупная луковица&nbsp;—  1&nbsp;шт.",
@@ -1353,7 +1353,7 @@ export const soups = [
   {
     title: "Гороховый суп с бараньими ребрышками",
     image:
-      "https://proxy12.online.ua/retsepty/r2-c01941ad8e/small5613ae5a75a19.jpg",
+      "https://proxy10.online.ua/retsepty/r2-c01941ad8e/big5613ae5a75a19.jpg",
     ingridients: [
       "горох&nbsp;—  1&nbsp;стакан",
       "бараньи ребрышки&nbsp;—  500&nbsp;г",
@@ -1388,7 +1388,7 @@ export const soups = [
   {
     title: "Суп с курицей с шпинатом",
     image:
-      "https://proxy12.online.ua/retsepty/r3-9473249dc7/small56124b8e0da07.jpg",
+      "https://proxy11.online.ua/retsepty/r3-9473249dc7/big56124b8e0da07.jpg",
     ingridients: [
       "грудка куриная&nbsp;—  1-2 шт.",
       "морковь&nbsp;—  1&nbsp;шт.",
@@ -1453,7 +1453,7 @@ export const soups = [
   {
     title: "Куриный суп с горошком",
     image:
-      "https://proxy12.online.ua/retsepty/r2-3594030718/small560e7c6923a07.jpg",
+      "https://proxy11.online.ua/retsepty/r2-3594030718/big560e7c6923a07.jpg",
     ingridients: [
       "куриные окорочка&nbsp;—  3&nbsp;шт.",
       " черный перец&nbsp;—  10&nbsp;горошин",
@@ -1515,7 +1515,7 @@ export const soups = [
   {
     title: "Французский луковый суп с крутонами",
     image:
-      "https://proxy12.online.ua/retsepty/r3-d461358248/small560d4fd6695eb.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d461358248/big560d4fd6695eb.jpg",
     ingridients: [
       "масло сливочное&nbsp;—  50&nbsp;г",
       "лук репчатый&nbsp;—  1&nbsp;кг",
@@ -1550,7 +1550,7 @@ export const soups = [
   {
     title: "Сливочный грибной суп с курицей",
     image:
-      "https://proxy12.online.ua/retsepty/r2-19f2da840b/small55167f287e78d.jpg",
+      "https://proxy11.online.ua/retsepty/r2-19f2da840b/big55167f287e78d.jpg",
     ingridients: [
       "куриные окорочка&nbsp;—  2&nbsp;шт.",
       " лавровый лист&nbsp;—  1&nbsp;шт.",
@@ -1621,7 +1621,7 @@ export const soups = [
   {
     title: "Грибной суп в хлебе",
     image:
-      "https://proxy12.online.ua/retsepty/r3-f0f53a6e1f/small56057e2691767.jpg",
+      "https://proxy10.online.ua/retsepty/r3-f0f53a6e1f/big56057e2691767.jpg",
     ingridients: [
       "шампиньоны свежие&nbsp;—  250&nbsp;г",
       "картофель&nbsp;—  100&nbsp;г",
@@ -1647,7 +1647,7 @@ export const soups = [
   {
     title: "Овощной суп с нутом и лимоном",
     image:
-      "https://proxy12.online.ua/retsepty/r2-2ddfeef872/small55f29ba081cad.jpg",
+      "https://proxy10.online.ua/retsepty/r2-2ddfeef872/big55f29ba081cad.jpg",
     ingridients: [
       "луковица&nbsp;—  1&nbsp;шт.",
       " морковь&nbsp;—  1&nbsp;шт.",
@@ -1688,7 +1688,7 @@ export const soups = [
   {
     title: "Суп с фрикадельками и кус-кусом",
     image:
-      "https://proxy12.online.ua/retsepty/r3-11a5de9fe9/small55f9a685a05bf.jpg",
+      "https://proxy11.online.ua/retsepty/r3-11a5de9fe9/big55f9a685a05bf.jpg",
     ingridients: [
       "картофель&nbsp;—  2&nbsp;шт.",
       "сельдерей (черешки)&nbsp;—  2&nbsp;шт.",
@@ -1743,7 +1743,7 @@ export const soups = [
   {
     title: "Карри-суп из курицы с рисом",
     image:
-      "https://proxy12.online.ua/retsepty/r2-63bd755229/small551db15801f5c.jpg",
+      "https://proxy12.online.ua/retsepty/r2-63bd755229/big551db15801f5c.jpg",
     ingridients: [
       "крупные куриные окорочка&nbsp;—  2&nbsp;шт.",
       "маленькая луковица&nbsp;—  1&nbsp;шт.",
@@ -1803,7 +1803,7 @@ export const soups = [
   {
     title: "Суп-гуляш",
     image:
-      "https://proxy10.online.ua/retsepty/r2-49cd0994cd/small55682e1951b23.jpg",
+      "https://proxy10.online.ua/retsepty/r2-49cd0994cd/big55682e1951b23.jpg",
     ingridients: [
       "говядина&nbsp;—  1&nbsp;кг",
       "луковица&nbsp;—  2-3 шт.",
@@ -1855,7 +1855,7 @@ export const soups = [
   {
     title: "Томатный суп-пюре с лососем и треской",
     image:
-      "https://proxy10.online.ua/retsepty/r3-04a4b29bbd/small55d98f18507a2.jpg",
+      "https://proxy12.online.ua/retsepty/r3-04a4b29bbd/big55d98f18507a2.jpg",
     ingridients: [
       "сливочное масло&nbsp;—  30&nbsp;г",
       "средняя луковица&nbsp;—  1&nbsp;шт.",
@@ -1919,7 +1919,7 @@ export const soups = [
   {
     title: "Сливочный суп с картофелем и кукурузой",
     image:
-      "https://proxy10.online.ua/retsepty/r3-bebd60fb1d/small5296fbb5d6b84.jpg",
+      "https://proxy12.online.ua/retsepty/r3-bebd60fb1d/big5296fbb5d6b84.jpg",
     ingridients: [
       "сливочное масло&nbsp;—  50&nbsp;г",
       " средняя луковица&nbsp;—  1&nbsp;шт.",
@@ -1971,7 +1971,7 @@ export const soups = [
   {
     title: "Томатный суп с курицей и зеленой фасолью",
     image:
-      "https://proxy10.online.ua/retsepty/r3-6e7ae67213/small55c095c1ed560.jpg",
+      "https://proxy10.online.ua/retsepty/r3-6e7ae67213/big55c095c1ed560.jpg",
     ingridients: [
       "куриное филе&nbsp;—  2&nbsp;шт. (около 200&nbsp;г каждое)",
       " чеснок&nbsp;—  2&nbsp;зубчика",
@@ -2024,7 +2024,7 @@ export const soups = [
   {
     title: "Венгкрский суп 'Бограч'",
     image:
-      "https://proxy10.online.ua/retsepty/r3-0025cee505/small55ba2ec8f262a.jpg",
+      "https://proxy11.online.ua/retsepty/r3-0025cee505/big55ba2ec8f262a.jpg",
     ingridients: [
       "говядина&nbsp;—  1&nbsp;кг",
       "помидоры&nbsp;—  4&nbsp;шт.",
@@ -2075,7 +2075,7 @@ export const soups = [
   {
     title: "Щавельный суп с копченостями",
     image:
-      "https://proxy10.online.ua/retsepty/r2-095095a830/small55785bfdc63f3.jpg",
+      "https://proxy10.online.ua/retsepty/r2-095095a830/big55785bfdc63f3.jpg",
     ingridients: [
       "    копченые свиные ребра&nbsp;—  300&nbsp;г",
       "    вода&nbsp;—  2&nbsp;л",
@@ -2106,7 +2106,7 @@ export const soups = [
   {
     title: "Остный мясной суп суп с фасолью",
     image:
-      "https://proxy10.online.ua/retsepty/r2-8252831bd6/small52973c988f6df.jpg",
+      "https://proxy11.online.ua/retsepty/r2-8252831bd6/big52973c988f6df.jpg",
     ingridients: [
       "говядина&nbsp;—  600&nbsp;г",
       " крупные сладкие перцы&nbsp;—  2&nbsp;шт.",
@@ -2171,7 +2171,7 @@ export const soups = [
   {
     title: "Суп из ветчины с фасолью",
     image:
-      "https://proxy10.online.ua/retsepty/r2-f10794d474/small5296fd76af699.jpg",
+      "https://proxy12.online.ua/retsepty/r2-f10794d474/big5296fd76af699.jpg",
     ingridients: [
       "крупный стебель сельдерея&nbsp;—  2&nbsp;шт.",
       " морковь&nbsp;—  2&nbsp;шт.",
@@ -2219,7 +2219,7 @@ export const soups = [
   {
     title: "Сырный суп с грибами",
     image:
-      "https://proxy10.online.ua/retsepty/r2-d8142ea9b0/small550b4a77d0fdf.jpg",
+      "https://proxy10.online.ua/retsepty/r2-d8142ea9b0/big550b4a77d0fdf.jpg",
     ingridients: [
       "замороженные белые грибы&nbsp;—  200&nbsp;г",
       " шампиньоны&nbsp;—  250&nbsp;г",
@@ -2256,7 +2256,7 @@ export const soups = [
   {
     title: "Легкий куриный суп с вермишелью",
     image:
-      "https://proxy10.online.ua/retsepty/r2-ec3f7db353/small5297053488d66.jpg",
+      "https://proxy11.online.ua/retsepty/r2-ec3f7db353/big5297053488d66.jpg",
     ingridients: [
       "небольшая курица (около 1,5-1,6&nbsp;кг)&nbsp;—  1&nbsp;шт.",
       " небольшая луковица&nbsp;—  1&nbsp;шт.",
@@ -2314,7 +2314,7 @@ export const soups = [
   {
     title: "Суп из индейки с макаронами",
     image:
-      "https://proxy10.online.ua/retsepty/r3-9c6ce31c88/small529735064a94e.jpg",
+      "https://proxy12.online.ua/retsepty/r3-9c6ce31c88/big529735064a94e.jpg",
     ingridients: [
       "индюшиные голени&nbsp;—  2&nbsp;шт. или&nbsp;1&nbsp;бедро весом около 600-700 г",
       " морковь&nbsp;—  3&nbsp;шт.",
@@ -2360,7 +2360,7 @@ export const soups = [
   {
     title: "Крем-суп из шампиньонов",
     image:
-      "https://proxy10.online.ua/retsepty/r2-86d140e4a2/small550c58c6c3455.jpg",
+      "https://proxy10.online.ua/retsepty/r2-86d140e4a2/big550c58c6c3455.jpg",
     ingridients: [
       "шампиньоны&nbsp;—  500&nbsp;г",
       " небольшие луковички&nbsp;—  2&nbsp;шт.",
@@ -2403,7 +2403,7 @@ export const soups = [
   {
     title: "Мясной суп с фасолью и томатами",
     image:
-      "https://proxy10.online.ua/retsepty/r2-f86a252a4a/small52971442b0252.jpg",
+      "https://proxy11.online.ua/retsepty/r2-f86a252a4a/big52971442b0252.jpg",
     ingridients: [
       "небольшая красная луковица&nbsp;—  1&nbsp;шт.",
       " нарубленный свежий розмарин&nbsp;—  1&nbsp;ч.л. или&nbsp;½ ч.л. сухого",
@@ -2450,7 +2450,7 @@ export const soups = [
   {
     title: "Крем-суп из стебельного сельдерея с картофелем",
     image:
-      "https://proxy10.online.ua/retsepty/r3-7503075bb7/small5297063d3e5fa.jpg",
+      "https://proxy12.online.ua/retsepty/r3-7503075bb7/big5297063d3e5fa.jpg",
     ingridients: [
       "стеблевой сельдерей&nbsp;—  500&nbsp;г",
       " средняя луковица&nbsp;—  1&nbsp;шт.",
@@ -2493,7 +2493,7 @@ export const soups = [
   {
     title: "Лимонный суп из чечевицы и риса",
     image:
-      "https://proxy10.online.ua/retsepty/r2-b2545fc369/small535ad05898cdc.jpg",
+      "https://proxy12.online.ua/retsepty/r2-b2545fc369/big535ad05898cdc.jpg",
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " чеснок&nbsp;—  2&nbsp;зубчика",
@@ -2533,7 +2533,7 @@ export const soups = [
   {
     title: "Мукека",
     image:
-      "https://proxy10.online.ua/retsepty/r3-f472360bc4/small53ea83d703ea7.jpg",
+      "https://proxy10.online.ua/retsepty/r3-f472360bc4/big53ea83d703ea7.jpg",
     ingridients: [
       "филе белой морской рыбы&nbsp;—  400&nbsp;г",
       " очищенные креветки&nbsp;—  400&nbsp;г",
@@ -2600,7 +2600,7 @@ export const soups = [
   {
     title: "Куриный суп с грибами,шпинатом и перловкой",
     image:
-      "https://proxy10.online.ua/retsepty/r2-8e9c6e95a2/small5296e6bb01956.jpg",
+      "https://proxy11.online.ua/retsepty/r2-8e9c6e95a2/big5296e6bb01956.jpg",
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " чеснок&nbsp;—  3&nbsp;зубчика",
@@ -2653,7 +2653,7 @@ export const soups = [
   {
     title: "Грибной суп со стручковой фасолью и баклажанами",
     image:
-      "https://proxy10.online.ua/retsepty/r2-e40ad36b72/small54eb5637b0f5d.jpg",
+      "https://proxy11.online.ua/retsepty/r2-e40ad36b72/big54eb5637b0f5d.jpg",
     ingridients: [
       "картофель&nbsp;—  1&nbsp;шт.",
       "перец болгарский&nbsp;—  1/2&nbsp;шт.",
@@ -2704,7 +2704,7 @@ export const soups = [
   {
     title: "Куриный суп с кукурузой и яйцом",
     image:
-      "https://proxy10.online.ua/retsepty/r3-842d8cffc1/small5296eacc685db.jpg",
+      "https://proxy10.online.ua/retsepty/r3-842d8cffc1/big5296eacc685db.jpg",
     ingridients: [
       "куриный бульон&nbsp;—  1&nbsp;л",
       " отварные куриные окорочка, нарезанные на&nbsp;кусочки&nbsp;—  2-3 шт.",
@@ -2751,7 +2751,7 @@ export const soups = [
   {
     title: "Французский луковый суп",
     image:
-      "https://proxy10.online.ua/retsepty/r2-1ec1f8ec98/small54d53cfaeadef.jpg",
+      "https://proxy11.online.ua/retsepty/r2-1ec1f8ec98/big54d53cfaeadef.jpg",
     ingridients: [
       "лук&nbsp;—  500&nbsp;г",
       " чеснок&nbsp;—  3-4 зубчика",
@@ -2815,7 +2815,7 @@ export const soups = [
   {
     title: "Суп-пюре из корневого сельдерея с голубым сыром",
     image:
-      "https://proxy10.online.ua/retsepty/r3-19133015c5/small52962424a113d.jpg",
+      "https://proxy10.online.ua/retsepty/r3-19133015c5/big52962424a113d.jpg",
     ingridients: [
       "корень сельдерея&nbsp;—  350&nbsp;г",
       " сок&nbsp;половины лимона",
@@ -2866,7 +2866,7 @@ export const soups = [
   {
     title: "Томатный овощной суп",
     image:
-      "https://proxy10.online.ua/retsepty/r3-20b55bd0c4/small5296fc89de87e.jpg",
+      "https://proxy11.online.ua/retsepty/r3-20b55bd0c4/big5296fc89de87e.jpg",
     ingridients: [
       "крупная луковица&nbsp;—  1&nbsp;шт.",
       " крупный стебель сельдерея&nbsp;—  2&nbsp;шт.",
@@ -2907,7 +2907,7 @@ export const soups = [
   {
     title: "Рассольник",
     image:
-      "https://proxy10.online.ua/retsepty/r2-b1bb2eeb34/small52961d6ac4b8a.jpg",
+      "https://proxy11.online.ua/retsepty/r2-b1bb2eeb34/big52961d6ac4b8a.jpg",
     ingridients: [
       "говядина на&nbsp;косточке&nbsp;—  1&nbsp;кг",
       " лавровый лист&nbsp;—  2&nbsp;шт.",
@@ -2972,7 +2972,7 @@ export const soups = [
   {
     title: "Овощной суп с тыквой и фасолью",
     image:
-      "https://proxy11.online.ua/retsepty/r2-233d8f765b/small529744fabcd6b.jpg",
+      "https://proxy10.online.ua/retsepty/r2-233d8f765b/big529744fabcd6b.jpg",
     ingridients: [
       "крупные стебли сельдерея&nbsp;—  1-2 шт.",
       " средняя луковица&nbsp;—  1&nbsp;шт.",
@@ -3026,7 +3026,7 @@ export const soups = [
   {
     title: "Простой гороховый суп с ветчиной",
     image:
-      "https://proxy11.online.ua/retsepty/r3-8b5a72cead/small529728b711f0a.jpg",
+      "https://proxy10.online.ua/retsepty/r3-8b5a72cead/big529728b711f0a.jpg",
     ingridients: [
       "колотый горох, предварительно замоченный на&nbsp;2-3 часа&nbsp;—  400&nbsp;г",
       " морковь&nbsp;—  2&nbsp;шт.",
@@ -3074,7 +3074,7 @@ export const soups = [
   {
     title: "Морковный суп с лососем",
     image:
-      "https://proxy11.online.ua/retsepty/r3-b076ed67ff/small5296e72c46acd.jpg",
+      "https://proxy10.online.ua/retsepty/r3-b076ed67ff/big5296e72c46acd.jpg",
     ingridients: [
       "морковь&nbsp;—  500&nbsp;г",
       " нарубленный свежий имбирь&nbsp;—  1&nbsp;ст.л.",
@@ -3132,7 +3132,7 @@ export const soups = [
   {
     title: "Финский рыбный суп со сливками",
     image:
-      "https://proxy11.online.ua/retsepty/r2-cd0846fd66/small5446ccd8a5c75.jpg",
+      "https://proxy12.online.ua/retsepty/r2-cd0846fd66/big5446ccd8a5c75.jpg",
     ingridients: [
       "суповой набор из&nbsp;одного лосося (хребет, хвост и&nbsp;передняя часть; если есть голова&nbsp;—  прекрасно: вынимаем жабры и&nbsp;глаза и&nbsp;пускаем в&nbsp;тот же&nbsp;набор)",
       " луковицы средних размеров&nbsp;—  2&nbsp;шт.",
@@ -3189,7 +3189,7 @@ export const soups = [
   {
     title: "Куриный суп с нутом",
     image:
-      "https://proxy11.online.ua/retsepty/r3-5416bcbfb9/small52975f58ee280.jpg",
+      "https://proxy11.online.ua/retsepty/r3-5416bcbfb9/big52975f58ee280.jpg",
     ingridients: [
       "куриные бедра&nbsp;—  3-4 шт.",
       " размоченный и&nbsp;отваренный нут&nbsp;—  400&nbsp;г",
@@ -3268,7 +3268,7 @@ export const soups = [
   {
     title: "Томатный суп с треской и тыквой",
     image:
-      "https://proxy11.online.ua/retsepty/r2-5282c2eb7c/small529a63672b54a.jpg",
+      "https://proxy11.online.ua/retsepty/r2-5282c2eb7c/big529a63672b54a.jpg",
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " стебель сельдерея&nbsp;—  1&nbsp;шт.",
@@ -3322,7 +3322,7 @@ export const soups = [
   {
     title: "Куриный суп с гречневой лапшой",
     image:
-      "https://proxy11.online.ua/retsepty/r2-97e30c202e/small5296f8610d4d7.jpg",
+      "https://proxy12.online.ua/retsepty/r2-97e30c202e/big5296f8610d4d7.jpg",
     ingridients: [
       "натертый имбирь&nbsp;—  1&nbsp;ст.л.",
       " чеснок&nbsp;—  2&nbsp;зубчика",
@@ -3370,7 +3370,7 @@ export const soups = [
   {
     title: "Суп-пюре из кислой капусты",
     image:
-      "https://proxy11.online.ua/retsepty/r2-d2d7f24281/small534f9b9a00375.jpg",
+      "https://proxy11.online.ua/retsepty/r2-d2d7f24281/big534f9b9a00375.jpg",
     ingridients: [
       "небольшая луковица&nbsp;—  1&nbsp;шт.",
       " чеснок&nbsp;—  2&nbsp;зубчика",
@@ -3424,7 +3424,7 @@ export const soups = [
   {
     title: "Суп из говядины с рисом",
     image:
-      "https://proxy11.online.ua/retsepty/r2-0f70e9cf92/small5297360ec235d.jpg",
+      "https://proxy11.online.ua/retsepty/r2-0f70e9cf92/big5297360ec235d.jpg",
     ingridients: [
       "говядина&nbsp;—  300&nbsp;г",
       " луковица&nbsp;—  1&nbsp;шт.",
@@ -3476,7 +3476,7 @@ export const soups = [
   {
     title: "Густой куриный суп со сливками",
     image:
-      "https://proxy11.online.ua/retsepty/r2-dcd73d86f9/small52974e3aedaaf.jpg",
+      "https://proxy11.online.ua/retsepty/r2-dcd73d86f9/big52974e3aedaaf.jpg",
     ingridients: [
       "целая курица&nbsp;—  1&nbsp;шт. (около 1500-1700 г)",
       " морковь&nbsp;—  2&nbsp;шт.",
@@ -3551,7 +3551,7 @@ export const soups = [
   {
     title: "Суп из говядины с грибами и перловкой",
     image:
-      "https://proxy10.online.ua/retsepty/r3-6de61f6923/small5296f52264f2d.jpg",
+      "https://proxy12.online.ua/retsepty/r3-6de61f6923/big5296f52264f2d.jpg",
     ingridients: [
       "говядина (лучше всего, вырезка)&nbsp;—  400&nbsp;г",
       " крупная луковица&nbsp;—  1&nbsp;шт.",
@@ -3602,7 +3602,7 @@ export const soups = [
   {
     title: "Крупеня с белыми грибами",
     image:
-      "https://proxy10.online.ua/retsepty/r3-7cd0545c3d/small5320dc68be673.jpg",
+      "https://proxy10.online.ua/retsepty/r3-7cd0545c3d/big5320dc68be673.jpg",
     ingridients: [
       "сухие белые грибы&nbsp;—  6-8 шт. (по массе&nbsp;—  около 25&nbsp;г)",
       " лук&nbsp;—  2&nbsp;шт.",
@@ -3663,7 +3663,7 @@ export const soups = [
   {
     title: "Куриный суп с фрикадельками",
     image:
-      "https://proxy10.online.ua/retsepty/r3-28e8578ff6/small5296f0b00d0ed.jpg",
+      "https://proxy12.online.ua/retsepty/r3-28e8578ff6/big5296f0b00d0ed.jpg",
     ingridients: [
       "куриный бульон&nbsp;—  1,2&nbsp;л",
       " картофель&nbsp;—  2&nbsp;шт.",
@@ -3701,7 +3701,7 @@ export const soups = [
   {
     title: "Крем-суп из тыквы",
     image:
-      "https://proxy10.online.ua/retsepty/r3-add3cc71ac/small52972c2e706c2.jpg",
+      "https://proxy11.online.ua/retsepty/r3-add3cc71ac/big52972c2e706c2.jpg",
     ingridients: [
       "сливочное масло&nbsp;—  50&nbsp;г",
       " небольшая луковица&nbsp;—  1&nbsp;шт.",
@@ -3747,7 +3747,7 @@ export const soups = [
   {
     title: "Капустный суп с курицей и клецками",
     image:
-      "https://proxy10.online.ua/retsepty/r2-6b48f2484f/small52973122aac61.jpg",
+      "https://proxy12.online.ua/retsepty/r2-6b48f2484f/big52973122aac61.jpg",
     ingridients: [
       "куриные бедра с&nbsp;кожей и&nbsp;костями&nbsp;—  4&nbsp;шт.",
       " стебель сельдерея&nbsp;—  2&nbsp;шт.",
@@ -3827,7 +3827,7 @@ export const soups = [
   {
     title: "Куриный суп с сельдереем",
     image:
-      "https://proxy10.online.ua/retsepty/r2-80d6ff55ca/small529733cdd446f.jpg",
+      "https://proxy11.online.ua/retsepty/r2-80d6ff55ca/big529733cdd446f.jpg",
     ingridients: [
       "окорочка&nbsp;—  2&nbsp;шт.",
       " небольшие картофелины&nbsp;—  3&nbsp;шт.",
@@ -3859,7 +3859,7 @@ export const soups = [
   {
     title: "Суп-пюре из белых грибов",
     image:
-      "https://proxy10.online.ua/retsepty/r3-be4a02d810/small541bf41a6b6de.jpg",
+      "https://proxy10.online.ua/retsepty/r3-be4a02d810/big541bf41a6b6de.jpg",
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       "чеснок&nbsp;—  2&nbsp;зубчика",
@@ -3911,7 +3911,7 @@ export const soups = [
   {
     title: "Острый суп с фрикадельками",
     image:
-      "https://proxy10.online.ua/retsepty/r3-8eb8cc0adf/small5296fe07e7136.jpg",
+      "https://proxy12.online.ua/retsepty/r3-8eb8cc0adf/big5296fe07e7136.jpg",
     ingridients: [
       "Для фрикаделек:",
       "говяжий или&nbsp;свиной фарш&nbsp;—  400&nbsp;г",
@@ -3983,7 +3983,7 @@ export const soups = [
   {
     title: "Чаудер из трески на кокосовом молоке",
     image:
-      "https://proxy10.online.ua/retsepty/r2-25f57f397a/small52970d89466e7.jpg",
+      "https://proxy10.online.ua/retsepty/r2-25f57f397a/big52970d89466e7.jpg",
     ingridients: [
       "филе трески или&nbsp;другой белой рыбы&nbsp;—  400&nbsp;г",
       " средняя луковица&nbsp;—  1&nbsp;шт.",
@@ -4036,7 +4036,7 @@ export const soups = [
   {
     title: "Тыквенный суп-пюре на кокосовом молоке",
     image:
-      "https://proxy10.online.ua/retsepty/r3-a921968ce0/small52b56a29f40ec.jpg",
+      "https://proxy11.online.ua/retsepty/r3-a921968ce0/big52b56a29f40ec.jpg",
     ingridients: [
       "тыква (в очищенном виде)&nbsp;—  800&nbsp;г",
       " небольшая красная луковица&nbsp;—  1&nbsp;шт.",
@@ -4085,7 +4085,7 @@ export const soups = [
   {
     title: "Густая похлебка с курицей и пореем",
     image:
-      "https://proxy11.online.ua/retsepty/r2-945c98d58b/small5297495bf3c56.jpg",
+      "https://proxy12.online.ua/retsepty/r2-945c98d58b/big5297495bf3c56.jpg",
     ingridients: [
       "крупные окорочка&nbsp;—  4&nbsp;шт.",
       " куриный бульон&nbsp;—  2,5&nbsp;л",
@@ -4145,7 +4145,7 @@ export const soups = [
   {
     title: "Мясной суп с макаронами и базиликом",
     image:
-      "https://proxy11.online.ua/retsepty/r2-68bcd3f32f/small5297047e0dca6.jpg",
+      "https://proxy10.online.ua/retsepty/r2-68bcd3f32f/big5297047e0dca6.jpg",
     ingridients: [
       "куриный, мясной или&nbsp;овощной бульон&nbsp;—  2&nbsp;л",
       " сушеный базилик&nbsp;—  1&nbsp;ст.л.",
@@ -4188,7 +4188,7 @@ export const soups = [
   {
     title: "Перловый суп с бараниной",
     image:
-      "https://proxy11.online.ua/retsepty/r3-5818a96fba/small52973746228a9.jpg",
+      "https://proxy10.online.ua/retsepty/r3-5818a96fba/big52973746228a9.jpg",
     ingridients: [
       "баранья шея&nbsp;—  500&nbsp;г",
       " морковь&nbsp;—  4&nbsp;шт.",
@@ -4233,7 +4233,7 @@ export const soups = [
   {
     title: "Лимонный суп из индейки",
     image:
-      "https://proxy11.online.ua/retsepty/r3-29085f39f3/small5296f9c95d9fa.jpg",
+      "https://proxy12.online.ua/retsepty/r3-29085f39f3/big5296f9c95d9fa.jpg",
     ingridients: [
       "крылья&nbsp;—  2&nbsp;шт. или&nbsp;1&nbsp;небольшая голень индейки",
       " лавровый лист&nbsp;—  1&nbsp;шт.",
@@ -4292,7 +4292,7 @@ export const soups = [
   {
     title: "Брамборачка",
     image:
-      "https://proxy11.online.ua/retsepty/r2-c18dc56445/small5400ed58d94ae.jpg",
+      "https://proxy10.online.ua/retsepty/r2-c18dc56445/big5400ed58d94ae.jpg",
     ingridients: [
       "сливочное масло&nbsp;—  50&nbsp;г",
       " крупная луковица&nbsp;—  1&nbsp;шт.",
@@ -4344,7 +4344,7 @@ export const soups = [
   {
     title: "Густой суп с индюшиным фаршем и чечевицей",
     image:
-      "https://proxy11.online.ua/retsepty/r3-7bb1b67a3b/small5296f6079643a.jpg",
+      "https://proxy11.online.ua/retsepty/r3-7bb1b67a3b/big5296f6079643a.jpg",
     ingridients: [
       "средние луковицы&nbsp;—  2&nbsp;шт.",
       " крупный стебель сельдерея&nbsp;—  3&nbsp;шт.",
@@ -4400,7 +4400,7 @@ export const soups = [
   {
     title: "Суп-пюре из зеленого горошка с сырно-луковыми гренками",
     image:
-      "https://proxy11.online.ua/retsepty/r2-1c4bb3914b/small5297382752268.jpg",
+      "https://proxy10.online.ua/retsepty/r2-1c4bb3914b/big5297382752268.jpg",
     ingridients: [
       "замороженный или&nbsp;свежий зеленый горошек&nbsp;—  800-900 г",
       " стрелки зеленого лука (не перья, а&nbsp;именно стрелки)&nbsp;—  5-6 шт.",
@@ -4456,7 +4456,7 @@ export const soups = [
   {
     title: "Крем-суп из брокколи",
     image:
-      "https://proxy11.online.ua/retsepty/r2-1397d10dae/small5297105cb2d45.jpg",
+      "https://proxy12.online.ua/retsepty/r2-1397d10dae/big5297105cb2d45.jpg",
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " молотый мускатный орех&nbsp;—  1/8&nbsp;ч.л. (можно опустить, но&nbsp;с ним&nbsp;вкус интереснее)",
@@ -4499,7 +4499,7 @@ export const soups = [
   {
     title: "Суп-пюре из печеных баклажанов",
     image:
-      "https://proxy11.online.ua/retsepty/r2-d965eec06c/small529708c984717.jpg",
+      "https://proxy11.online.ua/retsepty/r2-d965eec06c/big529708c984717.jpg",
     ingridients: [
       "помидоры&nbsp;—  2&nbsp;шт.",
       " баклажаны&nbsp;—  2&nbsp;шт.",
@@ -4562,7 +4562,7 @@ export const soups = [
   {
     title: "Суп из зеленых овощей с курицей",
     image:
-      "https://proxy11.online.ua/retsepty/r2-7a3098f79c/small53bd0822e8eae.jpg",
+      "https://proxy12.online.ua/retsepty/r2-7a3098f79c/big53bd0822e8eae.jpg",
     ingridients: [
       "небольшая луковица&nbsp;—  1&nbsp;шт.",
       " стебель сельдерея&nbsp;—  1&nbsp;шт.",
@@ -4616,7 +4616,7 @@ export const soups = [
   {
     title: "Суп-пюре из цветной капусты",
     image:
-      "https://proxy11.online.ua/retsepty/r2-c270f7a57e/small5296ff1ca4e9a.jpg",
+      "https://proxy10.online.ua/retsepty/r2-c270f7a57e/big5296ff1ca4e9a.jpg",
     ingridients: [
       "цветная капуста&nbsp;—  1&nbsp;крупная голова (около 1&nbsp;кг, можно использовать замороженную)",
       " средняя луковица&nbsp;—  1&nbsp;шт.",
@@ -4656,7 +4656,7 @@ export const soups = [
   {
     title: "Куриный суп с цуккини и шампиньонами",
     image:
-      "https://proxy11.online.ua/retsepty/r2-8ee7b34a3d/small52972b462a992.jpg",
+      "https://proxy11.online.ua/retsepty/r2-8ee7b34a3d/big52972b462a992.jpg",
     ingridients: [
       "мясо готовой курицы (отварной или&nbsp;запеченной)&nbsp;—  400&nbsp;г",
       " куриный бульон&nbsp;—  1,5&nbsp;л",
@@ -4712,7 +4712,7 @@ export const soups = [
   {
     title: "Чихиртма из курицы",
     image:
-      "https://proxy12.online.ua/retsepty/r2-1d0bcd7096/small531061b2794f4.jpg",
+      "https://proxy11.online.ua/retsepty/r2-1d0bcd7096/big531061b2794f4.jpg",
     ingridients: [
       "куриные окорочка&nbsp;—  3&nbsp;шт.",
       " вода&nbsp;—  1,5&nbsp;л",
@@ -4788,7 +4788,7 @@ export const soups = [
   {
     title: "Чесночный крем-суп с лисичками",
     image:
-      "https://proxy12.online.ua/retsepty/r3-11e1b14834/small5296096f4dd31.jpg",
+      "https://proxy11.online.ua/retsepty/r3-11e1b14834/big5296096f4dd31.jpg",
     ingridients: [
       "чеснок&nbsp;—  30&nbsp;зубчиков",
       " куриный или&nbsp;овощной бульон&nbsp;—  1,5&nbsp;л",
@@ -4848,7 +4848,7 @@ export const soups = [
   {
     title: "Острый овощной суп с киноа",
     image:
-      "https://proxy12.online.ua/retsepty/r3-30453f1863/small5296f1f433632.jpg",
+      "https://proxy11.online.ua/retsepty/r3-30453f1863/big5296f1f433632.jpg",
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " чеснок&nbsp;—  4&nbsp;зубчика",
@@ -4904,7 +4904,7 @@ export const soups = [
   {
     title: "Суп из цветной капусты и нута с карри",
     image:
-      "https://proxy12.online.ua/retsepty/r2-5f9e64b122/small529709541655d.jpg",
+      "https://proxy11.online.ua/retsepty/r2-5f9e64b122/big529709541655d.jpg",
     ingridients: [
       "сухой нут&nbsp;—  150&nbsp;г",
       " крупная луковица&nbsp;—  1&nbsp;шт.",
@@ -4957,9 +4957,9 @@ export const soups = [
     ],
   },
   {
-    title: "Соg из цуккини с белой фасолью",
+    title: "Суп из цуккини с белой фасолью",
     image:
-      "https://proxy12.online.ua/retsepty/r2-dffcce56de/small5296ff7959b79.jpg",
+      "https://proxy12.online.ua/retsepty/r2-dffcce56de/big5296ff7959b79.jpg",
     ingridients: [
       "сухая белая фасоль*&nbsp;—  300&nbsp;г",
       " средние луковицы&nbsp;—  3&nbsp;шт.",
@@ -5005,7 +5005,7 @@ export const soups = [
   {
     title: "Быстрый суп из цветной капусты с ветчиной",
     image:
-      "https://proxy12.online.ua/retsepty/r3-35557b854d/small5296fe9f2672f.jpg",
+      "https://proxy10.online.ua/retsepty/r3-35557b854d/big5296fe9f2672f.jpg",
     ingridients: [
       "картофель&nbsp;—  3&nbsp;шт.",
       " цветная капуста (можно использовать замороженную)&nbsp;—  300&nbsp;г",
@@ -5057,7 +5057,7 @@ export const soups = [
   {
     title: "Быстрый овощной суп",
     image:
-      "https://proxy12.online.ua/retsepty/r2-b440af443b/small52970cfad5bdd.jpg",
+      "https://proxy11.online.ua/retsepty/r2-b440af443b/big52970cfad5bdd.jpg",
     ingridients: [
       "чеснок&nbsp;—  2&nbsp;зубчика",
       " томаты в&nbsp;собственном соку&nbsp;—  800&nbsp;г",
@@ -5092,7 +5092,7 @@ export const soups = [
   {
     title: "Сельдерейный суп с фрикадельками из индейки",
     image:
-      "https://proxy12.online.ua/retsepty/r2-2f9588d9dd/small5296f78595887.jpg",
+      "https://proxy11.online.ua/retsepty/r2-2f9588d9dd/big5296f78595887.jpg",
     ingridients: [
       "крупная луковица&nbsp;—  1&nbsp;шт.",
       " средняя морковь&nbsp;—  1&nbsp;шт.",
@@ -5144,7 +5144,7 @@ export const soups = [
   {
     title: "Рисовый суп из индейки",
     image:
-      "https://proxy12.online.ua/retsepty/r2-2e90063462/small52973dcd58be2.jpg",
+      "https://proxy11.online.ua/retsepty/r2-2e90063462/big52973dcd58be2.jpg",
     ingridients: [
       "крупное индюшиное крыло&nbsp;—  1&nbsp;шт.",
       " крупный стебель сельдерея&nbsp;—  1&nbsp;шт.",
@@ -5194,7 +5194,7 @@ export const soups = [
   {
     title: "Густая похлебка из баранины в кокосовом молоке",
     image:
-      "https://proxy10.online.ua/retsepty/r2-548c1c1a0b/small5296ec8f345d9.jpg",
+      "https://proxy10.online.ua/retsepty/r2-548c1c1a0b/big5296ec8f345d9.jpg",
     ingridients: [
       "баранина&nbsp;—  800&nbsp;г",
       " небольшой кусочек свежего имбиря, около 2&nbsp;ст.л. в&nbsp;нарубленном виде",
@@ -5255,7 +5255,7 @@ export const soups = [
   {
     title: "Грибной суп с фрикадельками",
     image:
-      "https://proxy10.online.ua/retsepty/r3-68423881d8/small52971209ccf3e.jpg",
+      "https://proxy12.online.ua/retsepty/r3-68423881d8/big52971209ccf3e.jpg",
     ingridients: [
       "шампиньоны&nbsp;—  400&nbsp;г",
       " картофель&nbsp;—  2&nbsp;шт.",
@@ -5321,7 +5321,7 @@ export const soups = [
   {
     title: "Густой томатный суп с фаршем и чечевицей",
     image:
-      "https://proxy10.online.ua/retsepty/r3-ce9a9adc2e/small52960e484a680.jpg",
+      "https://proxy11.online.ua/retsepty/r3-ce9a9adc2e/big52960e484a680.jpg",
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " средние сладкие перцы&nbsp;—  2&nbsp;шт.",
@@ -5362,7 +5362,7 @@ export const soups = [
   {
     title: "Минестроне",
     image:
-      "https://proxy10.online.ua/retsepty/r2-ad9963a7e5/small52972d850e08e.jpg",
+      "https://proxy10.online.ua/retsepty/r2-ad9963a7e5/big52972d850e08e.jpg",
     ingridients: [
       "средняя красная луковица&nbsp;—  1&nbsp;шт.",
       " морковь&nbsp;—  2&nbsp;шт.",
@@ -5423,7 +5423,7 @@ export const soups = [
   {
     title: "Куриный суп с зелеными клецками",
     image:
-      "https://proxy10.online.ua/retsepty/r2-6a9aed90c1/small5296fa1bee281.jpg",
+      "https://proxy10.online.ua/retsepty/r2-6a9aed90c1/big5296fa1bee281.jpg",
     ingridients: [
       "куриные окорочка&nbsp;—  4&nbsp;шт.",
       " морковь&nbsp;—  3&nbsp;шт.",
@@ -5480,7 +5480,7 @@ export const soups = [
   {
     title: "Фасолевый суп с курицей",
     image:
-      "https://proxy10.online.ua/retsepty/r2-837c9779bf/small52972e8f8a4d1.jpg",
+      "https://proxy12.online.ua/retsepty/r2-837c9779bf/big52972e8f8a4d1.jpg",
     ingridients: [
       "куриное филе&nbsp;—  400&nbsp;г",
       " вермишель&nbsp;—  75&nbsp;г",
@@ -5524,7 +5524,7 @@ export const soups = [
   {
     title: "Сливочный суп с курицей и грибами",
     image:
-      "https://proxy10.online.ua/retsepty/r3-f363953169/small52961c1ac5745.jpg",
+      "https://proxy12.online.ua/retsepty/r3-f363953169/big52961c1ac5745.jpg",
     ingridients: [
       "куриные бедра&nbsp;—  4&nbsp;шт.",
       " лавровый лист&nbsp;—  1&nbsp;шт.",
@@ -5579,7 +5579,7 @@ export const soups = [
   {
     title: "Рыбный суп",
     image:
-      "https://proxy10.online.ua/retsepty/r3-7aa50ba883/small5326c53f2f5f0.jpg",
+      "https://proxy12.online.ua/retsepty/r3-7aa50ba883/big5326c53f2f5f0.jpg",
     ingridients: [
       "рога и&nbsp;копыта от&nbsp;одного лосося (голова, хребет, плавники и&nbsp;обрезки); можно купить голову на&nbsp;рынке",
       " картофель&nbsp;—  4-5 шт.",
@@ -5612,7 +5612,7 @@ export const soups = [
   {
     title: "Суп-пюре из картофеля и порея",
     image:
-      "https://proxy10.online.ua/retsepty/r2-7c44e774d8/small52970255c794f.jpg",
+      "https://proxy11.online.ua/retsepty/r2-7c44e774d8/big52970255c794f.jpg",
     ingridients: [
       "порей (только белая и&nbsp;светло-зеленая часть, вес&nbsp;в конечном виде, без&nbsp;ботвы)&nbsp;—  500&nbsp;г",
       " шампиньоны&nbsp;—  150&nbsp;г",
@@ -5661,7 +5661,7 @@ export const soups = [
   {
     title: "Капустный суп",
     image:
-      "https://proxy10.online.ua/retsepty/r2-f505f3f3ae/small52970333b600a.jpg",
+      "https://proxy12.online.ua/retsepty/r2-f505f3f3ae/big52970333b600a.jpg",
     ingridients: [
       "средний стебель лука порея (только белая и&nbsp;светло-салатовая часть)&nbsp;—  2&nbsp;шт.",
       " средняя луковица&nbsp;—  1&nbsp;шт.",
@@ -5718,7 +5718,7 @@ export const soups = [
   {
     title: "Сливочный суп с копченой курицей",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d6ab452935/small5297298c2dc5e.jpg",
+      "https://proxy11.online.ua/retsepty/r3-d6ab452935/big5297298c2dc5e.jpg",
     ingridients: [
       "бекон, нарезанный на&nbsp;тонкие полоски&nbsp;—  70&nbsp;г",
       " маленькая луковица&nbsp;—  1&nbsp;шт.",
@@ -5789,7 +5789,7 @@ export const soups = [
   {
     title: "Бульон из индейки с помидорами и острым перцем",
     image:
-      "https://proxy10.online.ua/retsepty/r2-7902e4339d/small52970e27c1f71.jpg",
+      "https://proxy10.online.ua/retsepty/r2-7902e4339d/big52970e27c1f71.jpg",
     ingridients: [
       "крупное индюшиное крыло&nbsp;—  1&nbsp;шт.",
       " вода&nbsp;—  2&nbsp;л",
@@ -5850,7 +5850,7 @@ export const soups = [
   {
     title: "Айнтопф с капустой и копчеными ребрышками",
     image:
-      "https://proxy10.online.ua/retsepty/r2-3e65e1d651/small5296f9187936b.jpg",
+      "https://proxy10.online.ua/retsepty/r2-3e65e1d651/big5296f9187936b.jpg",
     ingridients: [
       "копченые свиные ребра&nbsp;—  600&nbsp;г",
       " лавровый лист&nbsp;—  1&nbsp;шт.",
@@ -5913,7 +5913,7 @@ export const soups = [
   {
     title: "Острый суп-пюре из фасоли с авокадо",
     image:
-      "https://proxy10.online.ua/retsepty/r3-2aa8c249bf/small528df331d107f.jpg",
+      "https://proxy10.online.ua/retsepty/r3-2aa8c249bf/big528df331d107f.jpg",
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " средняя морковь&nbsp;—  1&nbsp;шт.",
@@ -5965,7 +5965,7 @@ export const soups = [
   {
     title: "Немецкий картофельный суп",
     image:
-      "https://proxy10.online.ua/retsepty/r3-b83d7f8b76/small528a3f934d4ed.jpg",
+      "https://proxy12.online.ua/retsepty/r3-b83d7f8b76/big528a3f934d4ed.jpg",
     ingridients: [
       "луковица&nbsp;—  1&nbsp;шт.",
       "стебель лука порея&nbsp;—  1&nbsp;шт.",
@@ -6008,7 +6008,7 @@ export const soups = [
   {
     title: "Итальянский суп с фрикадельками",
     image:
-      "https://proxy10.online.ua/retsepty/r2-45a2903d0c/small527cf0c289daf.jpg",
+      "https://proxy10.online.ua/retsepty/r2-45a2903d0c/big527cf0c289daf.jpg",
     ingridients: [
       "говяжий фарш&nbsp;—  500&nbsp;г",
       "красный лук, мелко нарезанный&nbsp;—  1шт.",
@@ -6052,7 +6052,7 @@ export const soups = [
   {
     title: "Харчо из курицы с орехами",
     image:
-      "https://proxy12.online.ua/retsepty/r2-5c7636196f/small52404f0a844f0.jpg",
+      "https://proxy12.online.ua/retsepty/r2-5c7636196f/big52404f0a844f0.jpg",
     ingridients: [
       "курица&nbsp;—  300&nbsp;г",
       "лук репчатый&nbsp;—  75&nbsp;г",
@@ -6088,7 +6088,7 @@ export const soups = [
   {
     title: "Суп Чеснечка",
     image:
-      "https://proxy12.online.ua/retsepty/r3-519ba2f616/small51a608767be35.JPG",
+      "https://proxy10.online.ua/retsepty/r3-519ba2f616/big51a608767be35.JPG",
     ingridients: [
       "Чеснок дольки 	10&nbsp;шт. 	",
       "Сливочное масло 	17&nbsp;г",
@@ -6145,7 +6145,7 @@ export const soups = [
   {
     title: "Суп из баранины",
     image:
-      "https://proxy12.online.ua/retsepty/r2-7953083394/small51a70be2b542b.JPG",
+      "https://proxy10.online.ua/retsepty/r2-7953083394/big51a70be2b542b.JPG",
     ingridients: [
       "Баранина на&nbsp;косточке 	600&nbsp;г&nbsp;	",
       "Лавровый лист 	2&nbsp;шт.",
@@ -6191,7 +6191,7 @@ export const soups = [
   {
     title: "Томатный суп",
     image:
-      "https://proxy12.online.ua/retsepty/r2-d56c77ca7e/small5215f9476f0aa.jpg",
+      "https://proxy11.online.ua/retsepty/r2-d56c77ca7e/big5215f9476f0aa.jpg",
     ingridients: [
       "помидоры&nbsp;—  4&nbsp;шт.",
       "лук репчатый&nbsp;—  1/2&nbsp;головки",
@@ -6216,7 +6216,7 @@ export const soups = [
   {
     title: "Суп с зеленой чечевицей и овощами",
     image:
-      "https://proxy12.online.ua/retsepty/r3-ed16a85805/small51a6f3f962fc4.JPG",
+      "https://proxy11.online.ua/retsepty/r3-ed16a85805/big51a6f3f962fc4.JPG",
     ingridients: [
       "Чечевица зеленая 	280&nbsp;г&nbsp;	",
       "Лук репчатый (100г) 	1&nbsp;шт.",
@@ -6279,7 +6279,7 @@ export const soups = [
   {
     title: "Сливочный суп с лососем",
     image:
-      "https://proxy12.online.ua/retsepty/r2-3a4944eef3/small51efdf224f029.jpg",
+      "https://proxy12.online.ua/retsepty/r2-3a4944eef3/big51efdf224f029.jpg",
     ingridients: [
       "Лосось целый (семга, форель, нерка, кижуч) 	2&nbsp;кг&nbsp;	",
       "Морковь 	200&nbsp;г",
@@ -6356,7 +6356,7 @@ export const soups = [
   {
     title: "Финский рыбный суп",
     image:
-      "https://proxy12.online.ua/retsepty/r3-c3c666279e/small51ed95d8d5bb5.jpg",
+      "https://proxy10.online.ua/retsepty/r3-c3c666279e/big51ed95d8d5bb5.jpg",
     ingridients: [
       "Лук красный 	1&nbsp;шт. 	",
       "Лавровый лист 	4&nbsp;шт.",
@@ -6400,7 +6400,7 @@ export const soups = [
   {
     title: "Острый рыбный суп",
     image:
-      "https://proxy12.online.ua/retsepty/r3-d6ecf53b57/small51a4a75723824.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d6ecf53b57/big51a4a75723824.jpg",
     ingridients: [
       "Семга 	1500&nbsp;г&nbsp;	",
       "Перец сладкий красный (паприка) 	½ шт.",
@@ -6461,7 +6461,7 @@ export const soups = [
   {
     title: "Гороховая похлебка",
     image:
-      "https://proxy10.online.ua/retsepty/r3-ba023e2309/small511286531f6d3.jpg",
+      "https://proxy10.online.ua/retsepty/r3-ba023e2309/big511286531f6d3.jpg",
     ingridients: [
       "горох&nbsp;—  400&nbsp;г",
       "репчатый лук&nbsp;—  100&nbsp;г",
@@ -6483,7 +6483,7 @@ export const soups = [
   {
     title: "Суп с грибами и фрикадельками",
     image:
-      "https://proxy10.online.ua/retsepty/r2-976c94f604/small50ab8177875bd.jpg",
+      "https://proxy10.online.ua/retsepty/r2-976c94f604/big50ab8177875bd.jpg",
     ingridients: [
       "шампиньоны&nbsp;—  400&nbsp;г",
       "картофель&nbsp;—  2&nbsp;шт.",
@@ -6541,7 +6541,7 @@ export const soups = [
   {
     title: "Легкий куриный супчик",
     image:
-      "https://proxy10.online.ua/retsepty/r2-bf84b6923e/small509277238b176.jpg",
+      "https://proxy11.online.ua/retsepty/r2-bf84b6923e/big509277238b176.jpg",
     ingridients: [
       "курица (около 1,5-1,6&nbsp;кг)&nbsp;—  1&nbsp;шт.",
       "луковица&nbsp;—  1&nbsp;шт.",
@@ -6589,7 +6589,7 @@ export const soups = [
   {
     title: "Тыквенный суп с имбирем",
     image:
-      "https://proxy10.online.ua/retsepty/r3-198ab42965/small509025bf1f5ab.jpg",
+      "https://proxy12.online.ua/retsepty/r3-198ab42965/big509025bf1f5ab.jpg",
     ingridients: [
       "    тыква	—  300&nbsp;г",
       "    картофель	—  300&nbsp;г",
@@ -6628,7 +6628,7 @@ export const soups = [
   {
     title: "Суп с чечевицей в индийском стиле",
     image:
-      "https://proxy10.online.ua/retsepty/r3-279edfc817/small505c6307a8a58.jpg",
+      "https://proxy11.online.ua/retsepty/r3-279edfc817/big505c6307a8a58.jpg",
     ingridients: [
       "    200&nbsp;грамм красной чечевицы",
       "    250&nbsp;грамм лука репчатого",
@@ -6672,7 +6672,7 @@ export const soups = [
   {
     title: "Суп грибной",
     image:
-      "https://proxy10.online.ua/retsepty/r3-d5034f2794/small50531590b7824.gif",
+      "https://proxy10.online.ua/retsepty/r3-d5034f2794/big50531590b7824.gif",
     ingridients: [
       "грибы свежие или&nbsp;замороженные&nbsp;—  450-500 г",
       "картофель&nbsp;—  600&nbsp;г",
@@ -6712,7 +6712,7 @@ export const soups = [
   {
     title: "Тыквенный суп с рисом и мясными шариками",
     image:
-      "https://proxy12.online.ua/retsepty/r3-f2b6af2640/small4f24039019e8c.jpg",
+      "https://proxy11.online.ua/retsepty/r3-f2b6af2640/big4f24039019e8c.jpg",
     ingridients: [
       "Тыква 	700&nbsp;г&nbsp;",
       "	Соль 	1&nbsp;ч.л.",
@@ -6775,7 +6775,7 @@ export const soups = [
   {
     title: "Суп-пюре из зеленого горошка",
     image:
-      "https://proxy12.online.ua/retsepty/r3-a18ee3e5e4/small4f240514ebde4.jpg",
+      "https://proxy10.online.ua/retsepty/r3-a18ee3e5e4/big4f240514ebde4.jpg",
     ingridients: [
       "Курица (1,8&nbsp;кг) 	1&nbsp;шт. 	",
       "Соль 	2&nbsp;ч.л.",
@@ -6813,7 +6813,7 @@ export const soups = [
   {
     title: "Суп Вишисуаз",
     image:
-      "https://proxy12.online.ua/retsepty/r3-d2a5124776/small4f24052c95b02.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d2a5124776/big4f24052c95b02.jpg",
     ingridients: [
       "Лук порей 	2&nbsp;шт. ",
       "	Лук репчатый (100г) 	1&nbsp;шт.",
@@ -6851,7 +6851,7 @@ export const soups = [
   {
     title: "Суп в хлебном горшочке",
     image:
-      "https://proxy12.online.ua/retsepty/r3-f3f2807226/small4fcd05f84546d.jpg",
+      "https://proxy11.online.ua/retsepty/r3-f3f2807226/big4fcd05f84546d.jpg",
     ingridients: [
       "небольшие круглые буханки хлеба&nbsp;—  2&nbsp;шт.",
       "тушенка из&nbsp;свинины&nbsp;—  200&nbsp;г",
@@ -6908,7 +6908,7 @@ export const soups = [
   {
     title: "Пряный суп-пюре из нута",
     image:
-      "https://proxy12.online.ua/retsepty/r3-0b32634332/small4f240423a6c71.jpg",
+      "https://proxy11.online.ua/retsepty/r3-0b32634332/big4f240423a6c71.jpg",
     ingridients: [
       "Нут (турецкий горох) 	350&nbsp;г&nbsp;	",
       "Бульон говяжий 	2000&nbsp;мл",
@@ -6986,7 +6986,7 @@ export const soups = [
   {
     title: "Двухцветный суп из фасоли",
     image:
-      "https://proxy12.online.ua/retsepty/r3-61efcb55f3/small4f24036340ba0.jpg",
+      "https://proxy11.online.ua/retsepty/r3-61efcb55f3/big4f24036340ba0.jpg",
     ingridients: [
       "Кориандр сушеный (кинза) 2 ч.л. ",
       "Оливковое масло 20&nbsp;мл ",
@@ -7048,7 +7048,7 @@ export const soups = [
   {
     title: "Детский суп с овощами",
     image:
-      "https://proxy12.online.ua/retsepty/r3-d882186c3d/small4f2404cc9d418.jpg",
+      "https://proxy10.online.ua/retsepty/r3-d882186c3d/big4f2404cc9d418.jpg",
     ingridients: [
       "Куриная голень 100 г ",
       "Куриная грудка 100&nbsp;г ",
@@ -7110,7 +7110,7 @@ export const soups = [
   {
     title: "Суп из шпитаке",
     image:
-      "https://proxy12.online.ua/retsepty/r3-b660ef4719/small4f2404518a74d.jpg",
+      "https://proxy12.online.ua/retsepty/r3-b660ef4719/big4f2404518a74d.jpg",
     ingridients: [
       "Шиитаке сушеные 	20&nbsp;г&nbsp;	",
       "Морковь 	150&nbsp;г",
@@ -7178,7 +7178,7 @@ export const soups = [
   {
     title: "Суп с вермишелью",
     image:
-      "https://proxy12.online.ua/retsepty/r3-7994c8ff51/small4f240481743d9.jpg",
+      "https://proxy10.online.ua/retsepty/r3-7994c8ff51/big4f240481743d9.jpg",
     ingridients: [
       "Голяшка говяжья без&nbsp;кости 	1000&nbsp;г&nbsp;	",
       "Лук репчатый (100г) 	1&nbsp;шт.",
@@ -7232,7 +7232,7 @@ export const soups = [
   {
     title: "Луковый суп",
     image:
-      "https://proxy12.online.ua/retsepty/r3-f04d6f14c1/small4f24053439a5b.jpg",
+      "https://proxy11.online.ua/retsepty/r3-f04d6f14c1/big4f24053439a5b.jpg",
     ingridients: [
       "Лук серебристый (белый) 	800&nbsp;г&nbsp;	",
       "Сливочное масло 	80&nbsp;г",
@@ -7295,7 +7295,7 @@ export const soups = [
   {
     title: "Куриный суп с томатной пастой",
     image:
-      "https://proxy12.online.ua/retsepty/r3-d4/003/149/203/small4e5bf4ffbc3b2.jpg",
+      "https://proxy12.online.ua/retsepty/r3-d4/003/149/203/big4e5bf4ffbc3b2.jpg",
     ingridients: [
       "куриная ножка&nbsp;—  1&nbsp;шт.",
       "вода&nbsp;—  4&nbsp;стакана",
@@ -7337,21 +7337,6 @@ export const soups = [
         description:
           "Дайте супу настояться в&nbsp;течение 10&nbsp;минут перед подачей.",
       },
-    ],
-  },
-  {
-    title: "",
-    image: "",
-    ingridients: ["", "", "", "", "", "", "", ""],
-    cooking: [
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
     ],
   },
 ];
