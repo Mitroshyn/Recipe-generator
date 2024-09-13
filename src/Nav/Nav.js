@@ -8,9 +8,10 @@ export function Nav() {
       <Container>
         <nav>
           <ul>
-            <li>
+            <li className="w-60">
               <Link to="/">Главная страница</Link>
             </li>
+
             <li>
               <Link to="/pancakes">Pancakes</Link>
             </li>
@@ -43,6 +44,9 @@ export function Nav() {
             </li>
             <li>
               <Link to="/meatSalads">Meat Salads</Link>
+            </li>
+            <li>
+              <Link to="/newRecipes"></Link>
             </li>
           </ul>
         </nav>

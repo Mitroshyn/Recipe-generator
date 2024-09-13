@@ -7,6 +7,8 @@ import { pancakes, pancakesType } from "./Pancakes";
 import { sauces, saucesType } from "./Sauces";
 import { soups, soupsType } from "./Soups";
 import { softDrinks, softDrinksType } from "./SoftDrinks";
+import { popular, popularRecipesType } from "./PopularRecipes";
+import { newRecipes, newRecipesType } from "./NewRecipes";
 
 export const dishesData = {
   [meatSaladsType]: meatSalads,
@@ -18,4 +20,6 @@ export const dishesData = {
   [soupsType]: soups,
   [borschType]: borsches,
   [softDrinksType]: softDrinks,
+  [popularRecipesType]: popular,
+  [newRecipesType]: newRecipes,
 };
