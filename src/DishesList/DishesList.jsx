@@ -1,7 +1,6 @@
 import React,{useState} from 'react';
 import { useNavigate } from "react-router-dom";
 import { Data } from '../components/Data';
-import { Tabs } from '../components/Tabs';
 export function DishesList({ data, title, tags, type }) {
   const historyPush = useNavigate();
 
@@ -34,7 +33,7 @@ export function DishesList({ data, title, tags, type }) {
           
         {/* <span onClick={()=> handleTabClick('popular')} className={`cursor-pointer bg-amber-300 ml-4 text-xl ${activeTab === 'popular' ? 'bg-green-500 text-white' : ''}`}>Популярные</span>
         <span onClick={()=>handleTabClick('new')} className={`cursor-pointer bg-amber-300 ml-4 text-xl ${activeTab === 'new' ? 'bg-green-500 text-white' : ''}`}>Новые</span> */}
-        <Tabs/>
+        {/* <Tabs/> */}
         <Data data={data} type={type}/>
       </div>
     </>

@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-export function Data({data,title,tags,type}) {
+export function Data({ data, title, type }) {
   const historyPush = useNavigate();
   return (
     <div className="flex flex-wrap ">

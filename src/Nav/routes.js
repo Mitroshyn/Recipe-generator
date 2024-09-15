@@ -1,5 +1,4 @@
 import { Main } from "../Main/Main";
-import { New } from "../components/New";
 import {
   borsches,
   borschesTitle,
@@ -46,29 +45,11 @@ import {
   softDrinksType,
 } from "../data/SoftDrinks";
 import { DishesDetails } from "../components/DishesDetails";
-import {
-  popular,
-  popularRecipesTags,
-  popularRecipesTitle,
-  popularRecipesType,
-} from "../data/PopularRecipes";
-import {
-  newRecipes,
-  newRecipesTitle,
-  newRecipesType,
-} from "../data/NewRecipes";
 
 export const routes = [
   {
     path: "/",
-    component: (
-      <Main
-        data={popular}
-        title={popularRecipesTitle}
-        tags={popularRecipesTags}
-        type={popularRecipesType}
-      />
-    ),
+    component: <Main />,
   },
   { path: "/dishes/:type/:id", component: <DishesDetails /> },
   {
@@ -170,15 +151,15 @@ export const routes = [
       />
     ),
   },
-  {
-    path: "/newRecipes",
-    component: (
-      <New
-        data={newRecipes}
-        title={newRecipesTitle}
-        // tags={newRecipesTags}
-        type={newRecipesType}
-      />
-    ),
-  },
+  // {
+  //   path: "/newRecipes",
+  //   component: (
+  //     <New
+  //       data={newRecipes}
+  //       title={newRecipesTitle}
+  //       // tags={newRecipesTags}
+  //       type={newRecipesType}
+  //     />
+  //   ),
+  // },
 ];
