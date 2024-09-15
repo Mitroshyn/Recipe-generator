@@ -1,5 +1,6 @@
 import { Data } from "../components/Data";
 import { Tabs } from "../components/Tabs";
+
 export function Main({ data, type, title }) {
   return (
     <>
