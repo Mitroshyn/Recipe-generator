@@ -151,4 +151,15 @@ export const routes = [
       />
     ),
   },
+  // {
+  //   path: "/newRecipes",
+  //   component: (
+  //     <New
+  //       data={newRecipes}
+  //       title={newRecipesTitle}
+  //       // tags={newRecipesTags}
+  //       type={newRecipesType}
+  //     />
+  //   ),
+  // },
 ];

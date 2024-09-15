@@ -630,8 +630,6 @@ export const soups = [
       " молотая зира (кумин)&nbsp;—  1/2&nbsp;ч.л.",
       " яйцо&nbsp;—  1&nbsp;шт.",
       " соль и&nbsp;перец&nbsp;—  по&nbsp;вкусу",
-    ],
-    sauceIngridients: [
       "лук&nbsp;—  1-2 шт.",
       " небольшой острый перчик&nbsp;—  1&nbsp;шт.",
       "молотая зира&nbsp;—  1/2&nbsp;ч.л.",

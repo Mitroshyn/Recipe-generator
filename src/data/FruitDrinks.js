@@ -221,7 +221,7 @@ export const fruitDrinks = [
       },
       {
         description:
-          "В горячей воде (я брала около 650&nbsp;мл на&nbsp;500&nbsp;г&nbsp;слив) растворить сахар и&nbsp;опустить туда сливы. ",
+          "В горячей воде (я брал около 650&nbsp;мл на&nbsp;500&nbsp;г&nbsp;слив) растворить сахар и&nbsp;опустить туда сливы. ",
         image:
           "https://proxy11.online.ua/retsepty/r3-603c8d090b/big4caedaf8b8da9.jpg",
       },
