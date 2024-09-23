@@ -1,8 +1,7 @@
 import React,{useState} from 'react';
 import { useNavigate } from "react-router-dom";
 import { Data } from '../components/Data';
-import { Tabs } from '../components/Tabs';
-import {PopularDishes} from '../components/PopularDishes';
+
 export function DishesList({ data, title, type}) {
   const historyPush = useNavigate();
 
@@ -42,7 +41,7 @@ export function DishesList({ data, title, type}) {
           
 
         <Data data={data} type={type}/>
-        {/* <PopularDishes data={data} type={type}/> */}
+        {/* <PopularDishes data={data} */}
       </div>
     </>
   );
