@@ -1,3 +1,6 @@
+export const saucesType = "sauces";
+
+
 export const sauces = [
   {
     title: "Домашний майонез",
@@ -34,6 +37,7 @@ export const sauces = [
           "Готовый майонез переложите в&nbsp;чистую пластиковую или&nbsp;стеклянную емкость, тогда его&nbsp;можно будет хранить в&nbsp;холодильнике в&nbsp;течение недели.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Домашний майонез в индийском стиле",
@@ -86,6 +90,7 @@ export const sauces = [
       { description: "Соус готов к подаче." },
       { description: "Хранить в холодильнике, как домашний майонез." },
     ],
+    type: saucesType,
   },
   {
     title: "Сырный соус",
@@ -132,6 +137,7 @@ export const sauces = [
           "Варим до&nbsp;однородной консистенции, постоянно мешая венчиком, буквально пару минут. Снимаем с&nbsp;плиты, добавляем по&nbsp;вкусу соль. Подаем соус теплым или&nbsp;полностью охлажденным.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Сливочно-чесночный соус",
@@ -181,6 +187,7 @@ export const sauces = [
           "Добавьте пармезан и&nbsp;снимите с&nbsp;огня. Хорошо помешайте, чтобы сыр&nbsp;расплавился. Если хотите, чтобы соус получился более густым, продолжайте готовить. Если нет, снимите с&nbsp;плиты и&nbsp;подавайте.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Инвертный сахарный сироп",
@@ -217,6 +224,7 @@ export const sauces = [
           "Полностью остужаем сироп и&nbsp;используем по&nbsp;назначению. Хранить в&nbsp;закрытой таре при&nbsp;комнатной температуре.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Майонез постный (гороховый)",
@@ -264,6 +272,7 @@ export const sauces = [
           "Теперь нужно проверить постный 'майонез' на&nbsp;вкус и, при&nbsp;необходимости, добавить специи. Домашний 'майонез' постный готов!",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Луковый мармелад",
@@ -325,6 +334,7 @@ export const sauces = [
           "К сырной тарелке он&nbsp;придется очень в&nbsp;тему. В&nbsp;аннотации к&nbsp;рецепту есть еще&nbsp;пара рекомендаций по&nbsp;применению.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Соус для салата Цезарь без майонеза",
@@ -352,6 +362,7 @@ export const sauces = [
           "Добавить лимонный сок, вустерширский соус и&nbsp;филе анчоусов, которое предварительно надо потолочь. Добавить еще&nbsp;давленый чеснок и&nbsp;пармезан. Все&nbsp;хорошо взбить и&nbsp;полить соусом салат.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Соус к дерунам",
@@ -382,6 +393,7 @@ export const sauces = [
           "Влейте сметану в&nbsp;лук со&nbsp;специями, старательно размешайте и&nbsp;поставьте в&nbsp;холодильник на&nbsp;20&nbsp;минут. Соус готов!",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Соус Песто с кедровыми орешками",
@@ -414,6 +426,7 @@ export const sauces = [
           "Для придания соусу большей воздушности (или, если просто нет&nbsp;под рукой блендера) можно все&nbsp;смешивать до&nbsp;однородного состояния пестиком в&nbsp;ступке. Так&nbsp;этот соус делали изначально. Можно хранить в&nbsp;холодильнике день-два. Количество оливкового масла можно варьировать в&nbsp;зависимости от&nbsp;предпочтений и&nbsp;целей использования соуса.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Мятный соус к мясу",
@@ -443,6 +456,7 @@ export const sauces = [
       },
       { description: "Подаем." },
     ],
+    type: saucesType,
   },
   {
     title: "Соус Ремулад",
@@ -485,6 +499,7 @@ export const sauces = [
           "Такой соус отлично подходит к&nbsp;рыбе и&nbsp;птице, неплохо и&nbsp;к мясу, а&nbsp;еще&nbsp;—  к&nbsp;печеному картофелю.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Клюквенно-апельсиновый соус",
@@ -512,6 +527,7 @@ export const sauces = [
           "Снова поставить на&nbsp;средний огонь, готовить около 5&nbsp;минут, помешивая или&nbsp;пока клюква не&nbsp;начнет лопаться, но&nbsp;не развалится совсем (замороженная клюква займет около 7&nbsp;мин). Подавать холодным.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Крем 'Шантильи'",
@@ -537,6 +553,7 @@ export const sauces = [
           "Не прекращая взбивать, добавьте сахарную пудру с&nbsp;ванилью. Как&nbsp;только сливки будут держаться на&nbsp;венчике, взбивание прекратите, иначе вместо крема может получиться масло&nbsp;—  начало этого процесса можно определить по&nbsp;цвету: из&nbsp;однородного белого сливки делаются белыми в&nbsp;желтую крапинку (это и&nbsp;есть кусочки масла).",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Соус Бер Руж",
@@ -566,6 +583,7 @@ export const sauces = [
       },
       { description: "Приправляем по вкусу солью и сахаром." },
     ],
+    type: saucesType,
   },
   {
     title: "Домашняя арахисовая паста",
@@ -603,6 +621,7 @@ export const sauces = [
       },
       { description: "При необходимости добавляем еще соли и сахара." },
     ],
+    type: saucesType,
   },
   {
     title: "Заправка из авокадо для салата 'Цезарь'",
@@ -641,6 +660,7 @@ export const sauces = [
           "    Но&nbsp;не забывайте, что&nbsp;заправка должна быть достаточно густой.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Соус Ромеско",
@@ -674,6 +694,7 @@ export const sauces = [
           "    И&nbsp;капельку вишневого уксуса. Соль&nbsp;—  по&nbsp;вкусу.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Белый соус для пиццы",
@@ -733,6 +754,7 @@ export const sauces = [
           "Выложите сыр&nbsp;в сотейник. Как&nbsp;следует перемешайте соус, можно снимать с&nbsp;огня. Вот&nbsp;и все: немного остудите&nbsp;—  и&nbsp;можете использовать.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Соус 'Ткемали'",
@@ -754,6 +776,7 @@ export const sauces = [
           "Сливы вымыть, разрезать пополам. Сложить в&nbsp;кастрюлю, влить воду и&nbsp;варить на&nbsp;слабом огне, пока сливы полностью не&nbsp;разварятся. Сливовый отвар слить в&nbsp;отдельную посуду. Сливы откинуть на&nbsp;сито и&nbsp;протереть. Поставить протертую мякоть на&nbsp;маленький огонь и&nbsp;варить 40-45 мин., время от&nbsp;времени подливая отвар, до&nbsp;густоты сметаны. Кинзу вымыть, обсушить и&nbsp;мелко нарезать. Добавить в&nbsp;сотейник все&nbsp;пряности и&nbsp;кинзу. Варить 5&nbsp;мин. Разлить по&nbsp;бутылкам, сверху влить по&nbsp;1&nbsp;ч. л. растительного масла.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Вареная сгущенка в микроволновке",
@@ -778,6 +801,7 @@ export const sauces = [
           "Варим, перемешивая каждые две&nbsp;минуты, примерно 8&nbsp;минут в&nbsp;общей сложности. То&nbsp;есть, в&nbsp;четыре захода по&nbsp;2&nbsp;минуты. В&nbsp;общем, доводите ее&nbsp;до своей любимой консистенции и&nbsp;цвета, ведь у&nbsp;каждого из&nbsp;нас есть самое вкусное состояние вареной сгущенки, а&nbsp;микроволновка позволяет не&nbsp;упустить этот момент.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Дип из красной фасоли",
@@ -808,6 +832,7 @@ export const sauces = [
           "Приправляем по&nbsp;вкусу солью и&nbsp;лимонным соком. Подаем с&nbsp;хлебцами, лавашем, свежими овощами.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Шоколадно-масляный крем для тортов",
@@ -836,6 +861,7 @@ export const sauces = [
       },
       { description: "Шоколадно-масляный крем для&nbsp;тортов готов!" },
     ],
+    type: saucesType,
   },
   {
     title: "Медовый соус барбекю",
@@ -876,6 +902,7 @@ export const sauces = [
       },
       { description: "Остужаем, разливаем в банки. Хранится неделю точно." },
     ],
+    type: saucesType,
   },
   {
     title: "Соус 'Тартар'",
@@ -938,6 +965,7 @@ export const sauces = [
           "Подаем с&nbsp;овощами, например, кабачками, обжаренными кружочкам.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Дип из авокадо с мятой",
@@ -971,6 +999,7 @@ export const sauces = [
       { description: "При необходимости добавляем соль и лаймовый сок." },
       { description: "Подаем с чипсами, сухариками или гренками." },
     ],
+    type: saucesType,
   },
   {
     title: "Постный овощной соус",
@@ -987,6 +1016,7 @@ export const sauces = [
           "Авокадо и&nbsp;огурец очистить, нарезать произвольно некрупными кусочками и&nbsp;перемолоть до&nbsp;кашицеобразной консистенции при&nbsp;помощи блендера, подсолить и&nbsp;приправить специями по&nbsp;вкусу. Чем&nbsp;больше огурца будет добавлено, тем&nbsp;более жидким будет соус.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Голландский соус",
@@ -1031,6 +1061,7 @@ export const sauces = [
           "Лучше подавать его&nbsp;свежим, но&nbsp;если соус остался, вы&nbsp;можете хранить его&nbsp;сутки в&nbsp;холодильнике с&nbsp;пленкой на&nbsp;поверхности и&nbsp;разогреть на&nbsp;все той&nbsp;же водяной бане.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Чесночная заправка винегрет",
@@ -1059,6 +1090,7 @@ export const sauces = [
       { description: "При необходимости добавляем еще соли и перца." },
       { description: "Заправка готова!" },
     ],
+    type: saucesType,
   },
   {
     title: "Хумус с вялеными томатами",
@@ -1091,6 +1123,7 @@ export const sauces = [
           "Подаем с лавашом и свежими овощами. По желанию поливаем оливковым маслом.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Айоли с базиликом",
@@ -1134,6 +1167,7 @@ export const sauces = [
       },
       { description: "Готовый соус приправляем по вкусу лимонным соком." },
     ],
+    type: saucesType,
   },
   {
     title: "Имбирный сироп",
@@ -1170,6 +1204,7 @@ export const sauces = [
           "Сироп можно хранить до&nbsp;недели в&nbsp;холодильнике или&nbsp;разлить в&nbsp;стерилизованные банки и&nbsp;закатать.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Клюквенно-имбирный соус",
@@ -1210,6 +1245,7 @@ export const sauces = [
           "Сироп можно хранить до&nbsp;недели в&nbsp;холодильнике или&nbsp;разлить в&nbsp;стерилизованные банки и&nbsp;закатать.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Карамельный соус",
@@ -1248,6 +1284,7 @@ export const sauces = [
           "P.S. Если вы&nbsp;ходите получить соус погуще&nbsp;—  добавьте больше масла. В&nbsp;таком случае он&nbsp;будет хорошо мазаться после охлаждения. ",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Огуречно-ананасовая сальса",
@@ -1296,6 +1333,7 @@ export const sauces = [
       },
       { description: "Подаем в охлажденном виде." },
     ],
+    type: saucesType,
   },
   {
     title: "Огуречно-йогуртовый дип",
@@ -1319,6 +1357,7 @@ export const sauces = [
           "Смешиваем с йогуртом, петрушкой, соком лайма. Солим и перчим по вкусу.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Соус батард",
@@ -1351,6 +1390,7 @@ export const sauces = [
       },
       { description: "Подаем теплым." },
     ],
+    type: saucesType,
   },
   {
     title: "Сливочно-огуречный соус с чесноком",
@@ -1377,6 +1417,7 @@ export const sauces = [
           "https://proxy12.online.ua/retsepty/r2-73e8ea87df/big5296f08a31adc.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Мятно-йогуртовая заправка",
@@ -1401,6 +1442,7 @@ export const sauces = [
           "Мяту при&nbsp;желании можно заменить на&nbsp;укроп&nbsp;—  но&nbsp;тогда это&nbsp;будет уже&nbsp;совсем другая история.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Сальса фреска",
@@ -1442,6 +1484,7 @@ export const sauces = [
       },
       { description: "Подаем с мясом или птицей." },
     ],
+    type: saucesType,
   },
   {
     title: "Соус песто",
@@ -1461,6 +1504,7 @@ export const sauces = [
           "Крупно нарезаем чеснок, режем базилик. Складываем все&nbsp;ингредиенты в&nbsp;блендер и&nbsp;измельчаем до&nbsp;состояния однородной массы.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Дип из авокадо и голубого сыра",
@@ -1490,6 +1534,7 @@ export const sauces = [
       },
       { description: "Подаем с крекерами, гренками или чипсами." },
     ],
+    type: saucesType,
   },
   {
     title: "Дип из печеных перцев и грецких орехов",
@@ -1533,6 +1578,7 @@ export const sauces = [
           "Перекладываем дип&nbsp;в миску, накрываем пищевой пленкой и&nbsp;ставим в&nbsp;холодильник как&nbsp;минимум на&nbsp;час. Перед подачей посыпаем отложенными кусочками грецких орехов.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Баба-гануш",
@@ -1568,6 +1614,7 @@ export const sauces = [
           "Пробуем баклажанную массу, солим и&nbsp;перчим по&nbsp;вкусу, при&nbsp;необходимости добавляем оливковое масло. По&nbsp;желания посыпаем кедровыми орешками или&nbsp;тыквенными семечками и&nbsp;подаем.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Хумус с печеным сладким перцем",
@@ -1612,6 +1659,7 @@ export const sauces = [
           "Перед подачей поливаем дополнительным оливковым маслом и&nbsp;посыпаем зирой. Подаем со&nbsp;свежими овощами (огурцом, сладким перцем, морковью), лавашем или&nbsp;другим хлебом.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Базиликовый соус",
@@ -1630,6 +1678,7 @@ export const sauces = [
           "Базилик мелко рубим и&nbsp;смешиваем с&nbsp;остальными ингредиентами до&nbsp;однородности. Охлаждаем.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Томатный соус",
@@ -1683,6 +1732,7 @@ export const sauces = [
       },
       { description: "Охлаждаем и подаем." },
     ],
+    type: saucesType,
   },
   {
     title: "Дип из феты с редисом",
@@ -1731,6 +1781,7 @@ export const sauces = [
       },
       { description: "Перекладываем в сервировочную посуду и подаем." },
     ],
+    type: saucesType,
   },
   {
     title: "Дип из сметаны с хреном",
@@ -1753,6 +1804,7 @@ export const sauces = [
           "Перемешиваем и пробуем, при необходимости добавляем еще соли.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Луковый дип",
@@ -1805,6 +1857,7 @@ export const sauces = [
           "P.S. Этот соус можно хранить в холодильнике в закрытом контейнере до 1 недели.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Сырный соус 'Морнэ'",
@@ -1836,6 +1889,7 @@ export const sauces = [
       },
       { description: "Добавляем мягкое сливочное масло и перемешиваем." },
     ],
+    type: saucesType,
   },
   {
     title: "Гуакамоле",
@@ -1867,6 +1921,7 @@ export const sauces = [
       },
       { description: "Подаем немедленно." },
     ],
+    type: saucesType,
   },
   {
     title: "Горчичное масло",
@@ -1906,6 +1961,7 @@ export const sauces = [
           "P.S. Такое масло отлично хранится в морозилке до 2 месяцев.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Бальзамико-розмариновая заправка винегрет",
@@ -1935,6 +1991,7 @@ export const sauces = [
           "Заправка может храниться в холодильнике в закрытой банке до 2 недель.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Соус ранч",
@@ -1974,6 +2031,7 @@ export const sauces = [
       },
       { description: "Перемешиваем и подаем." },
     ],
+    type: saucesType,
   },
   {
     title: "Беарнский соус",
@@ -2041,6 +2099,7 @@ export const sauces = [
           "P.S. Соус лучше всего есть свежим. Но&nbsp;остатки можно хранить в&nbsp;холодильнике до&nbsp;2&nbsp;дней. Перед подачей соус разогревается на&nbsp;водяной бане.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Печеный чеснок",
@@ -2085,6 +2144,7 @@ export const sauces = [
           "https://www.vkusnyblog.ru/wp-content/uploads/2010/08/roasted-garlic-5.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Грибной соус с каперсами",
@@ -2120,6 +2180,7 @@ export const sauces = [
       },
       { description: "Готовым соус поливаем жареное мясо, рыбу или птицу." },
     ],
+    type: saucesType,
   },
   {
     title: "Сливочный соус к рыбе",
@@ -2171,6 +2232,7 @@ export const sauces = [
           "				 					 																					 																 							Соус можно подавать теплым или&nbsp;охлажденным. К&nbsp;рыбе  лучше всего подать зеленый салат.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Сырный соус",
@@ -2206,6 +2268,7 @@ export const sauces = [
           "Сырный соус обычно подается горячим. Остывая, он&nbsp;густеет.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Мясная подлива",
@@ -2256,6 +2319,7 @@ export const sauces = [
           "Подаем мясную подливу к&nbsp;гарнирам из&nbsp;овощей, круп или&nbsp;макаронных изделий.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Чесночный дрессинг",
@@ -2285,6 +2349,7 @@ export const sauces = [
       },
       { description: "    Готовым дрессингом можете заправлять ваши салаты." },
     ],
+    type: saucesType,
   },
   {
     title: "Паста из авокадо и яиц",
@@ -2308,6 +2373,7 @@ export const sauces = [
           "Белки нарезаем небольшими квадратиками и&nbsp;отправляем в&nbsp;нашу готовую смесь. Аккуратно перемешиваем.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Арахисовая паста",
@@ -2334,6 +2400,7 @@ export const sauces = [
           "    Намазываем на&nbsp;ломтики батона или&nbsp;хлеба и&nbsp;подаем на&nbsp;стол к&nbsp;чаю.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Домашнее сгущенное молоко",
@@ -2358,6 +2425,7 @@ export const sauces = [
           "Очень важно использовать именно сухое молоко, а&nbsp;не 'заменитель сухого молока' китайского производства.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Дзадзики",
@@ -2387,6 +2455,7 @@ export const sauces = [
           "Смешайте все&nbsp;ингредиенты до&nbsp;однородной массы. Посолите и&nbsp;поперчите.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Соус-варенье из острого перца к мясу",
@@ -2462,6 +2531,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-c679146f0e/big4f24033a1a270.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Соус песто с черемшой",
@@ -2519,6 +2589,7 @@ export const sauces = [
           "Теперь пробуем. В&nbsp;принципе, соус готов, но&nbsp;мне после пробы захотелось немного посолить и&nbsp;почему-то добавить немного лимонного сока, и&nbsp;вот после этого получилось самое оно! ",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Шоколадная глазурь для кулича",
@@ -2599,6 +2670,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-eb2b804d8e/big4f24030a9f357.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Шоколадный соус к стейку из говядины",
@@ -2632,6 +2704,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-9771562f72/big4f24031ca261e.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Вишневый соус и стейк ти-бон",
@@ -2688,6 +2761,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-612df1a1c4/big4f2402f9e2972.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Имбирный соус",
@@ -2742,6 +2816,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-5c15d5c07d/big4f2402eccc602.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Аргентинский соус Чимичурри",
@@ -2810,6 +2885,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-08f7256646/big4f24035222f14.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Греческий соус",
@@ -2855,6 +2931,7 @@ export const sauces = [
           "Хорошо перемешать и&nbsp;поставить в&nbsp;холодильник, примерно на&nbsp;1&nbsp;час.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Помидорно-мятная заправка к шашлыку",
@@ -2883,6 +2960,7 @@ export const sauces = [
       },
       { description: "Заправка готова." },
     ],
+    type: saucesType,
   },
   {
     title: "Как приготовить майонез",
@@ -2930,6 +3008,7 @@ export const sauces = [
           "Не беда. Начинаем процедуру сначала; придется взять новый яичный желток, и&nbsp;начать взбивать с&nbsp;него, добавляя в&nbsp;него по&nbsp;чуть-чуть 'испорченную' массу, затем масло.",
       },
     ],
+    type: saucesType,
   },
 
   {
@@ -2962,6 +3041,7 @@ export const sauces = [
           "Для этого нужно взять столовую ложку муки, развести в&nbsp;небольшом количестве&nbsp; воды и&nbsp;ввести в&nbsp;подливу быстро размешивая, чтобы не&nbsp;образовались комочки.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Соус из авокадо с зеленью",
@@ -2996,6 +3076,7 @@ export const sauces = [
         description: "Можно подавать как&nbsp;к рыбе, так&nbsp;и к&nbsp;мясу.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Томатный соус",
@@ -3027,6 +3108,7 @@ export const sauces = [
           "Соус хорошо подойдет к&nbsp;макаронам, для&nbsp;приготовления пиццы, голубцов и.т.д.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Неаполитанский соус",
@@ -3059,6 +3141,7 @@ export const sauces = [
           "Используется для&nbsp;приготовления пиццы, к&nbsp;макаронам и&nbsp;другим блюдам.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Горчичный соус",
@@ -3083,6 +3166,7 @@ export const sauces = [
       },
       { description: "Затем вмешать укроп." },
     ],
+    type: saucesType,
   },
   {
     title: "Ванильный соус",
@@ -3123,6 +3207,7 @@ export const sauces = [
           "Соус можно подать к&nbsp;десертам, фруктовым десертам, выпечке, блинчикам и.т.п.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Соус к рыбе",
@@ -3149,6 +3234,7 @@ export const sauces = [
           "Соус подойдет к&nbsp;любой рыбе, как&nbsp;к жареной, так&nbsp;и к&nbsp;рыбе приготовленной на&nbsp;гриле.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Майонез без яиц",
@@ -3179,6 +3265,7 @@ export const sauces = [
           "Из него можно делать и&nbsp;другие соусы, добавляя различные добавки: маринованные грибочки, огурчики, маслины, каперсы, укроп и&nbsp;т.д.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Клюквенный соус",
@@ -3211,6 +3298,7 @@ export const sauces = [
           "В Америке, например, каждый год, четвертый четверг ноября празднуют День благодарения, а&nbsp;символом праздника является фаршированная индейка с&nbsp;клюквенным соусом.",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Зеленый соус из авокадо",
@@ -3240,6 +3328,7 @@ export const sauces = [
           "Каперсы придают соусу пикантный вкус, но&nbsp;и дополнительную кислоту&nbsp;—  это&nbsp;надо учесть (если положить каперсы, то&nbsp;можно меньше сока лайма или&nbsp;оливок).",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Соус-майонез с каперсами",
@@ -3258,6 +3347,7 @@ export const sauces = [
       { description: "Все смешать с майонезом" },
       { description: "Соус отлично подойдет к&nbsp;рыбе." },
     ],
+    type: saucesType,
   },
   {
     title: "Соус бешамель",
@@ -3323,6 +3413,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-bc2c16039f/big4caeeec330c45.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Быстрый домашний майонез",
@@ -3379,6 +3470,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-e31ac21ff2/big4caeeecef0d78.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Чесночный майонез",
@@ -3419,6 +3511,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-6ed622a21f/big4caeeeda1153c.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Домашний майонез",
@@ -3461,6 +3554,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-54d9416b2f/big4caeeee18b779.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Зеленый сливочный соус",
@@ -3527,6 +3621,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-af80ef6b4d/big4caeeeef2b6e8.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Томатный соус с эстрагоном",
@@ -3569,6 +3664,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-40f9ab8866/big4caeeef81d0b1.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Яблочный соус",
@@ -3607,6 +3703,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-cd2988b225/big4caeeeffb7ae7.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Горчичный майонез",
@@ -3649,6 +3746,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-cc9200c949/big4caeef08be1c4.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Сметанный соус",
@@ -3673,6 +3771,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-e630b6a925/big4caeef0f3b205.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Брусничный соус",
@@ -3727,6 +3826,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-424d05a9d7/big4caeef1eab3db.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Сладкий мятный песто",
@@ -3781,6 +3881,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-69f4429640/big4caeef2c276c4.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Томатный соус для пиццы",
@@ -3819,6 +3920,7 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-79ededd69e/big4caeef35256a3.jpg",
       },
     ],
+    type: saucesType,
   },
   {
     title: "Грибной соус",
@@ -3859,9 +3961,9 @@ export const sauces = [
           "https://proxy11.online.ua/retsepty/r3-c03196c640/big4caeef48630ec.jpg",
       },
     ],
+    type: saucesType,
   },
 ];
 
 export const saucesTitle = "Соусы,подливы";
-export const saucesTags = ["Новые", "Популярные"];
-export const saucesType = "sauces";
+

@@ -1,3 +1,5 @@
+export const softDrinksType = "softDrinks";
+
 export const softDrinks = [
   {
     title: "Смузи с абрикосом,арбузом и базиликом",
@@ -22,6 +24,7 @@ export const softDrinks = [
       },
       { description: "Измельчить до получения однородной консистенции. " },
     ],
+    type: softDrinksType,
   },
   {
     title: "Землянично-кофейный коктейль",
@@ -50,6 +53,7 @@ export const softDrinks = [
       },
       { description: "Разлейте по&nbsp;стаканам." },
     ],
+    type: softDrinksType,
   },
   {
     title: "Морковно-клюквенный коктейль",
@@ -72,6 +76,7 @@ export const softDrinks = [
         description: "Коктейль с&nbsp;зарядом бодрости и&nbsp;витаминов готов.",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Арбузный фреш с мятой и лимоном",
@@ -103,6 +108,7 @@ export const softDrinks = [
           "Подавать фреш сразу, украсив лимонной долькой или&nbsp;листочком мяты. И&nbsp;можно наслаждаться вкусным, свежим и&nbsp;полезным напитком.",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Лимонад 'Тархун'",
@@ -134,6 +140,7 @@ export const softDrinks = [
           "Теперь выдавливаем сок&nbsp;из лимонов и&nbsp;лаймов, смешиваем в&nbsp;большом кувшине вместе с&nbsp;сиропом и&nbsp;вливаем холодную газировку. Все, наш&nbsp;домашний лимонад готов! ",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Горячий белый шоколад с клубникой",
@@ -181,6 +188,7 @@ export const softDrinks = [
         description: "Подаем немедленно.",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Апельсиново-ананасовый коктейль с мороженым",
@@ -201,6 +209,7 @@ export const softDrinks = [
         description: "    Затем добавить мороженое, трубочку и&nbsp;смаковать.",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Напиток в яблоке",
@@ -238,6 +247,7 @@ export const softDrinks = [
           "    Перед подачей вылить в&nbsp;яблочные чашки украсить корицей,  обычно подают при&nbsp;комнатной температуре, но&nbsp;и очень вкусно пить холодным этот напиток.",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Напиток с клубникой и базиликом",
@@ -262,6 +272,7 @@ export const softDrinks = [
           "Смешать лимонный сок, сахар, ягоды и&nbsp;соль в&nbsp;стакане, порвать туда листья базилика. Размять пестиком, чтобы растворился сахар и&nbsp;соль, добавить лед&nbsp;и содовую. Процедить в&nbsp;бокал со&nbsp;льдом и&nbsp;украсить.",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Кокосовый коктейль с ягодами",
@@ -310,6 +321,7 @@ export const softDrinks = [
           "https://proxy12.online.ua/retsepty/r3-a7f2977e2f/big4f23f9ba05e39.jpg",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Зеленый коктейль с грушей и голубикой",
@@ -349,6 +361,7 @@ export const softDrinks = [
           "https://proxy12.online.ua/retsepty/r3-d55fbd030d/big4f23f96e05e3c.jpg",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Коктейль клубника со сливками",
@@ -387,6 +400,7 @@ export const softDrinks = [
           "https://proxy12.online.ua/retsepty/r3-34a7c67444/big4f23f98ab81ca.jpg",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Зеленый коктейль",
@@ -423,6 +437,7 @@ export const softDrinks = [
           "https://proxy12.online.ua/retsepty/r3-75c3dcf34b/big4f23f9ac772b8.jpg",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Овощной коктейль",
@@ -464,6 +479,7 @@ export const softDrinks = [
           "https://proxy12.online.ua/retsepty/r3-9f200fbca9/big4f23f97661327.jpg",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Коктейль 'Мятный джулеп'",
@@ -493,6 +509,7 @@ export const softDrinks = [
           "Для приготовления этого напитка можно использовать газированную и&nbsp;негазированную минеральную или&nbsp;ключевую воду. ",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Сангрита",
@@ -538,6 +555,7 @@ export const softDrinks = [
           "https://proxy11.online.ua/retsepty/r3-f15c0c4ed1/big4caedb4155189.jpg",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Безалкогольный мохито",
@@ -564,6 +582,7 @@ export const softDrinks = [
           "https://proxy11.online.ua/retsepty/r3-0b05e336d0/big4caedb25cc5de.jpg",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Тропический коктейль",
@@ -588,6 +607,7 @@ export const softDrinks = [
           "https://proxy11.online.ua/retsepty/r3-dfbf2220a1/big4caedb0b0aac5.jpg",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Фруктовый коктейль",
@@ -632,6 +652,7 @@ export const softDrinks = [
           "https://proxy11.online.ua/retsepty/r3-61ea7a0e92/big4caedad6e2d0a.jpg",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Клубничный коктейль",
@@ -662,6 +683,7 @@ export const softDrinks = [
           "https://proxy11.online.ua/retsepty/r3-d96f9b9c30/big4caedacd33148.jpg",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Ягодный коктейль с бананом",
@@ -682,6 +704,7 @@ export const softDrinks = [
         description: "Витаминный коктейль готов. ",
       },
     ],
+    type: softDrinksType,
   },
   {
     title: "Манго ласси",
@@ -707,8 +730,7 @@ export const softDrinks = [
       },
       { description: "По желанию подавать можно со&nbsp;льдом." },
     ],
+    type: softDrinksType,
   },
 ];
 export const softDrinksTitle = "Безалкогольные напитки";
-export const softDrinksTags = ["Новые", "Популярные"];
-export const softDrinksType = "softDrinks";

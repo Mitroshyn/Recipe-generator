@@ -623,5 +623,4 @@ export const newRecipes = [
 ];
 
 export const newRecipesTitle = "Новые рецепты";
-export const newRecipesTags = ["Новые", "Популярные"];
 export const newRecipesType = "newRecipes";

@@ -576,7 +576,72 @@ export const popular = [
       },
     ],
   },
+  {
+    title: "Рецепт —  Винегрет",
+    image:
+      "https://proxy10.online.ua/retsepty/r3-ab1f63e521/big4f23fb090eebe.jpg",
+    ingridients: [
+      "Свекла 	800&nbsp;г&nbsp;",
+      "	Картофель 	800&nbsp;г",
+      "Морковь 	250&nbsp;г&nbsp;	",
+      "Соленые огурцы 	300&nbsp;г",
+      "Лук красный 	½ шт. 	",
+      "Лук зеленый 	30&nbsp;г",
+      "Горчица дижонская 	1&nbsp;ч.л. 	",
+      "Уксус столовый 	60&nbsp;мл",
+      "Растительное масло 	100&nbsp;мл&nbsp;	",
+      "Перец черный молотый 	¼ ч.л.",
+    ],
+    cooking: [
+      {
+        description:
+          "Свеклу, картофель и&nbsp;морковь нужно предварительно сварить 'в мундире'. Лучше всего это&nbsp;делать в&nbsp;пароварке, так&nbsp;они теряют меньше витаминов и&nbsp;получаются вкуснее. Перед варкой просто помойте их.					 								  				 			  			 ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-dfa29ebe31/big4f23fb0de0266.jpg",
+      },
+      {
+        description: "			 				 																	 													 						Дайте овощам немного остыть, затем очистите.					 								  				 			  			 ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-ba17f55633/big4f23fb0f2a825.jpg",
+      },
+      {
+        description:
+          "Мелко нарежьте вареные овощи и&nbsp;соленые огурцы. Слишком крупная нарезка отрицательно повлияет на&nbsp;конечный вкус. Количество огурцов может быть разным в&nbsp;зависимости от&nbsp;крепости их&nbsp;посола. 					 								  				 			  			 ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-a96648eb40/big4f23fb104fdd0.jpg",
+      },
+      {
+        description:
+          "Лук лучше взять сладкий и&nbsp;нарезать как&nbsp;можно мельче. Если сладкого лука нет, можно взять любой и&nbsp;ошпарить его&nbsp;кипятком.					 								  				 			  			 ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-caf18f216d/big4f23fb1141f28.jpg",
+      },
+      {
+        description:
+          "Свежий зеленый лук&nbsp;очень украшает винегрет. Если взять его&nbsp;побольше, можно даже совсем не&nbsp;добавлять репчатый лук.					 								  				 			  			 ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-4fc7857e2f/big4f23fb13451f5.jpg",
+      },
+      {
+        description:
+          "			 				 																	 													 						Хорошо перемешайте все&nbsp;овощи в&nbsp;большой миске.					 								  				 			  			 ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-90870f3b0b/big4f23fb14a9f3a.jpg",
+      },
+      {
+        description:
+          "Заправка для&nbsp;винегрета&nbsp;—  один из&nbsp;самых важных моментов. Дижонская горчица подходит лучше всего, т.к. она&nbsp;не сладкая и&nbsp;умеренно острая.  Чайную ложку горчицы смешайте с&nbsp;тремя столовыми ложками 9%-ного уксуса и&nbsp;5&nbsp;столовыми ложками масла и&nbsp;черным перцем. Тщательно перемешайте до&nbsp;однородности и&nbsp;заправьте винегрет.   Для&nbsp;особого аромата можно добавить в&nbsp;винегрет горчичное или&nbsp;нерафинированное подсолнечное масло (смешать наполовину с&nbsp;рафинированным).					 								  				 			  			 ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-bafcee2857/big4f23fb163a60e.jpg",
+      },
+      {
+        description:
+          "			 				 																	 													 						Перед подачей дайте винегрету настояться в&nbsp;холодильнике пару часов.					 								  				 			  			 									",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-5f4f34a49f/big4f23fb17a4d2c.jpg",
+      },
+    ],
+  },
 ];
 export const popularRecipesTitle = "Популярные рецепты";
-export const popularRecipesTags = ["Новые", "Популярные"];
 export const popularRecipesType = "popularRecipes";

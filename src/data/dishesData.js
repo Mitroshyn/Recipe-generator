@@ -1,14 +1,15 @@
-import { borsches, borschType } from "./Borsch";
-import { fruitDrinks, fruitDrinksType } from "./FruitDrinks";
-import { fruitSalads, fruitSaladsType } from "./FruitSalads";
-import { meatSalads, meatSaladsType } from "./MeatSalads";
-import { milkshakes, milkshakesType } from "./Milkshakes";
-import { pancakes, pancakesType } from "./Pancakes";
-import { sauces, saucesType } from "./Sauces";
-import { soups, soupsType } from "./Soups";
-import { softDrinks, softDrinksType } from "./SoftDrinks";
-import { popular, popularRecipesType } from "./PopularRecipes";
-import { newRecipes, newRecipesType } from "./NewRecipes";
+import { borsches, borschType } from "./borsch";
+import { fruitDrinks, fruitDrinksType } from "./fruitDrinks";
+import { fruitSalads, fruitSaladsType } from "./fruitSalads";
+import { meatSalads, meatSaladsType } from "./meatSalads";
+import { milkshakes, milkshakesType } from "./milkshakes";
+import { pancakes, pancakesType } from "./pancakes";
+import { sauces, saucesType } from "./sauces";
+import { soups, soupsType } from "./soups";
+import { softDrinks, softDrinksType } from "./softDrinks";
+import { popular, popularRecipesType } from "./popularRecipes";
+import { newRecipes, newRecipesType } from "./newRecipes";
+import { vegetableSalads, vegetableSaladsType } from "./vegetableSalads";
 
 export const dishesData = {
   [meatSaladsType]: meatSalads,
@@ -20,6 +21,7 @@ export const dishesData = {
   [soupsType]: soups,
   [borschType]: borsches,
   [softDrinksType]: softDrinks,
+  [vegetableSaladsType]: vegetableSalads,
   [popularRecipesType]: popular,
   [newRecipesType]: newRecipes,
 };

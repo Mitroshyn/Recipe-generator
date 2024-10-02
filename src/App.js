@@ -5,7 +5,7 @@ import { Nav } from "./Nav/Nav";
 function App() {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
 
       <Nav />
     </>

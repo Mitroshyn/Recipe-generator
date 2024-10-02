@@ -1,10 +1,12 @@
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import { routes } from "./routes";
 import { Container } from "../components/Container";
+import Header from "../Header/Header";
 
 export function Nav() {
   return (
     <BrowserRouter>
+      <Header />
       <Container>
         <nav>
           <ul>
@@ -13,11 +15,11 @@ export function Nav() {
             </li>
 
             <li>
-              <Link to="/pancakes">Pancakes</Link>
+              <Link to="/pancakes">Блины,оладьи</Link>
             </li>
 
             <li>
-              <Link to="/milkshakes">Milkshakes</Link>
+              <Link to="/milkshakes">Молочные коктейли</Link>
             </li>
 
             <li>
@@ -29,21 +31,24 @@ export function Nav() {
             </li>
 
             <li>
-              <Link to="/soups">Soups</Link>
+              <Link to="/soups">Супы</Link>
             </li>
 
             <li>
-              <Link to="/borsch">Borsch</Link>
+              <Link to="/borsch">Борщи</Link>
             </li>
 
             <li>
-              <Link to="/sauces">Sauces</Link>
+              <Link to="/sauces">Соусы</Link>
             </li>
             <li>
-              <Link to="/fruitSalads">Fruit Salads</Link>
+              <Link to="/fruitSalads">Фруктовые салаты</Link>
             </li>
             <li>
-              <Link to="/meatSalads">Meat Salads</Link>
+              <Link to="/meatSalads">Мясные салаты</Link>
+            </li>
+            <li>
+              <Link to="/vegetableSalads">Овощные салаты</Link>
             </li>
             <li>
               <Link to="/newRecipes"></Link>
@@ -55,7 +60,7 @@ export function Nav() {
             return (
               <Route
                 path={route.path}
-                element={route.component}
+                element={route.element}
                 key={index}
               ></Route>
             );

@@ -1,3 +1,5 @@
+export const fruitSaladsType = "fruitSalads";
+
 export const fruitSalads = [
   {
     title: "Салат с яблоками и малиной",
@@ -36,6 +38,7 @@ export const fruitSalads = [
       { description: "Сверху уложите рукколу и полейте малиновым соусом." },
       { description: "Добавьте рубленый фундук и раскрошенный козий сыр. " },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Салат с жареными персиками и сыром моцарелла",
@@ -74,6 +77,7 @@ export const fruitSalads = [
           "Разместите на&nbsp;4&nbsp;тарелки кресс-салат и&nbsp;рукколу. Выложите на&nbsp;каждую тарелку по&nbsp;4-5 кружков персика и&nbsp;4-5 ломтиков сыра. Полейте оставшимся персиковым соусом, украсьте веточками кинзы.",
       },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Салат с арбузом,огурцами и сыром фета",
@@ -97,6 +101,7 @@ export const fruitSalads = [
       { description: "Нарежьте сыр." },
       { description: "Перемешайте все ингредиенты. Салат готов!" },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Фруктовый салат из бананов и мандаринов с яблоками",
@@ -135,6 +140,7 @@ export const fruitSalads = [
       },
       { description: "Подаем." },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Цитрусовый салат с медовой заправкой",
@@ -160,6 +166,7 @@ export const fruitSalads = [
       },
       { description: "Смешиваем мед и лимонный сок, поливаем фрукты." },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Фруктовый салат из дыни и ананаса",
@@ -193,6 +200,7 @@ export const fruitSalads = [
           "Смешиваем фрукты, раскладываем по&nbsp;порционным вазочкам и&nbsp;посыпаем зернами граната.",
       },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Салат из экзотических фруктов с малиной",
@@ -237,6 +245,7 @@ export const fruitSalads = [
         description: "Кладем в порционные креманки и посыпаем малиной. Подаем.",
       },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Фруктовый салат в дыне",
@@ -294,6 +303,7 @@ export const fruitSalads = [
         description: "Подаем.",
       },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Зеленый фруктовый салат с мороженым",
@@ -336,6 +346,7 @@ export const fruitSalads = [
           "Смешиваем фрукты в&nbsp;миске, затем раскладываем по&nbsp;креманкам. Каждую порцию украшаем шариком мороженого. Подаем немедленно.",
       },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Витаминный салат с кокосом",
@@ -357,6 +368,7 @@ export const fruitSalads = [
           "Кладем апельсины и киви в тарелки, сверху трем на крупную терку кокос.",
       },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Фруктовый салат из хурмы и граната",
@@ -382,6 +394,7 @@ export const fruitSalads = [
       },
       { description: "4.	Сверху посыпать листиками мяты." },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Фруктовый салат",
@@ -427,6 +440,7 @@ export const fruitSalads = [
           "7. Готовый салатик посыпать кедровыми орешками или&nbsp;любыми другими орехами (грецкие орехи, арахис&nbsp;и&nbsp;др.). ",
       },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Зеленый фруктовый салат",
@@ -457,6 +471,7 @@ export const fruitSalads = [
       },
       { description: "Десерт готов. " },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Легкий салат с клубникой",
@@ -504,6 +519,7 @@ export const fruitSalads = [
           "https://proxy11.online.ua/retsepty/r3-99255163d6/big4caee68358102.jpg",
       },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Фруктовый салат с сыром горганзола",
@@ -530,6 +546,7 @@ export const fruitSalads = [
       },
       { description: "При подаче украсьте любыми фруктами. " },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Фруктовый салатик",
@@ -573,6 +590,7 @@ export const fruitSalads = [
         description: "Вот такой простенький и&nbsp;невероятно вкусный салат. ",
       },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Фруктовый салат с земляничным сиропом",
@@ -600,6 +618,7 @@ export const fruitSalads = [
       },
       { description: "Посыпать зернами граната. Украсить физалисом." },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Салат 'Амур'",
@@ -630,6 +649,7 @@ export const fruitSalads = [
       { description: "Очищенные фисташки." },
       { description: "Натертый на&nbsp;мелкой терке сыр." },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Фруктовый салат с ананасом",
@@ -659,9 +679,8 @@ export const fruitSalads = [
           "Салат еще&nbsp; больше освежает, если все&nbsp; фрукты и&nbsp; йогурт будут охлажденными.",
       },
     ],
+    type: fruitSaladsType,
   },
 ];
 
 export const fruitSaladsTitle = "Фруктовые салаты";
-export const fruitSaladsTags = ["Новые", "Популярные"];
-export const fruitSaladsType = "fruitSalads";

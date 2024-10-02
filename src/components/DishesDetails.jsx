@@ -1,7 +1,7 @@
 import React from "react";
-import { useNavigate, useParams } from "react-router-dom";
+import {  useParams } from "react-router-dom";
 import { dishesData } from "../data/dishesData";
-import { popular } from "../data/PopularRecipes";
+import { popular } from "../data/popularRecipes";
 import { PopularDishes } from "./PopularDishes";
 
 function getRandomItems(arr, num) {
@@ -25,7 +25,6 @@ export function DishesDetails() {
     return <div>Блюдо не найдено</div>;
   }
 
-  // console.log("currentData", currentData, dishesData);
 
   return (
     <>

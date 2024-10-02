@@ -1,6 +1,6 @@
 import React from "react";
-import { useNavigate, useParams } from "react-router-dom";
-import { popularRecipesType } from "../data/PopularRecipes";
+import { useNavigate } from "react-router-dom";
+import { popularRecipesType } from "../data/popularRecipes";
 
 export function PopularDishes({ data }) {
   const historyPush = useNavigate();
