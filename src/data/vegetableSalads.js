@@ -1,3 +1,5 @@
+export const vegetableSaladsType = "vegetableSalads";
+
 export const vegetableSalads = [
   {
     title: "Итальянский салат из рукколы с вялеными томатами и оливками",
@@ -16,13 +18,18 @@ export const vegetableSalads = [
     cooking: [
       {
         description: "Гигантские оливки режем пополам.",
-        description: "Рукколу кладем в тарелку.",
+      },
+      { description: "Рукколу кладем в тарелку." },
+      {
         description:
           "Заправка для&nbsp;салата: смешаем лимонный сок, сахар, соль, оливковое масло и&nbsp;бальзамический уксус в&nbsp;эмульсию.",
+      },
+      {
         description:
           "Красный лук&nbsp;нарезать соломкой, вяленые томаты&nbsp;—  пополам. Перемешать с&nbsp;рукколой и&nbsp;оливками и&nbsp;заправить. Посыпать тертым пармезаном.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Теплый салат с брюссельской капустой",
@@ -56,6 +63,7 @@ export const vegetableSalads = [
           "Когда капуста будет готова, выложить ее&nbsp;в салатник, добавить гранатовые зерна и&nbsp;нарезанный небольшими кубиками сыр&nbsp;фета. Подавать салат теплым.&nbsp;",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат с арбузом, огурцами и сыром фета",
@@ -79,6 +87,7 @@ export const vegetableSalads = [
       { description: "Нарежьте сыр." },
       { description: "Перемешайте все ингредиенты. Салат готов!" },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат тако",
@@ -107,6 +116,7 @@ export const vegetableSalads = [
           "Отобрать красивые капустные листы и&nbsp;на них&nbsp;выложить смесь из&nbsp;овощей, ореховую массу и&nbsp;ломтики авокадо.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Острый салат из моркови, огурцов и имбиря",
@@ -135,6 +145,7 @@ export const vegetableSalads = [
           "Добавьте масло, соевый соус и&nbsp;перемешайте. Влейте в&nbsp;салат заправку, перемешайте, дайте постоять около 30&nbsp;минут в&nbsp;прохладном месте. Сверху посыпьте кунжутом.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат с помидорами и моцареллой",
@@ -172,6 +183,7 @@ export const vegetableSalads = [
           "Приправьте салат солью по&nbsp;вкусу и&nbsp;полейте оливковым или&nbsp;подсолнечным маслом. Перемешивать салат не&nbsp;стоит.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Свежий весенний салат",
@@ -197,6 +209,7 @@ export const vegetableSalads = [
       { description: "Добавьте оливковое масло." },
       { description: "Перемешайте и&nbsp;подавайте." },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Картофельный салат со сметанно-горчичным соусом",
@@ -229,6 +242,7 @@ export const vegetableSalads = [
           "Совет: Если у&nbsp;вас нет&nbsp;кленового сиропа, замените его&nbsp;жидким медом по&nbsp;вкусу. В&nbsp;сметанный соус можно вместо горчицы или&nbsp;вместе с&nbsp;горчицей добавить немного вустерского или&nbsp;соевого соуса&nbsp;—  чтобы не&nbsp;класть соль.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат с пекинской капустой, помидорами и кукурузой",
@@ -256,6 +270,7 @@ export const vegetableSalads = [
           "Взять два&nbsp;больших блюда, выложить на&nbsp;них слой порванных на&nbsp;крупные кусочки листьев капусты, сверху выложить помидоры, огурцы, перец, кукурузу, разложить по&nbsp;верху салата маслины, посолить, добавить специи и&nbsp;полить маслом (внимание: ингредиенты не&nbsp;перемешивать!).",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из баклажанов",
@@ -303,6 +318,7 @@ export const vegetableSalads = [
           "Вот наш&nbsp;салат и&nbsp;готов! Можно подавать сразу или&nbsp;в холодильнике подержать час-другой.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из огурцов",
@@ -344,9 +360,10 @@ export const vegetableSalads = [
           "Разложите огурчики и&nbsp;лук по&nbsp;порционным салатницам, полейте заправкой, посыпьте зеленью.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
-    title: "Овощной cалат с лимонной заправкой",
+    title: "Овощной салат с лимонной заправкой",
     image:
       "https://proxy10.online.ua/retsepty/r2-5220eb7ddf/big55c8e52b33f79.jpg",
     ingridients: [
@@ -385,6 +402,7 @@ export const vegetableSalads = [
           "Полейте салат заправкой, аккуратно перемешайте его&nbsp;двумя вилками. Перед подачей на&nbsp;стол добавьте оливки, кунжут и&nbsp;пармезан.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Быстрый овощной салат",
@@ -430,6 +448,7 @@ export const vegetableSalads = [
           "При желании можно приготовить заправку для&nbsp;салата и&nbsp;на майонезной основе.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат с авокадо и огурцом",
@@ -459,6 +478,7 @@ export const vegetableSalads = [
       { description: "Добавьте чеснок, соль, перец." },
       { description: "Добавляем лимонный сок." },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат с обжаренными помидорами (видео)",
@@ -487,6 +507,7 @@ export const vegetableSalads = [
           "    Заправить получившимся соусом смесь салатных листьев, украсить кольцами обжаренных томатов и&nbsp;подавать, когда они&nbsp;чуть остынут&nbsp;—  или&nbsp;еще горячими, это&nbsp;уже дело вкуса.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат к плову 'Ачичук'",
@@ -519,6 +540,7 @@ export const vegetableSalads = [
       },
       { description: "Заправлять салат ничем не&nbsp;нужно." },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат со спаржей и клубникой",
@@ -554,6 +576,7 @@ export const vegetableSalads = [
           "В сыром виде все&nbsp;эти ингредиенты плохо сочетаются. Но&nbsp;стоит поджарить грецкие орехи и&nbsp;спаржу, как&nbsp;они неожиданно начинают комбинировать с&nbsp;клубникой и&nbsp;нейтральным шпинатом, а&nbsp;общий дрессинг примиряет их&nbsp;всех, создавая новый вкус.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат с помидорами и моцареллой",
@@ -591,6 +614,7 @@ export const vegetableSalads = [
           "Приправьте салат солью по&nbsp;вкусу и&nbsp;полейте оливковым или&nbsp;подсолнечным маслом. Перемешивать салат не&nbsp;стоит.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат 'Дачный'",
@@ -627,6 +651,7 @@ export const vegetableSalads = [
           "На продолговатое блюдо или&nbsp;в салатницу выкладываем готовые ингредиенты по&nbsp;отдельности. Поливаем все&nbsp;лимонным соком. Солим, перчим и&nbsp;подаем к&nbsp;столу. ",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат с авокадо",
@@ -667,6 +692,7 @@ export const vegetableSalads = [
           "https://proxy12.online.ua/retsepty/r2-adf559ee55/5555f442735f2.jpg",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Весенний салат с редисом и зеленью",
@@ -695,6 +721,7 @@ export const vegetableSalads = [
       },
       { description: "Выложите салат на&nbsp;тарелку и&nbsp;посыпьте фетой. " },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат с огурцами и редисом",
@@ -738,6 +765,7 @@ export const vegetableSalads = [
           "Заправляем салат, перемешиваем. При подаче посыпаем орехами.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат к шашлыку",
@@ -767,6 +795,7 @@ export const vegetableSalads = [
       { description: "Добавляем зелень, оливковое масло." },
       { description: "Перемешиваем, салат к&nbsp;шашлыку готов! " },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат 'Здоровье'",
@@ -799,6 +828,7 @@ export const vegetableSalads = [
           "Такой салат, благодаря сырым овощам и&nbsp;фруктам, содержит значительное количество витаминов.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из помидоров и авокадо",
@@ -839,6 +869,7 @@ export const vegetableSalads = [
       },
       { description: "Салат готов." },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат 'Коулсло'",
@@ -892,6 +923,7 @@ export const vegetableSalads = [
           "https://proxy11.online.ua/retsepty/r2-71db3bc689/55119089481c8.jpg",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат с капустой и сухариками",
@@ -931,6 +963,7 @@ export const vegetableSalads = [
       },
       { description: "Заправляем майонезом." },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из свеклы",
@@ -958,6 +991,7 @@ export const vegetableSalads = [
           "Все! Салат готов. Можно кушать его&nbsp;просто так, а&nbsp;можно намазывать на&nbsp;хлеб, как&nbsp;вам больше нравится.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Яблочный салат с сельдереем и сыром",
@@ -990,6 +1024,7 @@ export const vegetableSalads = [
           "На тарелку выложите листья сельдерея и&nbsp;салат. Посыпьте черным перцем. ",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Теплый салат из перца и брокколи",
@@ -1033,6 +1068,7 @@ export const vegetableSalads = [
           "Перец и&nbsp;брокколи кладем в&nbsp;салатник, посыпаем орехами, поливаем лимонным соком и&nbsp;перемешиваем.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из помидоров с горчицей",
@@ -1051,32 +1087,7 @@ export const vegetableSalads = [
           "Помидоры нарезать кружочками и&nbsp;уложить на&nbsp;тарелке. В&nbsp;миске смешать оливковое масло, коричневый сахар, винный уксус, дижонскую горчицу. Залить заправкой помидоры, украсить оливками и&nbsp;мелко нарезанным зеленым луком.",
       },
     ],
-  },
-  {
-    title: "",
-    image: "",
-    ingridients: ["", "", "", "", "", ""],
-    cooking: [
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-    ],
-  },
-  {
-    title: "",
-    image: "",
-    ingridients: ["", "", "", "", "", ""],
-    cooking: [
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-    ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из помидоров с базиликовой заправкой",
@@ -1104,6 +1115,7 @@ export const vegetableSalads = [
           "https://proxy12.online.ua/retsepty/r2-762c52aaec/53e3a759d5338.jpg",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из баклажанов",
@@ -1166,6 +1178,7 @@ export const vegetableSalads = [
           "Солим, хорошо перчим, перемешиваем салат руками. Выкладываем на&nbsp;тарелки и&nbsp;перед подачей на&nbsp;стол поливаем бальзамиком, или&nbsp;уксусом или&nbsp;лимонным соком, что&nbsp;предпочтительнее всего.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из цуккини",
@@ -1195,6 +1208,7 @@ export const vegetableSalads = [
           "    Для&nbsp;приготовления салатной заправки необходимо: смешать оливковое масло с&nbsp;уксусом, приправить солью и&nbsp;перцем. Овощи перемешать с&nbsp;соусом и&nbsp;орехами, разложить по&nbsp;тарелкам и&nbsp;зеленью петрушки.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из маринованной цветной капусты",
@@ -1245,6 +1259,7 @@ export const vegetableSalads = [
       { description: "Ставим в холодильник на ночь." },
       { description: "Вкусно есть холодной или&nbsp;комнатной температуры. " },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Огуречный салат с мятно-йогуртовой заправкой",
@@ -1270,6 +1285,7 @@ export const vegetableSalads = [
       },
       { description: "Заправляем мятным йогуртом и перемешиваем." },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Огурцы по-корейски",
@@ -1303,6 +1319,7 @@ export const vegetableSalads = [
       },
       { description: "Остренькие, ароматные огурчики готовы!" },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Картофельный салат с яйцами и горошком",
@@ -1340,6 +1357,7 @@ export const vegetableSalads = [
           "Добавляем крупно нарезанные яйца и&nbsp;заправку и&nbsp;перемешиваем. При&nbsp;необходимости добавляем соль.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из цуккини с фетой и кедровыми орешками",
@@ -1379,6 +1397,7 @@ export const vegetableSalads = [
           "Кладем в&nbsp;тарелки маринованные кабачки. Сверху выкладываем сыр, и&nbsp;оливки. Поливаем остатками заправки, посыпаем орешками и&nbsp;нарубленной зеленью петрушки. Подаем.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат с редисом и голубым сыром",
@@ -1421,6 +1440,7 @@ export const vegetableSalads = [
           "Кладем в&nbsp;салатник нарезанную пекинскую капусту, редис, морковь и&nbsp;сыр. Подаем с&nbsp;заправкой.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Огуречный салат с фетой",
@@ -1456,6 +1476,7 @@ export const vegetableSalads = [
           "Смешиваем фету с&nbsp;огурцами, кладем в&nbsp;тарелки, посыпаем зеленью и&nbsp;черным молотым перцем, заправляем оливковым маслом по&nbsp;вкусу и&nbsp;подаем.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из баклажанов и помидоров с моцареллой",
@@ -1505,6 +1526,7 @@ export const vegetableSalads = [
           "Кладем овощи и сыр на тарелку, посыпаем листьями базилика, поливаем заправкой.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Вальдорфский салат",
@@ -1544,6 +1566,7 @@ export const vegetableSalads = [
           "Смешиваем в&nbsp;салатнике нарванный на&nbsp;кусочки латук, яблоки, сельдерей и&nbsp;крупные кусочки орехов. Подаем с&nbsp;заправкой, перед едой перемешиваем.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат с малосольной форелью и авокадо",
@@ -1593,6 +1616,7 @@ export const vegetableSalads = [
       },
       { description: "Подаем с заправкой." },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из цветной капусты с помидорами",
@@ -1626,6 +1650,7 @@ export const vegetableSalads = [
           "Выложить салат на&nbsp;блюдо и&nbsp;полить соусом. Украсить зеленью.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат 'Греческий' по-итальянски",
@@ -1678,6 +1703,7 @@ export const vegetableSalads = [
           "Добавить в&nbsp;салат брынзу, ещё&nbsp;раз аккуратно перемешать, украсить листиками базилика.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  Буррито Салат",
@@ -1715,6 +1741,7 @@ export const vegetableSalads = [
       },
       { description: "Вместо соуса можно просто посолить" },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  Салат с перцем и шампиньонами",
@@ -1753,6 +1780,7 @@ export const vegetableSalads = [
           "Перемешайте и&nbsp;выложите в&nbsp;салатницу. Украсьте зеленью и&nbsp;подавайте к&nbsp;столу.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  Овощной салат с сырно-горчичиной заправкой",
@@ -1783,6 +1811,7 @@ export const vegetableSalads = [
       },
       { description: "Заправляем салат и&nbsp;тщательно перемешиваем." },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  Салат-гриль",
@@ -1827,6 +1856,7 @@ export const vegetableSalads = [
           "Салат вкусный как&nbsp;в холодном, так&nbsp;и в&nbsp;теплом виде.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  Салат с шампиньонами-гриль",
@@ -1898,6 +1928,7 @@ export const vegetableSalads = [
           "Еще раз&nbsp;перемешиваем салат, чтобы заправка равномерно распределилась в&nbsp;нем, лучше это&nbsp;сделать руками. Подаем к&nbsp;столу. Очень вкусно!",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  Салат с грейпфрутом, помидорами и сыром",
@@ -1921,6 +1952,7 @@ export const vegetableSalads = [
           "Из масла, душицы, соли и&nbsp;перца приготовить соус, заправить им&nbsp;салат и&nbsp;поставить в&nbsp;холодильник на&nbsp;30&nbsp;мин. Этот салат подают к&nbsp;различным мясным и&nbsp;рыбным блюдам.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  Картофельный салат",
@@ -1947,6 +1979,7 @@ export const vegetableSalads = [
           "На блюдо выкладываем листья шпината и&nbsp;поливаем домашним майонезом. Крупно режем картошку, кладем поверх шпината и&nbsp;тоже поливаем майонезом. Затем режем перепелиные яйца пополам, выкладываем на&nbsp;картошку, посыпаем рубленым тархуном. Готовый салат еще&nbsp;раз поливаем майонезом и&nbsp;подаем на&nbsp;стол.",
       },
     ],
+    type: vegetableSaladsType,
   },
 
   {
@@ -2017,6 +2050,7 @@ export const vegetableSalads = [
           "https://proxy11.online.ua/retsepty/r3-705e9551c3/big4f23fa502cf39.jpg",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  Техасский салат с авокадо",
@@ -2070,32 +2104,7 @@ export const vegetableSalads = [
           "https://proxy11.online.ua/retsepty/r3-1e463afb85/big4f2401f71f479.jpg",
       },
     ],
-  },
-  {
-    title: "",
-    image: "",
-    ingridients: ["", "", "", "", "", ""],
-    cooking: [
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-    ],
-  },
-  {
-    title: "",
-    image: "",
-    ingridients: ["", "", "", "", "", ""],
-    cooking: [
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-    ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  Салат из баклажанов с фетой",
@@ -2136,6 +2145,7 @@ export const vegetableSalads = [
           "			 				 																					 						Баклажаны из&nbsp;духовки перекладываем сразу к&nbsp;фете, чтобы им&nbsp;было теплее вместе и&nbsp;они прилипли друг к&nbsp;другу. Салат хорош, как&nbsp;теплым, как&nbsp;и из&nbsp;холодильника. Еще&nbsp;его теплым можно положить на&nbsp;тосты из&nbsp;свежего багета.     ",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  Овощной салат с песто",
@@ -2172,6 +2182,7 @@ export const vegetableSalads = [
           "https://proxy11.online.ua/retsepty/r3-df8411607e/big4f240145c73f9.jpg",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  Салат с авокадо по-техасски",
@@ -2252,6 +2263,7 @@ export const vegetableSalads = [
           "https://proxy11.online.ua/retsepty/r3-0b8b2acee6/big4f2401e4bf311.jpg",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  Острый салат из моркови",
@@ -2301,6 +2313,7 @@ export const vegetableSalads = [
           "https://proxy11.online.ua/retsepty/r3-1001bf8f83/big4f24013726d90.jpg",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  Винегрет",
@@ -2367,6 +2380,7 @@ export const vegetableSalads = [
           "https://proxy11.online.ua/retsepty/r3-5f4f34a49f/big4f23fb17a4d2c.jpg",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  Шведский картофельный салат",
@@ -2426,6 +2440,7 @@ export const vegetableSalads = [
           "https://proxy11.online.ua/retsepty/r3-0d943a256e/big4f240257c4514.jpg",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Рецепт —  'Пёстрый' салат из перца, сыра и кукурузы",
@@ -2464,6 +2479,7 @@ export const vegetableSalads = [
           "https://proxy11.online.ua/retsepty/r3-877388f846/big4f2400f1382e4.jpg",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из капусты 'Закусочный'",
@@ -2489,6 +2505,7 @@ export const vegetableSalads = [
           "Сначала в&nbsp;большой миске смешать соль, сахар, масло и&nbsp;уксус. С&nbsp;уксусом поосторожнее&nbsp;—  кто&nbsp;любит кислое, а&nbsp;кто и&nbsp;не очень, поэтому добавляйте уксус постепенно. Все&nbsp;тщательно перемешать вместе с&nbsp;капустой и, накладывая в&nbsp;банки, нужно ее&nbsp;плотненько утрамбовывать. Поставить банки с&nbsp;капустой в&nbsp;холодильник или&nbsp;любое другое холодное место. Кушать капусту можно прямо сразу. Хранить ее&nbsp;можно недели две, при&nbsp;этом она&nbsp;не теряет вкус и&nbsp;свои полезные свойства. Как&nbsp;раз к&nbsp;тому времени вы&nbsp;успеете всю&nbsp;ее скушать&nbsp;—  она&nbsp;очень и&nbsp;очень вкусная! Капусту также можно закатать на&nbsp;хранение, предварительно простерилизовав банки 20&nbsp;минут!",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из авокадо с яйцом",
@@ -2513,6 +2530,7 @@ export const vegetableSalads = [
           "Салат можно заправить соусом 'винегрет' (оливковое масло, лимон, дижонская горчица), а&nbsp;можно смесью сметаны (2/3) и&nbsp;майонеза (1/3).",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат с зеленой спаржей",
@@ -2533,6 +2551,7 @@ export const vegetableSalads = [
       { description: "Полить салат медом и&nbsp;перемешать." },
       { description: "При подаче оформить салат оливками." },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Винегрет с рыбой",
@@ -2556,6 +2575,7 @@ export const vegetableSalads = [
       },
       { description: "Добавить готовую горчицу. " },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Капустный салат с яблоком и сладким перцем",
@@ -2592,6 +2612,7 @@ export const vegetableSalads = [
       },
       { description: "Салат готов." },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Овощной салат с куриной грудкой",
@@ -2624,6 +2645,7 @@ export const vegetableSalads = [
           "Все подготовленные ингредиенты соединить, посолить, поперчить и&nbsp;полить лимонным соком. Заправить салат оливковым или&nbsp;растительным маслом, перемешать.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из редиса",
@@ -2666,6 +2688,7 @@ export const vegetableSalads = [
           "Салат аккуратно перемешать. Разложить по&nbsp;тарелкам, украсив зеленью.",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Зеленый салат с чесночными гренками",
@@ -2696,6 +2719,7 @@ export const vegetableSalads = [
       },
       { description: "При подаче, по&nbsp;желанию, салат можно перемешать." },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат с сельдью, свеклой и авокадо",
@@ -2726,6 +2750,7 @@ export const vegetableSalads = [
       },
       { description: "4.	Украсить укропом." },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из спаржи, перца и помидоров",
@@ -2760,6 +2785,7 @@ export const vegetableSalads = [
           "6. Выложить овощи на&nbsp;тарелку, полить оливковым маслом. Сверху посыпать сыром и&nbsp;специями. ",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Салат из авокадо и груш",
@@ -2805,6 +2831,7 @@ export const vegetableSalads = [
           "https://proxy11.online.ua/retsepty/r3-a75c41732b/big4caee746d4706.jpg",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
     title: "Греческий салат",
@@ -2853,9 +2880,10 @@ export const vegetableSalads = [
           "https://proxy11.online.ua/retsepty/r3-4279d16836/big4caee724a5b68.jpg",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
-    title: "Салат из баклажанов",
+    title: "Салат из баклажанов с помидорами",
     image:
       "https://proxy12.online.ua/retsepty/r3-d1/005/240/174/big4caee6eac92af.jpg",
     ingridients: [
@@ -2911,44 +2939,612 @@ export const vegetableSalads = [
           "https://proxy11.online.ua/retsepty/r3-a821245d3e/big4caee6f442f4b.jpg",
       },
     ],
+    type: vegetableSaladsType,
   },
   {
-    title: "",
-    image: "",
-    ingridients: ["", "", "", "", "", ""],
+    title: "Салат из капусты",
+    image:
+      "https://proxy10.online.ua/retsepty/r3-d1/005/240/151/big4caee6930beb6.jpg",
+    ingridients: [
+      "Капуста белокочанная 								250&nbsp;г&nbsp;															",
+      "Морковь 								150&nbsp;г&nbsp;															",
+      "Сельдерей стеблевой 								100&nbsp;г&nbsp;															",
+      "Яблоки 								1&nbsp;шт. 															",
+      "Уксус яблочный 								45&nbsp;мл&nbsp;															",
+      "Кунжутное масло 								45&nbsp;мл&nbsp;															",
+      "Соль морская 								¼ ч.л. 															",
+      "Сахар-песок 								5&nbsp;г&nbsp;															",
+      "Перец черный молотый 								¼ ч.л. 															",
+      "Кунжут 								20&nbsp;г&nbsp;							",
+    ],
     cooking: [
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
+      {
+        description:
+          "Простой и&nbsp;полезный салат из&nbsp;капусты незаменим для&nbsp;повседневного рациона тех, кто&nbsp;следит за&nbsp;своим питанием.  Предлагаю одну из&nbsp;разновидностей капустного салата, включающую кроме свежих овощей еще&nbsp;и кунжут и&nbsp;кунжутное масло, которые являются источниками кальция, фосфора и&nbsp;цинка, а&nbsp;также считаются сильными антиоксидантами и&nbsp;помогают в&nbsp;борьбе с&nbsp;онкологическими заболеваниями.&nbsp;  					 						 				 								 					",
+      },
+      {
+        description: "Капусту нашинковать.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-a1ec1366a3/big4caee694665c0.jpg",
+      },
+      {
+        description:
+          "Морковь очистить и&nbsp;натереть на&nbsp;крупной терке.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-9c98a4f447/big4caee695cb474.jpg",
+      },
+      {
+        description:
+          "Пару стеблей сельдерея нарезать тонкими ломтиками.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-aa24ae7ed6/big4caee6973d623.jpg",
+      },
+      {
+        description:
+          "Яблоко (лучше использовать сорт 'Гренни Смит') очистить от&nbsp;кожуры и&nbsp;сердцевины и&nbsp;нарезать небольшими кусочкам.					 								  				 			  			 ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-ae3e00f431/big4caee698a25f8.jpg",
+      },
+      {
+        description: "Все овощи сложить в&nbsp;миску.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-9908711378/big4caee69a65088.jpg",
+      },
+      {
+        description:
+          "Все оставшиеся ингридиенты кроме кунжута смешать между собой",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-c65ba50321/big4caee69bbb19d.jpg",
+      },
+      {
+        description:
+          "Добавить в&nbsp;салат заправку и&nbsp;перемешать. При&nbsp;подаче посыпать семенами кунжута.",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-e71463456d/big4caee69d45cf9.jpg",
+      },
+    ],
+    type: vegetableSaladsType,
+  },
+  {
+    title: "Шопский салат",
+    image:
+      "https://proxy11.online.ua/retsepty/r3-d1/005/240/148/big4caee688777d4.jpg",
+    ingridients: [
+      "Помидоры красные 								400&nbsp;г&nbsp;															",
+      "Огурцы 								250&nbsp;г&nbsp;															",
+      "Перец сладкий зеленый 								1&nbsp;шт. 															",
+      "Перец сладкий красный (паприка) 								1&nbsp;шт. 															",
+      "Лук репчатый 								1&nbsp;шт. 															",
+      "Оливковое масло 								30&nbsp;мл&nbsp;															",
+      "Лимонный сок&nbsp;								20&nbsp;мл&nbsp;															",
+      "Соль морская 								½ ч.л. 															",
+      "Маслины без&nbsp;косточки 								50&nbsp;г&nbsp;															",
+      "Петрушка 								20&nbsp;г&nbsp;															",
+      "Брынза 								125&nbsp;г&nbsp;							",
+    ],
+    cooking: [
+      {
+        description:
+          "Шопский салат&nbsp;—  самый известный, пожалуй, болгарский салат. Очень яркий, свежий и&nbsp;пикантный. Брынза придает салату особенный, традиционно болгарский оттенок, так&nbsp;что постарайтесь найти хорошую болгарскую брынзу.&nbsp;  					 						 				 								 					",
+      },
+      {
+        description: "Нарежьте помидоры небольшими кусочками.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-eace6ac4cf/big4caee689e5cd8.jpg",
+      },
+      {
+        description: "Огурцы порежьте толстыми ломтиками.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-d3ef12d29e/big4caee68b76d66.jpg",
+      },
+      {
+        description:
+          "Перцы очистите от&nbsp;семян, разрежьте вдоль, а&nbsp;затем нарежьте поперек тонкими полосками.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-745476dc39/big4caee68cec9ab.jpg",
+      },
+      {
+        description:
+          "Лук тоже нарежьте очень тонкими четвертькольцами. Лучше брать сладкие сорта лука.  Перемешайте овощи, заправьте оливковым маслом, смешанным с&nbsp;лимонным соком, и&nbsp;посолите.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-dad18c8290/big4caee68e8a95e.jpg",
+      },
+      {
+        description:
+          "Добавьте маслины и&nbsp;нарезанную петрушку, разложите по&nbsp;тарелкам и&nbsp;посыпьте крупно натертой брынзой.",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-afc65ddcf1/big4caee690b8e30.jpg",
+      },
+    ],
+    type: vegetableSaladsType,
+  },
+  {
+    title: "Салат из стеблей сельдерея",
+    image:
+      "https://proxy11.online.ua/retsepty/r3-d1/005/240/141/big4caee677747ba.jpg",
+    ingridients: [
+      "Огурцы 								300&nbsp;г&nbsp;															",
+      "Сельдерей стеблевой 								300&nbsp;г&nbsp;															",
+      "Китайский салат (китайская капуста) 								300&nbsp;г&nbsp;															",
+      "Яйцо куриное 								4&nbsp;шт. 															",
+      "Кукуруза консервированая 								300&nbsp;г&nbsp;															",
+      "Майонез 								100&nbsp;г&nbsp;							",
+    ],
+    cooking: [
+      {
+        description:
+          "Сельдерей&nbsp;—  овощ полезный, но&nbsp;многие его&nbsp;недолюбливают. А&nbsp;вот в&nbsp;этом салате он&nbsp;очень хорош и&nbsp;ненавязчив. Главное&nbsp;—  чтобы все&nbsp;продукты были нежесткие, то&nbsp;есть свежие сочные овощи и&nbsp;качественная кукуруза. Тогда салат получается очень нежным, легким и&nbsp;приятным.&nbsp;     Рецепт салата очень прост, а&nbsp;на вкус представляет собой сочетание свежих сочных овощей и&nbsp;нейтральных вкусов, яиц&nbsp;и кукурузц. Насчет майонеза&nbsp;—  можете использовать домашний, будет только лучше :).&nbsp;  					 						 				 								 					",
+      },
+      {
+        description:
+          "Вымыть и&nbsp;нарезать небольшими кусочками овощи, сварить яйца вкрутую.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-86812ba208/big4caee678d0d9a.jpg",
+      },
+      {
+        description:
+          "Добавить в&nbsp;салат кукурузу и&nbsp;нарезанные вареные яйца, заправить майонезом.",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-ce22f1f61e/big4caee67a3c580.jpg",
+      },
+    ],
+    type: vegetableSaladsType,
+  },
+  {
+    title: "Салат с цветной капустой",
+    image:
+      "https://proxy12.online.ua/retsepty/r3-d2/005/254/181/big4caee671e3e6b.jpg",
+    ingridients: [
+      "Уксус столовый 								50&nbsp;мл&nbsp;															",
+      "Капуста цветная 								200&nbsp;г&nbsp;															",
+      "Соль 								½ ч.л. 															",
+      "Сахар-песок 								30&nbsp;г&nbsp;															",
+      "Китайский салат (китайская капуста) 								200&nbsp;г&nbsp;															",
+      "Помидоры красные 								200&nbsp;г&nbsp;															",
+      "Кукуруза консервированая 								150&nbsp;г&nbsp;															",
+      "Укроп 								30&nbsp;г&nbsp;															",
+      "Оливковое масло 								40&nbsp;мл&nbsp;															",
+      "Соль морская 								¼ ч.л. 													 					 																 											 							",
+    ],
+    cooking: [
+      {
+        description:
+          "Главная изюминка этого салата&nbsp;—  слегка подмаринованная цветная капуста. Составляющие салата очень простые, а&nbsp;получается в&nbsp;итоге довольно необычно и&nbsp;можно разнообразить обычный овощной салат. Только не&nbsp;надо никуда выкидывать кукурузу из&nbsp;рецепта! Если вы&nbsp;уж совсем ее&nbsp;не переносите, то&nbsp;можете убрать, но&nbsp;это будет уже&nbsp;другой салат.&nbsp;  					 						 				 								 					",
+      },
+      {
+        description:
+          "Цветную капусту разделяем на&nbsp;соцветия, промываем и&nbsp;опускаем в&nbsp;кипящую воду с&nbsp;добавлением уксуса, соли и&nbsp;сахара. Варить капусту надо совсем недолго&nbsp;—  2-3 минуты, чтобы она&nbsp;сильно не&nbsp;разварилась, а&nbsp;осталась немного хрустящей.    Тем&nbsp;временем режем помодоры и&nbsp;салат на&nbsp;небольшие кусочки.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-669d84a384/big4caee67353832.jpg",
+      },
+      {
+        description:
+          "Добавляем кукурузу, остывшую цветную капусту и&nbsp;укроп. Заправляем все&nbsp;оливковым маслом и&nbsp;солью по&nbsp;вкусу.",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-7a3bbec55e/big4caee674b87c4.jpg",
+      },
+    ],
+    type: vegetableSaladsType,
+  },
+  {
+    title: "Салат из сладкого перца с авокадо",
+    image:
+      "https://proxy10.online.ua/retsepty/r3-d3/001/022/060/big4caee647b96db.jpg",
+    ingridients: [
+      "Авокадо 								1&nbsp;шт.",
+      "Апельсины 								1&nbsp;шт. 															",
+      "Перец сладкий красный (паприка) 								1&nbsp;шт. 															",
+      "Перец сладкий желтый 								1&nbsp;шт. 															",
+      "Перец сладкий зеленый 								1&nbsp;шт. 															",
+      "Мята свежая 								10&nbsp;г&nbsp;															",
+      "Оливковое масло 								40&nbsp;мл&nbsp;															",
+      "Мёд 								10&nbsp;г&nbsp;															",
+      "Соль морская 								¼ ч.л. 															",
+      "Лимонный сок&nbsp;								20&nbsp;мл&nbsp;							",
+    ],
+    cooking: [
+      {
+        description:
+          "Этот салат из&nbsp;разноцветных колечек сладкого перца будет очень красивым и&nbsp;легким началом новогодней или&nbsp;любой другой праздничной трапезы. Приготовить этот салат можно за&nbsp;несколько минут, но&nbsp;он наверняка станет&nbsp;украшением Вашего стола.&nbsp;  					 						 				 								 					",
+      },
+      {
+        description:
+          "Апельсин нужно очистить и&nbsp;разобрать на&nbsp;дольки. Из&nbsp;авокадо удалить косточку и&nbsp;очистить от&nbsp;кожицы, порезать продолговатыми кусочками. Выложить на&nbsp;плоскую тарелку.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-84f2b79af5/big4caee6490584f.jpg",
+      },
+      {
+        description:
+          "Разноцветный перец нарезать тонкими колечками. Разложить поверх апельсинов и&nbsp;авокадо.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-30068c49b7/big4caee64a3a5d7.jpg",
+      },
+      {
+        description:
+          "Взять несколько веточек мяты и&nbsp;оставить одни листочки. Мелко порезать или&nbsp;растереть в&nbsp;ступке.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-1ea5fc28eb/big4caee64b84965.jpg",
+      },
+      {
+        description:
+          "Приготовить заправку. Оливковое масло, лимонный сок, мед, и&nbsp;соль тщательно перемешать, добавить растертую мяту и&nbsp;полить салат этой заправкой.",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-509d2489b0/big4caee64cdbbc5.jpg",
+      },
+    ],
+    type: vegetableSaladsType,
+  },
+  {
+    title: "Свекольно-морковный салат",
+    image:
+      "https://proxy10.online.ua/retsepty/r3-d3/001/022/053/big4caee60d7ca57.jpg",
+    ingridients: [
+      "Свёкла 								150&nbsp;г&nbsp;															",
+      "Морковь 								150&nbsp;г&nbsp;															",
+      "Лук репчатый 								1&nbsp;шт. 															",
+      "Растительное масло 								30&nbsp;мл&nbsp;															",
+      "Укроп 								20&nbsp;г&nbsp;															",
+      "Чеснок дольки 								2&nbsp;шт. 															",
+      "Сахар-песок 								5&nbsp;г&nbsp;															",
+      "Соль 								¼ ч.л. 															",
+      "Перец черный молотый 								¼ ч.л. 													 					 																 											 							",
+    ],
+    cooking: [
+      {
+        description:
+          "Салат легкий и&nbsp;сладковатый, прекрасно сочетается с&nbsp;рыбой или&nbsp;мясом. Можно использовать как&nbsp;гарнир, а&nbsp;можно подать его&nbsp;перед основным блюдом в&nbsp;качестве обычного салата. Подавать можно как&nbsp;в горячем, так&nbsp;и холодном виде.По желанию в&nbsp;салат можно добавить рукколу, мне&nbsp;показалось, что&nbsp;она там&nbsp;может быть к&nbsp;месту.&nbsp;  					 						 				 								 					",
+      },
+      {
+        description:
+          "Свеклу и&nbsp;морковь очистить, вымыть и&nbsp;натереть на&nbsp;крупной терке. Лук&nbsp;очистить и&nbsp;мелко нарезать.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-1ff6466a97/big4caee60ec78c0.jpg",
+      },
+      {
+        description:
+          "Разогреть сковороду или&nbsp;даже лучше сотейник, добавить масло и&nbsp;обжарить на&nbsp;сильном огне, добавляя поочередно, свеклу, морковь и&nbsp;лук. Уменьшить огонь и&nbsp;тушить под&nbsp;крышкой, периодически помешивая, 20-25 минут.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-740a9f50f2/big4caee61020297.jpg",
+      },
+      {
+        description:
+          "Укроп, вымыть, обсушить и&nbsp;мелко нарезать. Немного укропа отложить для&nbsp;украшения салата.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-61c382d08a/big4caee6116bf87.jpg",
+      },
+      {
+        description:
+          "Чеснок очистить, мелко нашинковать и&nbsp;добавить вместе с&nbsp;зеленью в&nbsp;овощи. Приправить солью, перцем, и&nbsp;сахаром по&nbsp;вкусу. Оставшейся зеленью украсить при&nbsp;подаче на&nbsp;стол.",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-df4d407a99/big4caee612c045e.jpg",
+      },
+    ],
+    type: vegetableSaladsType,
+  },
+  {
+    title: "Салат с кукурузой и кунжутом",
+    image:
+      "https://proxy12.online.ua/retsepty/r3-d2/005/254/155/big4caee5ed9797e.jpg",
+    ingridients: [
+      "Китайский салат (китайская капуста) 								100&nbsp;г&nbsp;															",
+      "Фризе (фриссе, эндивий, эскариаль) 								100&nbsp;г&nbsp;															",
+      "Кукуруза консервированая 								250&nbsp;г&nbsp;															",
+      "Чеснок дольки 								2&nbsp;шт. 															",
+      "Оливковое масло 								40&nbsp;мл&nbsp;															",
+      "Уксус винный 								60&nbsp;мл&nbsp;															",
+      "Горчица дижонская 								1&nbsp;ч.л. 															",
+      "Кунжут 								20&nbsp;г&nbsp;							",
+    ],
+    cooking: [
+      {
+        description:
+          "Легкий зеленый салат с&nbsp;семенами кунжута и&nbsp;чесночной заправкой. Главное&nbsp;—  использовать свежие и&nbsp;сочные салатные листья. Сорта салата можно подбирать по&nbsp;своему вкусу.&nbsp;  					 						 				 								 					",
+      },
+      {
+        description:
+          "В миске смешиваем нарезанные или&nbsp;разорванные руками листочки салатов и&nbsp;банку молодой кукурузы.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-8929e488b9/big4caee5ef04d4a.jpg",
+      },
+      {
+        description: "Мелко режем чеснок.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-0774a43979/big4caee5f070ba8.jpg",
+      },
+      {
+        description:
+          "Готовим заправку: соединяем измельченный чеснок, оливковое масло, горчицу и&nbsp;винный уксус. Все&nbsp;взбиваем до&nbsp;состояния однородной эмульсии.&nbsp;			 				 								 					",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-0face89d73/big4caee5f1d3cae.jpg",
+      },
+      {
+        description:
+          "Добавляем в&nbsp;салат кунжут, заправку и&nbsp;перемешиваем. Кунжутом также можно посыпать готовое блюдо.",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-0409d578e5/big4caee5f33e13e.jpg",
+      },
+    ],
+    type: vegetableSaladsType,
+  },
+  {
+    title: "Домашний салат",
+    image:
+      "https://proxy11.online.ua/retsepty/r3-d3/001/022/038/big4caee5c0bc201.jpg",
+    ingridients: [
+      "Китайский салат (китайская капуста) 100&nbsp;г ",
+      "Огурцы 200&nbsp;г ",
+      "Помидоры Черри 200&nbsp;г ",
+      "Перец сладкий красный (паприка) 1&nbsp;шт. ",
+      "Лук красный ½&nbsp;шт. ",
+      "Базилик свежий зеленый 10&nbsp;г ",
+      "Оливки без&nbsp;косточки 60&nbsp;г ",
+      "Оливковое масло 30&nbsp;мл ",
+      "Соль морская ½&nbsp;ч.л. ",
+      "Перец черный молотый ¼&nbsp;ч.л. ",
+      "Творог 150&nbsp;г ",
+      "Розмарин листья ¼&nbsp;ст.л. ",
+      "Тимьян 2&nbsp;г ",
+      "Паприка молотая ½&nbsp;ч.л. ",
+      "Эстрагон 2&nbsp;г ",
+      "Чеснок дольки 1&nbsp;шт. ",
+    ],
+    cooking: [
+      {
+        description:
+          "Такие салаты очень распространены в&nbsp;греческой кухне. Это&nbsp;обычный салат из&nbsp;свежих овощей с&nbsp;вкусной и&nbsp;полезной творожной заправкой.&nbsp; ",
+      },
+      {
+        description: "Вымыть овощи и&nbsp;нарезать их: салат...&nbsp; ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-e52773297c/big4caee5c215908.jpg",
+      },
+      {
+        description: "Огурцы...&nbsp; ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-0de46906dd/big4caee5c35a4fe.jpg",
+      },
+      {
+        description:
+          "Перец сладкий красный (паприка) 1&nbsp;шт. Помидоры черри, красный сладкий перец...&nbsp; ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-e631ed6823/big4caee5c4adc97.jpg",
+      },
+      {
+        description:
+          "Лук... (лучше использовать красный сладкий лук&nbsp;или белый).&nbsp; ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-441755b970/big4caee5c5edace.jpg",
+      },
+      {
+        description: "Базилик...&nbsp; ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-8a59589bda/big4caee5c73c944.jpg",
+      },
+      {
+        description: "Оливки...&nbsp; ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-b9fe55332e/big4caee5c895663.jpg",
+      },
+      {
+        description:
+          "Все овощи сложить вместе, заправить творогом (вкуснее, когда он&nbsp;'мокрый'), солью, помолоть перец, выдавить чеснок, добавить оливковое масло. Добавить измельченные специи: розмарин, тимьян, паприка, эстрагон. (Весь этот набор специй можно найти в&nbsp;'Мельнице'&nbsp;—  Итальянские травы). Все&nbsp;ингредиенты перемешать и&nbsp;выложить в&nbsp;салатницу.",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-2aa319e84f/big4caee5c9db583.jpg",
+      },
+    ],
+    type: vegetableSaladsType,
+  },
+  {
+    title: "Огурцы по-корейски",
+    image:
+      "https://proxy12.online.ua/retsepty/r3-d2/005/212/140/big4ca0a5da2ee1f.jpg",
+    ingridients: [
+      "—  огурцы&nbsp;—  1&nbsp;кг ",
+      "—  соль&nbsp;—  1&nbsp;ч. л&nbsp;",
+      "—  соевый соус&nbsp;—  2&nbsp;ст. л&nbsp;",
+      "—  уксус&nbsp;—  2&nbsp;ст. л&nbsp;",
+      "—  растительное масло&nbsp;—  5&nbsp;ст. л. ",
+      "—  жгучий красный перец&nbsp;—  ¼&nbsp;ч. л&nbsp;",
+      "—  чеснок&nbsp;—  4&nbsp;зубчика ",
+      "—  кунжут&nbsp;—  1&nbsp;ст. л&nbsp;",
+    ],
+    cooking: [
+      {
+        description: "1. Вымойте огурцы и&nbsp;обрежьте кончики.",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-5f031b731c/4ca0a9c6bf3f4.jpg",
+      },
+      {
+        description:
+          "&nbsp;Каждый огурец разрежьте на&nbsp;4&nbsp;части в&nbsp;длину, затем 2-3 раза поперёк, чтобы получились небольшие брусочки.",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-ec4f8dbd58/4ca0a9c73e860.jpg",
+      },
+      {
+        description:
+          "Слегка посолите и&nbsp;оставьте на&nbsp;25-30 мин., чтобы они&nbsp;пустили сок.",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-98937892ef/4ca0a9e7dc1a0.jpg",
+      },
+      { description: "2. Затем слейте образовавшийся сок. " },
+      {
+        description:
+          "3. Добавьте к&nbsp;огурцам перец, соевый соус и&nbsp;уксус. Хорошо перемешайте.",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-07e742d484/4ca0aa0765051.jpg",
+      },
+      {
+        description:
+          "4. Раскалите на&nbsp;сковороде растительное масло, снимите сковороду с&nbsp;плиты, быстро высыпьте кунжут. Как&nbsp;только кунжут станет коричневого цвета (это происходит очень быстро) влейте эту&nbsp;смесь в&nbsp;огурцы. Перемешайте.",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-998c325c16/4ca0aa36a636b.jpg",
+      },
+      {
+        image:
+          "https://proxy11.online.ua/retsepty/r3-d65a875c2f/4ca0aa3719572.jpg",
+      },
+      {
+        description:
+          "5. Добавьте измельченный чеснок и&nbsp;поставьте в&nbsp;холод на&nbsp;30&nbsp;минут. ",
+        image:
+          "https://proxy11.online.ua/retsepty/r3-a9cf14f666/4ca0aa5b250e4.jpg",
+      },
+      {
+        description:
+          "Готовый салат можно хранить в&nbsp;холодильнике несколько дней. ",
+      },
+      { description: "Несколько примечаний: " },
+      {
+        description:
+          "—  Вместо кунжута в&nbsp;салат можно влить несколько капель кунжутного масла. ",
+      },
+      {
+        description:
+          "—  Также в&nbsp;этот салат можно добавить репчатый лук&nbsp;(полукольцами) и&nbsp;сахар. ",
+      },
+      {
+        description:
+          "—  В&nbsp;качестве заправки можно использовать яннём. Это&nbsp;смесь из&nbsp;красного жгучего перца и&nbsp;измельчённого чеснока. Яннём часто используется в&nbsp;корейских салатах. ",
+      },
+    ],
+    type: vegetableSaladsType,
+  },
+  {
+    title: "Овощной салат с тунцом",
+    image:
+      "https://proxy12.online.ua/retsepty/r3-d1/005/229/121/big4ca1ad80521b0.jpg",
+    ingridients: [
+      "—  тунец в&nbsp;масле&nbsp;—  1&nbsp;банка (200&nbsp;г) ",
+      "—  яйца&nbsp;—  3&nbsp;шт. ",
+      "—  помидоры&nbsp;—  2&nbsp;шт. ",
+      "—  картофель&nbsp;—  2&nbsp;шт. ",
+      "—  зеленая стручковая фасоль&nbsp;—  150-200 г&nbsp;",
+      "—  маслины (можно оливки)&nbsp;—  0,5&nbsp;банки ",
+      "—  листья салата ",
+      "—  оливковое масло&nbsp;—  5&nbsp;ст. л. ",
+      "—  винный белый уксус&nbsp;—  2&nbsp;ст. л&nbsp;",
+      "—  чеснок&nbsp;—  2&nbsp;зубчика ",
+      "—  соль, перец (по вкусу) ",
+    ],
+    cooking: [
+      {
+        description:
+          "1. В&nbsp;подсоленной воде отварить стручковую фасоль (7-10 мин.). ",
+      },
+      { description: "2. Отварной картофель нарезать кубиками. " },
+      { description: "3. Помидоры нарезать крупными дольками. " },
+      {
+        description:
+          "4. Яйца сварить вкрутую, очистить и&nbsp;нарезать дольками. ",
+      },
+      {
+        description:
+          "5. Тунец размять вилкой, предварительно вынув крупные кости. ",
+      },
+      {
+        description:
+          "6. Листья салата вымыть, обсушить и&nbsp;крупно нарвать руками. ",
+      },
+      {
+        description:
+          "Приготовление заправки: чеснок очистить и&nbsp;мелко порубить. В&nbsp;сковороде разогреть оливковое масло (примерно 2&nbsp;ст. л) и&nbsp;слегка обжарить на&nbsp;нем чеснок. Полученную чесночную смесь охладить, добавить соль, перец, оливковое масло (3&nbsp;ст. л), винный уксус и&nbsp;тщательно все&nbsp;перемешать. ",
+      },
+      {
+        description:
+          "7. В&nbsp;салатницу выложить листья салата, фасоль, картофель, помидоры, посолить, поперчить и&nbsp;аккуратно перемешать. Полить салат приготовленной заправкой и&nbsp;украсить дольками яиц, маслинами и&nbsp;тунцом. ",
+      },
+    ],
+    type: vegetableSaladsType,
+  },
+  {
+    title: "Салат из свеклы с чесноком —  рецепт",
+    image:
+      "https://proxy12.online.ua/retsepty/r3-d1/005/176/273/big4cada2964c033.jpg",
+    ingridients: [
+      "2&nbsp;среднего размера свеклы",
+      "2&nbsp;дольки чеснока",
+      "горсть грецких орехов",
+      "майонез",
+    ],
+    cooking: [
+      {
+        description:
+          "Свеклу помыть, положить в&nbsp;кастрюлю, залить кипятком и&nbsp;варить на&nbsp;маленьком огне 1,5&nbsp;—  2&nbsp;часа.",
+      },
+      {
+        description:
+          "Затем воду слить, крышку открыть и&nbsp;оставить остывать.",
+      },
+      {
+        description:
+          "Орехи порубить, чеснок пропустить через пресс или&nbsp;потереть на&nbsp;мелкой терке, свеклу на&nbsp;крупной.",
+      },
+      {
+        description:
+          "Свеклу, чеснок и&nbsp;орехи перемешать с&nbsp;майонезом. Очень простой и&nbsp;вкусный салат!",
+      },
     ],
   },
   {
-    title: "",
-    image: "",
-    ingridients: ["", "", "", "", "", ""],
-    cooking: [
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
+    title: "Салат из морской капусты —  рецепт",
+    image:
+      "https://proxy11.online.ua/retsepty/r3-d1/005/201/028/big4cada265ac772.jpg",
+    ingridients: [
+      "100&nbsp;г&nbsp;морской капусты (без добавок)",
+      "1&nbsp;небольшая вареная свекла",
+      "6&nbsp;шт. перепелиных яиц",
+      "4&nbsp;столовые ложки зеленого горошка",
+      "несколько перышек зеленого лука",
+      "зелень укропа",
+      "1&nbsp;столовая ложка жареных семечек",
+      "Для соуса:",
+      "3&nbsp;столовые ложки оливкового масла",
+      "1&nbsp;столовая ложка бальзамического уксуса",
     ],
+    cooking: [
+      { description: "Натереть свеклу на&nbsp;крупной терке." },
+      { description: "Яйца сварить, очистить и&nbsp;разрезать пополам." },
+      { description: "Лук порезать наискосок." },
+      { description: "Смешать оливковое масло и&nbsp;бальзамический уксус." },
+      {
+        description:
+          "На тарелку выложить&nbsp; морскую капусту, затем тертую свеклу, сверху горошек и&nbsp;яйца, присыпать укропом.",
+      },
+      { description: "Полить салат соусом." },
+    ],
+    type: vegetableSaladsType,
   },
   {
-    title: "",
-    image: "",
-    ingridients: ["", "", "", "", "", ""],
-    cooking: [
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
-      { description: "" },
+    title: "Салат с шампиньонами и спаржевой фасолью —  рецепт",
+    image:
+      "https://proxy11.online.ua/retsepty/r3-d2/005/170/103/big4cada2329d1f8.jpg",
+    ingridients: [
+      "200&nbsp;г. шампиньонов",
+      "200&nbsp;г. спаржевой фасоли",
+      "пучок салата",
+      "2&nbsp;красных маринованных луковицы",
+      "прованские травы",
+      "соль",
+      "оливковое масло",
     ],
+    cooking: [
+      {
+        description:
+          "Грибы очистить и&nbsp;промыть. Крупно нарезать и&nbsp;слегка обжарить на&nbsp;оливковом масле, посолить.",
+      },
+      {
+        description:
+          "Фасоль слегка обжарить с&nbsp;прованскими травами,&nbsp; &nbsp;посолить.",
+      },
+      {
+        description:
+          "Луковицы промыть, разрезать пополам, а&nbsp;затем вдоль пластинками.",
+      },
+      { description: "Листья салата порвать руками." },
+      { description: "Все смешать с&nbsp;оливковым маслом." },
+    ],
+    type: vegetableSaladsType,
   },
 ];
+
+export const vegetableSaladsTitle = "Овощные салаты";

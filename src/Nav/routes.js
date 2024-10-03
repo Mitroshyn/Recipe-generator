@@ -1,165 +1,126 @@
 import { Main } from "../Main/Main";
-import {
-  borsches,
-  borschesTitle,
-  borschesTags,
-  borschType,
-} from "../data/Borsch";
+import { borsches, borschesTitle, borschType } from "../data/borsch";
 import { DishesList } from "../DishesList/DishesList";
-import {
-  pancakes,
-  pancakesTitle,
-  pancakesTags,
-  pancakesType,
-} from "../data/Pancakes";
-import { sauces, saucesTitle, saucesTags, saucesType } from "../data/Sauces";
-import { soups, soupsTags, soupsTitle, soupsType } from "../data/Soups";
+import { pancakes, pancakesTitle, pancakesType } from "../data/pancakes";
+import { sauces, saucesTitle, saucesType } from "../data/sauces";
+import { soups, soupsTitle, soupsType } from "../data/soups";
 import {
   fruitSalads,
-  fruitSaladsTags,
   fruitSaladsTitle,
   fruitSaladsType,
-} from "../data/FruitSalads";
+} from "../data/fruitSalads";
 import {
   meatSalads,
   meatSaladsTitle,
-  meatSaladsTags,
   meatSaladsType,
-} from "../data/MeatSalads";
+} from "../data/meatSalads";
 import {
   milkshakes,
   milkshakesTitle,
-  milkshakesTags,
   milkshakesType,
-} from "../data/Milkshakes";
+} from "../data/milkshakes";
 import {
   fruitDrinks,
   fruitDrinksTitle,
-  fruitDrinksTags,
   fruitDrinksType,
-} from "../data/FruitDrinks";
+} from "../data/fruitDrinks";
 import {
   softDrinks,
   softDrinksTitle,
-  softDrinksTags,
   softDrinksType,
-} from "../data/SoftDrinks";
+} from "../data/softDrinks";
 import { DishesDetails } from "../components/DishesDetails";
+import {
+  vegetableSalads,
+  vegetableSaladsTitle,
+  vegetableSaladsType,
+} from "../data/vegetableSalads";
 
 export const routes = [
   {
     path: "/",
-    component: <Main />,
+    element: <Main />,
   },
-  { path: "/dishes/:type/:id", component: <DishesDetails /> },
+  { path: "/dishes/:type/:id", element: <DishesDetails /> },
+  // { path: "/dishes/:type/:title", component: <DishesDetails /> },
   {
     path: "/pancakes",
-    component: (
-      <DishesList
-        data={pancakes}
-        title={pancakesTitle}
-        tags={pancakesTags}
-        type={pancakesType}
-      />
+    element: (
+      <DishesList data={pancakes} title={pancakesTitle} type={pancakesType} />
     ),
   },
   {
     path: "/milkshakes",
-    component: (
+    element: (
       <DishesList
         data={milkshakes}
         title={milkshakesTitle}
-        tags={milkshakesTags}
         type={milkshakesType}
       />
     ),
   },
   {
     path: "/fruitDrinks",
-    component: (
+    element: (
       <DishesList
         data={fruitDrinks}
         title={fruitDrinksTitle}
-        tags={fruitDrinksTags}
         type={fruitDrinksType}
       />
     ),
   },
   {
     path: "/softDrinks",
-    component: (
+    element: (
       <DishesList
         data={softDrinks}
         title={softDrinksTitle}
-        tags={softDrinksTags}
         type={softDrinksType}
       />
     ),
   },
   {
     path: "/soups",
-    component: (
-      <DishesList
-        data={soups}
-        title={soupsTitle}
-        tags={soupsTags}
-        type={soupsType}
-      />
-    ),
+    element: <DishesList data={soups} title={soupsTitle} type={soupsType} />,
   },
   {
     path: "/borsch",
-    component: (
-      <DishesList
-        data={borsches}
-        title={borschesTitle}
-        tags={borschesTags}
-        type={borschType}
-      />
+    element: (
+      <DishesList data={borsches} title={borschesTitle} type={borschType} />
     ),
   },
   {
     path: "/sauces",
-    component: (
-      <DishesList
-        data={sauces}
-        title={saucesTitle}
-        tags={saucesTags}
-        type={saucesType}
-      />
-    ),
+    element: <DishesList data={sauces} title={saucesTitle} type={saucesType} />,
   },
   {
     path: "/fruitSalads",
-    component: (
+    element: (
       <DishesList
         data={fruitSalads}
         title={fruitSaladsTitle}
-        tags={fruitSaladsTags}
         type={fruitSaladsType}
       />
     ),
   },
   {
     path: "/meatSalads",
-    component: (
+    element: (
       <DishesList
         data={meatSalads}
         title={meatSaladsTitle}
-        tags={meatSaladsTags}
         type={meatSaladsType}
       />
     ),
   },
-  // {
-  //   path: "/newRecipes",
-  //   component: (
-  //     <New
-  //       data={newRecipes}
-  //       title={newRecipesTitle}
-  //       // tags={newRecipesTags}
-  //       type={newRecipesType}
-  //     />
-  //   ),
-  // },
+  {
+    path: "/vegetableSalads",
+    element: (
+      <DishesList
+        data={vegetableSalads}
+        title={vegetableSaladsTitle}
+        type={vegetableSaladsType}
+      />
+    ),
+  },
 ];

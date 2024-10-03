@@ -1,40 +1,14 @@
-import React,{useState} from 'react';
-import { useNavigate } from "react-router-dom";
-import { Data } from '../components/Data';
-export function DishesList({ data, title, tags, type }) {
-  const historyPush = useNavigate();
+import { Data } from "../components/Data";
 
-  
-  //   const [activeTab,setActiveTab] = useState('');
-  
-  // const handleTabClick =(tab)=>{
-  //   console.log('Clicked tab:', tab);
-  //   setActiveTab(tab);
-
-  //   if (tab=== 'popular'){
-  //     historyPush('/');
-  //   }
-  //   else if(tab=== 'new'){
-  //     historyPush('/newRecipes')
-  //   }
-  // }
-
-  
-
+export function DishesList({ data, title, type }) {
   return (
     <>
       <div className="">
         <div className="flex flex-col pb-4">
           <h1 className="text-4xl ml-4">{title}</h1>
-          {/* {tags.map((tag, index) => (
-            <div className="" key={index}>{tag}</div>
-          ))} */}
-          </div>
-          
-        {/* <span onClick={()=> handleTabClick('popular')} className={`cursor-pointer bg-amber-300 ml-4 text-xl ${activeTab === 'popular' ? 'bg-green-500 text-white' : ''}`}>Популярные</span>
-        <span onClick={()=>handleTabClick('new')} className={`cursor-pointer bg-amber-300 ml-4 text-xl ${activeTab === 'new' ? 'bg-green-500 text-white' : ''}`}>Новые</span> */}
-        {/* <Tabs/> */}
-        <Data data={data} type={type}/>
+        </div>
+
+        <Data data={data} type={type} />
       </div>
     </>
   );

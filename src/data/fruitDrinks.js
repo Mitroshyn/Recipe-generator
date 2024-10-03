@@ -1,3 +1,5 @@
+export const fruitDrinksType = "fruitDrinks";
+
 export const fruitDrinks = [
   {
     title: "Яблочно-клюквенный компот с имбирем",
@@ -22,6 +24,7 @@ export const fruitDrinks = [
           "Варим 3-5 минут. Добавляем по&nbsp;вкусу сахар. Выключаем огонь, накрываем крышкой и&nbsp;даем постоять 10&nbsp;минут.",
       },
     ],
+    type: fruitDrinksType,
   },
   {
     title: "Компот из сухофруктов",
@@ -43,6 +46,7 @@ export const fruitDrinks = [
           "В конце варки для&nbsp;улучшения вкуса добавить лимонную кислоту на&nbsp;кончике ножа. Готовому компоту дать настояться как&nbsp;минимум 20&nbsp;минут. Компот разлить в&nbsp;стаканы или&nbsp;в вазочки, равномерно распределяя сухофрукты. Напиток подавать можно как&nbsp;теплым, так&nbsp;и охлажденным.",
       },
     ],
+    type: fruitDrinksType,
   },
   {
     title: "Виноградный компот с мятой",
@@ -72,6 +76,7 @@ export const fruitDrinks = [
           "Варим 1 минуту, затем выключаем и даем постоять под крышкой 10 минут. Подаем.",
       },
     ],
+    type: fruitDrinksType,
   },
   {
     title: "Компот из клубники и клюквы",
@@ -94,6 +99,7 @@ export const fruitDrinks = [
           "Добавляем по&nbsp;вкусу сахар. Клюкву давим половником или&nbsp;ложкой. Даем компоту постоять под&nbsp;крышкой около получаса. ",
       },
     ],
+    type: fruitDrinksType,
   },
   {
     title: "Компот из черной смородины",
@@ -122,6 +128,7 @@ export const fruitDrinks = [
           "Вы можете варьировать как&nbsp;и количество сахара, так&nbsp;и добавки в&nbsp;него, это&nbsp;может быть имбирь или&nbsp;лимон, корица или&nbsp;гвоздика, лаванда, ваниль или&nbsp;мята.",
       },
     ],
+    type: fruitDrinksType,
   },
   {
     title: "Морс из ягод",
@@ -142,6 +149,7 @@ export const fruitDrinks = [
           "Выжимки залить горячей водой, варить 10-15 мин, затем процедить. В&nbsp;полученный отвар влить охлажденный сок, добавить сахар или&nbsp;мед и&nbsp;хорошо размешать. Подавать охлажденным.",
       },
     ],
+    type: fruitDrinksType,
   },
   {
     title: "Морс из красной смородины",
@@ -163,6 +171,7 @@ export const fruitDrinks = [
       },
       "Морс готов. ",
     ],
+    type: fruitDrinksType,
   },
   {
     title: "Клюквенный морс с медом",
@@ -201,6 +210,7 @@ export const fruitDrinks = [
           "https://proxy11.online.ua/retsepty/r3-8de5c3ea8c/big4caedb3499113.jpg",
       },
     ],
+    type: fruitDrinksType,
   },
   {
     title: "Компот из слив",
@@ -232,6 +242,7 @@ export const fruitDrinks = [
           "https://proxy11.online.ua/retsepty/r3-7b0092f992/big4caedaf9eae6d.jpg",
       },
     ],
+    type: fruitDrinksType,
   },
   {
     title: "Ягодный компот с медом",
@@ -267,9 +278,8 @@ export const fruitDrinks = [
           "https://proxy11.online.ua/retsepty/r3-64ea4a4f58/big4caedae549e20.jpg",
       },
     ],
+    type: fruitDrinksType,
   },
 ];
 
 export const fruitDrinksTitle = "Компоты,морсы";
-export const fruitDrinksTags = ["Новые", "Популярные"];
-export const fruitDrinksType = "fruitDrinks";

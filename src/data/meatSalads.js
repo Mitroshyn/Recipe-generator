@@ -1,3 +1,5 @@
+export const meatSaladsType = "meatSalads";
+
 export const meatSalads = [
   {
     title: "Салат с кукурузой и курицей",
@@ -39,6 +41,7 @@ export const meatSalads = [
           "4. Для&nbsp;соуса смешать уксус, масло, горчицу, жидкий мед, толченый чеснок и&nbsp;тимьян и&nbsp;оставить на&nbsp;30&nbsp;минут. В&nbsp;миску выкладываем курицу, кукурузу, красную фасоль, зеленый перец, помидоры, петрушку, лук&nbsp;и заливаем соусом.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из рукколы с куриной печенкой",
@@ -87,6 +90,7 @@ export const meatSalads = [
       },
       { description: "На рукколу выложите печень и грибы, подавайте." },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Теплый салат с говядиной и грушей",
@@ -127,6 +131,7 @@ export const meatSalads = [
           "Добавить груши в&nbsp;салат, посыпать кунжутными семечками и&nbsp;заправить небольшим количеством соевого соуса и&nbsp;перца.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из утки с припущенными помидорами черри",
@@ -198,6 +203,7 @@ export const meatSalads = [
           "В тарелки кладем заправленные салатные листья, ломтики утки, припущенные черри и&nbsp;раскрошенный сыр. Поливаем остатками заправки и&nbsp;посыпаем нарубленными орехами.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с курицей и яичными блинчиками",
@@ -259,6 +265,7 @@ export const meatSalads = [
           "По вкусу можно добавить консервированную кукурузу, свежие или&nbsp;маринованные огурцы.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат 'Пасхальный венок'",
@@ -318,6 +325,7 @@ export const meatSalads = [
       },
       { description: "    Украшаем по&nbsp;вкусу! " },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из утки с овощами и соусом наршараб",
@@ -400,6 +408,7 @@ export const meatSalads = [
           "https://proxy10.online.ua/retsepty/r2-582bc71b72/big54403570416fc.jpg",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Теплый салат с острой говядиной и сладким перцем",
@@ -481,6 +490,7 @@ export const meatSalads = [
           "В тарелки кладем салатную зелень, сверху&nbsp;—  мясо с&nbsp;овощами. Поливаем заправкой и&nbsp;подаем.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с курицей,вялеными томатами и жареным сыром",
@@ -538,6 +548,7 @@ export const meatSalads = [
           "Укладываем салат на&nbsp;порционные тарелки. Сверху кладем нарезанную ломтиками курицу, нарезанный сыр, лук, томаты и&nbsp;обжаренный перец.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Пикантный салат с курицей и виноградом",
@@ -573,6 +584,7 @@ export const meatSalads = [
           "На тарелку выложите рукколу, а&nbsp;на нее&nbsp;—  готовый салат. ",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Теплый салат из говядины и овощей",
@@ -613,6 +625,7 @@ export const meatSalads = [
           "Подавайте, выложив на&nbsp;тарелку шпинат и&nbsp;мясо с&nbsp;перцем, добавив немного сливочного масла.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с ростбифом и припущенными томатами черри",
@@ -681,6 +694,7 @@ export const meatSalads = [
           "В тарелку кладем салатную смесь, добавляем мясо, томаты, огурец, редис. Посыпаем кедровыми орешками и&nbsp;украшаем тонкой гренкой из&nbsp;багета.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с уткой и печеным сладким перцем",
@@ -746,6 +760,7 @@ export const meatSalads = [
           "В тарелку кладем салатные листья, на&nbsp;них&nbsp;—  утиное филе, сладкий перец и&nbsp;сыр. Поливаем отложенной заправкой, посыпаем семечками и&nbsp;подаем.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из курицы с цуккини и помидорами",
@@ -790,6 +805,7 @@ export const meatSalads = [
         description: "Перед подачей сбрызгиваем уксусом.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из рукколы с уткой и грушей",
@@ -846,6 +862,7 @@ export const meatSalads = [
         description: "Перед едой перемешиваем в тарелке.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Азиатский салат с острой говядиной",
@@ -898,6 +915,7 @@ export const meatSalads = [
         description: "Подаем. Перемешиваем непосредственно перед едой.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат со стейком и медово-бальзамической заправкой",
@@ -948,6 +966,7 @@ export const meatSalads = [
           "Даем готовому мясу отдохнуть 5&nbsp;минут на&nbsp;разделочной доске, затем нарезаем на&nbsp;ломтики и&nbsp;добавляем к&nbsp;остальному салату. Посыпаем раскрошенным голубым сыром и&nbsp;поливаем заправкой.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из курицы и помидоров",
@@ -998,6 +1017,7 @@ export const meatSalads = [
           "Нарезанный салат делим между четырьмя салатниками. В&nbsp;каждый салатник кладем раскрытый помидор. Поверх помидора выкладываем куриный салат. ",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с курицей,ананасом и арахисовой заправкой",
@@ -1055,6 +1075,7 @@ export const meatSalads = [
           "Кладем курятину, огурец, морковь, картофель и&nbsp;ананас в&nbsp;салатник. Перемешиваем, посыпаем нарубленным зеленым луком. Подаем с&nbsp;заправкой.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из индейки в ананасе",
@@ -1126,6 +1147,7 @@ export const meatSalads = [
           "Готовим заправку. Для&nbsp;этого смешиваем оставшийся от&nbsp;разделки сок&nbsp;ананаса и&nbsp;рисовый уксус. Поливаем салат заправкой и&nbsp;подаем.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Куриный салат",
@@ -1168,6 +1190,7 @@ export const meatSalads = [
           "Готовую и&nbsp;слегка остывшую курицу добавьте в&nbsp;салат, хорошо перемешайте.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат 'Итальянский'",
@@ -1210,6 +1233,7 @@ export const meatSalads = [
         description: "Все тщательно перемешать, добавить соль по&nbsp;вкусу.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Куриный салат с грибами",
@@ -1265,6 +1289,7 @@ export const meatSalads = [
           "Залейте сверху тщательно майонезом, на&nbsp;час можете поставить в&nbsp;холодильник.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с копченой курицей,черносливом и авокадо",
@@ -1309,6 +1334,7 @@ export const meatSalads = [
           "В салатнике смешать чернослив, курицу, фисташки, петрушку, яйца, огурцы, авокадо, добавить майонез, салат ещё&nbsp;раз хорошо перемешать, украсить измельченными фисташками и&nbsp;листиками петрушки.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с курицей и манго",
@@ -1363,6 +1389,7 @@ export const meatSalads = [
           "https://proxy12.online.ua/retsepty/r3-f80cf7aa61/big51a70085aa84d.JPG",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с курицей-гриль",
@@ -1439,6 +1466,7 @@ export const meatSalads = [
           "Выложите салат, наверх&nbsp;—  курицу. Сбрызните острым соусом (по вкусу).",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из мяса на гриле",
@@ -1532,6 +1560,7 @@ export const meatSalads = [
           "https://proxy12.online.ua/retsepty/r3-394ebc9f4f/51ff90e5bd8da.jpg",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с нежной говядиной",
@@ -1601,6 +1630,7 @@ export const meatSalads = [
           "https://proxy10.online.ua/retsepty/r2-d7644e055a/big51a5ca7b583e5.jpg",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с говядиной",
@@ -1663,6 +1693,7 @@ export const meatSalads = [
           "https://proxy10.online.ua/retsepty/r3-5f02242dd6/big51a60f566c435.jpg",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат 'Тбилиси'",
@@ -1722,6 +1753,7 @@ export const meatSalads = [
           "https://proxy12.online.ua/retsepty/r2-1d7eacd95d/519cb8328c73d.jpg",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Куриный салат с помидорами",
@@ -1765,6 +1797,7 @@ export const meatSalads = [
           "https://proxy10.online.ua/retsepty/r3-2f90385cc7/5194ac1771de0.jpg",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат 'Весенний'",
@@ -1796,6 +1829,7 @@ export const meatSalads = [
         description: "Добавить сметану, посолить, перемешать.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат 'Ягодка'",
@@ -1832,6 +1866,7 @@ export const meatSalads = [
           "    Для&nbsp;украшения зелень листья салата и&nbsp;кунжут.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Мясной салат в корзинках",
@@ -1879,6 +1914,7 @@ export const meatSalads = [
           "Если этот салат будете подавать в&nbsp;салатнице&nbsp;—  тогда овощи натрите на&nbsp;более крупной терке, а&nbsp;мясо разберите на&nbsp;волокна.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с копченой курицей",
@@ -1907,6 +1943,7 @@ export const meatSalads = [
         description: "Заправляем прямо перед подачей.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с курицей и грибами",
@@ -1945,6 +1982,7 @@ export const meatSalads = [
       },
       { description: "Затем охладить и&nbsp;подавать." },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Куриный салат с фасолью",
@@ -1972,6 +2010,7 @@ export const meatSalads = [
           "Маринованные огурцы нарезать кубиками. С&nbsp;кукурузы слить жидкость. Сыр&nbsp;нарезать тонкими брусочками или&nbsp;соломкой. Петрушку вымыть, обсушить, отрезать длинные стебли, зелень петрушки мелко нарезать. В&nbsp;салатнике смешать куриное филе, фасоль, сыр, кукурузу, маринованные огурцы, петрушку и&nbsp;чесночные сухарики из&nbsp;черного хлеба, добавить майонез, салат еще&nbsp;раз перемешать.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с курицей и виноградом",
@@ -2011,6 +2050,7 @@ export const meatSalads = [
           "Перемешайте салат. Желательно охладить салат в&nbsp;холодильнике около часа.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с курицей и авокадо",
@@ -2056,6 +2096,7 @@ export const meatSalads = [
           "В тарелку кладем листья салата, сверху выкладываем яблоко, огурец, авокадо, куриное филе. Заправляем йогуртом и&nbsp;подаем.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с курицей и крабовыми палочками",
@@ -2119,6 +2160,7 @@ export const meatSalads = [
           "https://proxy11.online.ua/retsepty/r3-2c5c7c963c/big4f2401115153d.JPG",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат 'Новогодний'",
@@ -2144,6 +2186,7 @@ export const meatSalads = [
           "Выложить салат слоями: лук, курица, яйца, сыр, гранат. Каждый слой промазывать сеточкой из&nbsp;майонеза. Края салата также смазать майонезом и&nbsp;обсыпать ореховой крошкой.Дать время салату пропитаться.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с куриным мясом",
@@ -2177,6 +2220,7 @@ export const meatSalads = [
           "Приправить салат солью и&nbsp;перцем, заправить майонезом.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Куриный салат с виноградом",
@@ -2201,6 +2245,7 @@ export const meatSalads = [
           "Соедините все&nbsp;подготовленные ингредиенты, заправьте майонезом и&nbsp;аккуратно перемешайте.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Мясной салат с маслинами",
@@ -2235,6 +2280,7 @@ export const meatSalads = [
           "Поставить в&nbsp;холодильник на&nbsp;1&nbsp;час. После чего, можно подавать на&nbsp;стол.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат 'Прага'",
@@ -2284,6 +2330,7 @@ export const meatSalads = [
           "Салат красиво смотрится , если подать его&nbsp;порционно.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с копченой куриной грудкой",
@@ -2339,6 +2386,7 @@ export const meatSalads = [
           "Приготовленный таким образом салат украсим майонезной сеточкой и&nbsp;измельченной зеленью петрушки. Дадим салату настояться и&nbsp;подадим на&nbsp;стол.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с куриной грудкой и яблоками",
@@ -2360,6 +2408,7 @@ export const meatSalads = [
           "Куриное филе нарежьте тонкими порционными полосками, посыпьте крупной солью, перцем и&nbsp;сбрызните лимонным соком. Обжарьте с&nbsp;двух сторон на&nbsp;сильном огне (или приготовьте на&nbsp;гриле) в&nbsp;течение пяти минут. Яблоки нарежьте крупными дольками. В&nbsp;миске смешайте зеленые листья шпината или&nbsp;салата корн, добавьте яблоки, курицу и&nbsp;крупно нарубленные орехи. Слегка заправьте апельсиновым конфитюром или&nbsp;майонезом с&nbsp;лимонным соком.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат 'Инь Янь'",
@@ -2397,6 +2446,7 @@ export const meatSalads = [
       },
       { description: "Романтический салат готов." },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат 'Сердце'",
@@ -2448,6 +2498,7 @@ export const meatSalads = [
         description: "Салат готов.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат 'Морская звезда'",
@@ -2469,6 +2520,7 @@ export const meatSalads = [
           "Приготовьте все&nbsp;ингредиенты: отварите куриную грудку, нарежьте ее&nbsp;соломкой или&nbsp;кубиками; нарежьте или&nbsp;натрите на&nbsp;крупной терке яблоки; натрите на&nbsp;терке сыр. Сложите слоями в&nbsp;виде звезды слой курицы, смазать майонезом, слой яблок, смазать майонезом, слой сыра, смазать майонезом, заключительным слоем будет красная икра (можно заменить отварной семгой или&nbsp;лососем). Сделать из&nbsp;яблока глаза и&nbsp;улыбку, зрачки&nbsp;—  маслины.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат 'Подсолнух'",
@@ -2519,6 +2571,7 @@ export const meatSalads = [
           "ВНИМАНИЕ: не&nbsp;переборщить с&nbsp;майонезом, чтоб салат не&nbsp;оказался слишком жирным.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат 'Дубок'",
@@ -2552,6 +2605,7 @@ export const meatSalads = [
           "5.	Смешать все&nbsp;ингредиенты и&nbsp;заправить майонезом.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из языка",
@@ -2576,6 +2630,7 @@ export const meatSalads = [
           "3. Сложить в&nbsp;креманку язык, огурцы, маринованный лук&nbsp;и заправить салат майонезом. ",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат 'Арагонский'",
@@ -2620,6 +2675,7 @@ export const meatSalads = [
         description: "Салат готов. ",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из индейки,авокадо и яблока",
@@ -2671,6 +2727,7 @@ export const meatSalads = [
           "8. Заправить салат приготовленным соусом, посолить, поперчить и&nbsp;хорошо перемешать. Сверху посыпать кедровыми орешками. ",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Ямайский куриный салат",
@@ -2739,6 +2796,7 @@ export const meatSalads = [
           "https://proxy11.online.ua/retsepty/r3-cd23cf423a/big4caee7613295b.jpg",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат 'Ташкент'",
@@ -2787,6 +2845,7 @@ export const meatSalads = [
           "https://proxy11.online.ua/retsepty/r3-9451b9dff1/big4caee72c36172.jpg",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Куриный салат с манго",
@@ -2826,6 +2885,7 @@ export const meatSalads = [
           "https://proxy11.online.ua/retsepty/r3-801d87e56c/big4caee660b21f5.jpg",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Куриный салат с авокадо и сладким перцем",
@@ -2876,6 +2936,7 @@ export const meatSalads = [
           "https://proxy11.online.ua/retsepty/r3-0daaf3cd3a/big4caee6428a9be.jpg",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из курицы с ананасом",
@@ -2908,6 +2969,7 @@ export const meatSalads = [
           "Все смешать, добавить кукурузу. Заправить соусом. Для&nbsp;этого в&nbsp;майонез добавить карри, белый молотый перец (по вкусу) и&nbsp;хорошо все&nbsp;перемешать.Салат готов!",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат с перловкой",
@@ -2948,6 +3010,7 @@ export const meatSalads = [
           "https://proxy11.online.ua/retsepty/r3-ec1cf8a477/big4caee6054be96.jpg",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из курицы с ананасами",
@@ -2998,6 +3061,7 @@ export const meatSalads = [
           "https://proxy11.online.ua/retsepty/r3-ae92ae4021/big4caee5e020d51.jpg",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из фасоли",
@@ -3043,6 +3107,7 @@ export const meatSalads = [
           "https://proxy11.online.ua/retsepty/r3-ba93aaafca/big4caee5d67a5f8.jpg",
       },
     ],
+    type: meatSaladsType,
   },
 
   {
@@ -3087,9 +3152,8 @@ export const meatSalads = [
           "Этот салатик можно сделать в&nbsp;эконом-варианте. Перепелиные яйца можно заменить куриными, черри&nbsp;—  обычными помидорами, а&nbsp;вместо говядины можно взять отварное куриное филе. Только при&nbsp;этом нарезать всё&nbsp;нужно не&nbsp;на 2-4 части, а&nbsp;на небольшие кусочки. ",
       },
     ],
+    type: meatSaladsType,
   },
 ];
 
 export const meatSaladsTitle = "Мясные салаты";
-export const meatSaladsTags = ["Новые", "Популярные"];
-export const meatSaladsType = "meatSalads";

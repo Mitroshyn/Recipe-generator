@@ -1,3 +1,5 @@
+export const borschType = "borsch";
+
 export const borsches = [
   {
     title: "Борщ с пельменями",
@@ -50,6 +52,7 @@ export const borsches = [
           "Когда капуста станет мягкой, добавьте в&nbsp;борщ зажарку. Варите 10&nbsp;минут. Теперь добавьте пельмени и&nbsp;варите еще&nbsp;6&nbsp;минут. Добавьте в&nbsp;борщ соль, сахар, перчик молотый. Можно измельчить чеснок и&nbsp;зелень. Перемешайте. Доведите до&nbsp;вкуса и&nbsp;выключайте.",
       },
     ],
+    type: borschType,
   },
   {
     title: "Борщ со свекольной ботвой",
@@ -80,6 +83,7 @@ export const borsches = [
           "Заложить спассерованные овощи в&nbsp;кипящий бульон, дать бульону вновь закипеть, добавить листья свекольной ботвы, картофель, соль по&nbsp;вкусу, специи, варить 15-20 минут.",
       },
     ],
+    type: borschType,
   },
   {
     title: "Борщ постный",
@@ -133,6 +137,7 @@ export const borsches = [
           "    Варим последние 10&nbsp;минут, затем выключаем огонь и&nbsp;добавляем 2&nbsp;зубчика мелко порезанного чеснока.",
       },
     ],
+    type: borschType,
   },
   {
     title: "Зеленый борщ",
@@ -170,6 +175,7 @@ export const borsches = [
           " Как&nbsp;только он&nbsp;потемнеет&nbsp;—  снимаем борщ с&nbsp;огня, разливаем по&nbsp;тарелкам, в&nbsp;каждую кладем по&nbsp;половинке яйца (можно мелко нарубить) и&nbsp;по паре ложек сметаны.",
       },
     ],
+    type: borschType,
   },
   {
     title: "Борщ",
@@ -220,6 +226,7 @@ export const borsches = [
       },
       { description: "Борщ подаем со сметаной и, по желанию, с чесноком." },
     ],
+    type: borschType,
   },
   {
     title: "Борщ на костре",
@@ -285,6 +292,7 @@ export const borsches = [
           "https://proxy10.online.ua/retsepty/r3-6afb2b457b/519220d4983c4.jpg",
       },
     ],
+    type: borschType,
   },
   {
     title: "Борщ в хлебе",
@@ -338,6 +346,7 @@ export const borsches = [
           "Выливаем в&nbsp;него готовый борщ и&nbsp;подаем к&nbsp;столу.",
       },
     ],
+    type: borschType,
   },
   {
     title: "Украинский борщ",
@@ -390,9 +399,8 @@ export const borsches = [
           "Дать немного настояться, разлить по&nbsp;тарелкам. Добавить сметану и&nbsp;зелень. ",
       },
     ],
+    type: borschType,
   },
 ];
 
 export const borschesTitle = "Борщи";
-export const borschesTags = ["Новые", "Популярные"];
-export const borschType = "borsch";

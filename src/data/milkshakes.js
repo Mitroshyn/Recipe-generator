@@ -1,3 +1,5 @@
+export const milkshakesType = "milkshakes";
+
 export const milkshakes = [
   {
     title: "Мандариновый смузи",
@@ -33,6 +35,7 @@ export const milkshakes = [
         description: "Разливаем по&nbsp;стаканам.",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Кофейно-мятный смузи",
@@ -51,6 +54,7 @@ export const milkshakes = [
           "     Сварите кофе и&nbsp;дождитесь, пока он&nbsp;остынет. В&nbsp;небольшую кастрюлю налейте молоко, положите в&nbsp;него пучок мяты и&nbsp;нагрейте молоко практически до&nbsp;кипения. Достаньте мяту и&nbsp;остудите молоко. В&nbsp;блендер налейте кофе и&nbsp;добавьте в&nbsp;него банан, порезанный колечками, остывшее мятное молоко и&nbsp;мед по&nbsp;вкусу. Взбейте полученную смесь и&nbsp;подавайте в&nbsp;бокалах, украшенных мятными листочками.",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Коктейль 'Молочная вишня'",
@@ -77,6 +81,7 @@ export const milkshakes = [
           "https://proxy10.online.ua/retsepty/r2-56376f0fcf/559d7b994134a.jpg",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Молочный коктейль с клубникой",
@@ -107,6 +112,7 @@ export const milkshakes = [
         description: "Готово!",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Смузи с авокадо и бананом",
@@ -150,6 +156,7 @@ export const milkshakes = [
           "https://proxy10.online.ua/retsepty/r2-43f1d7aaf4/5538ff6d09df5.jpg",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Коктейль 'Карамельное небо'",
@@ -167,6 +174,7 @@ export const milkshakes = [
           "Бананы режем на&nbsp;куски и&nbsp;кладем в&nbsp;чашу блендера. Перемалываем в&nbsp;пюре, добавляем пудинг и&nbsp;перемешиваем. Добавляем молоко и&nbsp;мороженое, взбиваем на&nbsp;самой высокой скорости в&nbsp;течение 30-40 секунд.",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Клубничный ласси",
@@ -185,6 +193,7 @@ export const milkshakes = [
           "Кладем все&nbsp;ингредиенты в&nbsp;чашу блендера.Перемалываем до&nbsp;однородного состояния.Переливаем в&nbsp;стаканы и&nbsp;подаем.",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Клубнично-щоколадный шейк",
@@ -219,6 +228,7 @@ export const milkshakes = [
         description: "Разливаем по стаканам и сразу же подаем.",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Шоколадно-банановый смузи с арахисовой пастой",
@@ -250,6 +260,7 @@ export const milkshakes = [
           "Переливаем в бокалы или стаканы, украшаем по вкусу и сезону.",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Молочный коктейль",
@@ -274,6 +285,7 @@ export const milkshakes = [
         description: "Все предельно просто.",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Молочно-манговый коктейль",
@@ -292,6 +304,7 @@ export const milkshakes = [
           "Смешайте все&nbsp;ингредиенты в&nbsp;блендере, добавьте соль и&nbsp;сахар по&nbsp;вкусу. Разведите коктейль водой до&nbsp;приобретения желаемой консистенции. Снова перемешайте напиток и&nbsp;дайте ему&nbsp;немного постоять, чтобы все&nbsp;ароматы и&nbsp;вкусы смешались вместе. Можете подавать ваш&nbsp;коктейль.",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Малиновый коктейль",
@@ -309,6 +322,7 @@ export const milkshakes = [
           "Малину положить в&nbsp;кастрюльку, добавить сахар. Довести до&nbsp;кипения. Затем протереть через сито и&nbsp;охладить. В&nbsp;охлажденную малину добавить молоко и&nbsp;мороженое. Взбивать блендером или&nbsp;миксером в&nbsp;течение 2-3 минут.",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Молочный коктейль с мороженым",
@@ -337,6 +351,7 @@ export const milkshakes = [
           "https://proxy12.online.ua/retsepty/r3-0276d1bf59/big4f23f9e31e8c8.jpg",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Молочный коктейль с бананом",
@@ -372,6 +387,7 @@ export const milkshakes = [
           "https://proxy12.online.ua/retsepty/r3-e2db45e593/big4f23f9d43ec5a.jpg",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Молочный коктейль с черникой",
@@ -400,6 +416,7 @@ export const milkshakes = [
         description: "Коктейль готов. ",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Горячий банановый коктейль с шоколадом",
@@ -446,6 +463,7 @@ export const milkshakes = [
           "https://proxy11.online.ua/retsepty/r3-f12501d8e5/big4caedb1aabec7.jpg",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Бананово-клубничный коктейль",
@@ -482,6 +500,7 @@ export const milkshakes = [
           "https://proxy11.online.ua/retsepty/r3-e74a605f9c/big4caedb1157245.jpg",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Шоколадно-ягодный милк-шейк",
@@ -515,6 +534,7 @@ export const milkshakes = [
           "https://proxy11.online.ua/retsepty/r3-d6b8b4c70b/big4caedaf30e58b.jpg",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Шоколадный милк-шейк",
@@ -531,6 +551,7 @@ export const milkshakes = [
           "Смешайте в&nbsp;блендере молоко, мороженое и&nbsp;один банан. Перелейте в&nbsp;бокал для&nbsp;подачи (хайбол, харрикейн) и&nbsp;украсьте тертым шоколадом. По&nbsp;желанию коктейль можно украсить веточкой мяты. ",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Клубничный шейк",
@@ -548,6 +569,7 @@ export const milkshakes = [
           "Все ингредиенты смешать в&nbsp;блендере и&nbsp;разлить по&nbsp;стаканам. Получится 4&nbsp;порции.",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Клубничный шейк с апельсиновым соком",
@@ -564,9 +586,8 @@ export const milkshakes = [
           "Все ингридиенты смешать в&nbsp;&nbsp;блендере и&nbsp;разлить по&nbsp;бокалам.",
       },
     ],
+    type: milkshakesType,
   },
 ];
 
 export const milkshakesTitle = "Молочные коктейли";
-export const milkshakesTags = ["Новые", "Популярные"];
-export const milkshakesType = "milkshakes";
