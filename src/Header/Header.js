@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Container } from "../components/Container";
-import { SearchInput } from "../components/SearchInput";
 import "./Header.css";
 import { SearchRecipes } from "../components/SearchRecipes";
 

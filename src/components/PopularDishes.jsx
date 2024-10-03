@@ -8,7 +8,7 @@ export function PopularDishes({ data }) {
     <div className="flex">
       {data.map((item, index) => (
         <div
-          className="w-[12.5%] p-2 cursor-pointer hover:bg-blue-200"
+          className="flex-1 flex-grow max-w-[128px] p-2 cursor-pointer hover:bg-blue-200"
           key={index}
           onClick={() => historyPush(`/dishes/${popularRecipesType}/${item.title}`)}
         >

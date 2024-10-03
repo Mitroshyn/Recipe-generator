@@ -1,14 +1,15 @@
+import { BrowserRouter } from "react-router-dom";
 import "./App.css";
 import Header from "./Header/Header";
 import { Nav } from "./Nav/Nav";
 
 function App() {
   return (
-    <>
-      {/* <Header /> */}
+    <BrowserRouter>
+      <Header />
 
       <Nav />
-    </>
+    </BrowserRouter>
   );
 }
 
