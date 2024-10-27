@@ -42,7 +42,6 @@ export const routes = [
     element: <Main />,
   },
   { path: "/dishes/:type/:id", element: <DishesDetails /> },
-  // { path: "/dishes/:type/:title", component: <DishesDetails /> },
   {
     path: "/pancakes",
     element: (
