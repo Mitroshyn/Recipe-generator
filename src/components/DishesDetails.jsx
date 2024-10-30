@@ -1,8 +1,9 @@
 import React from "react";
-import {  useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { dishesData } from "../data/dishesData";
 import { popular } from "../data/popularRecipes";
 import { PopularDishes } from "./PopularDishes";
+import CommentSection from "./store/CommentSection";
 
 function getRandomItems(arr, num) {
   const shuffled = arr.sort(() => 0.5 - Math.random());
@@ -24,7 +25,6 @@ export function DishesDetails() {
   if (!currentData) {
     return <div>Блюдо не найдено</div>;
   }
-
 
   return (
     <>
@@ -70,6 +70,8 @@ export function DishesDetails() {
           </div>
         </div>
         <PopularDishes data={randomRecipes} />
+
+        <CommentSection dishTitle={currentData.title} />
       </div>
     </>
   );

@@ -5,8 +5,8 @@ import { Container } from "../components/Container";
 export function Nav() {
   return (
     <Container>
-      <nav className="d-flex flex-column w-[420px]">
-        <ul>
+      <nav className="">
+        <ul className="w-[210px]">
           <li>
             <Link to="/">Главная страница</Link>
           </li>

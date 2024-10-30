@@ -2,8 +2,6 @@ import { useMemo, useState } from "react";
 import { Data } from "../components/Data";
 import { Tabs } from "../components/Tabs";
 import { MAIN_TABS } from "../constants/mainTabs";
-import { SearchRecipes } from "../components/SearchRecipes";
-import Header from "../Header/Header";
 
 export function Main() {
   const [activeTab, setActiveTab] = useState(MAIN_TABS[0].key);

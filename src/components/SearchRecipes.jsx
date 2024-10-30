@@ -18,14 +18,13 @@ export function SearchRecipes() {
   };
 
   const handleClickOutside = (event) => {
-    // Проверяем, был ли клик на инпут или на список
     if (
       event.target.closest(".filtered-dishes") ||
       event.target.closest("input")
     ) {
-      return; // Если клик был внутри, ничего не делаем
+      return;
     }
-    setSearchTerm(""); // Сбрасываем инпут, если клик был вне
+    setSearchTerm("");
   };
 
   return (
