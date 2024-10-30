@@ -9,34 +9,34 @@ const CommentSection = observer(({ dishTitle }) => {
   const [error, setError] = useState("");
 
   const validateComment = () => {
-    // Проверка длины комментария (например, минимум 5 символов)
+    // Checking the length of the comment (e.g. minimum 5 characters)
     if (comment.length < 5) {
       setError("Комментарий слишком короткий. Минимум 5 символов.");
       return false;
     }
 
-    // Проверка на наличие хотя бы одного слова (используем Unicode для всех языков)
-    const wordPattern = /\p{L}+/u; // \p{L} соответствует любым буквам в Unicode
+    // Check for at least one word (use Unicode for all languages)
+    const wordPattern = /\p{L}+/u;
     if (!wordPattern.test(comment)) {
       setError("Комментарий должен содержать хотя бы одно слово.");
       return false;
     }
 
-    // Проверка на содержание только букв, цифр и пробелов (Unicode для всех языков)
-    const validTextPattern = /^[\p{L}\d\s]+$/u; // Разрешены буквы, цифры и пробелы
+    //Check for letters, numbers and spaces only (Unicode for all languages)
+    const validTextPattern = /^[\p{L}\d\s]+$/u; // Letters, numbers and spaces are allowed
     if (!validTextPattern.test(comment)) {
       setError("Комментарий должен состоять только из букв и цифр.");
       return false;
     }
 
-    // Проверка на уникальность символов (например, больше 3 разных символов)
+    // Character uniqueness check (e.g. more than 4 different characters)
     const uniqueChars = [...new Set(comment.toLowerCase().replace(/\s/g, ""))];
     if (uniqueChars.length < 4) {
       setError("Комментарий должен содержать больше уникальных символов.");
       return false;
     }
 
-    // Если все проверки пройдены, ошибок нет
+    // If all checks are passed, no errors
     setError("");
     return true;
   };
@@ -44,7 +44,7 @@ const CommentSection = observer(({ dishTitle }) => {
   const handleAddComment = (e) => {
     e.preventDefault();
 
-    // Валидация комментария перед добавлением
+    // Validating a comment before adding it
     if (validateComment()) {
       commentStore.addComment(dishTitle, { name, surname, text: comment });
       setName("");
@@ -61,7 +61,7 @@ const CommentSection = observer(({ dishTitle }) => {
     <div className="comments-section mt-6 pb-7">
       <h2 className="font-bold text-xl mb-4">Комментарии</h2>
 
-      {/* Форма добавления комментария */}
+      {/* Form for adding a comment */}
       <form onSubmit={handleAddComment} className="flex flex-col gap-4">
         <input
           type="text"
@@ -98,7 +98,7 @@ const CommentSection = observer(({ dishTitle }) => {
         </button>
       </form>
 
-      {/* Показ ошибки валидации, если есть */}
+      {/* Validation error display */}
       {error && <div className="text-red-500 mt-2">{error}</div>}
 
       <ul className="mt-4">

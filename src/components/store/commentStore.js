@@ -13,7 +13,7 @@ class CommentStore {
     }
     this.comments[dishTitle].push({
       ...comment,
-      id: Date.now(), // Генерируем уникальный ID
+      id: Date.now(), // Generate a unique ID
     });
   }
 
