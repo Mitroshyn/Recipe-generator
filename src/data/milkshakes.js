@@ -3,8 +3,7 @@ export const milkshakesType = "milkshakes";
 export const milkshakes = [
   {
     title: "Мандариновый смузи",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-030498604b/big56606dbe6d84d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/tangerine_smoothie.jpg`,
     ingridients: [
       "мандарины&nbsp;—  2&nbsp;шт.",
       "замороженный банан&nbsp;—  1&nbsp;шт.",
@@ -39,8 +38,7 @@ export const milkshakes = [
   },
   {
     title: "Кофейно-мятный смузи",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-07c6ecaa45/big56534df593412.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/coffee_mint_smoothie.jpg`,
     ingridients: [
       "бананы 	—  0,5&nbsp;шт.",
       "кофе эспрессо/американо 	—  50&nbsp;мл",
@@ -58,8 +56,7 @@ export const milkshakes = [
   },
   {
     title: "Коктейль 'Молочная вишня'",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-87b7163f3c/big559d7bc5ebd86.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/cocktail_milk_cherry.jpg`,
     ingridients: [
       "йогурт&nbsp;—  100&nbsp;г",
       "мороженая вишня&nbsp;—  100&nbsp;г",
@@ -70,23 +67,22 @@ export const milkshakes = [
     ],
     cooking: [
       {
+        description: "Положите в блендер вишню",
+        image: `${process.env.PUBLIC_URL}/images/other_images/frozen_cherries.jpg`,
+      },
+      {
         description: "Добавьте все&nbsp;остальные ингредиенты и&nbsp;смешайте.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-4da04ed5af/559d7b8dc42d3.jpg",
       },
       {
         description:
           "Перелейте напиток в&nbsp;бокалы и&nbsp;украсьте веточкой мяты. ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-56376f0fcf/559d7b994134a.jpg",
       },
     ],
     type: milkshakesType,
   },
   {
     title: "Молочный коктейль с клубникой",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-947b565b90/big5576fe9dc7aad.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/milkshake_with_strawberries.jpg`,
     ingridients: [
       "молоко&nbsp;—  2/3&nbsp;стакана",
       "мороженое сливочное&nbsp;—  100&nbsp;г",
@@ -116,8 +112,7 @@ export const milkshakes = [
   },
   {
     title: "Смузи с авокадо и бананом",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-cace6cad50/big55390079b4406.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/smoothie_with_avocado_and_banana.jpg`,
     ingridients: [
       "авокадо&nbsp;—  1/2&nbsp;шт.",
       "банан&nbsp;—  1&nbsp;шт.",
@@ -134,34 +129,28 @@ export const milkshakes = [
       {
         description:
           "Для начала очистим авокадо и&nbsp;банан. Авокадо обязательно должен быть спелым. Это&nbsp;легко можно определить. Нужно слегка надавить на&nbsp;кожуру, и&nbsp;если плод слегка проминается, то&nbsp;это то, что&nbsp;нам нужно!",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-d26923d759/5538ff0e64cb5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/banana_with_avocado.jpg`,
       },
       {
         description:
           "Режем авокадо и&nbsp;банан на&nbsp;небольшие кусочки и&nbsp;загружаем в&nbsp;блендер.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-a77d8cbfdd/5538ff32e668c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_avocado_and_banana.jpg`,
       },
       {
         description:
           "Добавляем пару столовых ложек овсяных хлопьев, мед&nbsp;и корицу.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-7e997310e4/5538ff5b9cb19.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_oatmeal_honey_and_cinnamon.jpg`,
       },
       {
         description:
           "Вливаем молоко и&nbsp;взбиваем 30&nbsp;секунд на&nbsp;максимальной скорости.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-43f1d7aaf4/5538ff6d09df5.jpg",
       },
     ],
     type: milkshakesType,
   },
   {
     title: "Коктейль 'Карамельное небо'",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-2b047b3e14/big53c3ce2d693b2.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/cocktail_caramel_sky.jpg`,
     ingridients: [
       "бананы&nbsp;—  2&nbsp;шт.",
       " мороженое&nbsp;—  100&nbsp;г",
@@ -178,8 +167,7 @@ export const milkshakes = [
   },
   {
     title: "Клубничный ласси",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-c00eee7af0/big5296f2ae6c45b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/strawberry_lassi.jpg`,
     ingridients: [
       "клубника&nbsp;—  200&nbsp;г",
       " мед&nbsp;—  2&nbsp;ст.л.",
@@ -196,9 +184,8 @@ export const milkshakes = [
     type: milkshakesType,
   },
   {
-    title: "Клубнично-щоколадный шейк",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-0c5a713191/big52960330b22ad.jpg",
+    title: "Клубнично-шоколадный шейк",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/strawberry_chocolate_shake.jpg`,
     ingridients: [
       "молоко&nbsp;—  375&nbsp;мл",
       " какао-порошок&nbsp;—  3&nbsp;ст.л.",
@@ -211,14 +198,12 @@ export const milkshakes = [
       {
         description:
           "Из половины молока и 3 ложек какао-порошка готовим какао. Остужаем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5cabddaf57/big529603377d303.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_milk_with_cocoa_powder.jpg`,
       },
       {
         description:
           "Переливаем в&nbsp;чашу блендера. Туда же&nbsp;кладем поломанный на&nbsp;кусочки банан и&nbsp;неразмороженную клубнику.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-0a13f79a41/big52960343a1139.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pour_into_blender_jar.jpg`,
       },
       {
         description:
@@ -232,8 +217,7 @@ export const milkshakes = [
   },
   {
     title: "Шоколадно-банановый смузи с арахисовой пастой",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-80bcbb9227/big5296f46ae2ae2.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/chocolate_banana_peanut_butter_smoothie.jpg`,
     ingridients: [
       "бананы (они могут быть слегка перезрелыми)&nbsp;—  2&nbsp;шт.",
       " молоко&nbsp;—  250&nbsp;мл",
@@ -249,8 +233,7 @@ export const milkshakes = [
       },
       {
         description: "Кладем все ингредиенты в чашу блендера.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-129a3f6c02/big5296f46e72dd7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/place_all_ingredients_in_blender_bowl.jpg`,
       },
       {
         description: "Перемалываем до однородности.",
@@ -264,8 +247,7 @@ export const milkshakes = [
   },
   {
     title: "Молочный коктейль",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-80456e91df/big5296e3e5a084a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/milkshake.jpg`,
     ingridients: [
       "молоко&nbsp;—  600&nbsp;мл",
       " пломбир&nbsp;—  500&nbsp;г",
@@ -274,8 +256,7 @@ export const milkshakes = [
     cooking: [
       {
         description: "Кладем все ингредиенты в блендер.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-6fbd4c9086/big5296e3e76b0d8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/preparing_a_milkshake.jpg`,
       },
       {
         description:
@@ -289,8 +270,7 @@ export const milkshakes = [
   },
   {
     title: "Молочно-манговый коктейль",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-7491cab511/big5195e049c6535.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/milk_mango_shake.jpg`,
     ingridients: [
       "    пюре из&nbsp;манго",
       "    молоко&nbsp;—  1&nbsp;ст.",
@@ -308,8 +288,7 @@ export const milkshakes = [
   },
   {
     title: "Малиновый коктейль",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-782c1015aa/big500f025520637.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/raspberry_cocktail.jpg`,
     ingridients: [
       "малина&nbsp;—  250&nbsp;г",
       "молоко&nbsp;—  300&nbsp;мл",
@@ -326,8 +305,7 @@ export const milkshakes = [
   },
   {
     title: "Молочный коктейль с мороженым",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-053108c27e/big4f23f9e0ac643.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/milkshake_with_ice_cream.jpg`,
     ingridients: [
       "Бананы 	1&nbsp;шт. 	",
       "Молоко 	200&nbsp;мл",
@@ -341,22 +319,19 @@ export const milkshakes = [
       {
         description:
           "В блендер положите спелый очищенный банан, налейте холодное молоко и&nbsp;хорошенько взбейте.					 								  				 			  			 ",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-57611d9471/big4f23f9e217b62.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/milk_and_banana_in_blender.jpg`,
       },
       {
         description:
           "Добавьте мороженое и&nbsp;взбейте еще&nbsp;раз. Подавайте в&nbsp;прозрачных бокалах, украсив ягодами, корицей, тертым шоколадом или&nbsp;миндальными лепестками.					 								  				 			  			 									",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-0276d1bf59/big4f23f9e31e8c8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/preparing_a_milkshake.jpg`,
       },
     ],
     type: milkshakesType,
   },
   {
     title: "Молочный коктейль с бананом",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-7c9c016b78/big4f23f9cfd23c3.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/add_ice_cream.jpg`,
     ingridients: [
       "Бананы 	1&nbsp;шт. 	",
       "Молоко 	200&nbsp;мл",
@@ -371,28 +346,24 @@ export const milkshakes = [
       {
         description:
           "В блендер положите очищенный банан, замороженные ягоды, налейте молоко (можно смешать со&nbsp;сливками, тогда будет еще&nbsp;вкуснее, но&nbsp;менее диетично) и&nbsp;добавьте сахар.					 								  				 			  			 ",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-0b928c260d/big4f23f9d110632.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/banana_with_berries_and_milk_in_a_blender.jpg`,
       },
       {
         description:
           "			 				 																	 													 						На высокой скорости превратите все&nbsp;в однородную массу и&nbsp;разлейте по&nbsp;бокалам.					 								  				 			  			 ",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-8f392d9605/big4f23f9d2a39ac.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_until_smooth1.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Можете украсить целыми ягодами, посыпать тертым шоколадом, корицей или&nbsp;кокосовой стружкой.					 								  				 			  			 									",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-e2db45e593/big4f23f9d43ec5a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pink_milkshake.jpg`,
       },
     ],
     type: milkshakesType,
   },
   {
     title: "Молочный коктейль с черникой",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/003/267/big4ca098914799c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/blueberry_milkshake.jpg`,
     ingridients: [
       "—  мороженое (пломбир)&nbsp;—  0,5&nbsp;кг&nbsp;",
       "—  молоко&nbsp;—  1/3&nbsp;стакана ",
@@ -420,8 +391,7 @@ export const milkshakes = [
   },
   {
     title: "Горячий банановый коктейль с шоколадом",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/253/096/big4caedb13661d6.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/hot_banana_smoothie_with_chocolate.jpg`,
     ingridients: [
       "Молоко коровье 500&nbsp;мл",
       "Ваниль в&nbsp;стручках 1&nbsp;шт.",
@@ -437,38 +407,32 @@ export const milkshakes = [
       {
         description:
           "Нагрейте молоко в&nbsp;кастрюле. Можете положить туда разрезанный вдоль стручок ванили, а&nbsp;затем вынуть.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4e1cc6a54b/big4caedb14afdba.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/warming_the_milk.jpg`,
       },
       {
         description: "С помощью блендера превратите банан в&nbsp;пюре. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4e200979d5/big4caedb161a4fa.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/banana_in_blender.jpg`,
       },
       {
         description:
           " Подогрейте молоко и добавьте в него банановое пюре, продолжая нагревать.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8489a3d6d5/big4caedb179d733.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_banana_puree.jpg`,
       },
       {
         description: "Наломайте шоколад и бросьте его в кастрюлю с напитком.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-cf8efee358/big4caedb190f02e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_chocolate_to_drink.jpg`,
       },
       {
         description:
           "Хорошо мешайте, чтобы шоколад полностью растворился. Когда коктейль станет однородным, снимите с&nbsp;огня и&nbsp;разлейте по&nbsp;чашкам. При&nbsp;подаче посыпьте корицей. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-f12501d8e5/big4caedb1aabec7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/hot_chocolate_cocktail.jpg`,
       },
     ],
     type: milkshakesType,
   },
   {
     title: "Бананово-клубничный коктейль",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/001/020/272/big4caedb0d3d8be.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/banana_strawberry_smoothie.jpg`,
     ingridients: [
       "Сливки 20-22% 100&nbsp;мл",
       "Бананы 1&nbsp;шт.",
@@ -484,28 +448,24 @@ export const milkshakes = [
       {
         description:
           "Кладем спелый банан в блендер и превращаем его в пюре вместе со сливками  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-688bc4a06e/big4caedb0eabf4f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/bananas_in_blender.jpg`,
       },
       {
         description:
           "Замороженную клубнику и&nbsp;сахар добавляем в&nbsp;банановое пюре и&nbsp;все вместе хорошо взбиваем (клубнику не&nbsp;размораживать, она&nbsp;будет служить естественным охладителем и&nbsp;заменителем льда и&nbsp;мороженного).&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-309c7dca8d/big4caedb0ff4014.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_strawberries_to_banana_puree.jpg`,
       },
       {
         description:
           "В конце разбавляем молоком, еще&nbsp;раз взбиваем. Вкуснее всего пить из&nbsp;прозрачных бокалов с&nbsp;помощью довольно толстых соломинок (коктейль густой получается, тонкой будет сложно орудовать). ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e74a605f9c/big4caedb1157245.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/banana_strawberry_smoothie.jpg`,
       },
     ],
     type: milkshakesType,
   },
   {
     title: "Шоколадно-ягодный милк-шейк",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/239/012/big4caedaef5545f.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/chocolate_berry_milkshake.jpg`,
     ingridients: [
       "Молоко коровье 								350&nbsp;мл&nbsp;															",
       "Какао-порошок 								25&nbsp;г&nbsp;															",
@@ -518,28 +478,24 @@ export const milkshakes = [
       {
         description:
           "Из молока и&nbsp;какао-порошка сварить какао согласно инструкции на&nbsp;упаковке.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-33ab816d98/big4caedaf0975e1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/heat_milk_and_cocoa_powder.jpg`,
       },
       {
         description:
           "Какао остудить и&nbsp;перелить в&nbsp;блендер. Банан очистить, крупно порубить и&nbsp;добавить в&nbsp;блендер.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2a86446da6/big4caedaf1c8413.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_cocoa_with_banana.jpg`,
       },
       {
         description:
           "Добавить туда же&nbsp;и замороженную клубнику, молоко, ванильный сахар, сахарную пудру.    Взбить массу в&nbsp;пышную пену, разлить по&nbsp;бокалам и&nbsp;немедленно подать!",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d6b8b4c70b/big4caedaf30e58b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_strawberries_and_milk_to_blender.jpg`,
       },
     ],
     type: milkshakesType,
   },
   {
     title: "Шоколадный милк-шейк",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/212/124/big4c7c02bfc09d3.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/chocolate_milkshake.jpg`,
     ingridients: [
       "—  молоко&nbsp;—  50&nbsp;мл ",
       "—  шоколадное мороженое&nbsp;—  100&nbsp;г ",
@@ -555,8 +511,7 @@ export const milkshakes = [
   },
   {
     title: "Клубничный шейк",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/001/014/211/big4cada1844a0a3.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/strawberry_shake.jpg`,
     ingridients: [
       "20&nbsp;ягод клубники среднего размера",
       "300&nbsp;г. молока",
@@ -573,8 +528,7 @@ export const milkshakes = [
   },
   {
     title: "Клубничный шейк с апельсиновым соком",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/187/024/big4cada17da3061.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/strawberry_shake_with_orange_juice.jpg`,
     ingridients: [
       "10&nbsp;средних ягод клубники",
       "150&nbsp;г. апельсинового сока",

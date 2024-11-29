@@ -3,8 +3,7 @@ export const pancakesType = "pancakes";
 export const pancakes = [
   {
     title: "Заварные блины на кефире",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-06f07a4f9e/big5714f2e4ab23a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/custard_pancakes_with_kefir.jpg`,
     ingridients: [
       "    кефир 2,5% жирности&nbsp;—  250&nbsp;мл",
       "    вода горячая&nbsp;—  250&nbsp;мл",
@@ -42,8 +41,7 @@ export const pancakes = [
   },
   {
     title: "Оладьи медовые",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-e880bb35ff/big5703cd5c1479c.png",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/honey_fritters.png`,
     ingridients: [
       "мука&nbsp;—  1,5-2 стак.",
       "разрыхлитель&nbsp;—  10&nbsp;г",
@@ -70,8 +68,7 @@ export const pancakes = [
   },
   {
     title: "Блинчики-синнабоны",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-56fba4e4a7/big56fe8b5bcd201.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/сinnabon_pancakes.jpg`,
     ingridients: [
       "мука&nbsp;—  150&nbsp;г",
       "молоко&nbsp;—  1&nbsp;стак.",
@@ -124,8 +121,7 @@ export const pancakes = [
   },
   {
     title: "Блинчики с грибами и рисом",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-00816bd3bc/big56e43b1ad52af.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/mushroom_and_rice_pancakes.jpg`,
     ingridients: [
       "    мука пшеничная &nbsp;—  220&nbsp;г",
       "    вода &nbsp;—  220&nbsp;мл",
@@ -164,8 +160,7 @@ export const pancakes = [
   },
   {
     title: "Блинчики с заварным кремом",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-370ab543f6/big56e43798dad52.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_custard.jpg`,
     ingridients: [
       "    молоко&nbsp;—  1,25&nbsp;л&nbsp;(1&nbsp;л&nbsp;—  для&nbsp;теста, остальное&nbsp;—  для&nbsp;крема)",
       "    яйца&nbsp;—  9&nbsp;шт. (8&nbsp;—  в&nbsp;тесто, 1—  в&nbsp;крем)",
@@ -213,8 +208,7 @@ export const pancakes = [
   },
   {
     title: "Блинный торт с апельсинами",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-0f211c32f1/big56e30204a2957.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancake_cake_with_oranges.jpg`,
     ingridients: [
       "    мука&nbsp;—  100&nbsp;г",
       "    яйцо&nbsp;—  4&nbsp;шт.",
@@ -262,8 +256,7 @@ export const pancakes = [
   },
   {
     title: "Тонкие блины на кефире",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-069fa63ec0/big56e3005f1397c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/thin_pancakes_with_kefir.jpg`,
     ingridients: [
       "    мука пшеничная&nbsp;—  500&nbsp;г",
       "    яйцо куриное&nbsp;—  4&nbsp;шт.",
@@ -305,8 +298,7 @@ export const pancakes = [
   },
   {
     title: "Блины на минеральной воде",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d8a1f6f56a/big56e19cef994ea.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_mineral_water.jpg`,
     ingridients: [
       "    минеральная вода &nbsp;—  2&nbsp;стакана",
       "    мука&nbsp;—  1&nbsp;стакан",
@@ -341,8 +333,7 @@ export const pancakes = [
   },
   {
     title: "Блины с тыквенной начинкой",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-1d76dd0c4e/big56e04e575a79f.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_pumpkin_filling.jpg`,
     ingridients: [
       "молоко&nbsp;—  1&nbsp;стакан",
       "вода&nbsp;—  1&nbsp;стакан",
@@ -377,8 +368,7 @@ export const pancakes = [
   },
   {
     title: "Гречневые дрожжевые блины",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-6454fd3c91/big56e04d6d8eb12.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/buckwheat_yeast_pancakes.jpg`,
     ingridients: [
       "пшеничная мука&nbsp;—  75&nbsp;г",
       "гречневая мука&nbsp;—  75&nbsp;г",
@@ -401,8 +391,7 @@ export const pancakes = [
   },
   {
     title: "Блины из печени",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-a8b96f9ec3/big56d5bdcb83969.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/liver_pancakes.jpg`,
     ingridients: [
       "    морковь&nbsp;—  1&nbsp;шт.",
       "    печень (говяжья, куриная)&nbsp;—  500&nbsp;г",
@@ -459,8 +448,7 @@ export const pancakes = [
   },
   {
     title: "Панкейк-сердечко",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-307cdfcecb/big56ba100112fdd.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancake_heart.jpg`,
     ingridients: [
       "мука&nbsp;—  1&nbsp;стакан",
       "соль&nbsp;—  1/2&nbsp;ч.л.",
@@ -493,8 +481,7 @@ export const pancakes = [
   },
   {
     title: "Блины с бананами и мандаринами",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-14924135ba/big567d7e2ff231b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_bananas_and_tangerines.jpg`,
     ingridients: [
       "пшеничная мука&nbsp;—  75&nbsp;г",
       "цельнозерновая мука&nbsp;—  75&nbsp;г",
@@ -525,8 +512,7 @@ export const pancakes = [
   },
   {
     title: "Черные блинчики с красной икрой",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-8499a8973f/big567d6b89a53d2.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/black_pancakes_with_red_caviar.jpg`,
     ingridients: [
       "яйца&nbsp;—  2&nbsp;шт.",
       "молоко&nbsp;—  1,5&nbsp;стакана",
@@ -563,8 +549,7 @@ export const pancakes = [
   },
   {
     title: "Дрожжевые оладьи на молоке",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-28129ec17e/big5640c876a5fef.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/yeast_pancakes_with_milk.jpg`,
     ingridients: [
       "    молоко &nbsp;—  500&nbsp;мл",
       "    мука&nbsp;—  500&nbsp;г",
@@ -615,8 +600,7 @@ export const pancakes = [
   },
   {
     title: "Оладьи из топинамбура",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-613c6a5e47/big5638d941d858f.JPG",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/topinambour_fritters.jpeg`,
     ingridients: [
       "    топинамбур&nbsp;—  400&nbsp;г",
       "    адыгейский сыр&nbsp;—  200&nbsp;г",
@@ -649,8 +633,7 @@ export const pancakes = [
   },
   {
     title: "Грибные оладьи",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-d8bc83f08e/big561cfc05cb68f.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/mushroom_fritters.jpg`,
     ingridients: [
       "нарезанные грибы&nbsp;—  250&nbsp;г",
       "лук репчатый&nbsp;—  1&nbsp;шт.",
@@ -687,8 +670,7 @@ export const pancakes = [
   },
   {
     title: "Тыквенные оладьи с яблоками",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-12ffae9c86/big561269e6b6183.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pumpkin_pancakes_with_apples.jpg`,
     ingridients: [
       "    тыква&nbsp;—  400&nbsp;г",
       "    яйца&nbsp;—  2&nbsp;шт.",
@@ -717,8 +699,7 @@ export const pancakes = [
   },
   {
     title: "Блин с жидким шоколадным центром",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-57ed8de042/big55fb153364d36.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancake_with_chocolate_filling.jpg`,
     ingridients: [
       "разрыхлитель&nbsp;—  1&nbsp;ст. л.",
       "соль&nbsp;—  1&nbsp;щепотка",
@@ -749,8 +730,7 @@ export const pancakes = [
   },
   {
     title: "Оладьи с вишней",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-68336965a2/big55c8eb6935ad7.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/cherry_fritters.jpg`,
     ingridients: [
       "мука&nbsp;—  200&nbsp;г",
       "молоко&nbsp;—  150&nbsp;мл",
@@ -770,8 +750,7 @@ export const pancakes = [
   },
   {
     title: "Морковно-яблочные оладьи",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-6ca980a5d7/big55a3e049dc2b4.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/carrot-apple_fritters.jpg`,
     ingridients: [
       "яблоки&nbsp;—  2&nbsp;шт.",
       "морковь&nbsp;—  3&nbsp;шт.",
@@ -810,8 +789,7 @@ export const pancakes = [
   },
   {
     title: "Оладьи с яйцом и зеленым луком",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-67d1f8fed2/big551be5a2dc896.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/fritters_with_egg_and_green_onions.jpg`,
     ingridients: [
       "яйцо&nbsp;—  2&nbsp;шт.",
       "мука&nbsp;—  7&nbsp;ст.л.",
@@ -839,8 +817,7 @@ export const pancakes = [
   },
   {
     title: "Французские блинчики",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-477e6d6f42/big54e4b057a605b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/french_pancakes.jpg`,
     ingridients: [
       "мука&nbsp;—  1&nbsp;чашка (240&nbsp;г)",
       "молоко&nbsp;—  1&nbsp;и 1/2&nbsp;чашки",
@@ -919,8 +896,7 @@ export const pancakes = [
   },
   {
     title: "Оладьи на йогурте",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-c898753058/big54e4add964ef9.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/yogurt_fritters.jpg`,
     ingridients: [
       "    яйцо куриное&nbsp;—  1&nbsp;шт.",
       "    мука&nbsp;—  200&nbsp;г",
@@ -960,8 +936,7 @@ export const pancakes = [
   },
   {
     title: "Крахмальные блинчики на кефире",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-be6ef97656/big54e4aab9c92ee.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/starch_pancakes_with_kefir.jpg`,
     ingridients: [
       "    крахмал&nbsp;—  10&nbsp;ст.л.",
       "    кефир (лучше обезжиренный)&nbsp;—  1&nbsp;ст. ",
@@ -997,8 +972,7 @@ export const pancakes = [
   },
   {
     title: "Шахматный террин из блинов",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-caa2104420/big54e46a6364d5b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/chess_terrine_of_pancakes.jpg`,
     ingridients: [
       "готовые блины&nbsp;—  9-10 шт.",
       "отварное куриное филе&nbsp;—  200-250 г",
@@ -1018,44 +992,35 @@ export const pancakes = [
       {
         description:
           "Форму застелить пищевой пленкой так, чтобы края свисали. Выкладываем дно&nbsp;блинами. Края тоже должны свисать.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-caf92b4a4c/54e46964f12d9.jpg",
       },
       {
         description:
           "Готовим начинку № 1: куриное филе отварить и&nbsp;мелко нарезать. Можно взять говядину или&nbsp;даже обжарить фарш.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-4ac9607aa3/54e46976cd9cd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/finely_chopped_chicken_fillet.jpg`,
       },
       {
         description:
           "Лук мелко нарезать и&nbsp;обжарить до&nbsp;золотистого цвета на&nbsp;растительном масле.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-09d1cc0faa/54e46986cd796.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fried_onion.jpg`,
       },
       {
         description:
           "Смешиваем филе, орехи и&nbsp;лук, заправляем 2&nbsp;ст. ложками майонеза, все&nbsp;перемешиваем.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-c0aad206f7/54e469a72181c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_chicken_fillet_nuts_and_onions.jpg`,
       },
       {
         description:
           "Сыр натереть на&nbsp;крупной терке, добавить чеснок и&nbsp;оставшиеся 2&nbsp;ст. ложки майонеза. Все&nbsp;перемешать&nbsp;—  вторая начинка также готова.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-c4a5f63ab3/54e469c360519.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_cheese_with_mayonnaise.jpg`,
       },
       {
         description:
           "Берем оставшиеся 3&nbsp;блина и&nbsp;начиняем их&nbsp;мясным фаршем. Скручиваем в&nbsp;трубочку.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-7f6294725c/54e469d9b9abc.jpg",
       },
       {
         description:
           "Листы салата вымыть и&nbsp;обсушить, на&nbsp;них выкладываем сырную начинку и&nbsp;также скручиваем в&nbsp;рулетики. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-024ef9a33d/54e469ec92aa6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cheese_filling_on_lettuce.jpg`,
       },
       {
         description:
@@ -1064,8 +1029,7 @@ export const pancakes = [
       {
         description:
           "Собираем террин: на&nbsp;дно формы укладываем чередуя 1&nbsp;блин с&nbsp;мясом, затем с&nbsp;сыром рулет в&nbsp;салате, а&nbsp;затем опять с&nbsp;мясом.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-dd573c683a/54e46a06a8ceb.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/assembling_the_terrine.jpg`,
       },
       {
         description:
@@ -1073,8 +1037,6 @@ export const pancakes = [
       },
       {
         description: "Закрываем свисающими блинчиками и&nbsp;пленкой. ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-6a6e4d91f5/54e46a344b406.jpg",
       },
       {
         description:
@@ -1086,8 +1048,7 @@ export const pancakes = [
   {
     title:
       "Роллы из рисовых блинчиков с творожно-банановым кремом и шоколадным соусом",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-ed0968d94b/big54e4625b7eb20.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/rolls_of_rice_pancakes_with_curd-banana_cream_and_chocolate_sauce.jpg`,
     ingridients: [
       "рисовая мука&nbsp;—  200&nbsp;г",
       "крахмал картофельный&nbsp;—  20&nbsp;г",
@@ -1140,8 +1101,7 @@ export const pancakes = [
   },
   {
     title: "Блины картофельные",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-b9a764036e/big54e3764fb26cf.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/potato_pancakes.jpg`,
     ingridients: [
       "яйцо&nbsp;—  1&nbsp;шт.",
       "картофель&nbsp;—  2&nbsp;шт.",
@@ -1193,8 +1153,7 @@ export const pancakes = [
   },
   {
     title: "Блины с яблоками",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-bfe54fb611/big54e36efc4a52f.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_apples.jpg`,
     ingridients: [
       "    мука&nbsp;—  2&nbsp;ст.",
       "    молоко&nbsp;—  0,5&nbsp;ст.",
@@ -1233,8 +1192,7 @@ export const pancakes = [
   },
   {
     title: "Блинчики с шоколадной начинкой",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-76963ceedc/big54e36c429341b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_chocolate_filling.jpg`,
     ingridients: [
       "блины &nbsp;—  10&nbsp;шт.",
       "шоколадная плитка&nbsp;—  100&nbsp;г",
@@ -1256,8 +1214,7 @@ export const pancakes = [
   },
   {
     title: "Блины на томатном соке",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-0abe656e0e/big54e22cfeb32f5.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/tomato_juice_pancakes.jpg`,
     ingridients: [
       "мука&nbsp;—  2&nbsp;ст.л.",
       "молоко&nbsp;—  1&nbsp;ст.",
@@ -1285,8 +1242,7 @@ export const pancakes = [
   },
   {
     title: "Свекольные блины",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-101fd29781/big54e22a8a6acb3.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/beet_pancakes.jpg`,
     ingridients: [
       "масло подсолнечное рафинированное&nbsp;—  50&nbsp;мл",
       "	молоко&nbsp;—  1.5&nbsp;ст.",
@@ -1331,8 +1287,7 @@ export const pancakes = [
   },
   {
     title: "Блины с сыром и базиликом",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-cdde273731/big54e228875603f.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_cheese_and_basil.jpg`,
     ingridients: [
       "    мука&nbsp;—  550&nbsp;г (примерно 2&nbsp;стакана)",
       "    яйца&nbsp;—  5&nbsp;шт.",
@@ -1357,8 +1312,7 @@ export const pancakes = [
   },
   {
     title: "Шоколадные блины с нежной начинкой",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-d9934a31b4/big54e22669e8a67.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/chocolate_pancakes_with_delicate_filling.jpg`,
     ingridients: [
       "молоко&nbsp;—  1&nbsp;стакан",
       "яйца&nbsp;—  2&nbsp;шт.",
@@ -1384,8 +1338,7 @@ export const pancakes = [
   },
   {
     title: "Радужные блины",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-9543f512d0/big531074744c3ac.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/rainbow_pancakes.jpg`,
     ingridients: [
       "    мука&nbsp;—  2&nbsp;стакана",
       "    молоко&nbsp;—  100&nbsp;мл",
@@ -1418,8 +1371,7 @@ export const pancakes = [
   },
   {
     title: "Блинные роллы",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-5dff440492/big53107393430dd.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancake_rolls.jpg`,
     ingridients: [
       "    кефир&nbsp;—  500&nbsp;мл",
       "    яйца&nbsp;—  1&nbsp;шт.",
@@ -1447,8 +1399,7 @@ export const pancakes = [
   },
   {
     title: "Пышные блины на молоке",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-0539a21c71/big52973aba082ca.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/fluffy_pancakes_with_milk.jpg`,
     ingridients: [
       "  яйца&nbsp;—  2&nbsp;шт.",
       "молоко&nbsp;—  300&nbsp;мл ",
@@ -1461,8 +1412,6 @@ export const pancakes = [
     cooking: [
       {
         description: "Яйца взбиваем с молоком и сахаром.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-40ee306d8e/big52973abf028f2.jpg",
       },
       {
         description:
@@ -1470,8 +1419,6 @@ export const pancakes = [
       },
       {
         description: "Соединяем две смеси и замешиваем густое тесто.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-272842cc3f/big52973ac4bc982.jpg",
       },
       {
         description:
@@ -1480,8 +1427,6 @@ export const pancakes = [
       {
         description:
           "Разогреваем сковороду на&nbsp;огне чуть ниже среднего. Смазываем растительным маслом. Выливаем примерно полторы ст.л. теста и&nbsp;слегка распределяем его&nbsp;в форме круга. слой тесто должен быть около 4&nbsp;мм.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-4d6c3a7470/big52973ac82c4ed.jpg",
       },
       {
         description:
@@ -1495,8 +1440,7 @@ export const pancakes = [
   },
   {
     title: "Заварные блины на молоке",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-743890b4ba/big530ef6bf97ab5.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/custard_pancakes_with_milk.jpg`,
     ingridients: [
       "молоко&nbsp;—  500&nbsp;мл",
       "яйца&nbsp;—  2&nbsp;шт.",
@@ -1527,8 +1471,7 @@ export const pancakes = [
   },
   {
     title: "Блины лимонные",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-05e58d3a63/big530ca68cde547.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/lemon_pancakes.jpg`,
     ingridients: [
       "    мука&nbsp;—  100&nbsp;г",
       "    сахар&nbsp;—  1&nbsp;ст.л.",
@@ -1559,8 +1502,7 @@ export const pancakes = [
   },
   {
     title: "Шоколадные блинчики на молоке",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-0830747e9d/big530ca425621a4.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/chocolate_pancakes_with_milk.jpg`,
     ingridients: [
       "сахар&nbsp;—  2&nbsp;ст.л.",
       "молоко—  3&nbsp;ст.",
@@ -1600,8 +1542,7 @@ export const pancakes = [
   },
   {
     title: "Тонкие блины на ряженке",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-edbe01b4c9/big530ca066dca96.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/thin_ryazhenka_pancakes.jpg`,
     ingridients: [
       "ряженка&nbsp;—  0,5&nbsp;л",
       "яйца&nbsp;—  3&nbsp;шт.",
@@ -1636,8 +1577,7 @@ export const pancakes = [
   },
   {
     title: "Карибские блинчики",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-1b8d80b43a/big530b6a9b589bc.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/сaribbean_pancakes.jpg`,
     ingridients: [
       "теплое молоко&nbsp;—  300&nbsp;мл",
       "мука&nbsp;—  100-150 г",
@@ -1671,8 +1611,7 @@ export const pancakes = [
   },
   {
     title: "Блины с творогом ветчиной и зеленью",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-51c109a68c/big530b512d819f2.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_cottage_cheese_ham_and_herbs.jpg`,
     ingridients: [
       "    яйца&nbsp;—  3&nbsp;шт.",
       "    молоко&nbsp;—  280&nbsp;мл",
@@ -1704,8 +1643,7 @@ export const pancakes = [
   },
   {
     title: "Ажурные блинчики",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-1a3ca687a0/big530b4fbb84928.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/openwork_pancakes.jpg`,
     ingridients: [
       "молоко&nbsp;—  200&nbsp;мл",
       "    яйца&nbsp;—  2&nbsp;шт.",
@@ -1745,8 +1683,7 @@ export const pancakes = [
   },
   {
     title: "Ржаные блинчики",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-b82b99f485/big5307245ea9707.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/rye_pancakes.jpg`,
     ingridients: [
       "ржаная мука&nbsp;—  1&nbsp;стакан",
       " пшеничная мука&nbsp;—  1&nbsp;стакан",
@@ -1759,8 +1696,6 @@ export const pancakes = [
       {
         description:
           "Муку просеиваем с&nbsp;солью в&nbsp;большую миску. Всыпаем сахар. Постепенно добавляем молоко и&nbsp;взбитые яйца. Замешиваем однородное густоватое тесто.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-a0aea6426b/big529852c75dde1.jpg",
       },
       {
         description:
@@ -1773,9 +1708,8 @@ export const pancakes = [
     type: pancakesType,
   },
   {
-    title: "Оладьи с черникой",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-dca2837a73/big530722c527da4.jpg",
+    title: "Оладьи с черникой или смородиной",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/blueberry_pancakes.jpg`,
     ingridients: [
       "черника (можно использовать смородину)&nbsp;—  100&nbsp;г",
       " яйцо&nbsp;—  1&nbsp;шт.",
@@ -1790,14 +1724,10 @@ export const pancakes = [
       {
         description:
           "Муку просеиваем с&nbsp;разрыхлителем и&nbsp;солью в&nbsp;миску. В&nbsp;отдельной миске взбиваем яйцо с&nbsp;кефиром и&nbsp;сахаром. Постепенно вливая жидкую смесь в&nbsp;сухую, замешиваем тесто, по&nbsp;консистенции напоминающее густую сметану.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-7549c31aa7/big52983a4e8bc43.jpg",
       },
       {
         description:
           "Аккуратно вмешиваем в тесто промытую и обсушенную чернику.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-6a422ddceb/big52983a54b3516.jpg",
       },
       {
         description:
@@ -1808,10 +1738,9 @@ export const pancakes = [
   },
   {
     title: "Мини-блинчики с острым сметанным кремом",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-716ba9fc2f/big52970277151d6.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/mini_pancakes_with_spicy_sour_cream.jpg`,
     ingridients: [
-      "мука&nbsp;—  160&nbsp;г",
+      " мука&nbsp;—  160&nbsp;г",
       " разрыхлитель&nbsp;—  1&nbsp;ч.л.",
       " соль&nbsp;—  1/4&nbsp;ч.л.",
       " нарубленный укроп&nbsp;—  1&nbsp;ст.л.",
@@ -1820,7 +1749,7 @@ export const pancakes = [
       " яйцо&nbsp;—  1&nbsp;шт.",
       " молоко&nbsp;—  170&nbsp;мл",
       " малосольный или&nbsp;подкопченный лосось&nbsp;—  250&nbsp;г",
-      "жирная сметана (30%)&nbsp;—  120&nbsp;г",
+      " жирная сметана (30%)&nbsp;—  120&nbsp;г",
       " готовый хрен&nbsp;—  1&nbsp;ч.л.",
       " соль&nbsp;—  1/4&nbsp;ч.л.",
     ],
@@ -1836,28 +1765,20 @@ export const pancakes = [
       {
         description:
           "Соединяем две смеси и замешиваем густоватое однородное тесто.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-56172675c6/big52970283a5a53.jpg",
       },
       {
         description:
           "Разогреваем сковороду и&nbsp;смазываем ее&nbsp;растительным маслом. Наливаем по&nbsp;2&nbsp;ч.л. теста и&nbsp;выпекаем маленькие оладьи, примерно по&nbsp;1&nbsp;минуте с&nbsp;каждой стороны.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-ac944b6cf6/big52970286b1da8.jpg",
       },
       {
         description:
           "Пока остывают оладьи, готовим соус. Для&nbsp;этого смешиваем сметану с&nbsp;хреном, посолив по&nbsp;вкусу.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-228b3f3020/big52970287d6796.jpg",
       },
       {
         description: "Рыбу нарезаем на небольшие тонкие кусочки.",
       },
       {
         description: "На каждый блинчик кладем по 1 ч.л. крема",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-47adb69085/big5297029e541a8.jpg",
       },
       {
         description: "и по ломтику рыбы. Украшаем веточками укропа и подаем.",
@@ -1867,8 +1788,7 @@ export const pancakes = [
   },
   {
     title: "Кукурузные оладьи",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-1c1d339553/big52973484ce2c6.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/corn_fritters.jpg`,
     ingridients: [
       "консервированная кукуруза&nbsp;—  200&nbsp;г",
       " молоко&nbsp;—  80&nbsp;мл",
@@ -1895,13 +1815,9 @@ export const pancakes = [
       {
         description:
           "Добавляем оба вида муки и разрыхлитель, перемешиваем до однородности.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-e947c4595e/big5297348d5226d.jpg",
       },
       {
         description: "Добавляем кукурузу и еще раз перемешиваем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-356867cf13/big529734901e640.jpg",
       },
       {
         description:
@@ -1915,8 +1831,7 @@ export const pancakes = [
   },
   {
     title: "Дрожжевые блины с красной икрой",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-fab4f67e7b/big5305f6de268ee.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/yeast_pancakes_with_red_caviar.jpg`,
     ingridients: [
       "свежие дрожжи&nbsp;—  25&nbsp;г",
       "молоко&nbsp;—  0,5&nbsp;л",
@@ -1933,36 +1848,24 @@ export const pancakes = [
       {
         description:
           "В мисочку наливаем полстакана теплого молока, насыпаем 2&nbsp;ч. ложки сахара и&nbsp;размешиваем до&nbsp;растворения последнего. В&nbsp;этой смеси разводим дрожжи и&nbsp;ставим их&nbsp;в теплое место.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-a580d5de31/big52988ec7e1373.jpg",
       },
       {
         description:
           "Пока дрожжи расходятся, взбиваем яйца с&nbsp;оставшимся сахаром, солью и&nbsp;сливочным маслом.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-545d4a1246/big52988ecb9cdb8.jpg",
       },
       {
         description: "Когда дрожжи разойдутся —  это будет выглядеть так:",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-dcabf019f8/big52988ede053e8.jpg",
       },
       {
         description:
           "Выливаем их&nbsp;в яично-масляную смесь, добавляем молока, 10&nbsp;ложек муки и&nbsp;хорошенько вымешиваем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-15bfceae03/big52988ee8b4c85.jpg",
       },
       {
         description:
           "Ставим тесто в теплое место примерно на час, чтобы оно подошло.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-22801154c7/big52988ef093946.jpg",
       },
       {
         description: "Печем блины на хорошо смазанной сковороде.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-7aa96c93f8/big52988ef4702de.jpg",
       },
       {
         description:
@@ -1973,8 +1876,7 @@ export const pancakes = [
   },
   {
     title: "Яблочные оладьи",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-6c2b563f9f/big5296eae4e84be.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/apple_pancakes.jpg`,
     ingridients: [
       "мука&nbsp;—  340&nbsp;г",
       "разрыхлитель&nbsp;—  1&nbsp;ч.л.",
@@ -1994,20 +1896,17 @@ export const pancakes = [
       {
         description:
           "Муку просеиваем в&nbsp;миску с&nbsp;содой, разрыхлителем и&nbsp;корицей. Добавляем сахар и&nbsp;перемешиваем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2a4f2f091a/big5296eaebd57f7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/sift_flour_into_a_bowl.jpg`,
       },
       {
         description:
           "Добавляем масло, яйца и кефир, замешиваем однородное густое тесто.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-fb82e716d2/big5296eaee46aca.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/knead_a_homogeneous_thick_dough.jpg`,
       },
       {
         description:
           "У яблок удаляем сердцевину, счищаем кожицу, мякоть нарезаем на&nbsp;небольшие кусочки.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b9b65360e5/big5296eaf0a3346.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/finely_chopped_apples.jpg`,
       },
       {
         description: "Смешиваем яблоки с тестом.",
@@ -2024,8 +1923,7 @@ export const pancakes = [
   },
   {
     title: "Гурьевские блины",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-9d0457499f/big53036a8b0c50a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/gurievsky_pancakes.jpg`,
     ingridients: [
       "мука&nbsp;—  2,5&nbsp;стакана (стакан 200&nbsp;мл)",
       " яйца&nbsp;—  5&nbsp;шт.",
@@ -2041,8 +1939,6 @@ export const pancakes = [
       },
       {
         description: "Белки взбиваем с солью в стойкую пену.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-546f2ad82c/big5298507d4ad35.jpg",
       },
       {
         description:
@@ -2051,8 +1947,6 @@ export const pancakes = [
       {
         description:
           "Выпекаем блинчики на&nbsp;сковороде, слегка смазанной маслом&nbsp;—  топленым сливочным или&nbsp;растительным.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-30e5f69a85/big5298509259f63.jpg",
       },
       {
         description: "Подаем с вареньем или джемом.",
@@ -2061,9 +1955,8 @@ export const pancakes = [
     type: pancakesType,
   },
   {
-    title: "Блины с припеком",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-03c7ce3d58/big530368b9bcb44.jpg",
+    title: "Блины с припеком с шампиньонами",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/scalloped_pancakes.jpg`,
     ingridients: [
       "яйца&nbsp;—  2&nbsp;шт.",
       "молоко&nbsp;—  0,5&nbsp;л&nbsp;",
@@ -2077,45 +1970,29 @@ export const pancakes = [
       {
         description:
           "Готовим тесто на&nbsp;блины. Для&nbsp;этого взбиваем яйца с&nbsp;солью и&nbsp;сахаром и&nbsp;добавляем в&nbsp;них молоко.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-f2e05ccdbb/big52988f785f93a.jpg",
       },
       {
         description:
           "Начинаем постепенно вводить муку. Тесто должно получиться по&nbsp;консистенции как&nbsp;жидкая сметана. У&nbsp;меня на&nbsp;это ушло 8&nbsp;столовых ложек с&nbsp;горкой муки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-3fea018290/big52988f85155b9.jpg",
       },
       {
         description: "Готовим припёк. Шампиньоны режем и обжариваем на масле.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-da89b4fce1/big52988f90e751e.jpg",
       },
       {
         description: "Смешиваем их с сыром и колбасой.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-8cf6f65b18/big52988fa44d448.jpg",
       },
       {
         description:
           "Печем блины. Наливаем теста на раскаленную, смазанную маслом сковороду.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-4cf900afce/big52988fb370e92.jpg",
       },
       {
         description: "Сверху выкладываем немного припёка.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-3c240b227f/big52988fb3dd4f3.jpg",
       },
       {
         description: "Поливаем его сверху небольшим количеством теста.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-e4b7ef9b35/big52988fb71079e.jpg",
       },
       {
         description: "Быстро и аккуратно переворачиваем блин.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-e182dc7a00/big52988fcbd773a.jpg",
       },
       {
         description:
@@ -2126,8 +2003,7 @@ export const pancakes = [
   },
   {
     title: "Блины с рикоттой и маком",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-37f87e3bf4/big5297339891dea.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_ricotta_and_poppy_seeds.jpg`,
     ingridients: [
       "яйца&nbsp;—  6&nbsp;шт. (белки и&nbsp;желтки отдельно)",
       " рикотта&nbsp;—  400&nbsp;г",
@@ -2142,14 +2018,11 @@ export const pancakes = [
     cooking: [
       {
         description: "Белки взбиваем с щепоткой соли до крутых пиков.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-3b17cf956f/big529733a78991a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beat_the_whites.jpg`,
       },
       {
         description:
           "Кладем в миску рикотту, желтки, растопленное масло и ванилин.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-cf41d62ec6/big529733a81bb4e.jpg",
       },
       {
         description: "Перемешиваем до однородности.",
@@ -2177,8 +2050,7 @@ export const pancakes = [
   },
   {
     title: "Блины с красной рыбой",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-baa2cb72c7/big5273c6e3a4f48.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_red_fish.jpg`,
     ingridients: [
       "блины",
       "любая слабосоленая красная рыба",
@@ -2209,8 +2081,7 @@ export const pancakes = [
   },
   {
     title: "Оладьи с бананом",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-6a18e61c2d/big525e9e1d52218.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/banana_fritters.jpg`,
     ingridients: [
       "бананы&nbsp;—  2&nbsp;шт.",
       "сахар&nbsp;—  1&nbsp;стакан",
@@ -2233,8 +2104,7 @@ export const pancakes = [
   },
   {
     title: "Блинный торт с яблоками,изюмом и бананами",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-af6c1f34cc/big524eda3f4e158.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancake_cake_with_apples_raisins_and_bananas.jpg`,
     ingridients: [
       "блины&nbsp;—  5-7 шт.",
       "изюм&nbsp;—  2&nbsp;жмени",
@@ -2273,8 +2143,7 @@ export const pancakes = [
   },
   {
     title: "Оладьи из кукурузной муки",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-6ba715673d/big51a5c6e3777e1.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/cornmeal_fritters.jpg`,
     ingridients: [
       "Мука кукурузная 	120&nbsp;г&nbsp;	",
       "Мука пшеничная 	200&nbsp;г",
@@ -2292,28 +2161,24 @@ export const pancakes = [
       {
         description:
           "В отдельной миске смешать яйца с&nbsp;молоком и&nbsp;маслом.  						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-24fb3d5d10/big51a5c6e4de853.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_eggs_with_milk_and_butter.jpeg`,
       },
       {
         description:
           "				 					 																					 																 							Всыпать я&nbsp;молочно-яичную смесь сухие ингредиенты и&nbsp;перемешать ложкой до&nbsp;однородного состояния.						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-ad6cd72679/big51a5c6e59873c.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/stir_until_smooth.jpeg`,
       },
       {
         description:
           "				 					 																					 																 							Разогреть немного масла в&nbsp;сковороде. И&nbsp;класть тесто по&nbsp;одной столовой ложке. Жарить с&nbsp;двух сторон до&nbsp;готовности на&nbsp;среднем огне.   Подавать сразу же&nbsp;с яблочным повидлом, медом или&nbsp;кленовым сиропом.   Приятного аппетита!  						 										  					 				  					 						 		",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-2c3d6f4e76/big51a5c6e6d482d.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_fritters.jpeg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Яблочно-творожные оладьи",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-5dc1fcb766/big520b7f6faecc7.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/apple_curd_fritters.jpg`,
     ingridients: [
       "яблоко&nbsp;—  1&nbsp;шт.",
       "творог&nbsp;—  1&nbsp;стакан",
@@ -2350,16 +2215,14 @@ export const pancakes = [
       {
         description:
           "Готовые оладьи щедро поливать кленовым сиропом и&nbsp;наслаждаться всем этим безобразием!",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-fd9b0ed513/520b7f5f3a209.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancakes_with_maple_syrup.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Морковные блины с сыром и фетой",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-333fe155c6/big51a4ac9304421.JPG",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/carrot_pancakes_with_feta.jpeg`,
     ingridients: [
       "Яйцо куриное 	2&nbsp;шт. 	",
       "Мука пшеничная 	175&nbsp;г",
@@ -2380,52 +2243,44 @@ export const pancakes = [
       {
         description:
           "Яйца, муку, сахар, соль и&nbsp;немного (50мл) молока смешать с&nbsp;помощью венчика, чтобы не&nbsp;было комочков. Постепенно влить остальное молока, порциями, хорошенько перемешивая. В&nbsp;конце добавить подсолнечное масло.						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e1a2542e66/big51a4ac9493154.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/big51a4ac9493154.jpeg`,
       },
       {
         description:
           "Натереть морковь на&nbsp;самой мелкой терке и&nbsp;добавить в&nbsp;блинную смесь.						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-60927217fc/big51a4ac9552622.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_carrots.jpeg`,
       },
       {
         description:
           "Смазать сковородку маслом и&nbsp;жарить блинчики, получается около 10&nbsp;штук.						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-06c9cc403d/big51a4ac96967fe.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/carrot_pancake_on_frying_pan.jpeg`,
       },
       {
         description:
           "Фету растолочь вилкой, добавив кориандр. Сыр&nbsp;потереть и&nbsp;смешать с&nbsp;орегано. Подойдет и&nbsp;любая другая травка, которая вам&nbsp;нравится. Можно использовать и&nbsp;свежую зелень.						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6a826619f1/big51a4ac973f95f.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_cheese_and_feta.jpeg`,
       },
       {
         description:
           "				 					 																					 																 							На половину блинчиков положить начинку из&nbsp;тертого сыра, на&nbsp;четвертую часть блина, чтобы можно было свернуть в&nbsp;конвертик.						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-3605f8fc1e/big51a4ac98d7af2.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_cheese_on_pancake.jpeg`,
       },
       {
         description:
           "				 					 																					 																 							И на&nbsp;маленьком огне прогревать блинчики с&nbsp;двух сторон, чтобы сыр&nbsp;расплавился.						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-80044218a1/big51a4ac9b01d11.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/heat_pancakes_on_frying_pan.jpeg`,
       },
       {
         description:
           "				 					 																					 																 							Остальные блинчики точно так&nbsp;же начинить фетой.  Их&nbsp;можно нагреть на&nbsp;сковороде аналогично или&nbsp;подать холодными, по&nbsp;желанию. Можно несколько блинов сделать со&nbsp;смешанной начинкой и&nbsp;нагреть, чтобы сыры расплавились.						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-cee9cb753f/big51a4ac9b9c1d6.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/feta_on_pancake.jpeg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Блины по-пикардийски",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-a7a6ae8aad/big51ae4be80091a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_picardy_style.jpg`,
     ingridients: [
       "Яйцо куриное 	2&nbsp;шт. 	",
       "Молоко 	500&nbsp;мл",
@@ -2447,34 +2302,25 @@ export const pancakes = [
       {
         description:
           "Для начала нужно испечь ваши любимые тоненькие блины. Я&nbsp;уже давно пользуюсь рецептом крепов от&nbsp;Пьера Эрме. Для&nbsp;этого:  1) Масло растопить.  2) Яйца слегка взбить вилкой. Всыпать соль, муку.  3) Влить молоко и&nbsp;воду (2&nbsp;ст.л.), размешать. Затем добавить масло, размешать венчиком.  4) Если остались комочки, то&nbsp;можно взбить слегка миксером.  5) Накрыть пленкой и&nbsp;оставить при&nbsp;комнатной темп-ре 2&nbsp;часа.  6) Выпекать тонкие блины. Выйдет около 10&nbsp;тонких блинов (естественно, все&nbsp;зависит от&nbsp;их диаметра).						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-10fabcbe41/big51a4b4e5e4de3.jpg",
       },
       {
         description:
           "Лук почистить и&nbsp;нарезать очень мелко.  Шампиньоны помыть, нарезать пластинками.  Обжарить на&nbsp;раст.масле лук&nbsp;до мягкости, затем добавить грибы.     Протушить до&nbsp;испарения влаги и&nbsp;готовности грибов. Затем добавить соль, специи и&nbsp;сметану.    На&nbsp;готовый блин выложить один пласт ветчины.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-0076264040/big51a4b4e81bb27.JPG",
       },
       {
         description:
           "				 					 																					 																 							На ветчину посередине блина полоской выложить грибы. Аккуратно завернуть трубочкой.    Вариант: взять любую ветчину, нарезать ее&nbsp;кубиками. Выложить на&nbsp;блин посередине блина ветчину, затем грибы и&nbsp;свернуть трубочкой.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-340179c54d/big51a4b4e903c4f.JPG",
       },
       {
         description:
           "Выложить нафаршированные блины в&nbsp;форму для&nbsp;духовки. Залить все&nbsp;соусом бешамель и&nbsp;посыпать тертым сыром.      Соус бешамель:    В&nbsp;кастрюле растопить масло, всыпать муку, соль и&nbsp;специи, размешать. Залить молоком и&nbsp;варить около 3&nbsp;минут до&nbsp;загустения.      Залить соусом блины и&nbsp;запекать в&nbsp;горячей духовке при&nbsp;темп-ре 190&nbsp;град. около 10&nbsp;минут. Для&nbsp;румяности несколько минут подержать под&nbsp;грилем. Все!!!  						 										  					 				  					 						 		",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-e7f2f73d89/big51a4b4eae80af.JPG",
       },
     ],
     type: pancakesType,
   },
   {
     title: "Блины 'Богатые'",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-4a79bc452d/big51a5c7932e01a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_rich.jpg`,
     ingridients: [
       "Мука пшеничная 	250&nbsp;г&nbsp;	",
       "Молоко 	600&nbsp;мл",
@@ -2495,14 +2341,12 @@ export const pancakes = [
       {
         description:
           "Сделаем тесто:  1. Взобьем в&nbsp;глубокой миске яйца с&nbsp;сахаром и&nbsp;солью, пока объем не&nbsp;увеличится вдвое;  2. Просеем туда же&nbsp;муку, взбивая;  3. Постепенно вольем молоко, взбивая;  4. Добавим мелко—  порубленный укроп и&nbsp;мелко—  натертый сыр, перемешаем;  5. Растопим сливочное масло, слегка остудим и&nbsp;введем в&nbsp;тесто.  Тесто не&nbsp;должно быть очень густым. Должно быть не&nbsp;гуще жидкой сметаны и&nbsp;хорошо, равномерно растекаться на&nbsp;сковороде, но&nbsp;и так&nbsp;же не&nbsp;должно быть слишком жидким.	",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-df0f6e885b/big51a5c793c2ef0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/dough_with_cheese_and_dill.jpg`,
       },
       {
         description:
           "				 					 																					 																 							Обжарим блины без&nbsp;добавления масел или&nbsp;жиров.   P.S. При&nbsp;диаметре сковороды 24см должно получится 12&nbsp;тонких блинов.						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-cf94a4a24a/big51a5c7946df88.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fried_pancake_with_herbs.jpeg`,
       },
       {
         description:
@@ -2513,8 +2357,7 @@ export const pancakes = [
   },
   {
     title: "Блины 'Нежность'",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-3c815559a8/big51a5c7137b27c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_tenderness.jpg`,
     ingridients: [
       "Мука пшеничная 	240&nbsp;г&nbsp;	",
       "Молоко 	600&nbsp;мл",
@@ -2532,28 +2375,24 @@ export const pancakes = [
       {
         description:
           "Приготовим тесто:    1. Взбить яйца с&nbsp;сахаром до&nbsp;бела в&nbsp;глубокой миске  2. Просеять муку с&nbsp;корицей туда же, взбивая  3. Добавить молоко, хорошо перемешать  4. Ввести осторожно растопленное масло						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-5400dc1e53/big51a5c7144ff19.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancake_batter.jpg`,
       },
       {
         description:
           "				 					 																					 																 							Разогреть сковороду. Первый блин обжарить на&nbsp;ч.ложке растительного масла. Последующие без, т.к. ввели в&nbsp;тесто достаточно жира.  Примечание: обжаривать на&nbsp;медленном огне, чтоб корочка получилась хрустящей						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-bb0c41c46c/big51a5c7151cec6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancake_on_frying_pan.jpg`,
       },
       {
         description:
           "Далее приготовим начинку:     1.Блендером взбить творог до&nbsp;однородной массы  2. Взбить с&nbsp;сахаром сливки  3. Мелко порубить клубнику  4. Смешать ингредиенты аккуратно, ни&nbsp;в коем случае не&nbsp;блендером&nbsp;—  масса осядет и&nbsp;потеряет воздушность. Можно добавить корицы.  						 										  					 				  					 						 		",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-34c99fbb4b/big51a5c715bec85.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cottage_cheese_filling_with_strawberries.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Блинчики с курицей",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-7f970e81fc/big51ac8b694735f.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_chicken.jpg`,
     ingridients: [
       "Куриная грудка 	800&nbsp;г&nbsp;	",
       "Морковь 	100&nbsp;г",
@@ -2574,52 +2413,37 @@ export const pancakes = [
       {
         description:
           "Куриные грудки залейте чистой водой, чтобы она&nbsp;только покрыла мясо, добавьте очищенные овощи, посолите.  Доведите до&nbsp;кипения, снимите пену и&nbsp;варите на&nbsp;среднем огне еще&nbsp;10-15 минут. Слишком долгая варка сделает мясо слишком сухим и&nbsp;невкусным, так&nbsp;что следите.  Отвар сохраните.&nbsp;				 					 															 						",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-3a3a83879a/big51a706c7d0d95.jpg",
       },
       {
         description:
           "Смешайте все&nbsp;составляющие для&nbsp;теста, хорошо перемешайте, чтобы не&nbsp;было комков. Должно получиться жидкое тесто однородной консистенции.  Хорошо разогрейте сковороду, смажьте маслом и&nbsp;жарьте тонкие блины с&nbsp;одной стороны, дожидаясь только, чтобы тесто хорошо просохло сверху.&nbsp;	",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-92f987bfc3/big51a706c89297e.jpg",
       },
       {
         description:
           "Готовые блинчики складывайте в&nbsp;стопку поджаренной стороной вверх. ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-b9f5aeac27/big51a706c9272bb.jpg",
       },
       {
         description:
           "Стебли сельдерея разрежьте вдоль на&nbsp;4&nbsp;части, затем измельчите. Лук&nbsp;нарежьте тонкой соломкой. Пассеруйте все&nbsp;до мягкости на&nbsp;среднем огне, постоянно помешивая.&nbsp;	",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-031a67b78c/big51a706c9bb1eb.jpg",
       },
       {
         description:
           "Куриное мясо измельчите с&nbsp;помощью мясорубки или&nbsp;блендера, добавьте луково-сельдерейную смесь.&nbsp;				 					 																					 																 							",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-768d5599ed/big51a706ca8374f.jpg",
       },
       {
         description:
           "Подлейте бульона столько, сколько будет впитывать мясо. На&nbsp;этом этапе попробуйте фарш, если надо, досолите.&nbsp;				 					 																					 																 							",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-35259d2441/big51a706cc9873c.jpg",
       },
       {
         description:
           "На середину каждого блина кладите столовую ложку фарша и&nbsp;заворачивайте блин конвертиком.&nbsp;				 					 																					 																 							Завернутые блины обжарьте с&nbsp;обеих сторон, если перед этим вы&nbsp;их замораживали, то&nbsp;прикройте крышкой, чтобы начинка хорошо прогрелась.  Подавайте горячими или&nbsp;холодными со&nbsp;сметаной или&nbsp;сливочным соусом. ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-ad9273844b/51ac8b45663d9.jpg",
       },
     ],
     type: pancakesType,
   },
   {
     title: "Овсяные оладьи с шоколадом",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-1a8d5fd2d1/big515ed5ab36c47.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/oat_pancakes_with_chocolate.jpg`,
     ingridients: [
       "банан&nbsp;—  1&nbsp;шт.",
       "разрыхлитель&nbsp;—  1&nbsp;ч.л.",
@@ -2658,8 +2482,7 @@ export const pancakes = [
   },
   {
     title: "Творожно-ореховые блины",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-8c29d600dd/big514325b18895c.JPG",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/cottage_cheese_nut_pancakes.jpeg`,
     ingridients: [
       "творог&nbsp;—  250&nbsp;г",
       "молоко&nbsp;—  220&nbsp;мл",
@@ -2696,8 +2519,7 @@ export const pancakes = [
   },
   {
     title: "Блины на кипятке",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-fa34648275/big51431b668ad96.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/boiled_pancakes.jpg`,
     ingridients: [
       "яйцо&nbsp;—  1&nbsp;шт.",
       "растительное масло&nbsp;—  1&nbsp;ч.л.",
@@ -2733,8 +2555,7 @@ export const pancakes = [
   },
   {
     title: "Блинчики с бананами",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-b799e7e599/big514315c0ef491.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/banana_pancakes.jpg`,
     ingridients: [
       "    мука&nbsp;—  1&nbsp;стакан",
       "    разрыхлитель&nbsp;—  1&nbsp;ч.л.",
@@ -2766,8 +2587,7 @@ export const pancakes = [
   },
   {
     title: "Свекольные блины с сырной начинкой",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-800d5333d8/big5141e64f8109b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/beet_pancakes_with_cheese_filling.jpg`,
     ingridients: [
       "мука&nbsp;—  1&nbsp;ст.",
       "молоко&nbsp;—  200&nbsp;мл",
@@ -2844,8 +2664,7 @@ export const pancakes = [
   },
   {
     title: "Блины на минералке",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-0fde571956/big514094f61cdc5.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/mineral_water_pancakes.jpg`,
     ingridients: [
       "яйца&nbsp;—  1&nbsp;шт.",
       "сахар&nbsp;—  2&nbsp;ст. л.",
@@ -2891,8 +2710,7 @@ export const pancakes = [
   },
   {
     title: "Блины 'Улитки'",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-c80936742f/big514083f3eef1f.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_snail.jpg`,
     ingridients: [
       "молоко&nbsp;—  1&nbsp;стакан",
       "яйца —  2 шт.",
@@ -2927,8 +2745,7 @@ export const pancakes = [
   },
   {
     title: "Шоколадные блины с творогом и пьяной вишней",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-72a773bfdf/big514080d5ea9e7.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/chocolate_pancakes_with_cottage_cheese_and_drunken_cherries.jpg`,
     ingridients: [
       "шоколад —  50 г",
       "корица —  1/3 ч.л.",
@@ -2957,8 +2774,7 @@ export const pancakes = [
   },
   {
     title: "Блинно творожная запеканка",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-2c5cbda3c4/big513f4fa41e9d5.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancake-curd_casserole.jpg`,
     ingridients: [
       "    мука&nbsp;—  1&nbsp;стакан",
       "    соль (щепотка)",
@@ -3004,8 +2820,7 @@ export const pancakes = [
   },
   {
     title: "Толстые дрожжевые блины",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-4155d4df24/big513f40bdac7e7.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/thick_yeast_pancakes.jpg`,
     ingridients: [
       "яйца&nbsp;—  2&nbsp;шт.",
       "молоко&nbsp;—  5&nbsp;ст.",
@@ -3042,8 +2857,7 @@ export const pancakes = [
   },
   {
     title: "Нежные блинчики с форелью и сливочным кремом",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-19dbd8494e/big513dea5bc7ce8.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/delicate_pancakes_with_trout_and_butter_cream.jpg`,
     ingridients: [
       "яйцо&nbsp;—  1&nbsp;шт.",
       "сахар&nbsp;—  1&nbsp;ч. л.",
@@ -3092,8 +2906,7 @@ export const pancakes = [
   },
   {
     title: "Грибные оладьи с сырным соусом",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-6d8091bb90/big513ddd9de5cc8.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/mushroom_pancakes_with_cheese_sauce.jpg`,
     ingridients: [
       "ряженка&nbsp;—  250&nbsp;г",
       "мука&nbsp;—  100&nbsp;г",
@@ -3136,8 +2949,7 @@ export const pancakes = [
   },
   {
     title: "Блины на воде",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-42ba9ca976/big513dd39bcf9da.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/water_pancakes.jpg`,
     ingridients: [
       "мука&nbsp;—  500&nbsp;г",
       "вода&nbsp;—  3&nbsp;стакана и&nbsp;1&nbsp;стакан для&nbsp;разведения лимонной кислоты",
@@ -3162,8 +2974,7 @@ export const pancakes = [
   },
   {
     title: "Кружевные блины",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-70b7031958/big513655a8d579c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/lace_pancakes.jpg`,
     ingridients: [
       "молоко&nbsp;—  0,5&nbsp;л",
       "мука пшеничная&nbsp;—  1,5&nbsp;стакана",
@@ -3182,8 +2993,7 @@ export const pancakes = [
   },
   {
     title: "Блины с припеком",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-1ad4ddec6a/big513652edecc6a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_seasoning.jpg`,
     ingridients: [
       "мука&nbsp;—  200&nbsp;г",
       "молоко&nbsp;—  0,5&nbsp;л.",
@@ -3217,8 +3027,7 @@ export const pancakes = [
   },
   {
     title: "Манные блины на дрожжах",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-ab5b9e5103/big5134aa82c2b5d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/semolina_yeast_pancakes.jpg`,
     ingridients: [
       "    манная каша (50&nbsp;г&nbsp;манки+500 мл&nbsp;молока) ",
       "    мука&nbsp;—  250&nbsp;г",
@@ -3250,8 +3059,7 @@ export const pancakes = [
   },
   {
     title: "Блинчатый пирог с мясом,рисом и пекинской капустой",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-1e25507a55/big5134a7a21c73d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancake_pie_with_meat_rice_and_eking_cabbage.jpg`,
     ingridients: [
       "мука&nbsp;—  500&nbsp;г",
       "молоко&nbsp;—  3&nbsp;стакана",
@@ -3306,8 +3114,7 @@ export const pancakes = [
   },
   {
     title: "Кукурузные блинчики с кленовым сиропом",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-5bc8ade149/big5134a342a0529.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/corn_pancakes_with_maple_syrup.jpg`,
     ingridients: [
       "кукурузная мука&nbsp;—  1,5&nbsp;стакана",
       "пшеничная мука&nbsp;—  1/4&nbsp;стакана",
@@ -3337,8 +3144,7 @@ export const pancakes = [
   },
   {
     title: "Шоколадные оладушки",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-2b8ba294a6/big5134a0344ce91.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/chocolate_fritters.jpg`,
     ingridients: [
       "молоко&nbsp;—  160&nbsp;г",
       "яйца&nbsp;—  1&nbsp;шт.",
@@ -3370,8 +3176,7 @@ export const pancakes = [
   },
   {
     title: "Блинчатый торт с апельсиновым джемом",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-141f552ccd/big512764e5121d6.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancake_cake_with_orange_jam.jpg`,
     ingridients: [
       "апельсиновый джем&nbsp;—  200&nbsp;мл",
       "мука&nbsp;—  150&nbsp;г",
@@ -3393,8 +3198,7 @@ export const pancakes = [
   },
   {
     title: "Розовые блины с апельсиновым соусом",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-edd17506a4/big512631e3801c7.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pink_pancakes_with_orange_sauce.jpg`,
     ingridients: [
       "мука&nbsp;—  125&nbsp;г",
       "сахар&nbsp;—  1&nbsp;чайная ложка",
@@ -3433,8 +3237,7 @@ export const pancakes = [
   },
   {
     title: "Блинчики 'Царские'",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-41d4bc6eea/big51222fafa4a5c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/royal_pancakes.jpg`,
     ingridients: [
       "молоко&nbsp;—  0.4&nbsp;л",
       "мука&nbsp;—  240&nbsp;г",
@@ -3460,8 +3263,7 @@ export const pancakes = [
   },
   {
     title: "Блинные роллы с фруктами",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-880709d859/big50c64872172f4.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancake_rolls_with_fruits.jpg`,
     ingridients: [
       "молоко&nbsp;—  1&nbsp;л",
       "яйца&nbsp;—  4&nbsp;шт.",
@@ -3487,8 +3289,7 @@ export const pancakes = [
   },
   {
     title: "Блинные мешочки с жюльеном",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-ef6113549c/big50781cb4ac436.JPG",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancake_bags_with_julienne.jpeg`,
     ingridients: [
       "готовые блины",
       "куриное филе&nbsp;—  1-2 шт.",
@@ -3517,8 +3318,7 @@ export const pancakes = [
   },
   {
     title: "Овсяные оладьи с малиной",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-0a9f356158/big5012f641d4ccb.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/oat_pancakes_with_raspberries.jpg`,
     ingridients: [
       "геркулес&nbsp;—  ½&nbsp;стакана",
       "творог (1%)&nbsp;—  100&nbsp;г",
@@ -3545,8 +3345,7 @@ export const pancakes = [
   },
   {
     title: "Оладьи из цуккини",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-8ca7b38421/big4ff71aa575d88.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/zucchini_fritters.jpg`,
     ingridients: [
       "цуккини (небольшие)&nbsp;—  4&nbsp;шт.",
       "мука&nbsp;—  4-5 ст.л.",
@@ -3587,8 +3386,7 @@ export const pancakes = [
   },
   {
     title: "Овощные оладушки с сырной корочкой",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-511ce7814a/big4f23e7bb9e7a2.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/vegetable_pancakes_with_cheese_crust.jpg`,
     ingridients: [
       "Кабачки 	250&nbsp;г&nbsp;",
       "	Морковь 	250&nbsp;г",
@@ -3607,26 +3405,22 @@ export const pancakes = [
       {
         description:
           "Овощи трём на&nbsp;крупной терке и&nbsp;отжимаем. Добавляем нарезанную зелень.  					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-63a6c2d321/big4f23e7c003725.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_vegetables.jpg`,
       },
       {
         description:
           "Добавляем 2&nbsp;взболтанных яйца, крахмал, муку, солим, перчим.  					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6c79b2d578/big4f23e7c11583f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_eggs_and_flour_to_grated_vegetables.jpg`,
       },
       {
         description:
           "			 				 																	 													 						На горячую сковородку выкладываем ложкой и&nbsp;обжариваем с&nbsp;2х сторон. Выкладываем на&nbsp;противень.  					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d838c6017b/big4f23e7c7f0c08.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/vegetable_fritters_on_a_baking_sheet.jpg`,
       },
       {
         description:
           "Готовим сырную корочку: тёртый сыр&nbsp;смешиваем с&nbsp;томатной пастой, чесноком и&nbsp;зеленью. Перемешиваем.  Кладём сыр&nbsp;на оладьи.  					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-458c263633/big4f23e7c966d01.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_cheese_with_tomato_paste.jpg`,
       },
       {
         description:
@@ -3637,8 +3431,7 @@ export const pancakes = [
   },
   {
     title: "Гороховые оладьи",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d74f209c98/big4f23e9c7ec5b8.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pea_fritters.jpg`,
     ingridients: [
       "Горошек зеленый замороженый 400 г",
       "Укроп 30&nbsp;г ",
@@ -3654,50 +3447,42 @@ export const pancakes = [
       },
       {
         description: "Замороженный горошек отвариваем около 15&nbsp;минут. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-7a1fb25b1b/big4f23e9c9426f6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boil_green_peas.jpg`,
       },
       {
         description: "Шинкуем укроп. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6e0de56a5b/big4f23e9ca61328.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chop_the_dill.jpg`,
       },
       {
         description:
           "Откидываем горошек на&nbsp;сито, предварительно сохранив около 50мл отвара. После чего горошек переложить в&nbsp;чашу для&nbsp;блендера или&nbsp;удобную емкость и&nbsp;добавить туда нашинкованную зелень. Влить в&nbsp;смесь отвар и&nbsp;измельчить все&nbsp;до однородной массы. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-90fe47cd48/big4f23e9cb678b9.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/green_pea_puree.jpg`,
       },
       {
         description: "Бьем в&nbsp;зеленую масса два&nbsp;яйца. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c4f48669dc/big4f23e9ccc2da7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/eggs_in_green_mass.jpg`,
       },
       {
         description:
           "Добавляем две&nbsp;столовые ложки йогурта. Солим, перчим, приправляем любимыми специями. Слегка взбиваем. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ebb3350232/big4f23e9cfc7fad.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/whip_the_greens.jpg`,
       },
       {
         description:
           "Смешиваем муку с&nbsp;разрыхлителем (1чл) и&nbsp;просеиваем в&nbsp;смесь. Тщательно перемешиваем. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2997c66d7e/big4f23e9d102f5a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/flour_with_green_mass.jpg`,
       },
       {
         description:
           "На разогретую, смазанную растительным маслом сковороду, выкладываем порциями тесто. Жарим с&nbsp;двух сторон на&nbsp;среднем огне с&nbsp;закрытой крышкой.&nbsp;",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6dd8ad99ec/big4f23e9d20f2a8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/green_fritters.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Оладьи на дрожжах с морковью",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-9fe2855d20/big4f23e7dfda0bc.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/yeast_fritters_with_carrots.jpg`,
     ingridients: [
       "Молоко 	300&nbsp;мл&nbsp;	",
       "Соль 	½ ч.л.",
@@ -3716,58 +3501,49 @@ export const pancakes = [
       {
         description:
           "В теплое молоко добавьте соль и&nbsp;сахар, всыпьте просеянную муку и&nbsp;дрожжи. Хорошо перемешайте и&nbsp;поставьте на&nbsp;40-50 минут в&nbsp;теплое место для&nbsp;подъема, накрыв полотенцем.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2c23748085/big4f23e7e5140cd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mixed_milk_flour_and_yeast.jpg`,
       },
       {
         description:
           "Очищенную морковь крупно нарежьте и&nbsp;поставьте вариться до&nbsp;мягкости (15-20 минут).	",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ffe4f141ea/big4f23e7e61832d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cook_coarsely_chopped_carrots.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Если вы&nbsp;все сделали правильно и&nbsp;дрожжи сработали, то&nbsp;тесто увеличится в&nbsp;объеме, немного загустеет и&nbsp;будет пузыриться.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-7cceec1121/big4f23e7e6f2f32.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/yeast_dough.jpg`,
       },
       {
         description:
           "Вареную морковь положите в&nbsp;блендер и&nbsp;добавьте немного молока. Измельчите до&nbsp;состояния пюре.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-a9c55c7664/big4f23e7ec73824.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/carrots_in_blender.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Добавьте морковное пюре в&nbsp;тесто, перемешайте.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-fcde8ffde1/big4f23e7ed72493.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/carrot_puree_with_dough.jpg`,
       },
       {
         description:
           "Разбейте в&nbsp;тесто яйца и&nbsp;всыпьте оставшуюся муку. Перемешайте до&nbsp;однородности, чтобы не&nbsp;было комков. По&nbsp;консистенции тесто должно напоминать не&nbsp;очень густую сметану.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8f9a661f93/big4f23e7ef2d705.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_flour_and_eggs.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Дайте еще&nbsp;раз подняться в&nbsp;теплом месте около 40&nbsp;минут.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b3088b6821/big4f23e7f094f45.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/carrot_colored_dough.jpg`,
       },
       {
         description:
           "Пеките оладьи с&nbsp;двух сторон на&nbsp;разогретой сковороде с&nbsp;небольшим количеством  масла. Берите тесто аккуратно, стараясь сохранить пузырьки.					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-693e77a344/big4f23e7f15d891.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/carrot_pancakes_on_frying_pan.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Тонкие блинчики с пряной яблочной начинкой",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-c5f86cf9c1/big4f23e7f941755.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/thin_pancakes_with_spicy_apple_filling.jpg`,
     ingridients: [
       "Яблоки (160&nbsp;г) 	2&nbsp;шт. 	",
       "Сливочное масло 	20&nbsp;г",
@@ -3786,34 +3562,29 @@ export const pancakes = [
       {
         description:
           "Начнем с&nbsp;соуса. Почистите яблоки, удалите сердцевину, нарежьте.  В&nbsp;сотейнике растопите сливочное масло, всыпьте ломтики яблок. Добавьте сахар, воду, лимонный сок. Помешивая, держите на&nbsp;небольшом огне. Через пару минут добавьте специи и&nbsp;алкоголь, если хотите. Продолжая помешивать, дождитесь, когда яблоки станут мягкими, а&nbsp;жидкость немного выпарится.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-eb8901dbd3/big4f23e7fb115d2.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/sliced_apples.jpg`,
       },
       {
         description:
           "С блинчиками все&nbsp;очень просто: смешайте яйца с&nbsp;сахаром и&nbsp;солью (взбиваю венчиком). Влейте молоко и&nbsp;всыпьте муку. Еще&nbsp;раз размешайте, в&nbsp;тесте не&nbsp;должно быть комочков.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-a6e5197c7f/big4f23e7fbee8da.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_eggs_flour_milk.jpg`,
       },
       {
         description:
           "Влейте в&nbsp;тесто растительное масло, перемешайте.  Прогрейте сковороду на&nbsp;сильном огне (подержите так&nbsp;несколько минут).   В&nbsp;блюдце налейте немного растительного масла, половину луковицы (или половину картофелины) очистите и&nbsp;наколите на&nbsp;вилку. Это&nbsp;нужно, что&nbsp;бы не&nbsp;лить лишнего масла на&nbsp;сковороду. Окуните луковицу в&nbsp;масло и&nbsp;быстро смажьте ею&nbsp;сковороду (повторяйте по&nbsp;мере необходимости).  На&nbsp;подготовленную сковороду вылейте немного теста и&nbsp;дайте ему&nbsp;растечься так, что&nbsp;бы получился аккуратный блин (для этого поворачивайте сковородку, что&nbsp;бы тесто распределилось равномерно).  Пеките, пока на&nbsp;поверхности блина не&nbsp;появятся пузырьки. Переверните на&nbsp;другую сторону.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-62f094c306/big4f23e7fd46579.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_pancakes.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Подавайте горячие блинчики с&nbsp;яблочным соусом.    Пора к&nbsp;столу!					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-06374346ff/big4f23e7fde0a37.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/apple_pancakes.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
-    title: "Гречневые галетты с яйцом",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-8788782b01/big4f23e82f4abc6.jpg",
+    title: "Гречневые блины с яйцом",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/buckwheat_pancakes_with_egg.jpg`,
     ingridients: [
       "Мука пшеничная 	125&nbsp;г&nbsp;	",
       "Мука гречневая 	125&nbsp;г",
@@ -3825,57 +3596,48 @@ export const pancakes = [
     cooking: [
       {
         description:
-          " по-французски означает 'лепешка', 'сухарь', 'галета', но&nbsp;на северо-западе Франции это&nbsp;блин из&nbsp;гречишной муки. Такие блины, как&nbsp;правило, сами по&nbsp;себе несладкие и&nbsp;подаются с&nbsp;несладкими начинками: сыром, яйцами, беконом, ветчиной или&nbsp;рыбой. Предлагаю попробовать самый простой вариант&nbsp;—  галетты с&nbsp;яйцом.            ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8788782b01/big4f23e82f4abc6.jpg",
+          " по-французски означает 'лепешка', 'сухарь', 'галета', но&nbsp;на северо-западе Франции это&nbsp;блин из&nbsp;гречишной муки. Такие блины, как&nbsp;правило, сами по&nbsp;себе несладкие и&nbsp;подаются с&nbsp;несладкими начинками: сыром, яйцами, беконом, ветчиной или&nbsp;рыбой. Предлагаю попробовать самый простой вариант&nbsp;—  блины с&nbsp;яйцом.            ",
+        image: `${process.env.PUBLIC_URL}/images/other_images/buckwheat_pancakes.jpg`,
       },
       {
         description: "В миску просейте оба&nbsp;вида муки.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-610b81648f/big4f23e830b56d0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/2types_of_flour.jpg`,
       },
       {
         description:
           "Влейте 600&nbsp;мл воды и&nbsp;быстро перемешайте. В&nbsp;случае с&nbsp;гречневой мукой воду надо вливать сразу всю, иначе трудно будет размешать комки. Добавляйте яйца, не&nbsp;прекращая мешать.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d14e2f677c/big4f23e831e3149.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_flour_with_water.jpg`,
       },
       {
         description: "В тесто добавьте соль и&nbsp;сахар.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-eebd172c78/big4f23e835d6626.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_salt_and_sugar_to_the_dough.jpg`,
       },
       {
         description:
           "Влейте растительное масло и&nbsp;еще раз&nbsp;перемешайте. тесто должно получиться достаточно жидким, чтобы получились тонкие блины.  В&nbsp;отдельную миску разбейте яйца и&nbsp;перемешайте вилкой до&nbsp;однородности.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-0829f95955/big4f23e836dcfa2.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_oil_to_the_dough.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Налейте тесто на&nbsp;разогретую, смазанную маслом сковороду, и&nbsp;равномерно распределите. Огонь должен быть довольно большим.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-1a83a86f9e/big4f23e837e7f68.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_buckwheat_pancake.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Как только блин поджарится с&nbsp;одной стороны, переверните и&nbsp;сразу же&nbsp;налейте на&nbsp;поджаренную сторону 2-3 ст.л. яйца. Когда оно&nbsp;начнет схватываться, сложите блин пополам и&nbsp;обжарьте с&nbsp;двух сторон.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-18e9bdc4c8/big4f23e838e6412.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pour_the_egg_onto_the_pancake.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Ешьте горячими. К&nbsp;таким блинам хорошо подойдут любые соленые начинки, например, рыба.					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ec517e4de6/big4f23e83aeaa63.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/buckwheat_pancakes.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Гречневые блины",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-b7f03dc877/big4f23ea72d9505.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/buckwheat_pancakes.jpg`,
     ingridients: [
       "Мука пшеничная 	125&nbsp;г&nbsp;	",
       "Мука гречневая 	125&nbsp;г",
@@ -3892,46 +3654,39 @@ export const pancakes = [
       },
       {
         description: "Просейте оба&nbsp;вида муки в&nbsp;большую миску.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-50cdab4a96/big4f23ea73be75a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/sift_both_flours.jpg`,
       },
       {
         description:
           "Добавьте молоко и&nbsp;очень быстро размешайте, чтобы избежать образования комков.	",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5ceb2bae7a/big4f23ea74cae92.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_milk_to_flour.jpg`,
       },
       {
         description:
           "Добавьте 100&nbsp;мл горячей воды, размешайте, затем добавьте яйца, соль и&nbsp;сахар. Опять размешайте.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-f8c706e812/big4f23ea761312b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_hot_water_and_eggs.jpg`,
       },
       {
         description:
           "Растопите сливочное масло и&nbsp;влейте его&nbsp;в тесто. Должна получиться довольно жидкая консистенция теста, без&nbsp;каких-либо комков. Дайте тесту постоять в&nbsp;течение 30&nbsp;минут. 					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-99c5a35607/big4f23ea7729c6e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_melted_butter_to_the_dough.jpg`,
       },
       {
         description:
           "			 				 																	 													 						На горячую сковороду наливайте тесто и&nbsp;распределяйте его&nbsp;равномерно, наклоняя сковороду.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-64e7520b89/big4f23ea781e8c4.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_buckwheat_pancake1.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Обжаривайте блины с&nbsp;двух сторон на&nbsp;довольно большом огне до&nbsp;интенсивного, темно-золотистого цвета.					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-7bd697eec4/big4f23ea79309da.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/flip_the_buckwheat_pancake.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Блины с селедью",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-546548ffc4/big4f42c0b84e45a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_herring.jpg`,
     ingridients: [
       "молоко&nbsp;—  1&nbsp;л",
       "яйцо&nbsp;—  1&nbsp;шт.",
@@ -3960,8 +3715,7 @@ export const pancakes = [
   },
   {
     title: "Медовые оладьи",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-1abec20e65/big4f23ea6b68088.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/honey_fritters.jpg`,
     ingridients: [
       "Мука пшеничная 	300&nbsp;г&nbsp;	",
       "Разрыхлитель теста 	10&nbsp;г",
@@ -3975,28 +3729,24 @@ export const pancakes = [
       {
         description:
           "Смешать муку, соль и&nbsp;разрыхлитель.   Отдельно&nbsp;—  солнечный, душистый мед, льющийся с&nbsp;ложки. А&nbsp;к нему: растительное масло, яйца и&nbsp;молоко. 					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-678e37f01e/big4f23ea6c714f9.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_honey_with_egg_and_oil.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Теперь взбить все&nbsp;жидкие ингредиенты.  Дело за&nbsp;малым&nbsp;—  молочно-медовую смесь вылить в&nbsp;муку и&nbsp;хорошо перемешать, что&nbsp;бы не&nbsp;оставить комкам ни&nbsp;единого шанса.   Может быть, вам&nbsp;захочется добавить немного корицы или&nbsp;сахара? Это&nbsp;можно сделать теперь.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d2658ce830/big4f23ea6d747c5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/whisk_all_liquid_ingredients.jpg`,
       },
       {
         description:
           "		 				 																	 													 						На хорошо прогретой сковороде, на&nbsp;растительном масле пеките оладьи (с каждой стороны пока не&nbsp;зарумянятся, тесто удобно выкладывать ложкой, оно&nbsp;должно быть густым)					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5d7e163848/big4f23ea6e9c477.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fluffy_honey_pancakes.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Блинчики с творогом",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-731a1f4f36/big4f23e81160770.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_cottage_cheese.jpg`,
     ingridients: [
       "Мука пшеничная 	250&nbsp;г&nbsp;	",
       "Молоко 	500&nbsp;мл",
@@ -4013,58 +3763,49 @@ export const pancakes = [
       {
         description:
           "В миску просеять муку, добавить яйца, соль, сахар и&nbsp;половину молока.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2ed09880ef/big4f23e8144c723.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_eggs_flour_sugar_milk.jpg`,
       },
       {
         description:
           "Хорошо размешать, добавить оставшееся молоко и&nbsp;растительное масло, перемешать до&nbsp;однородности.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b59e630384/big4f23e815d6626.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_until_smooth.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Испечь тонкие блинчики, поджаривая только с&nbsp;одной стороны.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6ed67cfba2/big4f23e817426fa.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_pancakes_on_one_side.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Сложить готовые блинчики стопкой поджаренной стороной вверх.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2c15676385/big4f23e818ba4ee.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/place_the_pancakes_with_the_fried_side_up.jpg`,
       },
       {
         description:
           "Для начинки смешать творог с&nbsp;творожной массой, добавить желтки и&nbsp;размягченное масло. Хорошо перемешать.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-658e5cd7ad/big4f23e81a7d45c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/make_curd_mass.jpg`,
       },
       {
         description:
           "			 				 																	 													 						На каждый блинчик положить по&nbsp;столовой ложке начинки.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-0eee01a33e/big4f23e81c1cd67.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/curd_filling_on_pancake.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Свернуть конвертиками (или рулетиками, или&nbsp;треугольничками)					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-74fdf967b1/big4f23e81e0cb99.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/wrap_the_pancakes.jpg`,
       },
       {
         description:
           "Поджарить с&nbsp;одной стороны на&nbsp;небольшом огне, затем перевернуть, накрыть крышкой и&nbsp;готовить 4-5 минут, чтобы начинка хорошо прогрелась.					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-282a41c089/big4f23e81f1b212.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_cottage_cheese_pancakes.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Блинчики 'Сюзетт'",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-1d102f8f3d/big4f23e843bc817.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_suzette.jpg`,
     ingridients: [
       "Мука пшеничная 	100&nbsp;г&nbsp;	",
       "Сахарная пудра 	100&nbsp;г",
@@ -4085,38 +3826,32 @@ export const pancakes = [
       {
         description:
           "Соединяем в&nbsp;чашке муку, сахарную пудру и&nbsp;цедру апельсина. В&nbsp;середину смеси разбиваем яйцо. 					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-765c2d88cb/big4f23e844db061.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/сombine_flour_powdered_sugar_and_orange_zest.jpg`,
       },
       {
         description:
           "Начинаем замешивать тесто, постепенно вливая половину молока. Размешиваем до&nbsp;полного исчезновения комочков. Затем вливаем оставшееся молоко и&nbsp;растопленное сливочное масло.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4e12011ea6/big4f23e847309cd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_melted_butter.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Хорошо перемешиваем и&nbsp;оставляем тесто на&nbsp;полчаса отдохнуть. По&nbsp;консистенции оно&nbsp;должно получиться как&nbsp;сливки.  Выпекаем блинчики, они&nbsp;должны быть небольшими по&nbsp;диаметру. Я&nbsp;на каждый блин использовала половину поварешки, это&nbsp;около 3&nbsp;ст.ложек теста.  Получилось 12&nbsp;блинчиков.  На&nbsp;этом этапе можно сделать перерыв, например, подождать, пока подтянутся (или проснутся) остальные едоки. Вообще, блинчики можно выпечь сильно заранее.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d91ea6e298/big4f23e8484369a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/wrapped_pancakes.jpg`,
       },
       {
         description:
           "Для приготовления соуса смешиваем апельсиновый и&nbsp;лимонный соки, лимонную цедру и&nbsp;ликёр.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-a96efb735c/big4f23e8492bf99.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/juice_lemon_zest_and_liqueur.jpg`,
       },
       {
         description:
           "Выливаем смесь в&nbsp;холодную сковородку, добавляем сахарную пудру и, помешивая, нагреваем на&nbsp;медленном огне до&nbsp;растворения пудры. Огонь немного прибавляем и&nbsp;кипятим при&nbsp;небольшом побулькивании 2-3 минуты.  Затем добавляем сливочное масло, порезанное небольшими кубиками. Мешаем до&nbsp;полного растворения масла и&nbsp;варим ещё&nbsp;3-4 минуты при&nbsp;небольшом кипении.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5301e49b80/big4f23e84adbffc.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/melted_butter_in_a_frying_pan.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Выкладываем блинчик в&nbsp;соус, купаем его&nbsp;со всех сторон, складываем вчетверо и&nbsp;отодвигаем к&nbsp;краю сковороды. Затем следующий, и&nbsp;так 4&nbsp;штуки.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-0b62074f1f/big4f23e84cb7ddf.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancakes_in_sauce_in_a_frying_pan.jpg`,
       },
       {
         description:
@@ -4127,8 +3862,7 @@ export const pancakes = [
   },
   {
     title: "Дрожжевые оладьи",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-c29e3889e3/big4f23e80282a53.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/yeast_fritters.jpg`,
     ingridients: [
       "Сахар-песок 	15&nbsp;г&nbsp;	",
       "Дрожжи сухие быстродействующие 	5&nbsp;г",
@@ -4142,28 +3876,24 @@ export const pancakes = [
       {
         description:
           "В стакане теплого молока разведите дрожжи и&nbsp;1&nbsp;ст.л. сахара. Оставьте минут на&nbsp;10, если дрожжи начали действовать, то&nbsp;все в&nbsp;порядке.  Отдельно смешайте муку с&nbsp;солью и&nbsp;оставшимся сахаром (1&nbsp;ст.л.).  В&nbsp;муку влейте молоко, растительное масло, добавьте яйцо и&nbsp;тщательно размешайте. 					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-bb2a41cb6f/big4f23e804261da.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/yeast_milk_and_egg.jpg`,
       },
       {
         description:
           "Посуду с&nbsp;тестом накройте полотенцем и&nbsp;поставьте в&nbsp;теплое место для&nbsp;подъема (примерно на&nbsp;час).  Яблоки очистите от&nbsp;кожицы и&nbsp;сердцевины, нарежьте тонкими ломтиками и&nbsp;перед выпечкой положите в&nbsp;готовое поднявшееся тесто. Перемешайте.  Пеките оладьи с&nbsp;двух сторон на&nbsp;хорошо разогретой сковороде, по&nbsp;необходимости добавляя на&nbsp;нее немного масла.  Пока печется одна порция, оставшееся тесто накройте салфеткой.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-68b5428491/big4f23e8057e01c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_yeast_pancakes.jpg`,
       },
       {
         description:
           "Такие оладьи прекрасны сами по&nbsp;себе:)  Пора к&nbsp;столу!					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-35e2145f51/big4f23e807e9ac3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancakes_with_apple_on_the_table.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Блинчики с творогом запеченные в сметане",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2771426fa/big4f23ea641e8bd.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_cottage_cheese_baked_in_sour_cream.jpg`,
     ingridients: [
       "Творог 	100&nbsp;г&nbsp;	",
       "Сахар-песок 	30&nbsp;г",
@@ -4175,32 +3905,27 @@ export const pancakes = [
     cooking: [
       {
         description: "Растираем творог с&nbsp;сахаром.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-acba00e596/big4f23ea64eae49.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_cottage_cheese_with_sugar.jpg`,
       },
       {
         description:
           "Добавляем в&nbsp;творожную массу молоко.Размешиваем,пока масса не&nbsp;станет однородной.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6731abac3a/big4f23ea6605a4c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/curd_mass_with_milk.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Берем ранее испеченные блинчики,выкладываем по&nbsp;одному на&nbsp;блюдо/разделочную доску, и&nbsp;ложкой накладываем творожный холмик.  Можно добавить 5-7 ягод вишни,малины,&nbsp;и&nbsp;пр.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-44bf28640b/big4f23ea66d1fd9.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/curd_mass_with_berries_on_pancake.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Сворачиваем блинчик в&nbsp;тугой рулон, укладываем рулончики в&nbsp;форму для&nbsp;запекания.	",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ab1c4b9115/big4f23ea6879daf.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/wrapped_pancake_with_cottage_cheese_filling.jpg`,
       },
       {
         description:
           "Размешиваем молоко со&nbsp;сметаной,заливаем получившимся соусом блинчики так,чтобы соус их&nbsp;максимально покрывал.В идеале-соус должен на&nbsp;палец покрывать блины.Если форма позволяет,",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-22bd7b43d9/big4f23ea69ed940.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancake_in_sour_cream_sauce.jpg`,
       },
       {
         description:
@@ -4211,8 +3936,7 @@ export const pancakes = [
   },
   {
     title: "Блинчики с мясом",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-c9b4c72471/big4f23ea815ad9a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_meat.jpg`,
     ingridients: [
       "Соль 	1.5&nbsp;ч.л. 	",
       "Перец черный горошком 	5&nbsp;шт.",
@@ -4228,49 +3952,41 @@ export const pancakes = [
       {
         description:
           "Сварите мясо в&nbsp;2х литрах воды до&nbsp;мягкости. Это&nbsp;занимает обычно около 2&nbsp;часов.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c8a49946e8/big4f23ea82d6244.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beef_in_boiling_water.jpg`,
       },
       {
         description: "			 				 																	 													 						Готовое мясо измельчите в&nbsp;блендере.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b36b4a1302/big4f23ea8399594.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/shredded_beef.jpg`,
       },
       {
         description:
           "В большой миске смешайте муку, молоко и&nbsp;яйца. Добавьте соль, сахар и&nbsp;перемешайте до&nbsp;однородности.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-494fc3400d/big4f23ea846c6d9.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_milk_flour_eggs.jpg`,
       },
       {
         description:
           "В получившееся жидкое тесто влейте растительное масло и&nbsp;размешайте.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-1fee942db0/big4f23ea86e314d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_oil_to_batter.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Жарьте тонкие блинчики с&nbsp;одной стороны без&nbsp;масла и&nbsp;складывайте в&nbsp;стопку поджаренной стороной вверх.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-81839a5c82/big4f23ea87b08b0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fried_pancake_on_one_side.jpg`,
       },
       {
         description:
           "Лук поджарьте на&nbsp;небольшом огне до&nbsp;золотистого цвета.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-f38f03746b/big4f23ea8931971.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fried_onion1.jpg`,
       },
       {
         description:
           "			 				 																					 						Добавьте в&nbsp;фарш поджаренный лук&nbsp;и перемешайте.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c5a1cafab2/big4f23ea8a4175e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fried_minced_meat_on_pancake.jpg`,
       },
       {
         description:
           "			 				 																	 													 						На каждый блин кладите столовую ложку начинки (или чуть больше, в&nbsp;зависимости от&nbsp;размера блинчика) и&nbsp;сворачивайте конвертиком.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-421831a42d/big4f23ea8b23eae.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/wrapped_pancakes_fried_on_one_side.jpg`,
       },
       {
         description:
@@ -4280,9 +3996,8 @@ export const pancakes = [
     type: pancakesType,
   },
   {
-    title: "Кукурузные оладьи",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d3/007/197/035/big4df1357bbf3c3.jpg",
+    title: "Кукурузные оладьи с зеленью",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/corn__fritters.jpg`,
     ingridients: [
       "консервированная кукуруза&nbsp;—  200&nbsp;г",
       "молоко&nbsp;—  80&nbsp;мл",
@@ -4307,8 +4022,7 @@ export const pancakes = [
   },
   {
     title: "Творожные оладьи",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/007/076/040/big4ddd5bc19b48a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/curd_fritters.jpg`,
     ingridients: [
       "творог&nbsp;—  500&nbsp;г",
       "яйца&nbsp;—  6&nbsp;шт.",
@@ -4324,25 +4038,21 @@ export const pancakes = [
       {
         description:
           "Смешать творог с&nbsp;желтками, добавить сахар, муку, соль и&nbsp;корицу. Хорошо перемешать.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-1971f85f95/4ddd5aef819b0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mixed_cottage_cheese_with_yolks.jpg`,
       },
       {
         description: "Белки взбить со&nbsp;щепоткой соли.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-91f026dbbc/4ddd5afd78599.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/whipped_egg_whites.jpg`,
       },
       {
         description:
           "К творожной массе добавить третью часть белков. Перемешивать снизу вверх. Затем добавить оставшиеся белки и&nbsp;аккуратно перемешать.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-a654559940/4ddd5b1fbee95.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/curd_mass_with_whipped_egg_whites.jpg`,
       },
       {
         description:
           "Жарить оладьи на&nbsp;растительном масле, выкладывая ложкой.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-0a69068384/4ddd5b2ceb5da.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_pancakes_in_oil.jpg`,
       },
       {
         description:
@@ -4353,8 +4063,7 @@ export const pancakes = [
   },
   {
     title: "Тоненькие блинчики",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d3/004/023/165/big4d6fe4563d078.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/thin_pancakes.jpg`,
     ingridients: [
       "—  мука&nbsp;—  5&nbsp;ст.",
       "—  молоко&nbsp;—  7,5&nbsp;ст.",
@@ -4385,8 +4094,7 @@ export const pancakes = [
   },
   {
     title: "Блины на фруктовом соке",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/004/021/229/big4d6f8182bb129.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/fruit_juice_pancakes.jpg`,
     ingridients: [
       "—  мука&nbsp;—  800&nbsp;г",
       "—  яйца&nbsp;—  4&nbsp;шт.",
@@ -4417,8 +4125,7 @@ export const pancakes = [
   },
   {
     title: "Блинные мешочки с курицей",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/004/019/079/big4d6ea1ae8bd11.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancake_bags_with_chicken.jpg`,
     ingridients: [
       "—  молоко&nbsp;—  3&nbsp;ст.",
       "—  мука&nbsp;—  2&nbsp;ст.",
@@ -4452,8 +4159,7 @@ export const pancakes = [
   },
   {
     title: "Блинчики с печенью трески",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d3/004/010/158/big4d6bf0902e045.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/cod_liver_pancakes.jpg`,
     ingridients: [
       "—  готовые блинчики&nbsp;—  7-8 шт.",
       "—  печень трески&nbsp;—  2&nbsp;банки",
@@ -4490,8 +4196,7 @@ export const pancakes = [
   },
   {
     title: "Блинчики с маком",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d3/003/248/283/big4d6802827ef26.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_poppy_seeds.jpg`,
     ingridients: [
       "—  молоко (теплое)&nbsp;—  2,5&nbsp;ст.",
       "—  мак&nbsp;—  2&nbsp;ст.л.",
@@ -4520,8 +4225,7 @@ export const pancakes = [
   },
   {
     title: "Блины на кефире",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d1/005/235/117/big4cade18f9b9ac.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_kefir.jpg`,
     ingridients: [
       "Кефир 1000 мл ",
       "Яйцо куриное 4 шт. ",
@@ -4539,53 +4243,46 @@ export const pancakes = [
       },
       {
         description: "Смешайте кефир с сахаром, яйцами и солью.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-608da43bf0/big4cade1921472a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_kefir_with_eggs.jpg`,
       },
       {
         description: "Просейте в эту же миску муку, смешанную с крахмалом.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-7ff8999eea/big4cade193eba22.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_flour_to_the_dough.jpg`,
       },
       {
         description:
           "Хорошо размешайте тесто, чтобы не было комков и добавьте соду.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-1522ebfa9a/big4cade1955a1ca.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_soda_to_the_dough.jpg`,
       },
       {
         description:
           "В заключение влейте в&nbsp;тесто немного растительного масла. Это&nbsp;поможет не&nbsp;добавлять масло при&nbsp;жарке и&nbsp;даст возможность легко сниматься блинчикам. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-76c08ba652/big4cade197104a9.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_oil_to_the_dough1.jpg`,
       },
       {
         description:
           "Тесто должно получиться довольно жидким, чтобы блины были тонкими. Если тесто получилось гуще, просто добавьте немного кефира до&nbsp;нужной консистенции. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2935e42dee/big4cade19851105.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/liquid_dough.jpg`,
       },
       {
         description: "Наливайте тесто на горячую сковороду равномерно. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-509504e90d/big4cade199adac5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancake_in_a_frying_pan.jpg`,
       },
       {
         description: "Жарьте с двух сторон до золотисто-коричневого цвета. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d7fa279271/big4cade19cc8220.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fried_pancake_in_a_frying_pan.jpg`,
       },
       {
         description:
           "Подавайте блинчики стопкой или&nbsp;сложенными вчетверо. Можно также завернуть их&nbsp;в трубочки. ",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beautifully_stacked_pancakes.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Блины с зеленым луком",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d1/005/235/120/big4cade39802308.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_green_onions.jpg`,
     ingridients: [
       "Мука пшеничная 300 г ",
       "Соль ½ ч.л. ",
@@ -4601,39 +4298,33 @@ export const pancakes = [
       {
         description:
           "Муку просеять, добавить соль и перемешать. Добавить яйца и опять перемешать.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8c6f0ecd2c/big4cade3999fd93.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_flour_with_eggs.jpg`,
       },
       {
         description: "Влить тонкой струйкой, непрерывно помешивая.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-a784536acd/big4cade39adb2ee.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pour_water_into_the_dough.jpg`,
       },
       {
         description:
           "Перемешать до&nbsp;однородности, это&nbsp;легко сделать с&nbsp;помощью миксера. Добавить кунжутное масло, еще&nbsp;раз перемешать и&nbsp;оставить на&nbsp;30&nbsp;минут.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-27cec63bb9/big4cade39c66333.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_with_a_mixer.jpg`,
       },
       {
         description:
           "Лук вымыть и&nbsp;высушить, нарезать полосками длинной около 7−10&nbsp;см. Смазать сковороду маслом (или жиром) положить лук. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-dd11dceace/big4cade39d9593e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/green_onions_in_a_frying_pan.jpg`,
       },
       {
         description:
           "Половником аккуратно вылить тесто и&nbsp;круговыми движениями сковороды равномерно его&nbsp;распределить (так же&nbsp;как вы&nbsp;делаете когда печете обычные блины). Печь блины нужно на&nbsp;среднем огне, с&nbsp;первой стороны 2&nbsp;минуты, а&nbsp;со второй не&nbsp;более одной минуты. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-878582903a/big4cade3a29b058.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancake_with_green_onions.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Оладьи с яблоками",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/017/167/big4cade3a4ee816.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/fritters_with_apples.jpg`,
     ingridients: [
       "Кефир 								500&nbsp;мл&nbsp;															",
       "Мука пшеничная 								300&nbsp;г&nbsp;															",
@@ -4653,40 +4344,34 @@ export const pancakes = [
       {
         description:
           "Для теста нужно соединить все&nbsp;ингредиенты и&nbsp;размешать тесто (можно миксером), чтобы не&nbsp;было комков.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-065b2688ad/big4cade3a62a451.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancake_dough.jpg`,
       },
       {
         description:
           "Яблоки очистить от&nbsp;семечек и&nbsp;шкурки, нарезать небольшими кусочками. Лучше, чтобы они&nbsp;были немного плоскими, тогда они&nbsp;будут легче укладываться в&nbsp;оладьях.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-441f1a7484/big4cade3a7736a3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_apple_pieces_to_the_dough.jpg`,
       },
       {
         description:
           "Перемешать тесто с&nbsp;яблоками, добавив пару чайных ложек корицы. Если хотите, можно добавить также ванильный сахар или&nbsp;тертую лимонную цедру для&nbsp;усиления аромата. Но&nbsp;вообще, корица отлично оттеняет яблоки и&nbsp;поэтому я&nbsp;ничего больше не&nbsp;стала добавлять.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-1a7b04b0e0/big4cade3a8a4824.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_cinnamon_to_the_dough.jpg`,
       },
       {
         description:
           "Жарить оладьи нужно на&nbsp;среднем огне в&nbsp;небольшом количестве растительного масла.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4328e48e3b/big4cade3ad2be57.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_pancakes_with_apples.jpg`,
       },
       {
         description:
           "Когда вы&nbsp;будете их&nbsp;переворачивать, они&nbsp;должны хорошо подниматься за&nbsp;счет добавления разрыхлителя и&nbsp;становиться пышными.  Даже если они&nbsp;потом осядут, все&nbsp;равно останутся нежными и&nbsp;нетяжелыми.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-485a0462c2/big4cade3b046dfc.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/flip_the_apple_pancakes.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Блины скороспелые",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/249/264/big4cade3b2edb04.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/quick_pancakes.jpg`,
     ingridients: [
       " Яйцо куриное 3 шт. ",
       "Соль ½ ч.л. ",
@@ -4704,45 +4389,38 @@ export const pancakes = [
       {
         description:
           "Разбиваем в миску яйца, добавляем соль и сахар (одну-две столовые ложки). ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-fcd4ddd6b4/big4cade3b88acdd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/eggs_in_a_bowl.jpg`,
       },
       {
         description:
           "К яйцам добавляем 3&nbsp;стакана (600&nbsp;мл) воды и&nbsp;хорошо взбиваем, чтобы придать блинам воздушность и&nbsp;пористость.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6f6d230de6/big4cade3bbade6b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_water_and_whisk.jpg`,
       },
       {
         description:
           "Понемногу добавляем муку и&nbsp;разрыхлитель, продолжая взбивать. Разрыхлитель можно заменить сочетанием соды и&nbsp;уксуса (лимонного сока), тогда соду надо добавлять в&nbsp;муку, а&nbsp;кислоту в&nbsp;самом начале к&nbsp;яйцам. В&nbsp;готовое тесто без&nbsp;комочков нальем немного растительного масла, чтобы блины легче переворачивались и&nbsp;не прилипали к&nbsp;сковороде. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-aecf01390f/big4cade3bd06fb6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_flour_and_baking_powder.jpg`,
       },
       {
         description: "Печь блины нужно на среднем огне, с двух сторон.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-21af4f2202/big4cade3be5aac0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_a_pancake.jpg`,
       },
       {
         description:
           "Для того, чтобы блины были вкусными и&nbsp;не сухими, нам&nbsp;понадобится сливочное масло. Его&nbsp;нужно размягчить в&nbsp;отдельной емкости (в микроволновой печи на&nbsp;небольшой мощности, либо просто вблизи источника тепла).",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-58fbf3c17f/big4cade3bf7ab81.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/soft_butter.jpg`,
       },
       {
         description:
           "Готовые блины складываем в&nbsp;стопку и, при&nbsp;помощи кулинарной кисточки, хорошо смазываем каждый блин сливочным маслом. Когда тесто закончится, блины можно подавать к&nbsp;столу. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-841ccea098/big4cade3c0e814f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grease_pancakes_with_butter.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Блинчики со сливами",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/250/066/big4cade817ae06c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_plums.jpg`,
     ingridients: [
       " Сахар-песок 210 г ",
       "Соль ½ ч.л. ",
@@ -4759,76 +4437,64 @@ export const pancakes = [
       },
       {
         description: "Смешать яйца с солью и сахаром.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-09186f1555/big4cade81c82b4b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_eggs_with_salt_and_sugar.jpg`,
       },
       {
         description:
           "Добавить к&nbsp;яйцам 100&nbsp;мл молока, хорошо размешать, всыпать муку и&nbsp;вымесить тесто, чтобы не&nbsp;было комочков.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-495fdf7df5/big4cade81db1b74.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_milk_and_flour.jpg`,
       },
       {
         description:
           "После этого влить оставшееся молоко, добавить растительное масло и&nbsp;хорошо перемешать. Тесто должно быть достаточно жидким и&nbsp;текучим, чтобы блинчики получились тонкими. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8248935180/big4cade82039681.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_oil_and_milk.jpg`,
       },
       {
         description:
           "Теперь нужно испечь тонкие блинчики с&nbsp;одной стороны. Сковороду не&nbsp;нужно смазывать маслом, т.к. масло уже&nbsp;есть в&nbsp;тесте и&nbsp;оно не&nbsp;даст блинчикам прилипнуть к&nbsp;сковороде. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-60d338ada9/big4cade821bd46d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_pancakes1.jpg`,
       },
       {
         description:
           "Готовые блинчики выкладываем стопкой на тарелку, обжаренной стороной вверх. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8121a4b99c/big4cade822e4ccc.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cooked_pancakes_on_a_plate.jpg`,
       },
       {
         description:
           "Теперь можно заняться начинкой. Для&nbsp;этого сливы нужно вымыть и&nbsp;вынуть из&nbsp;них косточки, разрезав пополам.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-beb333c60d/big4cade82a38b66.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_plums.jpg`,
       },
       {
         description:
           "Добавить к&nbsp;сливам сахар, перемешать и&nbsp;поставить на&nbsp;маленький огонь, периодически помешивая.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b52cd9191c/big4cade82b78d73.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/sprinkle_the_plums_with_sugar.jpg`,
       },
       {
         description:
           "Когда сироп закипит, сливы можно выключать. В&nbsp;результате должны получиться половинки слив в&nbsp;довольно густом, но&nbsp;не очень сладком сиропе. Это&nbsp;и будет нашей начинкой. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4cd5a7d19a/big4cade82cdb9e0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/plums_in_syrup.jpg`,
       },
       {
         description:
           "На каждый блинчик кладем столовую ложку слив без&nbsp;жидкости и&nbsp;очень аккуратно заворачиваем. Жидкую часть сливовой начинки оставляем для&nbsp;последующей подачи (это будет нашим соусом). Складывать блинчики можно как&nbsp;угодно, главное&nbsp;—  герметично, чтобы при&nbsp;обжаривании не&nbsp;вытекла начинка. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8eb45e1538/big4cade82e31c9e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/plum_filling_on_pancake.jpg`,
       },
       {
         description:
           "Блинчики осталось только обжарить до золотистого цвета в небольшом количестве масла.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-557fd3c693/big4cade82f576e1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/wrapped_pancakes_in_a_frying_pan.jpg`,
       },
       {
         description:
           "Готовые блинчики подавать, полив сливовым соусом, получившемся при&nbsp;приготовлении начинки. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4f3d7dc5a6/big4cade830817c1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancake_topped_with_plum_sauce.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Блины шоколадные",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/017/254/big4cade83766e07.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/chocolate_pancakes.jpg`,
     ingridients: [
       "Молоко коровье 550 мл ",
       "Шоколад темный 70-80% какао 100 г",
@@ -4849,36 +4515,30 @@ export const pancakes = [
       {
         description:
           "Шоколад поколоть и&nbsp;растопить на&nbsp;водяной бане. Нагреть отдельно 300&nbsp;мл молока и&nbsp;добавить его&nbsp;в растопленный шоколад. Тщательно перемешать, чтобы шоколад полностью растворился в&nbsp;молоке.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-02d6dd4a23/big4cade83895529.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/melted_chocolate.jpg`,
       },
       {
         description:
           "Просеять муку добавить в&nbsp;нее какао-порошок, сахарную пудру, соль. Взбить эту&nbsp;смесь с&nbsp;молоком.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-69404671a2/big4cade83a26e83.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_flour_cocoa_powder_and_milk.jpg`,
       },
       {
         description: "Взбить яйца в крутую, глянцевую пену. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9c09bc1806/big4cade83cdf19f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beat_the_eggs.jpg`,
       },
       {
         description: " Ввести взбитые яйца в мучную смесь и перемешать. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d93577c280/big4cade83e4e6bf.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_eggs_with_flour_mixture.jpg`,
       },
       {
         description:
           "Сливочное масло растопить, добавить в&nbsp;тесто, туда же&nbsp;добавить ром&nbsp;и растопленный шоколад. Если тесто слишком жидкое, необходимо добавить еще&nbsp;муки, тесто должно получится похожее на&nbsp;жидкую сметану. Тщательно перемешайте и&nbsp;отставьте на&nbsp;2-3 ч.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-bbb6d37f39/big4cade83fb1dd4.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/melted_butter.jpg`,
       },
       {
         description:
           "Сковороду смазать небольшим количества масла и&nbsp;разогреть ее.&nbsp;&nbsp;Влейте половник теста, сделайте сковородой круговые движения, чтобы тесто растеклось по&nbsp;всей поверхности. Не&nbsp;переборщите с&nbsp;тестом, у&nbsp;меня первые блины получились толстоватыми. Жарить примерно 30&nbsp;секунд с&nbsp;одной сторны и&nbsp;15&nbsp;секунд с&nbsp;другой. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-176af3dbd1/big4cade841214f7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_chocolate_pancake.jpg`,
       },
       {
         description:
@@ -4889,8 +4549,7 @@ export const pancakes = [
   },
   {
     title: "Банановые блинчики с клубничным соусом",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/001/017/256/big4cade8430c7c2.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/banana_pancakes_with_strawberry_sauce.jpg`,
     ingridients: [
       "Молоко коровье 200 мл ",
       "Бананы 2 шт. ",
@@ -4909,46 +4568,39 @@ export const pancakes = [
       {
         description:
           "Для начала пару бананов измельчим в&nbsp;блендере до&nbsp;однородности. Чтобы было легче это&nbsp;сделать, добавьте туда половину всей порции молока.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d9dac80d8e/big4cade8447a2ea.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/blend_bananas_with_milk.jpg`,
       },
       {
         description:
           "В банановую массу добавляем яйца, сахар, оставшееся молоко и&nbsp;масло. Все&nbsp;соединяем, затем кладем просеянную муку и&nbsp;хорошо размешиваем до&nbsp;однородности.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-084fd3ad59/big4cade8461db4d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_flour_to_banana_mixture.jpg`,
       },
       {
         description:
           "Блинчики печем на&nbsp;разогретой и&nbsp;слегка смазанной маслом сковороде. Обратите внимание, что&nbsp;печь банановые блинчики может быть непросто с&nbsp;непривычки, но&nbsp;если сделать огонь небольшим, то&nbsp;будет намного легче. Сковороду очень удобно смазывать маслом с&nbsp;помощью силиконовой кулинарной кисточки. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-7af60a399b/big4cade84796fd7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_banana_pancakes.jpg`,
       },
       {
         description:
           "Готовые обжаренные с&nbsp;двух сторон блинчики складываем стопкой и&nbsp;отставляем в&nbsp;сторону.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e37e08f8dd/big4cade8490b3d3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cooked_banana_pancakes.jpg`,
       },
       {
         description:
           "Теперь занимаемся соусом. Для&nbsp;этого берем клубнику (замороженная удобна тем, что&nbsp;готовить из&nbsp;нее можно круглый год), смешиваем ее&nbsp;с сахаром, и&nbsp;ставим на&nbsp;огонь. Это&nbsp;можно сделать даже не&nbsp;размораживая ягоды. Клубнику нужно разогревать до&nbsp;тех пор, пока не&nbsp;выделится и&nbsp;не закипит сок.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e73bef6c5d/big4cade84a8558d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/strawberries_with_sugar.jpg`,
       },
       {
         description:
           "В это&nbsp;время смешиваем чайную ложку (без верха) крахмала с&nbsp;двумя-тремя ложками холодной воды. В&nbsp;кипящую клубнику добавляем разведенный крахмал, аккуратно помешивая. После повторного закипания снимаем соус с&nbsp;огня и&nbsp;употребляем по&nbsp;назначению. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ef99feeb09/big4cade84bdd636.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/strawberries_in_syrup.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Шоколадные оладьи",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d1/005/235/227/big4cade84e0d26a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/chocolate__fritters.jpg`,
     ingridients: [
       "Тан негазированный 								400&nbsp;мл&nbsp;															",
       "Мука пшеничная 								300&nbsp;г&nbsp;															",
@@ -4967,28 +4619,24 @@ export const pancakes = [
       {
         description:
           "Смешиваем&nbsp;&nbsp;сначала тан&nbsp;с лимонным соком, сахаром и&nbsp;яйцами, а&nbsp;потом добавляем все&nbsp;остальное&nbsp;—  муку, соду и&nbsp;какао-порошок.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4329f8ec15/big4cade85030590.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_flour_baking_soda_and_cocoa_powder.jpg`,
       },
       {
         description:
           "			 				 													 													 						Перемешиваем тесто до&nbsp;однородности. Оно&nbsp;должно получиться довольно густой консистенции. Тесто не&nbsp;должно долго стоять, так&nbsp;что сразу приступаем к&nbsp;жарке оладий.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9ff6c4e5c6/big4cade855551eb.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chocolate_liquid_dough.jpg`,
       },
       {
         description:
           "На хорошо разогретую сковороду наливаем масло и&nbsp;жарим оладьи на&nbsp;довольно большом огне с&nbsp;обеих сторон. В&nbsp;процессе жарки они&nbsp;должны хорошо подниматься и&nbsp;оставаться пышными даже после того, как&nbsp;остынут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-afcb949269/big4cade8569bb66.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/frying_chocolate_fritters.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Дрожжевые блины",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d1/005/235/232/big4cade8606b570.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/yeast_pancakes.jpg`,
     ingridients: [
       " Сахар-песок 60 г ",
       "Соль морская 1 ч.л.",
@@ -5002,40 +4650,34 @@ export const pancakes = [
       {
         description:
           "Соединяем яйца с&nbsp;сахаром и&nbsp;солью, тщательно взбиваем до&nbsp;такого состояния, как&nbsp;на картинке.Количество сахара подобрано оптимально для&nbsp;нейтрального вкуса, т.к. его&nbsp;очень любят дрожжи и&nbsp;в итоге сладкими они&nbsp;не будут.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d9c978e14d/big4cade861aa0ad.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_eggs_with_sugar_and_salt.jpg`,
       },
       {
         description:
           "Добавляем остальные ингредиенты и&nbsp;хорошо перемешиваем, чтобы не&nbsp;было комочков и&nbsp;масса стала однородной. Воды нужно 200&nbsp;мл (дополнительно к&nbsp;молоку).",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-06cd3fc5ba/big4cade8632888a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancake_batter_with_bubbles.jpg`,
       },
       {
         description:
           "Ставим тесто в&nbsp;теплое непродуваемое место (для меня идеально подходит электрическая духовка градусах на&nbsp;40) примерно на&nbsp;50-60 минут.Когда тесто увеличится в&nbsp;объеме раза в&nbsp;2, его&nbsp;надо перемешать, чтобы выпустить воздух, и&nbsp;поставить подниматься еще&nbsp;раз.После этого оно&nbsp;будет примерно таким, как&nbsp;на картинке.Теперь мешать его&nbsp;ни в&nbsp;коем случае не&nbsp;надо!!! Нужно сохранить все&nbsp;пузырьки, которые есть в&nbsp;тесте, поэтому теперь обращаться с&nbsp;ним надо как&nbsp;можно аккуратнее.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b9c23d7d51/big4cade864652bf.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/yeast_pancake_batter.jpg`,
       },
       {
         description:
           "Сковороду предварительно разогреваем и&nbsp;слегка смазываем маслом. Для&nbsp;этого лучше всего подойдет кулинарная кисточка или&nbsp;половинка картофелины.Осторожно зачерпываем тесто половником сверху и&nbsp;выливаем на&nbsp;сковороду, давая ему&nbsp;равномерно растечься. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b90d4ef546/big4cade866a5f29.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_yeast_pancake.jpg`,
       },
       {
         description:
           "Когда поверхность подсохнет, переворачиваем и&nbsp;жарим другую сторону.Так поступаем с&nbsp;каждым блином! Подавать готовые блины можно абсолютно с&nbsp;любыми начинками.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-73e57398af/big4cade8683656d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/flip_the_yeast_pancake.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Тыквенные оладьи",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/250/075/big4cade86a842d9.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pumpkin_pancakes.jpg`,
     ingridients: [
       "Тыква 								400&nbsp;г&nbsp;															",
       "Разрыхлитель теста 								5&nbsp;г&nbsp;															",
@@ -5048,40 +4690,34 @@ export const pancakes = [
     cooking: [
       {
         description:
-          "Тыкву очистить от&nbsp;шкуры, крупно нарезать и&nbsp;сварить в&nbsp;воде или&nbsp;на пару до&nbsp;мягкости.Я брала тыкву butternut squash&nbsp;—  ту, которая похожа на&nbsp;грушу по&nbsp;форме. Однако это&nbsp;совсем не&nbsp;обязательно. Также имейте ввиду, что&nbsp;в ингредиентах указано количество очищенной тыквы.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-cf2a49a3f6/big4cade86bc2aac.jpg",
+          "Тыкву очистить от&nbsp;шкуры, крупно нарезать и&nbsp;сварить в&nbsp;воде или&nbsp;на пару до&nbsp;мягкости.Я брал тыкву butternut squash&nbsp;—  ту, которая похожа на&nbsp;грушу по&nbsp;форме. Однако это&nbsp;совсем не&nbsp;обязательно. Также имейте ввиду, что&nbsp;в ингредиентах указано количество очищенной тыквы.					 								  				 			  			 ",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boil_pumpkin.jpg`,
       },
       {
         description: "			 				 													 													 						Готовую тыкву превращаем в&nbsp;пюре.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ebaae8537a/big4cade86d3aa1b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pumpkin_puree.jpg`,
       },
       {
         description:
           "Добавляем муку, яйцо, соль, сахар и&nbsp;разрыхлитель. Замешиваем однородное густое тесто.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-36d81f5ada/big4cade86e774fb.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/knead_pumpkin_dough.jpg`,
       },
       {
         description:
           "На сильно разогретой сковороде с&nbsp;маслом печем оладьи.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8f40d72a42/big4cade87109a29.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/frying_pumpkin_pancakes.jpg`,
       },
       {
         description:
           "			 				 													 													 						Они должны быть золотисто-оранжевого цвета с&nbsp;обеих сторон. Подавать оладьи можно с&nbsp;чем угодно&nbsp;—  со&nbsp;сметаной, вареньем, медом, сгущенкой... Можно даже кушать совсем без&nbsp;добавок, очень уж&nbsp;они вкусные получаются! :)",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-296772e409/big4cade8723c347.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/flipping_the_pumpkin_pancakes.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Блинчатый пирог с лососем",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/235/236/big4cade874e27d3.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/salmon_pancake_pie.jpg`,
     ingridients: [
       "Сметана 40 % 350 г ",
       "Мука пшеничная 400 г ",
@@ -5106,49 +4742,41 @@ export const pancakes = [
       {
         description:
           "Готовим блины: желтки отделить от&nbsp;белков. Желтки растереть с&nbsp;сахаром добела. Добавить сметану и&nbsp;взбить до&nbsp;однородности. Добавить постепенно муку, тщательно вымешивая.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8fffbc2275/big4cade876476b2.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_sour_cream_flour_and_egg.jpg`,
       },
       {
         description:
           "В получившуюся массу понемногу вливать пиво и&nbsp;тщательно вымешивать миксером, чтобы не&nbsp;образовались комочки. После того как&nbsp;пиво закончится, продолжать вымешивать тесто, добавляя газированную воду, чтобы получить тесто консистенции нежирной сметаны. Накрыть тесто и&nbsp;поставить на&nbsp;40&nbsp;минут в&nbsp;теплое место.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-26afd1cd48/big4cade8779da44.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_beer_to_the_dough.jpg`,
       },
       {
         description:
           "Взбить оставшиеся белки с&nbsp;солью в&nbsp;крутую пену и&nbsp;постепенно добавить в&nbsp;тесто, тщательно вымешивая.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-1592da0b5a/big4cade878dc192.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_whipped_whites_to_the_dough.jpg`,
       },
       {
         description:
           "Хорошо разогретую сковороду смазывать маслом и&nbsp;выпекать блины. Блины должны получиться тонкими и&nbsp;равномерными.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d898298a6e/big4cade87a6376d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_pancakes2.jpg`,
       },
       {
         description:
           "Готовим начинку: филе лосося нарезать ломтиками как&nbsp;можно тоньше, разрезая поперек волокон. Каждый ломтик приправлять солью и&nbsp;свежемолотым перцем. Закрыть пленкой и&nbsp;поставить в&nbsp;холодильник на&nbsp;30&nbsp;минут. После чего сбрызнуть рыбу водкой, опять закрыть и&nbsp;поставить при&nbsp;комнатной температуре еще&nbsp;на 45&nbsp;минут.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2d0265cafb/big4cade87bc3fce.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/sliced_salmon.jpg`,
       },
       {
         description:
           "Натереть сыр на мелкой терке и разделить на две части 1/3 и 2/3.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-29b873705a/big4cade87d2ef96.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_cheese.jpg`,
       },
       {
         description: "1/3 сыра смешать с хреном.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2b55d7428b/big4cade87e9f383.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_cheese_with_horseradish.jpg`,
       },
       {
         description:
           "Отделить желтки от&nbsp;белков. Желтки взбить со&nbsp;сливками, приправить солью и&nbsp;перцем. Добавить в&nbsp;сыр с&nbsp;хреном 7&nbsp;столовых ложек взбитых желтков. Перемешать.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-74117e9649/big4cade880b60c3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beat_yolks_with_cream.jpg`,
       },
       {
         description:
@@ -5157,46 +4785,39 @@ export const pancakes = [
       {
         description:
           "Для дна&nbsp;формы вырезать из&nbsp;бумаги для&nbsp;запекания двойной слой. Проложить и&nbsp;смазать его&nbsp;растопленным сливочным маслом.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-556cf822df/big4cade8822587e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cake_mold.jpg`,
       },
       {
         description:
           "Выкладывать блины слоями: 1&nbsp;—  блин, 2&nbsp;—  сыр&nbsp;с хреном тонким слоем, 3&nbsp;—  лосось, 4&nbsp;—  блин, 5&nbsp;—  сыр&nbsp;с куркумой и&nbsp;опять блин, сыр&nbsp;с хреном и&nbsp;т.д.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-59baf7b2b7/big4cade88384389.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/layered_salmon_pancakes.jpg`,
       },
       {
         description:
           "Закрыть форму фольгой, плотно подвернув края. И&nbsp;поставить форму в&nbsp;разогретую до&nbsp;200 °С&nbsp;&nbsp;духовку на&nbsp;15&nbsp;минут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5ee94170c7/big4cade884de533.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cover_the_pan_with_foil.jpg`,
       },
       {
         description:
           "Затем снять фольгу, смазать сметаной и запекать еще 20 минут.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-50ca4beb38/big4cade88c491ae.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/put_sour_cream_on_pancakes.jpg`,
       },
       {
         description:
           "Для украшения: удалить стебли укропа, порубить его как можно мельче.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-7847b75bf7/big4cade88ddf78f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_dill.jpg`,
       },
       {
         description:
           "Взбить очень холодные сливки в&nbsp;пышную пену, аккуратно ввести укроп и&nbsp;икру (икру можно использовать любую красную). Украшать можно весь пирог, но&nbsp;надо учесть, что&nbsp;на теплом пироге сливки очень быстро потекут. Можно украшать каждую порцию отдельно. Пирог лучше режется, когда немного остынет. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-3c53eb64b1/big4cade88f392e0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/whipped_cream_with_caviar.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Зеленые оладьи из шпината и брокколи",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d1/005/235/243/big4cade8920726a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/green_spinach_and_broccoli_fritters.jpg`,
     ingridients: [
       "Шпинат 200 г ",
       "Брокколи, калабриз 200 г ",
@@ -5215,38 +4836,33 @@ export const pancakes = [
       {
         description:
           "Берем замороженный шпинат и&nbsp;замороженную брокколи. Для&nbsp;приготовления оладий овощи не&nbsp;нужно размораживать, а&nbsp;лишь опустить в&nbsp;кипящую воду и&nbsp;поварить пару минут до&nbsp;относительной мягкости.Долго не&nbsp;варите, ведь мы&nbsp;хотим сохранить как&nbsp;можно больше пользы от&nbsp;овощей!&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-541f6d1a71/big4cade89340248.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chop_the_spinach.jpg`,
       },
       {
         description: "Овощи измельчаем в блендере, добавляем молоко.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-41d379b815/big4cade8948be55.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_milk_to_spinach.jpg`,
       },
       {
         description:
           "Теперь кладем соль и&nbsp;одно яйцо. Не&nbsp;смотрите, что&nbsp;на картинке 2&nbsp;желтка&nbsp;—  такое мне&nbsp;попалось яйцо. Осталось положить муку, разрыхлитель и&nbsp;хорошо размешать. Должно получиться довольно густое тесто.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-97912fe899/big4cade895bbf74.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_egg_to_spinach.jpg`,
       },
       {
         description:
           "На горячую сковороду с&nbsp;маслом выкладываем овощную массу из&nbsp;расчета 1&nbsp;столовую ложку на&nbsp;один оладушек. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-465eea30ba/big4cade8973de41.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_spinach_fritters.jpg`,
       },
       {
         description:
-          "https://proxy11.online.ua/retsepty/r3-ee0ececfb2/big4cade89881f29.jpg",
-        image: "Подрумяниваем вторую сторону и вкусные овощные оладьи готовы! ",
+          "Подрумяниваем вторую сторону и вкусные овощные оладьи готовы! ",
+        image: `${process.env.PUBLIC_URL}/images/other_images/flip_the_spinach_fritters.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Рисово-кукурузные оладьи с творогом",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/250/082/big4cade89a2811a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/rice-corn_fritters_with_cottage_cheese.jpg`,
     ingridients: [
       "Разрыхлитель теста 								5&nbsp;г&nbsp;															",
       "Мука рисовая 								200 г 															",
@@ -5262,28 +4878,24 @@ export const pancakes = [
       {
         description:
           "Соединяем рисовую и&nbsp;кукурузную муку добавляем в&nbsp;смесь разрыхлитель.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-1cb2828ff3/big4cade89b6ecf7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_rice_and_corn_flour.jpg`,
       },
       {
         description:
           "Замешиваем густое тесто, добавив в&nbsp;муку яйца и&nbsp;молоко, сахар и&nbsp;соль.  Когда все&nbsp;будет хорошо размешано, кладем в&nbsp;тесто творог, не&nbsp;размешивая комочки до&nbsp;конца.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-3b3183db02/big4cade89ca5567.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/knead_thick_dough.jpg`,
       },
       {
         description:
           "На горячей сковороде с&nbsp;маслом жарим оладьи с&nbsp;обеих сторон до&nbsp;золотистости. На&nbsp;каждую штучку приходится по&nbsp;столовой ложке теста.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b7a6c4719d/big4cade89dd6aa9.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fried_rice_and_corn_fritters.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Кабачковые оладьи",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d1/005/235/246/big4cade8a2b4fdc.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/zucchini__fritters.jpg`,
     ingridients: [
       "Кабачки 500 г ",
       "Овсяные хлопья крупные (Геркулес) 70 г ",
@@ -5297,34 +4909,29 @@ export const pancakes = [
       {
         description:
           "Кабачок натираем на&nbsp;крупной терке. Если овощ молодой, то&nbsp;можно не&nbsp;снимать шкурку и&nbsp;не вычищать семечки. Если же&nbsp;кожица жестковата и&nbsp;семечки уже&nbsp;крупные, то&nbsp;их нужно удалить.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5e4318eded/big4cade8a3f1223.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_zucchini.jpg`,
       },
       {
         description:
           "В натертый кабачок добавить яйцо, соль и&nbsp;овсяные хлопья. Хорошо перемешать и&nbsp;дать постоять несколько минут. Когда кабачки дадут сок, добавьте муку так, чтобы получилась довольно однородная густая масса. В&nbsp;зависимости от&nbsp;сочности кабачка и&nbsp;качества муки, пропорции могут немного меняться. Не&nbsp;бойтесь варьировать количество продуктов в&nbsp;этом рецепте!&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-08e1f76245/big4cade8a54e79d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_egg_and_oatmeal.jpg`,
       },
       {
         description:
           "На хорошо разогретую сковороду с&nbsp;растительным маслом выкладываем тесто с&nbsp;помощью столовой ложки.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-cd04369b40/big4cade8a6bc855.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/frying_zucchini_fritters.jpg`,
       },
       {
         description:
           "Жарим оладьи с обеих сторон до золотистого цвета. Все, завтрак готов.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-76ac64e8ba/big4cade8a83f512.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/flipping_the_zucchini_fritters.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Рисовые блинчики с грушевым соусом",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/235/249/big4cade8aa73a70.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/rice_pancakes_with_pear_sauce.jpg`,
     ingridients: [
       "Молоко коровье 								500&nbsp;мл&nbsp;															",
       "Мука рисовая 								200&nbsp;г&nbsp;															",
@@ -5346,32 +4953,27 @@ export const pancakes = [
       {
         description:
           "На первом этапе смешиваем все&nbsp;ингредиенты&nbsp;—  муку, крахмал, молоко, яйца, соль и&nbsp;сахар.  Хорошо все&nbsp;перемешиваем и&nbsp;затем добавляем немного масла для&nbsp;легкого отставания блинчиков от&nbsp;сковороды и&nbsp;еще раз&nbsp;мешаем до&nbsp;однородности.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2dfd8d8f04/big4cade8aba1de0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_flour_starch_milk_eggs.jpg`,
       },
       {
         description:
-          "На хорошо разогретой сковороде выпекаем тонкие блинчики с&nbsp;обеих сторон. Если вы&nbsp;не а&nbsp;100% уверены в&nbsp;покрытии своей сковороды, то&nbsp;перед первым блином сковороду все&nbsp;же стоит слегка смазать маслом.  Тесто должно хорошо растекаться по&nbsp;сковороде, оставляя небольшие дырочки по&nbsp;краям.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-65f9f6f8d4/big4cade8b0990c0.jpg",
+          "На хорошо разогретой сковороде выпекаем тонкие блинчики с&nbsp;обеих сторон. Если вы&nbsp;не на&nbsp;100% уверены в&nbsp;покрытии своей сковороды, то&nbsp;перед первым блином сковороду все&nbsp;же стоит слегка смазать маслом.  Тесто должно хорошо растекаться по&nbsp;сковороде, оставляя небольшие дырочки по&nbsp;краям.					 								  				 			  			 ",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_rice_pancakes.jpg`,
       },
       {
         description:
           "Готовые блины складываем друг на&nbsp;друга в&nbsp;стопку.  А&nbsp;тем временем приготовим соус.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-81fde36139/big4cade8b4e195d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cooked_rice_pancakes.jpg`,
       },
       {
         description:
           "Для соуса смешаем в&nbsp;небольшое кастрюльке молоко, сахар и&nbsp;масло. Смесь надо довести до&nbsp;кипения и&nbsp;кипятить не&nbsp;небольшом огне минут 15-20, пока смесь не&nbsp;начнет загустевать.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2fd92a212f/big4cade8b65033c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/heat_milk_sugar_and_butter.jpg`,
       },
       {
         description:
           "Теперь добавим в&nbsp;соус очищенную и&nbsp;нарезанную кубиками грушу, ванильный сахар и&nbsp;корицу. Продолжим варить еще&nbsp;около 10&nbsp;минут. Соус сначала станет более жидким за&nbsp;счет грушевого сока, а&nbsp;затем начнет снова густеть. Это&nbsp;означает, что&nbsp;он готов.			 				 																	 						На середину каждого блина кладем столовую ложку соуса, складываем блин пополам и&nbsp;сверху опять поливаем соусом.  Теперь наши блинчики готовы к&nbsp;употреблению! По&nbsp;желанию их&nbsp;можно посыпать кокосовой стружкой или&nbsp;измельченными орешками.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c83505af6a/big4cade8ba7cb44.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pear_sauce.jpg`,
       },
     ],
     type: pancakesType,
@@ -5379,8 +4981,7 @@ export const pancakes = [
 
   {
     title: "Блинчики с икрой",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/001/017/286/big4cade8d7d8729.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_red_caviar.jpg`,
     ingridients: [
       " Яйцо куриное 3 шт. ",
       "Соль ½ ч.л. ",
@@ -5395,33 +4996,28 @@ export const pancakes = [
       {
         description:
           "Яйца смешиваем с&nbsp;солью, сахаром и&nbsp;половиной нормы молока, все&nbsp;перемешиваем и&nbsp;добавляем муку. После этого вливаем остальное молоко для&nbsp;получения нужной консистенции и&nbsp;добавляем туда же&nbsp;растительное масло, чтобы блинчики легче жарились. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-807e83b742/big4cade8d9176ef.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancake_dough1.jpg`,
       },
       {
         description: "Блинчики жарим с двух сторон до золотистого цвета. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-af0c61441d/big4cade8da6e12f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_pancakes3.jpg`,
       },
       {
         description:
           "Готовые блинчики складываем стопкой на&nbsp;тарелку, смазывая каждый блин растопленным сливочным маслом.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-44b0e6c3d3/big4cade8dec4cb9.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cooked_pancakes.jpg`,
       },
       {
         description:
           "На каждый блин кладем примерно столовую ложку красной икры, распределяем ее&nbsp;равномерно по&nbsp;блину и&nbsp;сворачиваем блинчики рулетиком. Вот, собственно, и&nbsp;весь рассказ. :) ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-744e95ef4a/big4cade8e010ee6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/red_caviar_on_pancake.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Блинный пирог с творожной начинкой",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/250/094/big4cade8e1df4ee.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancake_pie_with_curd_filling.jpg`,
     ingridients: [
       "Молоко коровье 300 мл ",
       "Мука пшеничная 250 г ",
@@ -5440,51 +5036,43 @@ export const pancakes = [
       {
         description:
           "Разбавить молоко 1:1 холодной водой, добавить яйца и&nbsp;все хорошенько перемешать. Молочно-яичную смесь ввести в&nbsp;муку и&nbsp;тщательно перемешать, добавить масло, посолить. Масло можно и&nbsp;не добавлять, но&nbsp;тогда его&nbsp;нужно добавить на&nbsp;сковороду. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-308671b08c/big4cade8e3358c7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_eggs_with_milk_and_water.jpg`,
       },
       {
         description:
           "Хорошо разогреть сковороду, смазав ее&nbsp;маслом, если ранее не&nbsp;добавляли, и&nbsp;выпекать блины, подрумянивая их&nbsp;с одной и&nbsp;другой стороны.Блинов примерно получается 15&nbsp;штук.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-551a56d970/big4cade8e496209.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_the_pancake_on_one_side.jpg`,
       },
       {
         description:
           "Смешать творог со&nbsp;сгущенным молоком, если под&nbsp;рукой не&nbsp;оказалось сгущенного молока, замените сгущенку сливками с&nbsp;сахаром. Добавить немного молотой корицы и&nbsp;ванильного сахара.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c7d1fdeb78/big4cade8e5e1867.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_cottage_cheese_with_condensed_milk.jpg`,
       },
       {
         description: "Смазать маслом и&nbsp;обсыпать сухарями форму. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-7176b9a216/big4cade8e7811a0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/sprinkle_the_pan_with_breadcrumbs.jpg`,
       },
       {
         description:
           "Уложить слоями блины, промазывая каждый слой творожной массой.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ab0eb0dcfd/big4cade8e8cf517.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grease_pancakes_with_curd_mixture.jpg`,
       },
       {
         description:
           "Взбить яйцо с&nbsp;сахаром и&nbsp;выложить его&nbsp;на верхний блин. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-dd683d9a77/big4cade8ea131d7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/place_the_beaten_egg_on_the_top_pancake.jpg`,
       },
       {
         description:
           " Поставить в разогретую до 190 градусов духовку на 30-40 минут. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6f7bf5d269/big4cade8eb51175.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancake_pie.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Манные оладьи",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d2/005/250/097/big4cade8f3dde41.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/semolina_fritters.jpg`,
     ingridients: [
       " Манка, манная крупа 100 г ",
       "Молоко коровье 400 мл ",
@@ -5500,25 +5088,21 @@ export const pancakes = [
       {
         description:
           "Молоко вскипятить и&nbsp;сварить на&nbsp;нем манную кашу. Добавить в&nbsp;готовую кашу масло и&nbsp;все хорошенько перемешать.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-3102f2173c/big4cade8f7cda23.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cook_semolina_porridge.jpg`,
       },
       {
         description: "Отделить желтки от белков.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-dc1cc525ac/big4cade8fab1c6f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/separate_the_yolks_from_the_whites.jpg`,
       },
       {
         description:
           "Растереть яичные желтки с&nbsp;солью и&nbsp;сахаром, хорошо взбить, соединить с&nbsp;кашей и&nbsp;хорошо перемешать.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-37a693b347/big4cade8fc257c5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_sugar_to_egg_yolk.jpg`,
       },
       {
         description:
           "Отдельно взбить белки, добавить в массу и опять же хорошо все перемешать.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c41df6d978/big4cade8fd8b6ce.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_everything.jpg`,
       },
       {
         description: "Добавить изюм, лучше использовать не очень сухой.  ",
@@ -5526,22 +5110,19 @@ export const pancakes = [
       {
         description:
           "Высыпать на&nbsp;подготовленную поверхность муку, разровнять тонким слоем. Выложить ложкой подготовленную массу (отдельными кусками) на&nbsp;муку и&nbsp;сформировать из&nbsp;нее лепешки-оладьи. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5cd38dcc9f/big4cade8ff64238.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/form_pancakes_with_your_hands.jpg`,
       },
       {
         description:
           "Обжарить оладьи на&nbsp;смазанной растительным маслом сковороде. К&nbsp;этим оладьям, очень хорошо подходит мед, сметана или&nbsp;варенье. Вкусные пока теплые :)",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-7e914a3904/big4cade907b3634.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_semolina_fritters.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Блинчики с сердцем",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d2/005/250/107/big4cade9269f878.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_heart.jpg`,
     ingridients: [
       " Перец черный горошком 7 шт. ",
       "Лавровый лист 1 шт. ",
@@ -5557,46 +5138,39 @@ export const pancakes = [
       {
         description:
           "Чтобы сделать начинку, сначала надо сварить телячье сердце. Можно добавить по&nbsp;вкусу специи: черный перец горошком, лавровый лист. Бульон не&nbsp;выливайте, он&nbsp;нам еще&nbsp;пригодится.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4ce87c64df/big4cade927ee1db.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boiled_veal_heart.jpg`,
       },
       {
         description:
           "Вареное сердце пропускаем через мясорубку или&nbsp;измельчаем в&nbsp;блендере, репчатый лук&nbsp;обжариваем в&nbsp;растительном масле до&nbsp;золотистого цвета и&nbsp;смешиваем с&nbsp;сердцем. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c102e0b14e/big4cade92946f8d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_fried_onions_to_the_heart.jpg`,
       },
       {
         description:
           "Теперь нам&nbsp;пригодится бульон. Его&nbsp;надо добавить его&nbsp;в фарш, чтобы он&nbsp;не был&nbsp;сухим. Примерно бульона понадобится полстакана.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-255043fa75/big4cade92a71ac3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_water_to_the_minced_meat.jpg`,
       },
       {
         description:
           "Смешиваем ингредиенты для&nbsp;блинчиков до&nbsp;однородности. Тесто должно получиться достаточно жидким. Растительное масло добавляем прямо в&nbsp;тесто, а&nbsp;при жарке уже&nbsp;нет. Печем блинчики с&nbsp;одной стороны, складывая стопкой, обжаренной стороной вверх. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-591516f6db/big4cade92b8a517.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_pancakes_on_one_side1.jpg`,
       },
       {
         description:
           "На каждый блин кладем столовую ложку начинки и&nbsp;аккуратно заворачиваем конвертиком.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6dbd7f27d2/big4cade92c9c9cd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_wrapped_pancakes.jpg`,
       },
       {
         description:
           "Обжариваем свернутые блинчики на сковороде. Кушаем со сметаной или просто так. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-a9e2cbebf3/big4cade92e5694e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cooked_heart_pancakes.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
     title: "Пышные оладьи с вишней",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/001/017/300/big4cade93130696.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/fluffy_pancakes_with_cherries.jpg`,
     ingridients: [
       "Разрыхлитель теста 								5&nbsp;г&nbsp;															",
       "Молоко коровье 								150&nbsp;мл&nbsp;															",
@@ -5618,21 +5192,18 @@ export const pancakes = [
       {
         description:
           "Разогреть сковороду с&nbsp;растительным маслом. Столовой ложкой выкладывать тесто на&nbsp;сковороду. Пока оладьи жарятся с&nbsp;одной стороны, посыпать их&nbsp;сверху вишней, как&nbsp;на картинке. Впрочем, вишни можно класть и&nbsp;больше.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4406b4c5ab/big4cade9326aa45.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_pancakes_with_cherries.jpg`,
       },
       {
         description: "Затем перевернуть и&nbsp;обжарить с&nbsp;другой стороны.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-cbca9a7b0b/big4cade933bef74.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/flip_pancakes_with_cherries.jpg`,
       },
     ],
     type: pancakesType,
   },
   {
-    title: "Блинчики с курицей",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/135/240/big4cada1408c3eb.jpg",
+    title: "Блины с курицей",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/pancakes_with_chicken2.jpg`,
     ingridients: [
       "3&nbsp;яйца",
       "3&nbsp;стакана молока",
@@ -5665,8 +5236,7 @@ export const pancakes = [
   },
   {
     title: "Оладьи с черникой",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/014/253/big4cada1efbd59b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/blueberry_fritters.jpg`,
     ingridients: [
       "3&nbsp;яйца",
       "200&nbsp;мл. муки",

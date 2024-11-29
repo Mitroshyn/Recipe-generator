@@ -3,8 +3,7 @@ export const borschType = "borsch";
 export const borsches = [
   {
     title: "Борщ с пельменями",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-948bfcd034/big566207a70cfb1.jpg",
+    image: `${process.env.PUBLIC_URL}/images/borsch/borsch_with_dumplings.jpg`,
     ingridients: [
       "    капуста белокочанная&nbsp;—  100&nbsp;г",
       "    свекла&nbsp;—  1&nbsp;шт.",
@@ -56,8 +55,7 @@ export const borsches = [
   },
   {
     title: "Борщ со свекольной ботвой",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-a12fb90dd5/big56124e0732422.jpg",
+    image: `${process.env.PUBLIC_URL}/images/borsch/borsch_with_beet_tops.jpg`,
     ingridients: [
       "молодая свекла с&nbsp;ботвой&nbsp;—  400&nbsp;г",
       "картофель&nbsp;—  1&nbsp;шт.",
@@ -87,8 +85,7 @@ export const borsches = [
   },
   {
     title: "Борщ постный",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-7470f32551/big547daf501cea9.jpg",
+    image: `${process.env.PUBLIC_URL}/images/borsch/lenten_borsch.jpg`,
     ingridients: [
       "перловка&nbsp;—  1&nbsp;ст.л.",
       "    растительное масло&nbsp;—  1&nbsp;ст.л.",
@@ -141,8 +138,7 @@ export const borsches = [
   },
   {
     title: "Зеленый борщ",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-97fd289735/big53aae578eff97.jpg",
+    image: `${process.env.PUBLIC_URL}/images/borsch/green_borsch.jpg`,
     ingridients: [
       "картофель&nbsp;—  4&nbsp;шт.",
       " крупная луковица&nbsp;—  1&nbsp;шт.",
@@ -156,19 +152,13 @@ export const borsches = [
       {
         description:
           "Режем картошку&nbsp;и засыпаем ее&nbsp;в кастрюлю. Одну большую морковку трем на&nbsp;крупной терке, мелко рубим большую луковицу. Можно все&nbsp;это зажарить на&nbsp;масле, но&nbsp;я засыпаю морковь и&nbsp;лук в&nbsp;кастрюлю в&nbsp;сыром виде&nbsp;—  меньше жира&nbsp;—  здоровее пища.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-e9f62adf4c/big5298524db15d6.jpg",
       },
       {
         description:
           " Когда картошка готова&nbsp;—  разбираем руками на&nbsp;кусочки мясо с&nbsp;косточек и&nbsp;отправляем в&nbsp;бульон.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-417ef67338/big5298525e322a9.jpg",
       },
       {
         description: "Режем и засыпаем щавель.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-6f4cbc4daf/big5298527ea660d.jpg",
       },
       {
         description:
@@ -179,8 +169,7 @@ export const borsches = [
   },
   {
     title: "Борщ",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-23d869d951/big52970c47ca447.jpg",
+    image: `${process.env.PUBLIC_URL}/images/borsch/borsch.jpg`,
     ingridients: [
       "свиные косточки&nbsp;—  400&nbsp;г",
       " средняя свекла&nbsp;—  1&nbsp;шт.",
@@ -198,31 +187,21 @@ export const borsches = [
       },
       {
         description: "Картошку нарезаем как кубиками и засыпаем в бульон.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-e526094a9b/big52970c54c13bf.jpg",
       },
       {
         description: "Тонко шинкуем капусту:",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-822bf30269/big52970c5bc9c76.jpg",
       },
       {
         description:
           "Пока варится картошка, трем на&nbsp;крупной терке или&nbsp;нарезаем соломкой свеклу. Кладем в&nbsp;сотейник, заливаем наполовину водой и&nbsp;тушим в&nbsp;течение 10&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-1bd962ed3e/big52970c5ceb3a0.jpg",
       },
       {
         description:
           "Натертую на&nbsp;крупной терке морковь и&nbsp;мелко нарезанный лук&nbsp;зажариваем на&nbsp;растительном масле.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-521f9dcb23/big52970c6879362.jpg",
       },
       {
         description:
           "Когда картошка почти сварилась, вынимаем из&nbsp;бульона косточки и&nbsp;закладываем протушенную свеклу, капусту и&nbsp; зажаренные морковь и&nbsp;лук. Добавляем томатную пасту и&nbsp;варим борщ еще&nbsp;минут 10. Дальше делаем то, что&nbsp;не является обязательным&nbsp;—  снимаем мясо с&nbsp;костей, нарезаем маленькими кусочками и&nbsp;отправляем в&nbsp;борщ.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-68a799d329/big52970c7084afe.jpg",
       },
       { description: "Борщ подаем со сметаной и, по желанию, с чесноком." },
     ],
@@ -230,8 +209,7 @@ export const borsches = [
   },
   {
     title: "Борщ на костре",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-e38bd99bec/big519221156cf79.jpg",
+    image: `${process.env.PUBLIC_URL}/images/borsch/borsch_on_the_fire.jpg`,
     ingridients: [
       "свиные ребра 	—  1.5&nbsp;кг",
       "сало копченое -&nbsp;	200&nbsp;г",
@@ -254,50 +232,41 @@ export const borsches = [
       {
         description:
           "Нарезанное на&nbsp;брусочки сало кидаем в&nbsp;нагретый котелок и&nbsp;даем ему&nbsp;прожарить до&nbsp;появления жира. Если вам&nbsp;покажется жира мало, то&nbsp;можно добавить масло или&nbsp;жир отдельно. Затем кидаем мелко нарезанный лук&nbsp;даем ему&nbsp;обжариться до&nbsp;золотистого цвета. Пришел черед ребер. Закидываем их&nbsp;продолжаем обжаривать(следите, что&nbsp;бы огонь был&nbsp;не сильный). Тем&nbsp;временем режем соломкой морковь и&nbsp;свеклу. Как&nbsp;только в&nbsp;мясе испарилась жидкость, закидываем морковь (чуть обжарить), а&nbsp;затем свеклу. Постоянно помешиваем ложкой по&nbsp;дну котелка!!! Пока у&nbsp;нас мало жидкости и&nbsp;может пригореть. Через 5-7 мин&nbsp;всыпем паприку молотую и&nbsp;вливаем помидоры в&nbsp;своем соку.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9265d3868e/51922005b7d3d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_pork_with_beets.jpg`,
       },
       {
         description:
           "Тем временем очистим картофель и&nbsp;нарежем его&nbsp;кубиками, измельчим всю&nbsp;зелень. Как&nbsp;только ребра почти готовы, закидываем картофель и&nbsp;доливаем воды на&nbsp;ваше усмотрение. Как&nbsp;закипит, бросить сладкий перец целиком или&nbsp;нарезанный, измельченный чеснок. Еще&nbsp;можно пару помидорок.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-efca660d55/51922036324e7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_garlic_and_pepper.jpg`,
       },
       {
         description:
           "Много воды на&nbsp;доливайте! У&nbsp;нас еще&nbsp;не все&nbsp;в котелке!",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-42e7a83a31/519220483564f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cook_borsch.jpg`,
       },
       {
         description: "Тем временем крупно шикуем капусту.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-fd35552dcd/51922065336d6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/coarsely_chop_the_cabbage.jpg`,
       },
       {
         description:
           "Считаете, что&nbsp;картофель практически готов? Тогда закидываем капусту и&nbsp;вот здесь, уже&nbsp;точно, определяемся с&nbsp;количеством воды.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-5f44ce0b8d/51922083524da.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_cabbage_to_borsch.jpg`,
       },
       {
         description:
           "Как только закипело, высыпаем всю&nbsp;нашу зелень! И&nbsp;много! Капуста молодая и&nbsp;быстро будет готова. На&nbsp;этом этапе добавляем соль, перец, другие ваши любимые специи. Постоянно пробуем доводя до&nbsp;идеального вкуса.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-5c00f14b8b/519220a923150.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_greens_to_borsch.jpg`,
       },
       {
         description: "Покипело 8-10 мин&nbsp;и 'выключаем' огонь. ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-6afb2b457b/519220d4983c4.jpg",
       },
     ],
     type: borschType,
   },
   {
     title: "Борщ в хлебе",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-f150e81e16/big50f6a8807cf99.jpg",
+    image: `${process.env.PUBLIC_URL}/images/borsch/borsch_in_bread.jpg`,
     ingridients: [
       "черный хлеб&nbsp;—  буханка",
       "свекла&nbsp;—  1шт.",
@@ -350,8 +319,7 @@ export const borsches = [
   },
   {
     title: "Украинский борщ",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d1/005/229/107/big4ca1a474de3b0.jpg",
+    image: `${process.env.PUBLIC_URL}/images/borsch/ukrainian_borsch.jpg`,
     ingridients: [
       "—  свинина или&nbsp;говядина (можно кости с&nbsp;мясом)&nbsp;—  300&nbsp;—  400&nbsp;г ",
       "—  картофель&nbsp;—  2-3 шт. ",

@@ -38,7 +38,7 @@ import {
 
 export const routes = [
   {
-    path: "/",
+    path: "/Recipe-generator",
     element: <Main />,
   },
   { path: "/dishes/:type/:id", element: <DishesDetails /> },
