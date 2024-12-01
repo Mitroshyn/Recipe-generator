@@ -1,11 +1,9 @@
 export const saucesType = "sauces";
 
-
 export const sauces = [
   {
     title: "Домашний майонез",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-4026c63a91/big5775735f1065e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/homemade_mayonnaise.jpg`,
     ingridients: [
       "яйца куриные (1 целое и 1 желток) —  2 шт.",
       "горчица —  1 ст.л.",
@@ -41,8 +39,7 @@ export const sauces = [
   },
   {
     title: "Домашний майонез в индийском стиле",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-6794a4bfab/big57514aa34b8fc.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/homemade_indian_style_mayonnaise.jpg`,
     ingridients: [
       "порошок карри&nbsp;—  1&nbsp;ст.л.",
       " небольшая луковица&nbsp;—  1&nbsp;шт.",
@@ -61,31 +58,26 @@ export const sauces = [
       {
         description:
           "В сковороде на&nbsp;среднем огне разогреваем 1&nbsp;ст.л. растительного масла. Кладем мелко нарубленный лук&nbsp;и жарим, помешивая, до&nbsp;мягкости, около 5&nbsp;минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-d321511ed8/big57514aa94b8fd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions.jpg`,
       },
       {
         description: "Добавляем карри и жарим еще 1 минуту, помешивая.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-5ff556efa7/big57514aa9e4265.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_curry_to_onion.jpg`,
       },
       {
         description:
           "Снимаем с&nbsp;огня и&nbsp;полностью остужаем.Кладем в&nbsp;миску желтки, горчицу и&nbsp;лимонный сок. Смешиваем венчиком до&nbsp;однородного состояния.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-ecf7c661ff/big57514aaa79b42.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_mustard_yolks_and_lemon_juice.jpg`,
       },
       {
         description:
           "Берем миксер и&nbsp;начинаем взбивать массу на&nbsp;средней скорости. Начинаем  вливать масло&nbsp;—  первую четверть вливаем по&nbsp;каплям, медленно, затем можно  вливать очень тонкой струйкой. Взбиваем, пока не&nbsp;получится густой соус.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-bbd40246be/big57514aab05fb6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/thick_white_sauce.jpg`,
       },
       {
         description:
           "Добавляем мелко нарубленные листья кинзы, а&nbsp;также карри с&nbsp;луком и&nbsp;еще раз&nbsp;взбиваем до&nbsp;однородного состояния.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-bc22753129/big57514aab94126.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/ready_made_mayonnaise_in_Indian_style.jpg`,
       },
       { description: "Соус готов к подаче." },
       { description: "Хранить в холодильнике, как домашний майонез." },
@@ -94,8 +86,7 @@ export const sauces = [
   },
   {
     title: "Сырный соус",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-b8bfbda2c4/big5719eb98b0b95.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/cheese_sauce.jpg`,
     ingridients: [
       "жирные сливки (от 30% и&nbsp;выше)&nbsp;—  200&nbsp;мл",
       " сливочный сыр&nbsp;—  125&nbsp;г",
@@ -107,30 +98,25 @@ export const sauces = [
       {
         description:
           "Вливаем сливки в ковшик и ставим на плиту на средний огонь. Доводим до кипения.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-97f6f3ee00/big5719eb9a7a09b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/heat_the_cream.jpg`,
       },
       {
         description: "Твердый сыр трем на мелкой терке.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-3469bf5511/big5719eb9b40e88.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_cheese_on_a_plate.jpg`,
       },
       {
         description:
           "В закипевшие сливки добавляем сливочный сыр&nbsp;и размешиваем до&nbsp;однородной консистенции.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-5c7e09d9e9/big5719eb9c0e5ee.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beat_egg_whites.jpg`,
       },
       {
         description: "Добавляем чеддер.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-76dace6475/big5719eb9c819aa.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_cheddar.jpg`,
       },
       {
         description:
           "Размешиваем до его растворения. И кладем тертый твердый сыр.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-a029ca3d63/big5719eb9d268a1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_grated_cheese.jpg`,
       },
       {
         description:
@@ -141,8 +127,7 @@ export const sauces = [
   },
   {
     title: "Сливочно-чесночный соус",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-0e788dc0c2/big570d08369143b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/creamy_garlic_sauce.jpg`,
     ingridients: [
       "сливочное масло&nbsp;—  35&nbsp;г",
       "оливковое масло&nbsp;—  20&nbsp;мл",
@@ -191,8 +176,7 @@ export const sauces = [
   },
   {
     title: "Инвертный сахарный сироп",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-e650f68284/big57081f57425fb.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/invert_sugar_syrup.jpg`,
     ingridients: [
       "сахар&nbsp;—  700&nbsp;г",
       " кипяток&nbsp;—  260&nbsp;мл",
@@ -202,8 +186,7 @@ export const sauces = [
     cooking: [
       {
         description: "Кладем в ковшик сахар, вливаем воду.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e938a20a5f/big57081f593c066.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_sugar_to_water.jpg`,
       },
       {
         description:
@@ -212,8 +195,7 @@ export const sauces = [
       {
         description:
           "Варим сироп без&nbsp;крышки примерно 45&nbsp;минут. Затем снимаем с&nbsp;плиты и&nbsp;добавляем соду. Размешиваем. Пойдет довольно бурная реакция с&nbsp;пеной&nbsp;—  учитывайте это&nbsp;при выборе посуды, в&nbsp;которой варите сироп.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-8011d36ea4/big57081f59e5f2a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cook_the_syrup.jpg`,
       },
       {
         description:
@@ -228,8 +210,7 @@ export const sauces = [
   },
   {
     title: "Майонез постный (гороховый)",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-97d569aa7e/big56ec25ed9480c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/pea_mayonnaise.jpg`,
     ingridients: [
       "гороховые хлопья&nbsp;—  1&nbsp;ст. л.",
       "или горох колотый&nbsp;—  1&nbsp;ст. л.",
@@ -276,8 +257,7 @@ export const sauces = [
   },
   {
     title: "Луковый мармелад",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-b11ed4f33b/big56b71928a475b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/onion_marmalade.jpg`,
     ingridients: [
       "красный лук&nbsp;—  1&nbsp;кг",
       " оливковое масло&nbsp;—  50&nbsp;мл",
@@ -291,20 +271,17 @@ export const sauces = [
     cooking: [
       {
         description: "Лук нарезаем тонкими кольцами или полукольцами.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-5fd6f018cf/big56b7192ac00c3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_red_onion.jpg`,
       },
       {
         description:
           "В посуде с&nbsp;толстым дном разогреваем на&nbsp;среднем огне оливковое масло. Кладем лук.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-ef3a5ddd34/big56b7192c05092.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_red_onion.jpg`,
       },
       {
         description:
           "Томим в масле, помешивая, около 5 минут, пока лук не станет вот таким:",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-e8e4b4f5d9/big56b7192ca763d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_the_onion_until_soft.jpg`,
       },
       {
         description:
@@ -312,14 +289,12 @@ export const sauces = [
       },
       {
         description: "Добавляем сахар, мед, кориандр, тимьян, вино и уксус.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-30a02d2c2d/big56b7192d4f02c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_honey_and_sugar_to_red_onion.jpg`,
       },
       {
         description:
           "Перемешиваем и&nbsp;тушим с&nbsp;открытой крышкой на&nbsp;самом минимальном огне, периодически помешивая, около 1,5&nbsp;часов.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-cbc3c13754/big56b7192df0e03.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/ready_made_onion_marmalade.jpg`,
       },
       {
         description:
@@ -338,8 +313,7 @@ export const sauces = [
   },
   {
     title: "Соус для салата Цезарь без майонеза",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-02bf882ddd/big56b38c663fea4.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/caesar_salad_dressing_without_mayonnaise.jpg`,
     ingridients: [
       "чеснок&nbsp;—  2&nbsp;зубчика",
       "яичный желток&nbsp;—  1&nbsp;шт.",
@@ -366,8 +340,7 @@ export const sauces = [
   },
   {
     title: "Соус к дерунам",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-4bad3bcef6/big56ab9085a0291.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/sauce_for_derunes.jpg`,
     ingridients: [
       "    сметана &nbsp;—  0,5&nbsp;стакана",
       "    лук&nbsp;зеленый&nbsp;—  1&nbsp;пучок",
@@ -397,8 +370,7 @@ export const sauces = [
   },
   {
     title: "Соус Песто с кедровыми орешками",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-9e1d1647c2/big567d8102682ec.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/pesto_sauce_with_pine_nuts.jpg`,
     ingridients: [
       "зеленый базилик&nbsp;—  50&nbsp;г",
       "сыр пармезан&nbsp;—  50&nbsp;г",
@@ -430,8 +402,7 @@ export const sauces = [
   },
   {
     title: "Мятный соус к мясу",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-9876da9f10/big5671e2674f7fc.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/mint_sauce_for_meat.jpg`,
     ingridients: [
       "мята&nbsp;—  40&nbsp;г",
       " кинза&nbsp;—  40&nbsp;г",
@@ -446,13 +417,11 @@ export const sauces = [
       {
         description:
           "Листья мяты и&nbsp;кинзы кладем в&nbsp;стакан для&nbsp;блендера. Добавляем остальные ингредиенты.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-7b7a586fbb/big5671e2697f1b7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mint_and_cilantro.jpg`,
       },
       {
         description: "Перемалываем блендером до однородного состояния.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-180a928b67/big5671e26b453f5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grind_mint_and_cilantro.jpg`,
       },
       { description: "Подаем." },
     ],
@@ -460,8 +429,7 @@ export const sauces = [
   },
   {
     title: "Соус Ремулад",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-8afd2d08b5/big565ec4a7d73dc.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/remoulade_sauce.jpg`,
     ingridients: [
       "желтки&nbsp;—  2&nbsp;шт.",
       " горчица&nbsp;—  2&nbsp;ч.л.",
@@ -478,20 +446,17 @@ export const sauces = [
       {
         description:
           "Кладем в&nbsp;миску желтки, горчицу и&nbsp;лимонный сок. Смешиваем венчиком до&nbsp;однородного состояния.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-f37800085f/big565ec4a9df8b0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_yolks_mustard_and_lemon_juice.jpg`,
       },
       {
         description:
           "Берем миксер и&nbsp;начинаем взбивать массу на&nbsp;средней скорости. Начинаем вливать масло&nbsp;—  первую четверть вливаем по&nbsp;каплям, медленно, затем можно вливать очень тонкой струйкой. Взбиваем, пока не&nbsp;получится густой соус.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-dd157c0265/big565ec4aa83036.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/thick_white_sauce1.jpg`,
       },
       {
         description:
           "Добавляем в&nbsp;соус соль и&nbsp;перец по&nbsp;вкусу, а&nbsp;также мелко нарубленные анчоусы, каперсы, корнишоны, петрушку, а&nbsp;также натертый чеснок.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-abfe99f9d5/big565ec4ab4fbe8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_anchovies_and_parsley.jpg`,
       },
       { description: "Перемешиваем и подаем." },
       {
@@ -503,8 +468,7 @@ export const sauces = [
   },
   {
     title: "Клюквенно-апельсиновый соус",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-8cbac464c4/big5645fab6b740a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/cranberry_orange_sauce.jpg`,
     ingridients: [
       "апельсины&nbsp;—  2&nbsp;шт.",
       "сахар&nbsp;—  220&nbsp;г",
@@ -531,8 +495,7 @@ export const sauces = [
   },
   {
     title: "Крем 'Шантильи'",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-ac14aa75ea/big5638d40ee25b8.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/cream_chantilly.jpg`,
     ingridients: [
       "    сливки для&nbsp;взбивания (жирностью 30-36%)&nbsp;—  500&nbsp;мл",
       "    сахарная пудра&nbsp;—  4&nbsp;ст.л.",
@@ -557,8 +520,7 @@ export const sauces = [
   },
   {
     title: "Соус Бер Руж",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-018b317fe0/big5633ebe716208.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/beurre_rouge_sauce.jpg`,
     ingridients: [
       "красное сухое вино&nbsp;—  150&nbsp;мл",
       " куриный бульон&nbsp;—  50&nbsp;мл",
@@ -572,14 +534,12 @@ export const sauces = [
       {
         description:
           "Вливаем в&nbsp;сотейник вино и&nbsp;бульон, кладем тимьяна, нарезанный крупными кубиками лук&nbsp;и разрезанные на&nbsp;4-6 частей шампиньоны.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-54318ba02c/big5633ebe8f15dd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/champignons_in_wine.jpg`,
       },
       {
         description:
           "Ставим на&nbsp;огонь и&nbsp;увариваем смесь в&nbsp;4&nbsp;раза. Процеживаем, возвращаем жидкость в&nbsp;сотейник и&nbsp;снова ставим на&nbsp;огонь. На&nbsp;небольшом нагреве при&nbsp;постоянном энергичном размешивании венчиком по&nbsp;одному кубику вводим холодное масло.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-b422a6c0f3/big5633ebe994595.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/ready_made_beurre_rouge_sauce.jpg`,
       },
       { description: "Приправляем по вкусу солью и сахаром." },
     ],
@@ -587,8 +547,7 @@ export const sauces = [
   },
   {
     title: "Домашняя арахисовая паста",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-23083c57cf/big561f6e9e8e3e7.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/homemade_peanut_butter.jpg`,
     ingridients: [
       "сырой арахис&nbsp;—  500&nbsp;г",
       " соль и&nbsp;сахар&nbsp;—  по&nbsp;вкусу",
@@ -597,8 +556,7 @@ export const sauces = [
     cooking: [
       {
         description: "Арахис кладем на противень.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-bd3d7d6802/big561f6ea7146b0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/peanuts_in_blender.jpg`,
       },
       {
         description:
@@ -610,14 +568,12 @@ export const sauces = [
       },
       {
         description: "Мелем арахис в мелкую крошку.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-d1f2cd038e/big561f6ea8238de.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grinding_peanuts.jpg`,
       },
       {
         description:
           "Добавляем щепотку-другую соли и&nbsp;столько же&nbsp;сахара. Вливаем растительное масло. Продолжаем измельчать до&nbsp;состояния пасты.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-c071253665/big561f6ea8c200e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/peanut_butter_in_blender.jpg`,
       },
       { description: "При необходимости добавляем еще соли и сахара." },
     ],
@@ -625,8 +581,7 @@ export const sauces = [
   },
   {
     title: "Заправка из авокадо для салата 'Цезарь'",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-e005577b3e/big561e5a3cf2f61.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/avocado_dressing_for_caesar_salad.jpg`,
     ingridients: [
       "    авокадо (спелое)&nbsp;—  1&nbsp;шт.",
       "    лимон&nbsp;—  1&nbsp;шт.",
@@ -664,8 +619,7 @@ export const sauces = [
   },
   {
     title: "Соус Ромеско",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-6199b68a8f/big561e57c222de3.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/romesco_sauce.jpg`,
     ingridients: [
       "    вишневый уксус&nbsp;—  1&nbsp;ст. л.",
       "    миндаль маркона&nbsp;—  150&nbsp;г",
@@ -698,8 +652,7 @@ export const sauces = [
   },
   {
     title: "Белый соус для пиццы",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-4d1bb403c1/big561671cf6617e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/white_pizza_sauce.jpg`,
     ingridients: [
       "    сливочное масло&nbsp;—  50&nbsp;г",
       "    чеснок&nbsp;—  3&nbsp;зубчика",
@@ -758,8 +711,7 @@ export const sauces = [
   },
   {
     title: "Соус 'Ткемали'",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-a327c5d298/big56127f1b10659.JPG",
+    image: `${process.env.PUBLIC_URL}/images/sauces/sauce_tkemali.jpeg`,
     ingridients: [
       "    кориандр&nbsp;—  3&nbsp;ч.л.",
       "    красный молотый перец&nbsp;—  1,5&nbsp;ч.л.",
@@ -780,8 +732,7 @@ export const sauces = [
   },
   {
     title: "Вареная сгущенка в микроволновке",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-4544eb717b/big5612678dd2005.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/boiled_condensed_milk_in_the_microwave.jpg`,
     ingridients: ["сгущенка&nbsp;—  400&nbsp;г"],
     cooking: [
       {
@@ -805,8 +756,7 @@ export const sauces = [
   },
   {
     title: "Дип из красной фасоли",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-d7b8c8030d/big5600735837934.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/red_bean_dip.jpg`,
     ingridients: [
       "отварная или&nbsp;консервированная красная фасоль&nbsp;—  300&nbsp;г (вес нетто, без&nbsp;жидкости)",
       " сметана&nbsp;—  2&nbsp;ст.л.",
@@ -819,13 +769,11 @@ export const sauces = [
       {
         description:
           "Кладем все ингредиенты, кроме соли и лимонного сока, в миску.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-882980b489/big56007364267be.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beans_garlic_and_sour_cream.jpg`,
       },
       {
         description: "Перемалываем блендером до состояния пасты.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-1060208248/big560073652cd53.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/make_bean_and_garlic_paste.jpg`,
       },
       {
         description:
@@ -836,8 +784,7 @@ export const sauces = [
   },
   {
     title: "Шоколадно-масляный крем для тортов",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-3379cfe6dd/big5601a948df962.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/chocolate_butter_cream_for_cakes.jpg`,
     ingridients: [
       "сливочное масло&nbsp;—  120&nbsp;г",
       "яйцо&nbsp;—  1&nbsp;шт.",
@@ -865,8 +812,7 @@ export const sauces = [
   },
   {
     title: "Медовый соус барбекю",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-c3e97d5e32/big559306d7968bb.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/honey_bbq_sauce.jpg`,
     ingridients: [
       "крупная луковица&nbsp;—  1&nbsp;шт.",
       " чеснок&nbsp;—  3&nbsp;зубчика",
@@ -882,14 +828,12 @@ export const sauces = [
       {
         description:
           "В сотейнике на&nbsp;среднем огне разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и жарим, периодически помешивая, до&nbsp;мягкости, 4-5 минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-c614b1d490/big559306dc5b76f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions2.jpg`,
       },
       {
         description:
           "Добавляем чеснок и&nbsp;жарим, помешивая, еще&nbsp;30&nbsp;секунд. Добавляем все&nbsp;остальные ингредиенты.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-7b2c4b8a3f/big559306dd13edc.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_ketchup.jpg`,
       },
       {
         description:
@@ -897,8 +841,7 @@ export const sauces = [
       },
       {
         description: "Перебиваем соус блендером до однородного состояния.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-42df094954/big559306de27b77.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/blend_the_barbecue_sauce.jpg`,
       },
       { description: "Остужаем, разливаем в банки. Хранится неделю точно." },
     ],
@@ -906,8 +849,7 @@ export const sauces = [
   },
   {
     title: "Соус 'Тартар'",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-fb3bb96076/big557ec5c84cdea.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/tartar_sauce.jpg`,
     ingridients: [
       "майонез&nbsp;—  120&nbsp;г",
       " нарубленные корнишоны&nbsp;—  1&nbsp;ст.л.",
@@ -919,14 +861,10 @@ export const sauces = [
     cooking: [
       {
         description: "Смешиваем корнишоны, лук и каперсы.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-c95e24ca08/big52973e412019e.jpg",
       },
       {
         description:
           "Добавляем в&nbsp;миску к&nbsp;майонезу, вливаем лимонный сок, приправляем солью и&nbsp;перцем. Перемешиваем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-b414fe6f7f/big52973e43a372d.jpg",
       },
       {
         description:
@@ -936,8 +874,7 @@ export const sauces = [
   },
   {
     title: "Сливочно-ореховый соус",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-611d25012f/big557abea315c2a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/creamy_nut_sauce.jpg`,
     ingridients: [
       "сметана&nbsp;—  100&nbsp;г",
       "соевый соус&nbsp;—  2&nbsp;ч. л.",
@@ -947,18 +884,12 @@ export const sauces = [
       {
         description:
           "Орехи измельчаем в&nbsp;ступке так, чтобы оставались мелкие кусочки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-d7d56d4f87/557abe3ed9b74.jpg",
       },
       {
         description: "Добавляем сметану и&nbsp;соевый соус.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-a1f8c048d2/557abe554486b.jpg",
       },
       {
         description: "Всё перемешиваем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-24fe0b7491/557abe6338237.jpg",
       },
       {
         description:
@@ -969,8 +900,7 @@ export const sauces = [
   },
   {
     title: "Дип из авокадо с мятой",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-1768e02441/big55380f580abfe.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/avocado_mint_dip.jpg`,
     ingridients: [
       "крупное спелое авокадо&nbsp;—  1&nbsp;шт.",
       " сок&nbsp;половины лайма",
@@ -982,19 +912,16 @@ export const sauces = [
       {
         description:
           "Авокадо очищаем от&nbsp;кожуры, удаляем косточку. Нарезаем на&nbsp;куски и&nbsp;кладем в&nbsp;чашу блендера. Добавляем сок&nbsp;лайма, мяту и&nbsp;соль.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-14c6d6024f/big55380f597e3a6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/avocado_with_mint_in_blender.jpg`,
       },
       {
         description:
           "Перемалываем до однородного состояния. Добавляем сливочный сыр.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-718cc91a6d/big55380f5a0e2ae.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_cream_cheese_to_avocado.jpg`,
       },
       {
         description: "Снова перемалываем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-4faaaae126/big55380f5aa1a0e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/green_sauce.jpg`,
       },
       { description: "При необходимости добавляем соль и лаймовый сок." },
       { description: "Подаем с чипсами, сухариками или гренками." },
@@ -1003,8 +930,7 @@ export const sauces = [
   },
   {
     title: "Постный овощной соус",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-63b2eb29a0/big54ec873ee5b89.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/lenten_vegetable_sauce.jpg`,
     ingridients: [
       "авокадо&nbsp;—  1&nbsp;часть",
       "свежий огурец&nbsp;—  1&nbsp;часть ",
@@ -1020,8 +946,7 @@ export const sauces = [
   },
   {
     title: "Голландский соус",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-b4381a17b9/big54db2bb82135e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/hollandaise_sauce.jpg`,
     ingridients: [
       "маленькая луковица&nbsp;—  1/2&nbsp;шт.",
       " петрушка&nbsp;—  2-3 веточки",
@@ -1036,25 +961,17 @@ export const sauces = [
       {
         description:
           "Мелко рубим лук. Кладем в&nbsp;сотейник, добавляем петрушку, лавровый лист, вливаем вино и&nbsp;уксус. Ставим на&nbsp;средний огонь и&nbsp;увариваем до&nbsp;четверти объема (должно остаться около 30&nbsp;мл жидкости).",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-00ab2b8d8e/big54db2bb9b1026.jpg",
       },
       {
         description: "Желтки соединяем с винной смесью.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-75313787a3/big54db2bba33c3e.jpg",
       },
       {
         description:
           "Ставим миску на&nbsp;водяную баню (вода должна еле&nbsp;кипеть) и&nbsp;постоянно взбиваем венчиком до&nbsp;тех пор, пока на&nbsp;соусе на&nbsp;будут оставаться следы от&nbsp;венчика.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-03cfd87933/big54db2bbabe6fd.jpg",
       },
       {
         description:
           "Снимаем с&nbsp;огня. Продолжая взбивать, вливаем растопленное сливочное масло, остуженное до&nbsp;комнатной температуры&nbsp;—  сначала по&nbsp;каплям, потом тонкой струйкой.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-c8dd078502/big54db2bbb36737.jpg",
       },
       {
         description:
@@ -1065,8 +982,7 @@ export const sauces = [
   },
   {
     title: "Чесночная заправка винегрет",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-21391e5582/big529738930c91d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/garlic_vinaigrette_dressing.jpg`,
     ingridients: [
       "чеснок&nbsp;—  2&nbsp;зубчика",
       " красный винный уксус&nbsp;—  3&nbsp;ст.л.",
@@ -1080,8 +996,6 @@ export const sauces = [
       },
       {
         description: "Вливаем уксус, размешиваем и даем постоять 3 минуты.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-6c391c0aed/big529738a77cdfe.jpg",
       },
       {
         description:
@@ -1094,8 +1008,7 @@ export const sauces = [
   },
   {
     title: "Хумус с вялеными томатами",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-3f917146d5/big538f8c5868b54.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/hummus_with_sun_dried_tomatoes.jpg`,
     ingridients: [
       "отварной нут&nbsp;—  350&nbsp;г",
       " вяленые помидоры&nbsp;—  5-6 половинок",
@@ -1109,14 +1022,12 @@ export const sauces = [
     cooking: [
       {
         description: "Каждую горошину нута очищаем от оболочки.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-73144e74fc/big538f8c5aed084.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/peeled_chickpeas.jpg`,
       },
       {
         description:
           "Добавляем все&nbsp;остальные ингредиенты и&nbsp;перемалываем блендером до&nbsp;однородного состояния. Если смесь густовата, добавляем немного жидкости от&nbsp;варки нута.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-34dcd66bd5/big538f8c5b72b7d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grind_chickpeas_with_spices_in_a_blender.jpg`,
       },
       {
         description:
@@ -1127,8 +1038,7 @@ export const sauces = [
   },
   {
     title: "Айоли с базиликом",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-012a706ea8/big546921e82694e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/aioli_with_basil.jpg`,
     ingridients: [
       "белый хлеб без&nbsp;корки&nbsp;—  2&nbsp;куска",
       " молоко&nbsp;—  100&nbsp;мл",
@@ -1142,18 +1052,15 @@ export const sauces = [
     cooking: [
       {
         description: "Хлеб размачиваем в молоке.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-d89dfa1133/big546921ee8e575.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/bread_in_milk.jpg`,
       },
       {
         description: "Чеснок с солью кладем в ступку и растираем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9d37ca4d4e/big546921f2ae915.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/garlic_in_a_mortar.jpg`,
       },
       {
         description: "В итоге должна получиться практически однородная паста.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-26c1f68e33/big546921f34caae.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/minced_garlic.jpg`,
       },
       {
         description:
@@ -1162,8 +1069,7 @@ export const sauces = [
       {
         description:
           "Перебиваем до&nbsp;однородного состояния. Не&nbsp;выключая блендер, начинаем вливать масло&nbsp;—  сначала по&nbsp;каплям, затем&nbsp;—  тонкой струйкой. Взбиваем, пока не&nbsp;вольем все&nbsp;масло.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-923585be14/big546921f3cc5a6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_basil.jpg`,
       },
       { description: "Готовый соус приправляем по вкусу лимонным соком." },
     ],
@@ -1171,8 +1077,7 @@ export const sauces = [
   },
   {
     title: "Имбирный сироп",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-11276391be/big5436a2923f6fa.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/ginger_syrup.jpg`,
     ingridients: [
       "свежий имбирь&nbsp;—  250&nbsp;г",
       " сахар&nbsp;—  400&nbsp;г",
@@ -1182,8 +1087,7 @@ export const sauces = [
       {
         description:
           "Имбирь чистим и&nbsp;нарезаем ломтиками. Добавляем сахар, вливаем воду и&nbsp;ставим на&nbsp;огонь.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-7d316d7d38/big5297648f57082.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/peeled_ginger_in_water.jpg`,
       },
       {
         description:
@@ -1191,13 +1095,11 @@ export const sauces = [
       },
       {
         description: "Затем процеживаем и охлаждаем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-6de78b0515/big529764939067e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/drain_the_water_from_the_ginger.jpg`,
       },
       {
         description: "Кусочки имбиря кладем на фольгу и подсушиваем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-89341032c3/big52976495dc557.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/ginger_on_foil.jpg`,
       },
       {
         description:
@@ -1208,8 +1110,7 @@ export const sauces = [
   },
   {
     title: "Клюквенно-имбирный соус",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-f38a107a30/big5297458929de4.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/cranberry_ginger_sauce.jpg`,
     ingridients: [
       "свежий имбирь&nbsp;—  250&nbsp;г",
       " сахар&nbsp;—  400&nbsp;г",
@@ -1218,39 +1119,25 @@ export const sauces = [
     cooking: [
       {
         description:
-          "Этот замечательный сироп с&nbsp;очень насыщенным имбирным вкусом можно добавлять в&nbsp;разнообразные коктейли, лить в&nbsp;чай вместо сахара или&nbsp;поливать блинчики или&nbsp;гренки. Если вы&nbsp;любите имбирь, разумеется. Помимо сиропа этот рецепт позволяет одним махом приготовить еще&nbsp;и имбирные цукаты, которые хорошо использовать в&nbsp;выпечке.",
+          "В ковшике смешиваем клюкву, сахар, имбирь и 2 ст.л. воды.",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_cranberries_ginger_sugar_and_water.jpg`,
+      },
+
+      {
+        description:
+          "Ставим на плиту, доводим до кипения и варим на умеренном огне примерно 10-15 минут. Сироп должен загустеть.",
+        image: `${process.env.PUBLIC_URL}/images/other_images/thick_cranberry_syrup.jpg`,
       },
       {
         description:
-          "Имбирь чистим и&nbsp;нарезаем ломтиками. Добавляем сахар, вливаем воду и&nbsp;ставим на&nbsp;огонь.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-7d316d7d38/big5297648f57082.jpg",
-      },
-      {
-        description:
-          "Доводим до&nbsp;кипения, уменьшаем огонь и&nbsp;варим примерно 1&nbsp;час. Накрываем крышкой и&nbsp;даем постоять около часа.",
-      },
-      {
-        description: "Затем процеживаем и охлаждаем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-6de78b0515/big529764939067e.jpg",
-      },
-      {
-        description: "Кусочки имбиря кладем на фольгу и подсушиваем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-89341032c3/big52976495dc557.jpg",
-      },
-      {
-        description:
-          "Сироп можно хранить до&nbsp;недели в&nbsp;холодильнике или&nbsp;разлить в&nbsp;стерилизованные банки и&nbsp;закатать.",
+          "Снимаем соус с огня, добавляем уксус и перемешиваем. Остужаем до комнатной температуры и подаем.",
       },
     ],
     type: saucesType,
   },
   {
     title: "Карамельный соус",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-27ac45b584/big5297074ad5bde.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/caramel_sauce.jpg`,
     ingridients: [
       "сахар&nbsp;—  200&nbsp;г",
       " сливочное масло&nbsp;—  150&nbsp;г",
@@ -1260,20 +1147,14 @@ export const sauces = [
       {
         description:
           "Кладем сахар в&nbsp;ковшик с&nbsp;толстым дном. Ставим на&nbsp;средний огонь. Постоянно помешивая, доводим до&nbsp;кипения. Варим до&nbsp;тех пор, пока сахар не&nbsp;растворится и&nbsp;масса не&nbsp;станет янтарного цвета.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-b6e2aa12fb/big5297074d2401d.jpg",
       },
       {
         description:
           "Не снимая ковш с&nbsp;огня, добавляем нарезанное на&nbsp;небольшие кусочки масло и&nbsp;перемешиваем до&nbsp;растворения последнего.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-4dcc3bcfce/big529707500cd07.jpg",
       },
       {
         description:
           "Снимаем с&nbsp;огня и&nbsp;тонкой струйкой, непрерывно помешивая, вливаем сливки. Размешиваем до&nbsp;однородности и&nbsp;гладкости массы.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-6f80f23080/big5297075076485.jpg",
       },
       {
         description:
@@ -1288,8 +1169,7 @@ export const sauces = [
   },
   {
     title: "Огуречно-ананасовая сальса",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-cd67763d92/big52974fb5564ce.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/cucumber_pineapple_salsa.jpg`,
     ingridients: [
       "сок 1&nbsp;лайма (2&nbsp;ст.л)",
       " мед&nbsp;—  1&nbsp;ст.л.",
@@ -1312,24 +1192,20 @@ export const sauces = [
       },
       {
         description: "Ананас нарезаем на маленькие кусочки.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-03bfb07e80/big52974fddbe0f6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_pineapple.jpg`,
       },
       {
         description: "Огурец нарезаем так же.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b45c83fa38/big52974fe1735a3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_cucumber.jpg`,
       },
       {
         description: "Мелко режем зелень и перчик.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-1f4389570f/big529750030926a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_greens_and_hot_peppers.jpg`,
       },
       {
         description:
           "Смешиваем все в миске вместе с заправкой. Солим и перчим по вкусу.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-37f18340d4/big5297500685a9b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_pineapple_with_cucumber_and_herbs.jpg`,
       },
       { description: "Подаем в охлажденном виде." },
     ],
@@ -1337,8 +1213,7 @@ export const sauces = [
   },
   {
     title: "Огуречно-йогуртовый дип",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-e2c79c63df/big529755a5db1cb.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/cucumber_yogurt_dip.jpg`,
     ingridients: [
       "натуральный йогурт (предпочтителен густой греческий)&nbsp;—  300&nbsp;г",
       " небольшие огурцы&nbsp;—  2&nbsp;шт.",
@@ -1349,8 +1224,7 @@ export const sauces = [
     cooking: [
       {
         description: "Огурцы очищаем от кожицы, убираем семена, мелко рубим.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-c5d98b05d2/big529755d443fda.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/peeled_chopped_cucumbers_with_parsley.jpg`,
       },
       {
         description:
@@ -1361,8 +1235,7 @@ export const sauces = [
   },
   {
     title: "Соус батард",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-a3ca7e4095/big52961cfd2aab6.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/batard_sauce.jpg`,
     ingridients: [
       "сливочное масло&nbsp;—  250&nbsp;г",
       " мука&nbsp;—  3&nbsp;ст.л.",
@@ -1375,14 +1248,10 @@ export const sauces = [
       {
         description:
           "Растапливаем в&nbsp;кастрюле 50&nbsp;г сливочного масла и&nbsp;выключаем огонь. Добавляем муку и&nbsp;тщательно перемешиваем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-b0e1ea7c25/big52961d01b9fad.jpg",
       },
       {
         description:
           "В отдельной посуде доводим до&nbsp;кипения бульон. Вливаем его&nbsp;в кастрюлю и&nbsp;энергично перемешиваем венчиком до&nbsp;однородности.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-5d1041cb3f/big52961d0739cde.jpg",
       },
       {
         description:
@@ -1394,8 +1263,7 @@ export const sauces = [
   },
   {
     title: "Сливочно-огуречный соус с чесноком",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-19f730b16d/big5296f08563ba8.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/creamy_cucumber_sauce_with_garlic.jpg`,
     ingridients: [
       "средний грунтовой огурец&nbsp;—  1&nbsp;шт.",
       " сливочный сыр&nbsp;типа филадельфии&nbsp;—  120&nbsp;г",
@@ -1407,22 +1275,19 @@ export const sauces = [
     cooking: [
       {
         description: "Огурец трем на крупную терку и немного отжимаем сок.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-d3238c6485/big5296f08977fde.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_cucumber.jpg`,
       },
       {
         description:
           "Смешиваем с&nbsp;размягченным сливочным сыром, сметаной, майонезом и&nbsp;тертым чесноком. Солим и&nbsp;перчим по&nbsp;вкусу.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-73e8ea87df/big5296f08a31adc.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_cucumber_with_sour_cream_and_mayonnaise.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Мятно-йогуртовая заправка",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-efae2490f1/big5297099e604f3.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/mint_yogurt_dressing.jpg`,
     ingridients: [
       "натуральный йогурт&nbsp;—  120&nbsp;г",
       " небольшая горсть листьев мяты",
@@ -1446,8 +1311,7 @@ export const sauces = [
   },
   {
     title: "Сальса фреска",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-6a532a7f9c/big529759f71caeb.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/salsa_fresco.jpg`,
     ingridients: [
       "спелые помидоры&nbsp;—  2&nbsp;шт.",
       " небольшая салатная луковица&nbsp;—  1&nbsp;шт.",
@@ -1460,23 +1324,19 @@ export const sauces = [
     cooking: [
       {
         description: "Мелко рубим лук.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-6bf82b5806/big52975a1bd0dbd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_onion.jpg`,
       },
       {
         description: "Помидоры нарезаем кубиками со стороной 0,5-0,7 см.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-bb20c58696/big52975a1d81c1a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_tomatoes.jpg`,
       },
       {
         description: "Мелко рубим перчик, чеснок и кинзу.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-281cc2e109/big52975a4a250cd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_hot_peppers_garlic_and_cilantro.jpg`,
       },
       {
         description: "Смешиваем все в миске вместе с соком лайма.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-57054b4d07/big52975a5a9e528.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_with_tomato_and_lime_juice.jpg`,
       },
       {
         description:
@@ -1488,8 +1348,7 @@ export const sauces = [
   },
   {
     title: "Соус песто",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-11d67c4d10/big5296f197bc59b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/pesto_sauce.jpg`,
     ingridients: [
       "зеленый (!) базилик&nbsp;—  1&nbsp;пучок (50&nbsp;г)",
       " тертый пармезан&nbsp;—  50&nbsp;г",
@@ -1508,8 +1367,7 @@ export const sauces = [
   },
   {
     title: "Дип из авокадо и голубого сыра",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-66254f27a3/big5296e67166a83.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/avocado_and_blue_cheese_dip.jpg`,
     ingridients: [
       "авокадо&nbsp;—  1&nbsp;шт.",
       " маленькая луковица&nbsp;—  1/2&nbsp;шт. (1&nbsp;ст.л. в&nbsp;мелко нарубленном виде)",
@@ -1522,15 +1380,13 @@ export const sauces = [
       {
         description:
           "Кладем все ингредиенты, кроме соли, перца и лимонного сока в чашу.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-906e6b4bf8/big5296e6730a5f5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/red_onion_and_blue_cheese.jpg`,
       },
       { description: "Измельчаем при помощи погружного блендера." },
       {
         description:
           "Добавляем лимонный сок, соли и&nbsp;перец по&nbsp;вкусу. Перемешиваем и&nbsp;перекладываем в&nbsp;пиалу.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4d8dab7823/big5296e6736669a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/ready_made_dip_sauce.jpg`,
       },
       { description: "Подаем с крекерами, гренками или чипсами." },
     ],
@@ -1538,8 +1394,7 @@ export const sauces = [
   },
   {
     title: "Дип из печеных перцев и грецких орехов",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-fafb9d861d/big52970fa965ae7.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/roasted_peppers_and_walnuts_dip.jpg`,
     ingridients: [
       "средние красные сладкие перцы&nbsp;—  3&nbsp;шт.",
       " панировочные сухари хорошего качества&nbsp;—  4&nbsp;ст.л.",
@@ -1560,8 +1415,6 @@ export const sauces = [
       {
         description:
           "Вынимаем перец из&nbsp;духовки и&nbsp;кладем в&nbsp;плотный полиэтиленовый пакет или&nbsp;в плотно закрывающийся контейнер. Закрываем и&nbsp;оставляем на&nbsp;10&nbsp;минут. Вынимаем, снимаем шкурку, убираем семена. Нарезаем на&nbsp;небольшие куски.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-7da29cf65d/big52970faed0dbe.jpg",
       },
       {
         description:
@@ -1570,8 +1423,6 @@ export const sauces = [
       {
         description:
           "Добавляем  печеный перец, панировочные сухари, чеснок, специи, уксус, лимонный сок&nbsp;и оливковое масло. Измельчаем до&nbsp;однородности. Солим и&nbsp;перчим по&nbsp;вкусу.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-67fcfa5387/big52970fb2bcd70.jpg",
       },
       {
         description:
@@ -1582,8 +1433,7 @@ export const sauces = [
   },
   {
     title: "Баба-гануш",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-ce00d08dcc/big5297110f77811.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/baba_ganoush.jpg`,
     ingridients: [
       "крупные баклажаны&nbsp;—  2&nbsp;шт.",
       " чеснок&nbsp;—  4&nbsp;зубчика",
@@ -1596,14 +1446,10 @@ export const sauces = [
       {
         description:
           "Кладем баклажаны на&nbsp;решетку и&nbsp;жарим над&nbsp;углями, часто переворачивая, около 30-40 минут. Кожура баклажанов должна вздуться и&nbsp;почернеть.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-9fa4cdaf11/big5297111ed540a.jpg",
       },
       {
         description:
           "Дайте баклажанам слегка остыть, снимите кожуру. Мякоть нарежьте на&nbsp;небольшие куски и&nbsp;положите в&nbsp;чашу блендера.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-f5dcfd3aa6/big529711206a51e.jpg",
       },
       {
         description:
@@ -1618,8 +1464,7 @@ export const sauces = [
   },
   {
     title: "Хумус с печеным сладким перцем",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-9a0192f596/big529616951b0b4.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/hummus_with_roasted_bell_peppers.jpg`,
     ingridients: [
       "отваренный нут&nbsp;—  300&nbsp;г",
       " чеснок&nbsp;—  2&nbsp;зубчика",
@@ -1636,19 +1481,13 @@ export const sauces = [
       {
         description:
           "Перец кладем в&nbsp;форму для&nbsp;запекания и&nbsp;ставим в&nbsp;разогретую до&nbsp;200&nbsp;градусов духовку. Запекаем до&nbsp;мягкости и&nbsp;черных подпалин, около 30&nbsp;минут. Вынимаем, кладем в&nbsp;пакет или&nbsp;в плотно закрывающийся контейнер и&nbsp;заворачиваем/закрываем. Оставляем на&nbsp;10&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-987fdf0d4e/big5296169d30870.jpg",
       },
       {
         description:
           "Затем вынимаем, снимаем шкурку и&nbsp;вычищаем семена. Кладем в&nbsp;миску, туда же&nbsp;отправляем нут, чеснок, тахину, оливковое масло и&nbsp;специи.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-5cc7a49da5/big5296169e4c9ad.jpg",
       },
       {
         description: "Перемалываем блендером.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-8810006dfb/big529616a238573.jpg",
       },
       {
         description:
@@ -1663,8 +1502,7 @@ export const sauces = [
   },
   {
     title: "Базиликовый соус",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-1466921ac0/big53732da9bcc75.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/basil_sauce.jpg`,
     ingridients: [
       "майонез&nbsp;—  225&nbsp;г",
       " белый винный уксус&nbsp;—  2&nbsp;ч.л.",
@@ -1682,8 +1520,7 @@ export const sauces = [
   },
   {
     title: "Томатный соус",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-e2e3f61402/big5372302697205.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/tomato_sauce.jpg`,
     ingridients: [
       "пальчиковые помидоры&nbsp;—  1,6&nbsp;кг",
       " томатная паста хорошего качества&nbsp;—  200&nbsp;г",
@@ -1701,19 +1538,13 @@ export const sauces = [
       {
         description:
           "Сначала нужно подготовить помидоры. Надрезаем каждую помидорку крест-накрест, кладем в&nbsp;кастрюлю. Заливаем помидоры кипятком, даем постоять пару минут, затем перекладываем в&nbsp;холодную воду. Снимаем с&nbsp;помидор кожицу и&nbsp;удаляем плодоножки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-4e0d9e4ed9/big529838ee39bcc.jpg",
       },
       {
         description: "Слегка мнем помидоры руками, затем мелко нарезаем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-e91139fde0/big529838ee921d5.jpg",
       },
       {
         description:
           "Лук режем кубиками. Жарим на растительном масле до слегка золотистого цвета.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-f037cd8d1b/big529838eef1546.jpg",
       },
       {
         description: "Добавляем мелко нарубленный чеснок и жарим 30-40 секунд.",
@@ -1721,14 +1552,10 @@ export const sauces = [
       {
         description:
           "Кладем в&nbsp;сотейник помидоры и&nbsp;томатную пасту, перемешиваем и&nbsp;варим на&nbsp;среднем огне минут 40&nbsp;до хорошей консистенции.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-03a0409e06/big529839049e13e.jpg",
       },
       {
         description:
           "Корректируем содержание соли и&nbsp;перца, добавляем мелко нарубленный базилик (и другие травы, если используете) и&nbsp;варим на&nbsp;маленьком огне еще&nbsp;пару минут, чтобы соус пропитался ароматом трав.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-d379869d31/big52983905929a7.jpg",
       },
       { description: "Охлаждаем и подаем." },
     ],
@@ -1736,8 +1563,7 @@ export const sauces = [
   },
   {
     title: "Дип из феты с редисом",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-15af023dc1/big5296ff9ed6b84.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/feta_dip_with_radish.jpg`,
     ingridients: [
       "фета&nbsp;—  250&nbsp;г",
       " натуральный йогурт&nbsp;—  60&nbsp;г",
@@ -1761,23 +1587,19 @@ export const sauces = [
       },
       {
         description: "Редис и листья петрушки мелко рубим ножом.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-9b8176701d/big5296ffa32113f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_radishes_and_parsley.jpg`,
       },
       {
         description: "Фету, йогурт, лимонный сок кладем в чашу блендера.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-53020ddb80/big5296ffa418887.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/feta_and_yogurt_in_a_bowl.jpg`,
       },
       {
         description: "Перемалываем.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-c84f4cb1ed/big5296ffa768dae.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_feta_and_yogurt_in_a_bowl.jpg`,
       },
       {
         description: "Добавляем к сырной массе редис и зелень, перемешиваем.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-64a3fb29f4/big5296ffb35d616.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_radishes_and_herbs.jpg`,
       },
       { description: "Перекладываем в сервировочную посуду и подаем." },
     ],
@@ -1785,8 +1607,7 @@ export const sauces = [
   },
   {
     title: "Дип из сметаны с хреном",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-0406b5fcba/big52960b65b789c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/horseradish_sour_cream_dip.jpg`,
     ingridients: [
       "густая сметана&nbsp;—  350-400 г",
       " готовый белый хрен&nbsp;—  3&nbsp;ст.л.",
@@ -1796,8 +1617,7 @@ export const sauces = [
     cooking: [
       {
         description: "Кладем в плошку сметану, хрен, нарубленный укроп и соль.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-07c7085fb8/big52960b77e475f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_sour_cream_horseradish_and_dill.jpg`,
       },
       {
         description:
@@ -1808,8 +1628,7 @@ export const sauces = [
   },
   {
     title: "Луковый дип",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-d7ec3c5996/big52972d6c84ee1.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/onion_dip.jpg`,
     ingridients: [
       "лук&nbsp;—  2&nbsp;шт.",
       " оливковое масло&nbsp;—  2&nbsp;ст.л.",
@@ -1826,31 +1645,21 @@ export const sauces = [
     cooking: [
       {
         description: "Лук мелко рубим.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-e988d897fa/big52972d72afa7f.jpg",
       },
       {
         description:
           "В сковороде на&nbsp;умеренном огне разогреваем оливковое масло. Кладем лук&nbsp;и тимьян, жарим, периодически помешивая, до&nbsp;карамельного цвета, около 30-40 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-66083532b7/big52972d75729e9.jpg",
       },
       {
         description:
           "Добавляем вустерский соус и&nbsp;бальзимический уксус, держим на&nbsp;огне, периодически помешивая, пока жидкость практически полностью не&nbsp;испарится, около 10-12 минут. Снимаем лук&nbsp;с огня и&nbsp;даем остыть.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-34a2e4b42a/big52972d777974b.jpg",
       },
       {
         description:
           "Пока остывает лук, смешиваем в&nbsp;блендере сметану, сливочный сыр, майонез, соль и&nbsp;перец до&nbsp;однородной массы.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-7b71ad26b5/big52972d79e55e1.jpg",
       },
       {
         description: "Добавляем лук и перемешиваем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-92a2b664f5/big52972d7d35d45.jpg",
       },
       {
         description:
@@ -1861,8 +1670,7 @@ export const sauces = [
   },
   {
     title: "Сырный соус 'Морнэ'",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-725ffacbcd/big52960634b3633.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/cheese_sauce_mornay.jpg`,
     ingridients: [
       "сливочное масло&nbsp;—  50&nbsp;г",
       " мука&nbsp;—  2&nbsp;ст.л.",
@@ -1875,8 +1683,7 @@ export const sauces = [
       {
         description:
           "В сотейнике на&nbsp;среднем огне растапливаем сливочное масло. Кладем муку и&nbsp;жарим, помешивая, до&nbsp;слегка коричневатого оттенка.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-11ca2f7204/big5296064642598.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/heat_butter_flour.jpg`,
       },
       {
         description:
@@ -1884,8 +1691,7 @@ export const sauces = [
       },
       {
         description: "Солим по вкусу, снимаем с огня.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-fc8a135485/big5296064ed7c38.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_milk_and_mix.jpg`,
       },
       { description: "Добавляем мягкое сливочное масло и перемешиваем." },
     ],
@@ -1893,8 +1699,7 @@ export const sauces = [
   },
   {
     title: "Гуакамоле",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-784e3c6492/big52972a2b06f41.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/guacamole.jpg`,
     ingridients: [
       "спелое авокадо&nbsp;—  1&nbsp;шт.",
       " лайм&nbsp;—  1&nbsp;шт.",
@@ -1925,8 +1730,7 @@ export const sauces = [
   },
   {
     title: "Горчичное масло",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-a73a6df3db/big5296108a415fc.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/mustard_oil.jpg`,
     ingridients: [
       "сливочное масло комнатной температуры&nbsp;—  180&nbsp;г",
       " дижонская или&nbsp;другая острая горчица&nbsp;—  2&nbsp;ч.л.",
@@ -1943,14 +1747,12 @@ export const sauces = [
       {
         description:
           "Масло, нарубленную петрушку, натертый чеснок, горчицу и соль кладем в миску.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4b947e36e7/big529610c7d87f1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/butter_parsley_and_mustard.jpg`,
       },
       {
         description:
           "Разминаем и перемешиваем до более-менее однородного состояния.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-a6b357e3ce/big529610ea5fe45.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_butter_parsley_and_mustard.jpg`,
       },
       {
         description:
@@ -1965,8 +1767,7 @@ export const sauces = [
   },
   {
     title: "Бальзамико-розмариновая заправка винегрет",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-29d0c07b30/big52973418418c7.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/balsamic_rosemary_vinaigrette.jpg`,
     ingridients: [
       "бальзамический уксус&nbsp;—  60&nbsp;мл",
       " дижонская горчица&nbsp;—  1&nbsp;ст.л.",
@@ -1995,8 +1796,7 @@ export const sauces = [
   },
   {
     title: "Соус ранч",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-e40565604c/big52970c0b09a3e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/ranch_sauce.jpg`,
     ingridients: [
       "натуральный йогурт&nbsp;—  125&nbsp;г",
       " майонез&nbsp;—  4&nbsp;ст.л.",
@@ -2016,8 +1816,6 @@ export const sauces = [
       },
       {
         description: "Мелко рубим зеленый лук.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-80c3630bf1/big52970c0dd7350.jpg",
       },
       {
         description:
@@ -2026,8 +1824,6 @@ export const sauces = [
       {
         description:
           "Смешиваем в&nbsp;миске йогурт, майонез и&nbsp;сметану. Добавляем нарубленную зелень и&nbsp;чеснок. Солим и&nbsp;перчим по&nbsp;вкусу.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-6575f20efb/big52970c12e8c8f.jpg",
       },
       { description: "Перемешиваем и подаем." },
     ],
@@ -2035,8 +1831,7 @@ export const sauces = [
   },
   {
     title: "Беарнский соус",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-fe21608292/big529620f265435.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/bearnaise_sauce.jpg`,
     ingridients: [
       "белое сухое вино&nbsp;—  60&nbsp;мл",
       " белый винный уксус&nbsp;—  60&nbsp;мл",
@@ -2063,8 +1858,6 @@ export const sauces = [
       {
         description:
           "Мелко нарубленный лук&nbsp;и эстрагон (1&nbsp;ст.л.) кладем в&nbsp;ковшик. Вливаем вино и&nbsp;уксус.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-e1567cc529/big5296212bea51b.jpg",
       },
       {
         description:
@@ -2073,8 +1866,6 @@ export const sauces = [
       {
         description:
           "Желтки кладем в миску. Взбиваем их венчиком в густую однородную массу.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-685c82c196/big5296212ea20d7.jpg",
       },
       {
         description:
@@ -2083,8 +1874,6 @@ export const sauces = [
       {
         description:
           "Добавляем в миску 1 ст.л. холодного масла и ставим на водяную баню.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-2024a753e1/big529621321accb.jpg",
       },
       {
         description:
@@ -2103,8 +1892,7 @@ export const sauces = [
   },
   {
     title: "Печеный чеснок",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-fde6dec05a/big52f2623b1885b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/baked_garlic.jpg`,
     ingridients: [
       "головки чеснока&nbsp;—  250&nbsp;г ",
       " свежие листья тимьяна&nbsp;—  1&nbsp;ч.л. (можно взять 0,5&nbsp;ч.л. сушеного)",
@@ -2119,19 +1907,16 @@ export const sauces = [
       {
         description:
           "У чеснока снимаем самый верхний слой шелухи и&nbsp;срезаем макушки так, чтобы с&nbsp;зубчиков были как&nbsp;бы сняты крышечки. Кладем в&nbsp;форму для&nbsp;запекания.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-21e5402cda/big52975d029a6a3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_off_the_top_of_the_garlic.jpg`,
       },
       {
         description: "Солим и перчим по вкусу, посыпаем тимьяном.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-ca737d4359/big52975d25a0467.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/salt_and_pepper_the_garlic.jpg`,
       },
       {
         description:
           "Поливаем оливковым маслом так, чтобы оно затекало и между зубчиками.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-0a41938428/big52975d2e0444c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pour_olive_oil_over_garlic.jpg`,
       },
       {
         description:
@@ -2140,16 +1925,14 @@ export const sauces = [
       {
         description:
           "Даем чесноку остыть до&nbsp;такой степени, чтобы его&nbsp;можно было брать руками, и&nbsp;вынимаем запеченные зубчики из&nbsp;шелухи. Далее в&nbsp;большинстве случаев чеснок разминается в&nbsp;пюре и&nbsp;используется по&nbsp;назначению.",
-        image:
-          "https://www.vkusnyblog.ru/wp-content/uploads/2010/08/roasted-garlic-5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/baked_garlic.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Грибной соус с каперсами",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-9830f4afba/big52d3f22a13ef9.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/mushroom_sauce_with_capers.jpg`,
     ingridients: [
       "шампиньоны&nbsp;—  500&nbsp;г",
       " луковица&nbsp;—  1&nbsp;шт.",
@@ -2163,20 +1946,14 @@ export const sauces = [
       {
         description:
           "Если шампиньоны мелкие&nbsp;—  оставляем их&nbsp;как есть, если крупные&nbsp;—  режем пополам или&nbsp;на четвертинки (в зависимости от&nbsp;размера).&nbsp; Лук&nbsp;нарезаем полукольцами. Обжариваем вместе на&nbsp;сливочном масле в&nbsp;течение 15&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-418bb9d006/big52987143e369f.jpg",
       },
       {
         description:
           "Добавляем муку, хорошенько размешиваем и&nbsp;жарим еще&nbsp;пару минут. Затем добавляем вино, доводим до&nbsp;кипения.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-2d16d8378c/big529871446ef56.jpg",
       },
       {
         description:
           "Через 2&nbsp;минуты вводим бульон и&nbsp;каперсы. Постоянно помешивая, тушим еще&nbsp;5&nbsp;минут и&nbsp;снимаем с&nbsp;огня.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-603af58b9b/big5298714a91619.jpg",
       },
       { description: "Готовым соус поливаем жареное мясо, рыбу или птицу." },
     ],
@@ -2184,8 +1961,7 @@ export const sauces = [
   },
   {
     title: "Сливочный соус к рыбе",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-3c8682253b/big51f228cde86a7.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/creamy_sauce_for_fish.jpg`,
     ingridients: [
       "Сливки 20-22% 	200&nbsp;мл&nbsp;	",
       "Горчица дижонская 	4&nbsp;ч.л.",
@@ -2206,26 +1982,18 @@ export const sauces = [
       {
         description:
           "Сливки налейте в&nbsp;сотейник и&nbsp;поставьте на&nbsp;небольшой огонь. Добавьте столовую ложку горчицы, мед, выжмите сок&nbsp;лайма и&nbsp;размешайте.  Семена горчицы и&nbsp;кориандра прогрейте на&nbsp;сухой сковороде до&nbsp;потрескивания и&nbsp;тоже добавьте в&nbsp;соус.	",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-aba02001c7/big51a6f18fb1990.jpg",
       },
       {
         description:
           "Когда соус начнет загустевать, добавьте измельченную зелень (можно использовать укроп, петрушку, шалфей, эстрагон).  Снимите с&nbsp;огня и&nbsp;отставьте в&nbsp;сторону.	",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-091913a5cc/big51a6f19049985.jpg",
       },
       {
         description:
           "Рыбу разрежьте на&nbsp;стейки, посолите, поперчите и&nbsp;жарьте на&nbsp;сухой сковороде.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-83aafda049/big51a6f190dd0df.jpg",
       },
       {
         description:
           "				 					 																					 																 							Поджарьте до&nbsp;румяной корочки. Не&nbsp;пересушивайте, хотя в&nbsp;данном случае соус поможет спасти даже чуть пересушенную рыбу или&nbsp;мясо.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-ea4734345a/big51a6f19180c56.jpg",
       },
       {
         description:
@@ -2235,9 +2003,8 @@ export const sauces = [
     type: saucesType,
   },
   {
-    title: "Сырный соус",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-ded160f2a8/big51a73a0b4ed77.jpg",
+    title: "Сырный соус на молоке",
+    image: `${process.env.PUBLIC_URL}/images/sauces/сheese_sauce.jpg`,
     ingridients: [
       "сыр чеддер или&nbsp;пармезан (можно другой)&nbsp;—  120-130 г",
       "молоко&nbsp;—  600&nbsp;мл",
@@ -2272,8 +2039,7 @@ export const sauces = [
   },
   {
     title: "Мясная подлива",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-5e344150c9/big519f4bb744320.JPG",
+    image: `${process.env.PUBLIC_URL}/images/sauces/meat_gravy.jpeg`,
     ingridients: [
       "мясо (говядина)&nbsp;—  200&nbsp;г",
       "    лук&nbsp;—  1&nbsp;шт.",
@@ -2287,32 +2053,27 @@ export const sauces = [
       {
         description:
           "Мясо нарезаем небольшими, но&nbsp;одинаковыми по&nbsp;размеру кусочками. Одинаковые кусочки будут равномерно прожариваться, сырых или&nbsp;пережаренных кусочков в&nbsp;такой подливе не&nbsp;будет, а&nbsp;значит и&nbsp;качество блюда не&nbsp;пострадает.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c064e646e7/519f4b48bd6c8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_beef.jpg`,
       },
       {
         description:
           "Лук очищаем от&nbsp;кожицы и&nbsp;мелко шинкуем (режем кубиками). В&nbsp;принципе, лук&nbsp;можно нарезать и&nbsp;полукольцами, но&nbsp;тогда подлива будет смотреться не&nbsp;совсем эстетично: маленькие кусочки мяса будут казаться слишком мелкими по&nbsp;сравнению с&nbsp;длинными полосками лука. Поэтому кубики&nbsp;—  оптимальный вид&nbsp;нарезки лука для&nbsp;этого блюда.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-5fa077349b/519f4b60a6591.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_the_onion2.jpg`,
       },
       {
         description:
           "Зелень моем в&nbsp;проточной воде, чтобы на&nbsp;ней не&nbsp;осталось песка, обсушиваем на&nbsp;бумажном полотенце и&nbsp;также мело шинкуем.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-456a583cff/519f4b6fb6622.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_greens.jpeg`,
       },
       {
         description:
           "На хорошо разогретую сковородку вливаем пару ложек растительного масла, как&nbsp;только оно&nbsp;нагреется кладем в&nbsp;сковородку мясо и&nbsp;немного припускаем его. Затем добавляем лук, соль и&nbsp;специи и&nbsp;жарим мясо на&nbsp;медленном огне под&nbsp;крышкой минут 5-7.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-253e0a9e2a/519f4b84c8349.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_ beef_with_onions.jpeg`,
       },
       {
         description:
           "Смешиваем томатную пасту с&nbsp;кипяченой водой, взбивем вилкой для&nbsp;образования однородной консистенции и&nbsp;выливаем томатную смесь в&nbsp;сковородку. Даем подливе закипеть, накрываем крышкой и&nbsp;продолжаем тушить, помешивая, еще&nbsp;20&nbsp;минут. За&nbsp;несколько минут до&nbsp;готовности бросаем в&nbsp;сковородку нашинкованную зелень.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-dd65029364/519f4b9f23ab0.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_tomato_paste_and_herbs.jpeg`,
       },
       {
         description:
@@ -2323,8 +2084,7 @@ export const sauces = [
   },
   {
     title: "Чесночный дрессинг",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-e4eda1e339/big519bbfd46fa72.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/garlic_dressing.jpg`,
     ingridients: [
       "    сырые орехи кешью&nbsp;—  1/2&nbsp;стакана",
       "    вода&nbsp;—  1/2 + 1/4&nbsp;стакана отдельно",
@@ -2353,8 +2113,7 @@ export const sauces = [
   },
   {
     title: "Паста из авокадо и яиц",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-27db328e0c/big50a2596eb9d6f.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/avocado_and_egg_pasta.jpg`,
     ingridients: [
       "вареные яйца&nbsp;—  6&nbsp;шт.",
       "авокадо&nbsp;—  1&nbsp;шт.",
@@ -2377,8 +2136,7 @@ export const sauces = [
   },
   {
     title: "Арахисовая паста",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-db8568c386/big50a108ec39f73.png",
+    image: `${process.env.PUBLIC_URL}/images/sauces/peanut_butter.png`,
     ingridients: [
       "    арахис жареный&nbsp;—  1,5&nbsp;стакана",
       "    масло растительное, рафинированное&nbsp;—  2&nbsp;ст. л.",
@@ -2404,8 +2162,7 @@ export const sauces = [
   },
   {
     title: "Домашнее сгущенное молоко",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-2964a6b290/big50053a1570012.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/homemade_condensed_milk.jpg`,
     ingridients: [
       "молоко&nbsp;—  250&nbsp;мл",
       "сухое молоко&nbsp;—  150&nbsp;г",
@@ -2429,8 +2186,7 @@ export const sauces = [
   },
   {
     title: "Дзадзики",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-843c1529f4/big50041a080815a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/tzatziki.jpg`,
     ingridients: [
       "натуральный йогурт (густой)&nbsp;—  2&nbsp;стакана",
       "огурец&nbsp;—  1&nbsp;шт.",
@@ -2459,8 +2215,7 @@ export const sauces = [
   },
   {
     title: "Соус-варенье из острого перца к мясу",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-6e5d5b958d/big4f24032d338b5.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/hot_pepper_jam_sauce_for_meat.jpg`,
     ingridients: [
       "Перец сладкий красный (паприка) 	5&nbsp;шт. 	",
       "Яблоки (160&nbsp;г) 	6&nbsp;шт.",
@@ -2479,64 +2234,54 @@ export const sauces = [
       {
         description:
           "Вымойте перец и&nbsp;яблоки, очистите и&nbsp;нарежьте кусочками.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-0352de8f2d/big4f240330893ca.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_and_peeling_apples_and_peppers.jpg`,
       },
       {
         description:
           "Острый перец тоже очистите от&nbsp;семян и&nbsp;нарежьте. Лучше это&nbsp;делать в&nbsp;перчатках, чтобы не&nbsp;обжечь кожу. Сложите все&nbsp;в большую кастрюлю.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-aa3abc97b0/big4f24033235bd6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_hot_pepper_and_add.jpg`,
       },
       {
         description:
           "Засыпьте сахаром и&nbsp;оставьте на&nbsp;ночь, чтобы появился сок. На&nbsp;следующий день размешайте и&nbsp;доведите до&nbsp;кипения. Варите 40&nbsp;минут на&nbsp;маленьком огне.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4b44c70183/big4f24033322742.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_sugar_and_boil.jpg`,
       },
       {
         description:
           "Когда варенье немного остынет, измельчите все&nbsp;блендером, добавьте специи и&nbsp;поварите еще&nbsp;15&nbsp;минут. Затем влейте уксус и&nbsp;поварите еще&nbsp;минут пять.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-81167a7304/big4f2403349b0f3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grind_in_a_blender_and_add_vinegar.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Оставьте так&nbsp;до следующего утра. Анис можно выловить, но&nbsp;я оставила, поскольку на&nbsp;такое количество варенья он&nbsp;влияет не&nbsp;сильно.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-97dee8f357/big4f24033593bbe.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/red_sauce.jpg`,
       },
       {
         description:
           "			 				 																	 													 						На третий день доведите соус до&nbsp;кипения и&nbsp;разлейте по&nbsp;стерильным банкам.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9e60b2049d/big4f24033683de0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/red_sauce_in_jars.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Стейку перед жаркой дайте полежать на&nbsp;открытом воздухе при&nbsp;комнатной температуре полчаса. Затем положите на&nbsp;сильно разогретую сковороду и&nbsp;жарьте по&nbsp;1,5&nbsp;минуты с&nbsp;каждой стороны.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e5d12576b7/big4f240337de716.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_steak.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Затем поверните так, чтобы получился рисунок сеточкой и&nbsp;жарьте еще&nbsp;по 1,5&nbsp;минуты. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b36fbbaf5b/big4f240339451f1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/ready_steak.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Готовому стейку дайте полежать в&nbsp;теплом месте (например, в&nbsp;духовке при&nbsp;50&nbsp;градусах) 10&nbsp;минут, затем подавайте с&nbsp;соусом из&nbsp;острого перца и&nbsp;красным вином.					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c679146f0e/big4f24033a1a270.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/steak_with_sauce.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Соус песто с черемшой",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-83770d3d64/big4f2402bfdfe81.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/pesto_sauce_with_wild_garlic.jpg`,
     ingridients: [
       "Черемша 	150&nbsp;г&nbsp;	",
       "Кедровые орешки (пиния) 	50&nbsp;г",
@@ -2552,37 +2297,31 @@ export const sauces = [
       {
         description:
           "Нам понадобится пучок черемши, горсть очищенных кедровых орешков, оливковое масло, сыр&nbsp;пекорино или&nbsp;пармезан (у меня был&nbsp;грана падано), соль по&nbsp;вкусу и&nbsp;лимонный сок.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-977730ec84/big4f2402cb9532c.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/wild_garlic_pine_nuts_and_olive_oil.jpeg`,
       },
       {
         description:
           "Черемшу моем, обсушиваем и&nbsp;некрупно нарезаем. Кедровые орешки слегка подсушиваем на&nbsp;сковороде. 					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-3ac0edf796/big4f2402d6d4eb3.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_pine_nuts.jpeg`,
       },
       {
         description: "Сыр натираем на&nbsp;мелкой тёрке.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2d79bd9b11/big4f2402d7ccdd1.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_cheese.jpeg`,
       },
       {
         description:
           "			 				 																	 													 						Черемшу и&nbsp;орешки отправляем в&nbsp;блендер и&nbsp;измельчаем.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ff0b67ec2a/big4f2402d8b2022.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/wild_garlic_and_nuts_in_a_blender.jpeg`,
       },
       {
         description:
           "Затем добавляем масло (его может понадобиться немного больше), ещё&nbsp;раз пробиваем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b70617bfc2/big4f2402d9ed16f.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_olive_oil.jpeg`,
       },
       {
         description:
           "			 				 																	 													 						И в&nbsp;конце засыпаем сыр, пробиваем, чтобы получилась однородная масса.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-de5e211e6b/big4f2402db51547.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_grated_cheese_and_mix.jpeg`,
       },
       {
         description:
@@ -2593,8 +2332,7 @@ export const sauces = [
   },
   {
     title: "Шоколадная глазурь для кулича",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-ba5fabab06/big4f84a1ba8678b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/chocolate_icing_for_kuliks.jpg`,
     ingridients: [
       "шоколад темный&nbsp;—  90&nbsp;г",
       "апельсиновый сок&nbsp;—  3&nbsp;ст. л.",
@@ -2614,8 +2352,7 @@ export const sauces = [
   },
   {
     title: "Мятно-горчичный соус",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-f863531e2d/big4f240302a0eaf.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/mint_mustard_sauce.jpg`,
     ingridients: [
       "Горчица дижонская 	10&nbsp;ч.л. 	",
       "Мята свежая 	10&nbsp;г",
@@ -2632,50 +2369,42 @@ export const sauces = [
       {
         description:
           "В большую чашку положите горчицу, примерно треть стандартной баночки (250&nbsp;мл)	",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-18f4ebab02/big4f240303ca2d4.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mustard.jpg`,
       },
       {
         description:
           "Отделите листья мяты от&nbsp;стеблей, хорошо промойте, стряхните и&nbsp;порубите помельче. Положите в&nbsp;чашку.  					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-cc1bf83289/big4f240304c645c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mint_with_mustard.jpg`,
       },
       {
         description:
           "Туда же&nbsp;добавляем три&nbsp;столовых ложки меда. В&nbsp;состав этого соуса входит много острых ингредиентов&nbsp;—  горчица, хрен, перец, так&nbsp;что сладкий вкус будет очень кстати. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-83d806f4fe/big4f240305ae971.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_honey.jpg`,
       },
       {
         description: "Кладем две&nbsp;столовые ложки тертого хрена.  					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d330bfbced/big4f24030720fd4.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_grated_horseradish.jpg`,
       },
       {
         description: "И приправляем солью и&nbsp;свежемолотым перцем.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-a1a9e5599c/big4f240308265c3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_ground_pepper_and_salt.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Хорошенько разотрите погружным блендером или&nbsp;смешайте с&nbsp;помощью венчика или&nbsp;вилки. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9e74deb5f9/big4f24030995eeb.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_well.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Можно переложить соус в&nbsp;баночку и&nbsp;хранить некоторое время в&nbsp;холодильнике до&nbsp;подачи на&nbsp;стол.  					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-eb2b804d8e/big4f24030a9f357.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/steak_with_mint_mustard_sauce.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Шоколадный соус к стейку из говядины",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-7630006291/big4f240314ecd87.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/chocolate_sauce_for_beef_steak.jpg`,
     ingridients: [
       "Лук репчатый (100г) 	½ шт. 	",
       "Розмарин листья 	½ ст.л.",
@@ -2688,28 +2417,24 @@ export const sauces = [
       {
         description:
           "Ингредиенты лучше приготовить заранее, потому что&nbsp;варить соус мы&nbsp;будем как&nbsp;раз пока стейк будет 'доходить' в&nbsp;теплом месте.  Мелко порубите лук, должна получиться столовая ложка, измельчите розмарин в&nbsp;мельнице или&nbsp;порежьте если свежий. Шоколад поломайте на&nbsp;кусочки или&nbsp;размельчите, отмерьте полстакана вина. Можно взять сладкое вино, тогда сахар добавлять не&nbsp;нужно.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9cb50037d3/big4f240315b5ea0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/onion_wine_rosemary_and_chocolate.jpg`,
       },
       {
         description:
           "На жире, оставшемся после обжарки стейка, поджарьте лук&nbsp;в течение 1&nbsp;минуты. Добавьте  вино, сахар и&nbsp;затем винный уксус. Пусть покипит в&nbsp;течение 2-3 минут при&nbsp;непрерывном помешивании. Положите розмарин и&nbsp;продолжайте готовить. Соус должен немного упариться, т.е. уменьшиться в&nbsp;объёме, но&nbsp;не сильно. Когда добавим шоколад он&nbsp;достаточно загустеет.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-794f751a5f/big4f240319be36d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_vinegar_and_sugar.jpg`,
       },
       {
         description:
           "Всыпьте шоколадные кусочки и&nbsp;дайте им&nbsp;растаять. Готовый соус можно выложить в&nbsp;соусницу и&nbsp;подать к&nbsp;стейку, который как&nbsp;раз успел хорошенько прогреться.					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9771562f72/big4f24031ca261e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/heat_up_the_chocolate.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Вишневый соус и стейк ти-бон",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-09d101f3a8/big4f2402eea02fc.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/cherry_sauce_and_T-bone_steak.jpg`,
     ingridients: [
       "Стейк ти-бон 650г 	2&nbsp;шт. 	",
       "Вишня 	300&nbsp;г",
@@ -2727,46 +2452,39 @@ export const sauces = [
       {
         description:
           "Мясо достаньте из&nbsp;упаковке и&nbsp;оставьте открытым на&nbsp;полчаса при&nbsp;комнатной температуре. Оно&nbsp;должно восстановить цвет и&nbsp;немного согреться.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9e40cbcae0/big4f2402f292c22.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/t_bone_steak.jpg`,
       },
       {
         description:
           "Тем временем вымойте вишню и&nbsp;удалите из&nbsp;нее косточки.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-cb44841af6/big4f2402f39b4d9.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/peeled_cherries.jpg`,
       },
       {
         description:
           "В сотейник налейте вино, доведите его&nbsp;до кипения, сразу же&nbsp;уменьшите огонь до&nbsp;минимального и&nbsp;готовьте при&nbsp;слабом кипении 5&nbsp;минут. Добавьте сахар, гвоздику и&nbsp;ванильный экстракт. Можно вместо экстракта положить стручок ванили, разрезанный вдоль, поварить немного, выскрести из&nbsp;него семена и&nbsp;добавить в&nbsp;соус.	",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-39891c424f/big4f2402f45f7d0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boil_the_wine_and_add_sugar.jpg`,
       },
       {
         description:
           "Вишню положите в&nbsp;сотейник, готовьте 5&nbsp;минут, затем добавьте столовую ложку кукурузной муки, размешайте и&nbsp;продолжайте варить до&nbsp;загустения. 					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c2ea279b99/big4f2402f65c50a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boil_cherries.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Стейк поджарьте на&nbsp;очень горячей сковороде без&nbsp;масла или&nbsp;на гриле с&nbsp;двух сторон по&nbsp;1-2 минуты с&nbsp;каждой стороны, затем переверните и&nbsp;еще раз&nbsp;обжарьте по&nbsp;1-2 минуте так, чтобы получился рисунок в&nbsp;виде сеточки.  За&nbsp;это время мой&nbsp;стейк прожарился до&nbsp;степени medium well. Вы&nbsp;можете регулировать степень прожарки по&nbsp;своему вкусу.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4f5ce4178c/big4f2402f783220.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fried_steak.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Готовый стейк положите на&nbsp;тарелку и&nbsp;дайте постоять в&nbsp;духовке при&nbsp;50&nbsp;градусах 5-7 минут. После этого подавайте, полив вишневым соусом. Хорошо также подать к&nbsp;такому стейку фруктовый или&nbsp;овощной салат и&nbsp;красное вино.&nbsp; 				 				     				         ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-612df1a1c4/big4f2402f9e2972.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/steak_with_cherry.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Имбирный соус",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-93966a619f/big4f2402e1ed944.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/ginger_sauce.jpg`,
     ingridients: [
       "Сливочное масло 	120&nbsp;г&nbsp;	",
       "Имбирь свежий 	5&nbsp;см",
@@ -2783,45 +2501,38 @@ export const sauces = [
       {
         description:
           "Маслу дайте полежать минут 20&nbsp;при комнатной температуре (тем временем подготовьте остальные ингредиенты), затем порежьте на&nbsp;кусочки и&nbsp;сложите в&nbsp;чашку.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ff9ac885e0/big4f2402e2c395b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_butter.jpg`,
       },
       {
         description:
           "Мелко-мелко порубите свежий имбирь (1&nbsp;столовая ложка). Обязательно очистите его&nbsp;от кожуры.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-433ce61c26/big4f2402e6bcfe9.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_ginger_with_butter.jpg`,
       },
       {
         description:
           "Так же&nbsp;мелко порежьте зеленый лук&nbsp;(1&nbsp;столовая ложка).					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-f496d1d96d/big4f2402e77e406.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/green_onions_with_oil_and_ginger.jpg`,
       },
       {
         description:
           "Добавляем дижонскую горчицу, без&nbsp;зерен (1&nbsp;столовая ложка).					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-62a485f77b/big4f2402e847ceb.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_mustard.jpg`,
       },
       {
         description: "Солим и&nbsp;перчим.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b3d542f7e8/big4f2402ec0815f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/salt_and_pepper.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Смешиваем все&nbsp;с помощью погружного блендера (или венчика или&nbsp;простой вилки). Дайте соусу постоять в&nbsp;холодильнике в&nbsp;течение пары часов.					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5c15d5c07d/big4f2402eccc602.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/ready_made_ginger_sauce.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Аргентинский соус Чимичурри",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-15b8301b8f/big4f240346cd1bc.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/argentine_chimichurri_sauce.jpg`,
     ingridients: [
       "Петрушка 	50&nbsp;г&nbsp;	",
       "Кинза (кориандр) 	50&nbsp;г",
@@ -2843,54 +2554,44 @@ export const sauces = [
       },
       {
         description: "Подготовить все&nbsp;ингредиенты.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-05398116ae/big4f24034816bc0.jpg",
       },
       {
         description: "Мелко порубить зелень.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b02b6414d8/big4f24034a8af21.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_greens.jpg`,
       },
       {
         description: "Измельчить чеснок.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d56a6af823/big4f24034b8bad5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_garlic.jpg`,
       },
       {
         description: "Мелко порезать лук.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-51bb8f761e/big4f24034cd5684.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_red_onion1.jpg`,
       },
       {
         description: "Мелко порезать чили перчик.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2b9700ab29/big4f24034f4cb0a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/onion_mustard_and_greens.jpg`,
       },
       {
         description:
           "Сложить все&nbsp;в измельчитель, добавить оливковое масло, винный уксус, соль, перец, французскую горчицу.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ed7c74f4fe/big4f2403505e82c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/onion_mustard_and_herbs_in_a_blender.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Измельчить до&nbsp;мелких кусочков (не доводя до&nbsp;пюре). Соус готов.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-f57e9d994c/big4f2403515153c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/ready_made_argentine_sauce.jpg`,
       },
       {
         description:
           "Это зеленый соус прекрасно сочетается с&nbsp;мясными блюдами(особенно стейками) и&nbsp;овощами гриль. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-08f7256646/big4f24035222f14.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/steak_with_argentine_sauce.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Греческий соус",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/006/195/197/big4ddd407a7a3d9.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/greek_sauce.jpg`,
     ingridients: [
       "йогурт без&nbsp;добавок ('греческий'&nbsp;—  густой)&nbsp;—  300&nbsp;г",
       "огурцы&nbsp;—  1-2 шт.",
@@ -2912,19 +2613,16 @@ export const sauces = [
       {
         description:
           "Огурцы очистить и&nbsp;удалить семечки. Нарезать мелкими кубиками, выложить в&nbsp;дуршлаг на&nbsp;15-20 минут, чтобы стекла лишняя жидкость.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-405001aab5/4ddd3efe4b263.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_cucumbers_in_a_colander.jpg`,
       },
       {
         description: "Зелень вымыть, обсушить и&nbsp;мелко порубить.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2022bd9239/4ddd3f484cd3d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_greens1.jpg`,
       },
       {
         description:
           "Чеснок пропустить через пресс, выложить в&nbsp;чашку, добавить зелень, йогурт, масло, лимонный сок&nbsp;и огурцы. Слегка посолить.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c6a4a473c5/4ddd3fcbef248.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_yogurt.jpg`,
       },
       {
         description:
@@ -2935,8 +2633,7 @@ export const sauces = [
   },
   {
     title: "Помидорно-мятная заправка к шашлыку",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/006/289/259/big4ddac8d0b488c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/tomato_mint_dressing_for_barbecue.jpg`,
     ingridients: [
       "помидоры (крупные)&nbsp;—  4&nbsp;шт.",
       "томатная паста&nbsp;—  1&nbsp;ст.л.",
@@ -2964,8 +2661,7 @@ export const sauces = [
   },
   {
     title: "Как приготовить майонез",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/001/014/135/big4cada0e5b88b0.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/how_to_make_mayonnaise.jpg`,
     ingridients: [
       "2&nbsp;желтка куриных яиц",
       "300&nbsp;милилитров охлажденного&nbsp;(важно!)&nbsp;в холодильнике&nbsp;оливкового масла (в крайнем случае, пойдет и&nbsp;подсолнечное)",
@@ -3012,41 +2708,8 @@ export const sauces = [
   },
 
   {
-    title: "Мясная подлива",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/135/017/big4cada1225fc3d.jpg",
-    ingridients: [
-      "мясо (телятина, но&nbsp;можно и&nbsp;любое другое)",
-      "лук репчатый",
-      "морковь",
-      "растительное масло",
-      "соль",
-      "перец",
-    ],
-    cooking: [
-      {
-        description:
-          "Мясо порезать кусочками и&nbsp;обжарить на&nbsp;растительном масле до&nbsp;красивой корочки. Переложить в&nbsp;кастрюлю, залить водой, чтобы еле&nbsp;покрыла мясо, довести до&nbsp;кипения и&nbsp;дальше варить под&nbsp;крышкой на&nbsp;маленьком огне.",
-      },
-      {
-        description:
-          "Лук порезать и&nbsp;обжарить на&nbsp;растительном масле. Морковь потереть на&nbsp;крупной терке, добавить к&nbsp;луку и&nbsp;еще пожарить. Переложить все&nbsp;к мясу и&nbsp;готовить 1,5 -&nbsp;3&nbsp;часа (в зависимости от&nbsp;мяса)",
-      },
-      {
-        description:
-          "Посолить, поперчить, можно добавитьприправы и&nbsp;зелень. Если кто-то любит густую подливу, то&nbsp;можно загустить с&nbsp;помощью муки.",
-      },
-      {
-        description:
-          "Для этого нужно взять столовую ложку муки, развести в&nbsp;небольшом количестве&nbsp; воды и&nbsp;ввести в&nbsp;подливу быстро размешивая, чтобы не&nbsp;образовались комочки.",
-      },
-    ],
-    type: saucesType,
-  },
-  {
     title: "Соус из авокадо с зеленью",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/135/056/big4cada12a642a6.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/avocado_sauce_with_herbs.jpg`,
     ingridients: [
       "1&nbsp;авокадо&nbsp;",
       "1&nbsp;луковица&nbsp;",
@@ -3079,9 +2742,8 @@ export const sauces = [
     type: saucesType,
   },
   {
-    title: "Томатный соус",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/146/243/big4cada19319892.jpg",
+    title: "Томатный соус с уксусом",
+    image: `${process.env.PUBLIC_URL}/images/sauces/tomato__sauce.jpg`,
     ingridients: [
       "1100&nbsp;г. 'мясистых' помидор",
       "30&nbsp;мл. уксуса 9%",
@@ -3112,9 +2774,17 @@ export const sauces = [
   },
   {
     title: "Неаполитанский соус",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/014/219/big4cada1940327b.jpg",
-    ingridients: ["", "", "", "", "", ""],
+    image: `${process.env.PUBLIC_URL}/images/sauces/neapolitan_sauce.jpg`,
+    ingridients: [
+      "2 столовые ложки оливкового масла",
+      "1 крупная луковица",
+      "3 дольки чеснока",
+      "1 столовая ложка сухого орегано",
+      "800 г. банка консервированных томатов",
+      "2 столовые ложки томатной пасты",
+      "1 столовая ложка сахара",
+      "4 свежих томата",
+    ],
     cooking: [
       {
         description:
@@ -3145,8 +2815,7 @@ export const sauces = [
   },
   {
     title: "Горчичный соус",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/147/068/big4cada1998898b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/mustard_sauce.jpg`,
     ingridients: [
       "4&nbsp;столовые ложки дижонской горчицы",
       "1&nbsp;чайная ложка порошка горчицы",
@@ -3170,8 +2839,7 @@ export const sauces = [
   },
   {
     title: "Ванильный соус",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/001/014/259/big4cada1fd9d26c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/vanilla_sauce.jpg`,
     ingridients: [
       "3&nbsp;яйца",
       "1&nbsp;столовая ложка крахмала",
@@ -3211,8 +2879,7 @@ export const sauces = [
   },
   {
     title: "Соус к рыбе",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/014/261/big4cada1ffbab64.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/sauce_for_fish.jpg`,
     ingridients: [
       "400&nbsp;г. майонеза Провансаль",
       "100&nbsp;г. маринованных огурцов",
@@ -3238,8 +2905,7 @@ export const sauces = [
   },
   {
     title: "Майонез без яиц",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/202/154/big4cada26827bff.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/mayonnaise_without_eggs.jpg`,
     ingridients: [
       "150&nbsp;мл&nbsp;молока (комнатной температуры!!!)",
       "200&nbsp;мл&nbsp;подсолнечного масла",
@@ -3269,8 +2935,7 @@ export const sauces = [
   },
   {
     title: "Клюквенный соус",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d2/003/087/239/big4cada290dd2f3.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/cranberry_sauce.jpg`,
     ingridients: [
       "1&nbsp;стакан клюквы",
       "1/2&nbsp;стакана виноградного сока (или апельсинового)",
@@ -3302,8 +2967,7 @@ export const sauces = [
   },
   {
     title: "Зеленый соус из авокадо",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/015/018/big4cada294b4738.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/green_avocado_sauce.jpg`,
     ingridients: [
       "1/2&nbsp;авокадо",
       "6&nbsp;—  8&nbsp;шт оливок",
@@ -3332,8 +2996,7 @@ export const sauces = [
   },
   {
     title: "Соус-майонез с каперсами",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d2/005/170/147/big4cada2ae42746.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/mayonnaise_sauce_with_capers.jpg`,
     ingridients: [
       "5&nbsp;столовых ложек майонеза",
       "10&nbsp;шт. каперсов",
@@ -3351,8 +3014,7 @@ export const sauces = [
   },
   {
     title: "Соус бешамель",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d2/005/255/016/big4caeeeafcb17e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/bechamel_sauce.jpg`,
     ingridients: [
       "Сливочное масло 								50&nbsp;г&nbsp;															",
       "Мука пшеничная 								50&nbsp;г&nbsp;															",
@@ -3368,57 +3030,46 @@ export const sauces = [
       {
         description:
           "Растопите сливочное масло в&nbsp;сотейнике на&nbsp;маленьком огне.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-00f709d3e2/big4caeeeb14a01a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/melt_the_butter.jpg`,
       },
       {
         description: "Всыпьте муку.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-1344146a1b/big4caeeeb4615f1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_flour_to_melted_butter.jpg`,
       },
       {
         description:
           "Перемешайте до&nbsp;однородности, продолжая нагревать.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-249073d168/big4caeeeb670ee8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_flour_with_butter.jpg`,
       },
       {
         description:
           "Доведите смесь до&nbsp;кипения, помешивая. Получилась основа соуса, называемая ру&nbsp;(roux).",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-49e58e69c9/big4caeeeb9b9977.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_flour_with_butter_until_smooth.jpg`,
       },
       {
         description:
           "Добавьте понемногу холодное молоко, продолжая помешивать. Обратите внимание, что&nbsp;ру должно быть горячим, а&nbsp;молоко холодным. Не&nbsp;спешите и&nbsp;хорошо разотрите смесь.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b473f3eb4e/big4caeeebb2668e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_milk.jpg`,
       },
       {
         description:
           "Добавьте остальное молоко, поставьте на&nbsp;маленький огонь и&nbsp;интенсивно мешайте. Уделите особое внимание уголкам кастрюли.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-3a401b3700/big4caeeec04f79b.jpg",
       },
       {
         description:
           "Доведите соус до&nbsp;кипения и&nbsp;проварите не&nbsp;более 5&nbsp;минут, чтобы не&nbsp;появился неприятный 'клейстерный' привкус. Добавьте соль и&nbsp;перец.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d1b0c1a5ad/big4caeeec1c425f.jpg",
       },
       {
         description:
           "Конечная консистенция соуса должна быть гладкой и&nbsp;без комочков. Если вам&nbsp;не удалось получить совсем однородную смесь без&nbsp;комочков, просто протрите соус через сито.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-bc2c16039f/big4caeeec330c45.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/white_sauce_without_lumps.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Быстрый домашний майонез",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/255/020/big4caeeec66021f.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/quick_homemade_mayonnaise.jpg`,
     ingridients: [
       " Масло виноградных косточек 50 мл ",
       "Оливковое масло 50 мл ",
@@ -3436,46 +3087,36 @@ export const sauces = [
       {
         description:
           "В высокую узкую емкость налейте масло (можно брать любые масла, которые вы&nbsp;любите, но&nbsp;не переборщите с&nbsp;концентрированными вкусами). Добавьте туда соль и&nbsp;горчицу.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b4bf1cbdea/big4caeeec7bb4ce.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/olive_oil_and_egg.jpg`,
       },
       {
         description:
           "Разбейте яйцо (не забудьте его&nbsp;предварительно хорошенько вымыть) в&nbsp;масло. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-534ef242c7/big4caeeec93a726.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beaten_egg.jpg`,
       },
       {
         description:
           "Опустите блендер в смесь так, чтобы яйцо оказалось внутри. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-443c757730/big4caeeecac6d42.jpg",
       },
       {
         description:
           "Прижимая блендер ко дну, включите его на высокую скорость и взбивайте.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6c7bf45f39/big4caeeecc3efab.jpg",
       },
       {
         description:
           "Медленно поднимайте блендер вверх, чтобы масса стала однородной. На&nbsp;этом этапе добавьте уксус или&nbsp;лимонный сок&nbsp;и еще&nbsp;немного взбейте. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4222ce11e1/big4caeeecd9f92a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/blend_it_into_a_smooth_paste.jpg`,
       },
       {
         description:
           "Если вы&nbsp;любите очень густой майонез (немного напоминающий желе), то&nbsp;на этом этапе можно остановиться, а&nbsp;если хотите более кремообразную консистенцию, то&nbsp;добавьте пару ложек горячей воды в&nbsp;самом конце. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e31ac21ff2/big4caeeecef0d78.jpg",
       },
     ],
     type: saucesType,
   },
   {
     title: "Чесночный майонез",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/022/202/big4caeeed3d165e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/garlic_mayonnaise.jpg`,
     ingridients: [
       "Яичный желток 								2&nbsp;шт. 															",
       "Соль 								¼ ч.л. 															",
@@ -3489,34 +3130,29 @@ export const sauces = [
       {
         description:
           "В небольшую миску положить 2&nbsp;свежих яичных желтка, раздавленный или&nbsp;растертый чеснок, соль, перец и&nbsp;немного горчицы. Соль и&nbsp;горчицу лучше класть совсем чуть-чуть, а&nbsp;если надо, добавить в&nbsp;уже готовый майонез.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-66b64f76cb/big4caeeed5527f7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/egg_yolks_with_salt_and_pepper.jpg`,
       },
       {
         description:
           "			 				 													 													 						Добавить буквально 1&nbsp;каплю масла и&nbsp;хорошо перемешать.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e964b7d8a2/big4caeeed6c580a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_yolks_with_mustard.jpg`,
       },
       {
         description:
           "Теперь потребуется некоторое терпение. Яичную смесь нужно взбивать, добавляя масло буквально по&nbsp;каплям. Смесь должна все&nbsp;время оставаться однородной, даже если она&nbsp;будет очень густой. После того, как&nbsp;половина масла будет добавлена, можно действовать смелее.  Когда майонез станет очень густым, нужно добавить 2&nbsp;столовые ложки уксуса (или лимонного сока), продолжая взбивать.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-20c99f0a0e/big4caeeed8752db.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_the_egg_mixture_with_mustard_oil.jpg`,
       },
       {
         description:
           "			 				 													 													 						В конце должен получиться довольно густой однородный соус. Если вы&nbsp;хотите получить более легкую консистенцию, то&nbsp;в конце взбивания добавьте пару столовых ложек горячей кипяченой воды.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6ed622a21f/big4caeeeda1153c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/thick_yellow_sauce.jpg`,
       },
     ],
     type: saucesType,
   },
   {
-    title: "Домашний майонез",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/240/292/big4caeeedc13669.jpg",
+    title: "Домашний майонез на оливковом масле",
+    image: `${process.env.PUBLIC_URL}/images/sauces/homemade__mayonnaise.jpg`,
     ingridients: [
       "Яичный желток 								1&nbsp;шт. 															",
       "Сахар-песок 								5&nbsp;г&nbsp;															",
@@ -3532,34 +3168,28 @@ export const sauces = [
       {
         description:
           "						 											 				 													 													 						В классическом рецепте майонеза используются только желтки. Один желток куриного яйца можно заменить четырьмя желтками перепелиными. В&nbsp;любом случае важно быть уверенным, что&nbsp;яйцо прошло ветеринарную проверку и&nbsp;не может навредить здоровью.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-dda629134a/big4caeeedd65e4c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/three_egg_yolks.jpg`,
       },
       {
         description:
           "Смешиваем желтки с&nbsp;сахаром, солью и&nbsp;лимонным соком. Все&nbsp;приправы на&nbsp;этом этапе очень важны для&nbsp;вкуса будущего соуса. Лимонный сок&nbsp;можно заменить столовым уксусом, но&nbsp;с лимоном вкуснее.Если захочется приготовить не&nbsp;просто майонез, а&nbsp;майонез Провансаль, то&nbsp;в смесь добавляем четверть чайной ложки горчицы или&nbsp;горчичного порошка. С&nbsp;горчицей майонез получается более плотным.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-75ec164ddc/big4caeeedee70aa.jpg",
       },
       {
         description:
           "Теперь самое интересное. Начинаем подмешивать масло. Сначала добавляем масло по&nbsp;одной капельке, тщательно размешивая каждый раз. После нескольких добавленных ложек, масло можно уже&nbsp;добавлять большими порциями.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2da8941408/big4caeeee0353b6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_olive_oil.jpg`,
       },
       {
         description:
           "		 				 													 													 						Майонез начнёт заметно загустевать только когда будет добавлена примерно половина всего масла, не&nbsp;раньше.Готовый соус может храниться в&nbsp;холодильнике два-три дня, при&nbsp;этом он&nbsp;никак не&nbsp;меняется, т.е. не&nbsp;происходит отслаивания масла. Подобный казус может произойти только если начать майонез нагревать. Поэтому с&nbsp;домашним майонезом не&nbsp;нужно ничего запекать или&nbsp;жарить, его&nbsp;нужно употреблять только в&nbsp;холодном виде.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-54d9416b2f/big4caeeee18b779.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/ready_mayonnaise.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Зеленый сливочный соус",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/001/022/205/big4caeeee380ec0.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/green_cream_sauce.jpg`,
     ingridients: [
       " Сливочное масло 25 г ",
       "Перец сладкий зеленый 1 шт. ",
@@ -3578,55 +3208,46 @@ export const sauces = [
       {
         description:
           "В маленьком сотейнике растопите масло и&nbsp;добавьте перец, очищенный от&nbsp;семян и&nbsp;нарезанный небольшими кусочками.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-95aa4fb424/big4caeeee4e00f8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_green_pepper.jpg`,
       },
       {
         description:
           "Готовьте на&nbsp;маленьком огне 5-7 минут помешивая, пока перец не&nbsp;станет мягким, затем добавьте измельченный чеснок.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9024747701/big4caeeee6a800d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/green_pepper_with_garlic.jpg`,
       },
       {
         description: "Еще через пару минут влейте сливки. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5958a16b00/big4caeeee826543.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cream_with_green_pepper.jpg`,
       },
       {
         description: "&nbsp;Доведите смесь до&nbsp;кипения. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e009e54fb8/big4caeeee984d3c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boil_cream_and_pepper.jpg`,
       },
       {
         description:
           "Снимите с огня и с помощью блендера доведите соус до однородной консистенции.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e05ce7806e/big4caeeeeaf1e90.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/blend_the_mixture.jpg`,
       },
       {
         description:
           "Вновь верните на огонь, посолите и добавьте чайную ложку кукурузной муки. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-f1cafa11d4/big4caeeeec68c7a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_corn_mixture.jpg`,
       },
       {
         description: "Хорошо размешайте и еще раз доведите до кипения.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-37578309ef/big4caeeeedbf7f8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/stir_and_boil.jpg`,
       },
       {
         description:
           "Добавьте измельченную зелень укропа, молотый перец и перемешайте. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-af80ef6b4d/big4caeeeef2b6e8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_dill_and_ground_black_pepper.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Томатный соус с эстрагоном",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/255/030/big4caeeef1b6d96.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/tomato_sauce_with_tarragon.jpg`,
     ingridients: [
       "Чеснок дольки 								2&nbsp;шт. 															",
       "Оливковое масло 								40&nbsp;мл&nbsp;															",
@@ -3642,34 +3263,29 @@ export const sauces = [
       {
         description:
           "Очищенный чеснок мелко порезать и&nbsp;слегка обжарить, после чего вылить туда томатное пюре.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-0bff73960c/big4caeeef3416bf.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_garlic_in_olive_oil.jpg`,
       },
       {
         description:
           "Свежий эстрагон вымыть и&nbsp;оборвать листочки. Стебли нам&nbsp;не понадобятся.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-43bbb2fe45/big4caeeef4d21df.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/tarragon.jpg`,
       },
       {
         description:
           "			 				 													 													 						Когда томатное пюре покипит минут 5-7, положить туда нарезанные листочки эстрагона.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-99df000930/big4caeeef67fc83.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/tomato_puree_with_tarragon.jpg`,
       },
       {
         description:
           "Перемешать, прокипятить еще&nbsp;пару минут, посолить и&nbsp;выключить огонь. Если будете класть соус в&nbsp;пиццу&nbsp;—  его&nbsp;лучше предварительно остудить.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-40f9ab8866/big4caeeef81d0b1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/salt_the_tomato_paste.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Яблочный соус",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d1/005/240/296/big4caeeefa472ec.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/applesauce.jpg`,
     ingridients: [
       "Яблоки 								3&nbsp;шт. 															",
       "Лимоны 								0.3&nbsp;шт. 															",
@@ -3682,33 +3298,28 @@ export const sauces = [
       {
         description:
           "Очистить от&nbsp;кожуры и&nbsp;от семечек яблоки, нарезать квадратиками. Сложить в&nbsp;сотейник или&nbsp;кастрюлю.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9c2e322c88/big4caeeefb9e7b3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_apples.jpg`,
       },
       {
         description: "Выжать на&nbsp;яблоки сок&nbsp;лимона.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9df0bb06fe/big4caeeefce3482.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/lemon.jpg`,
       },
       {
         description:
           "Посыпать сахаром, порошком корицы, добавить сливочное масло и&nbsp;поставить на&nbsp;медленный огонь. Периодически помешивая довести до&nbsp;кипения.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-31f719076b/big4caeeefe5397b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/apples_with_cinnamon_and_butter.jpg`,
       },
       {
         description:
           "Варить на&nbsp;медленном огне 5&nbsp;минут, добавить ром&nbsp;и варить еще&nbsp;5&nbsp;минут. Выключить, переложить в&nbsp;пиалу и&nbsp;дать слегка остыть. Подавать в&nbsp;теплом виде.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-cd2988b225/big4caeeeffb7ae7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cook_apples.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Горчичный майонез",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d1/005/240/299/big4caeef0276002.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/mustard-mayonnaise.jpg`,
     ingridients: [
       "Яйцо куриное 1 шт. ",
       "Горчичное масло 150 мл ",
@@ -3724,34 +3335,29 @@ export const sauces = [
       {
         description:
           "Главные фигуранты приготовления майонеза&nbsp;—  это&nbsp;растительное (горчичное) масло и&nbsp;яйцо. Яйцо берём целиком (желток + белок), тогда майонез получится густым и&nbsp;плотным. Количество масла можно варьировать&nbsp;—  уменьшить или&nbsp;увеличить. Мной пока не&nbsp;установлено влияние количества масла на&nbsp;характеристики майонеза. Возможно, чем&nbsp;больше масла, тем&nbsp;он становится жирнее. Если вы&nbsp;владеете достоверной информацией на&nbsp;этот счёт, будет здорово, если вы&nbsp;раскроете её&nbsp;в комментариях.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-bae28ee334/big4caeef03e9a4d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/egg_and_mustard_oil.jpg`,
       },
       {
         description:
           "Заливаем в&nbsp;блендер горчичное масло, разбиваем туда яйцо, и&nbsp;туда же&nbsp;забрасываем 1/5&nbsp;чайной ложки соли, несколько капель сока лимона и&nbsp;4&nbsp;оливки без&nbsp;косточки. Оливки мы&nbsp;с вами используем вместо большего количества лимонного сока&nbsp;—  они&nbsp;столь же&nbsp;подкисляют наш&nbsp;майонез, только вкус у&nbsp;них гораздо интереснее и&nbsp;пикантнее. Если вы&nbsp;делали майонез просто с&nbsp;лимонным соком, думаю, вы&nbsp;почувствуете разницу. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-951e204445/big4caeef05808c8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mustard_oil_with_lemon_juice.jpg`,
       },
       {
         description:
           "Включаем блендер и&nbsp;начинаем аккуратно двигать его&nbsp;в процессе перемешивания вверх-вниз. Прозрачная субстанция сразу начнёт становиться матовой и&nbsp;постепенно густеть. Взбивать нужно примерно в&nbsp;течение минуты, пока масса не&nbsp;станет однородной и&nbsp;не приобретёт консистенцию густого майонеза. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b19f8770f3/big4caeef0753380.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_egg_with_mustard_oil.jpg`,
       },
       {
         description:
           "Майонез готов! Можно сразу заправлять им&nbsp;блюда, а&nbsp;можно положить в&nbsp;холодильник на&nbsp;несколько дней. Наверное, единственный недостаток домашнего майонеза в&nbsp;том, что&nbsp;он недолго хранится, но&nbsp;в этом и&nbsp;его плюс, ведь он&nbsp;полностью натуральный. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-cc9200c949/big4caeef08be1c4.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mustard_mayonnaise.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Сметанный соус",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d2/005/255/035/big4caeef0ae3c6f.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/sour_cream_sauce.jpg`,
     ingridients: [
       "Лук зеленый 								15&nbsp;г&nbsp;															",
       "Сметана 								180&nbsp;г&nbsp;															",
@@ -3767,16 +3373,14 @@ export const sauces = [
       {
         description:
           "Огурец мелко нарезать, корневую часть зеленого лука так&nbsp;же нарезать мелко, а&nbsp;зеленые перья длинной 1&nbsp;см. Смешать сметану с&nbsp;хреном, приправить перцем, добавить лук&nbsp;и огурцы. Поставить на&nbsp;1&nbsp;час&nbsp;в холодильник.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e630b6a925/big4caeef0f3b205.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pickled_cucumbers_sour_cream_and_green_onions.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Брусничный соус",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/001/022/211/big4caeef12447f5.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/lingonberry_sauce.jpg`,
     ingridients: [
       " Брусника 500 г ",
       "Сахар-песок 150 г ",
@@ -3791,47 +3395,38 @@ export const sauces = [
       },
       {
         description: "В бруснику добавить 200 мл воды и довести до кипения.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-984d3611c3/big4caeef14139e9.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/lingonberries_in_a_saucepan.jpg`,
       },
       {
         description: "Добавить сахар и&nbsp;корицу. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-aee35d3475/big4caeef157f4d1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_cinnamon_to_lingonberries.jpg`,
       },
       {
         description: "Поварить 2-3 минуты. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5547fb1148/big4caeef1734e12.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boil_lingonberries.jpg`,
       },
       {
         description: "С помощью блендера превратить ягоды в однородное пюре. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4405696f19/big4caeef1925343.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/blending_lingonberries.jpg`,
       },
       {
         description: "Влить вино и еще немного нагреть.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-1b2d561cc5/big4caeef1b134ed.jpg",
       },
       {
         description:
           "Помешивая, тонкой струйкой влить разведенный в&nbsp;небольшом количестве воды крахмал. Довести до&nbsp;кипения и&nbsp;сразу же&nbsp;выключить, не&nbsp;давая соусу кипеть. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c1897ee661/big4caeef1d35db9.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_starch.jpg`,
       },
       {
         description: " С творогом тоже прекрасно сочетается. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-424d05a9d7/big4caeef1eab3db.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cottage_cheese_with_lingonberry_sauce.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Сладкий мятный песто",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/241/005/big4caeef21c0c82.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/sweet_mint_pesto.jpg`,
     ingridients: [
       "Сахар-песок 								50&nbsp;г&nbsp;															",
       "Миндаль 								100&nbsp;г&nbsp;															",
@@ -3848,45 +3443,38 @@ export const sauces = [
       {
         description:
           "Сделайте сахарный сироп из&nbsp;100&nbsp;мл&nbsp;воды и&nbsp;пары столовых ложек сахара, прокипятите и&nbsp;остудите.   Миндаль залейте кипятком, очистите и&nbsp;подсушите.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2f7b7e167f/big4caeef233f31e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/almonds_in_blender.jpg`,
       },
       {
         description:
           "У мяты и&nbsp;эстрагона удалите стебли, оставив только листья. Можно обойтись и&nbsp;просто мятой, но&nbsp;эстрагон привносит туда очень интересные нотки.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-acf5250486/big4caeef24b869d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mint_and_tarragon.jpg`,
       },
       {
         description:
           "Все вместе измельчите в&nbsp;блендере как&nbsp;можно сильнее.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-453f093207/big4caeef2688732.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_almonds_and_mint_in_a_blender.jpg`,
       },
       {
         description: "Добавьте в&nbsp;смесь сироп.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-951532e072/big4caeef28c0d77.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_syrup.jpg`,
       },
       {
         description:
           "Положите мед&nbsp;(не застывший, но&nbsp;и не&nbsp;слишком жидкий) и&nbsp;еще раз&nbsp;взбейте как&nbsp;следует.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-582726e41a/big4caeef2a9294d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_honey1.jpg`,
       },
       {
         description:
           "Соус готов. С&nbsp;блинами очень достойно, хоть и&nbsp;калорийно слегка :)",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-69f4429640/big4caeef2c276c4.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancake_with_sauce.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Томатный соус для пиццы",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d1/005/241/007/big4caeef2e2e427.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/tomato_sauce_for_pizza.jpg`,
     ingridients: [
       "Томатное пюре 								500&nbsp;г&nbsp;															",
       "Оливковое масло 								30&nbsp;мл&nbsp;															",
@@ -3904,28 +3492,24 @@ export const sauces = [
       {
         description:
           "Для начала нам&nbsp;понадобится томатное пюре. Либо мы&nbsp;возьмем готовое (500&nbsp;мл), либо приготовим его&nbsp;сами. Для&nbsp;этого понадобится около 600&nbsp;грамм помидоров, которых нужно очистить от&nbsp;кожицы и&nbsp;превратить в&nbsp;пюре с&nbsp;помощью блендера. Если вам&nbsp;мешают семена, можно удалить и&nbsp;их, либо протереть полученное пюре через сито.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-a89c91c11f/big4caeef2fb2a18.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/tomato_puree1.jpg`,
       },
       {
         description:
           "На небольшом огне нагреваем пюре, помешивая время от&nbsp;времени, и&nbsp;добавляем туда оливковое масло, соль и&nbsp;сахар (количество сахара можно менять в&nbsp;зависимости от&nbsp;кислоты томатного пюре). Средняя продолжительность варки соуса&nbsp;—  около 20&nbsp;минут.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8b39479316/big4caeef324bfaa.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/tomato_paste_with_olive_oil.jpg`,
       },
       {
         description:
           "Примерно за&nbsp;5&nbsp;минут до&nbsp;окончания приготовления в&nbsp;соус нужно добавить мелко нарезанный чеснок и&nbsp;сушеные травки.  Соус должен немного загустеть за&nbsp;время варки. Теперь его&nbsp;нужно немного охладить и&nbsp;использовать для&nbsp;приготовления пиццы или&nbsp;пасты.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-79ededd69e/big4caeef35256a3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_garlic_and_dried_basil.jpg`,
       },
     ],
     type: saucesType,
   },
   {
     title: "Грибной соус",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/255/043/big4caeef3c6e7a8.jpg",
+    image: `${process.env.PUBLIC_URL}/images/sauces/mushroom_sauce.jpg`,
     ingridients: [
       " Шампиньоны 500 г ",
       "Растительное масло 40 мл ",
@@ -3939,26 +3523,22 @@ export const sauces = [
       {
         description:
           "Сначала нужно немного обжарить тонко нарезанный лук, а&nbsp;затем добавить туда кусочки шампиньонов. Думаю, их&nbsp;можно заменить вешенками или&nbsp;лесными грибами.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-38450bf646/big4caeef3f514da.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_champignons_with_onions.jpg`,
       },
       {
         description:
           "Столовую ложку муки прогреть в&nbsp;другой сковороде вместе со&nbsp;столовой ложкой масла, не&nbsp;допуская изменения окраски&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-865b628c92/big4caeef41c52c5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_butter_with_flour.jpg`,
       },
       {
         description:
           "В грибы положить обжаренную муку, посолить. Если будет совсем сухо (а это&nbsp;зависит от&nbsp;грибов), то&nbsp;можно добавить чуть-чуть кипятка и&nbsp;продолжать готовить на&nbsp;небольшом огне при&nbsp;постоянном помешивании.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c1a4a1979b/big4caeef45603af.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/salt_the_mushrooms.jpg`,
       },
       {
         description:
           "Через пару минут добавляем сметану, перемешиваем и&nbsp;доводим до&nbsp;кипения. Все, соус можно подавать! ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c03196c640/big4caeef48630ec.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mushrooms_in_sour_cream.jpg`,
       },
     ],
     type: saucesType,
@@ -3966,4 +3546,3 @@ export const sauces = [
 ];
 
 export const saucesTitle = "Соусы,подливы";
-

@@ -1,11 +1,9 @@
 export const soupsType = "soups";
 
-
 export const soups = [
   {
     title: "Острый вегетарианский суп с черной фасолью",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-9f59f9f249/big58ba75ddb1b90.png",
+    image: `${process.env.PUBLIC_URL}/images/soups/spicy_vegetarian_black_bean_soup.png`,
     ingridients: [
       "Вода 3/4 чашки",
       "Красный лук 1 шт.",
@@ -56,8 +54,7 @@ export const soups = [
   },
   {
     title: "Чечевичный суп",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-058381bb2a/big5897b855652e7.png",
+    image: `${process.env.PUBLIC_URL}/images/soups/lentil_soup.png`,
     ingridients: [
       "Чечевица серая 100 грамм",
       "Перловка 70 грамм",
@@ -111,9 +108,8 @@ export const soups = [
     type: soupsType,
   },
   {
-    title: "Мексиканкий томатный суп",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-cf2481c872/big58548acae6953.png",
+    title: "Мексиканский томатный суп",
+    image: `${process.env.PUBLIC_URL}/images/soups/mexican_tomato_soup.png`,
     ingridients: [
       "Оливковое масло 2 ст. л.",
       "Красный перец чили 1/2 шт.",
@@ -151,8 +147,7 @@ export const soups = [
   },
   {
     title: "Суп из брокколи и сыра",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-26566ca417/big585489ad03aea.png",
+    image: `${process.env.PUBLIC_URL}/images/soups/broccoli_and_cheese_soup.png`,
     ingridients: [
       "Овощной бульон 3 чашки",
       "Соцветия брокколи 4 чашки",
@@ -191,8 +186,7 @@ export const soups = [
   },
   {
     title: "Крем-суп с курицей и брокколи",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-1a33e5f51c/big5827029293b62.png",
+    image: `${process.env.PUBLIC_URL}/images/soups/cream_soup_with_chicken_and_broccoli.png`,
     ingridients: [
       "Куриное филе без кости 2,5 шт.",
       "Молоко 1,5% 400 мл",
@@ -232,8 +226,7 @@ export const soups = [
   },
   {
     title: "Сырный суп по-французски и с чесночными гренками",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-ec499c942f/big57853f28c7ad3.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/french_cheese_soup_with_garlic_croutons.jpg`,
     ingridients: [
       "куриное филе —  400 г",
       "мягкий плавленый сыр —  200 г",
@@ -279,8 +272,7 @@ export const soups = [
   },
   {
     title: "Суп из курицы с вялеными томатами",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-cac63e0874/big5738e6d8d7b33.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_soup_with_sun-dried_tomatoes.jpg`,
     ingridients: [
       "курица, весом около 1,7-1,8&nbsp;кг&nbsp;(нужно всё, кроме грудки)&nbsp;—  1&nbsp;шт.",
       " небольшая луковица&nbsp;—  1&nbsp;шт. и&nbsp;1&nbsp;средняя",
@@ -302,8 +294,6 @@ export const soups = [
       {
         description:
           "Курицу разделываем на&nbsp;части. Филе грудки оставляем для&nbsp;другого блюда остальное кладем в&nbsp;кастрюлю и&nbsp;заливаем водой. Доводим до&nbsp;кипения, сливаем воду, споласкиваем куски курицы и&nbsp;кастрюлю, складываем все&nbsp;обратно. Доводим до&nbsp;кипения и&nbsp;снимаем пену. Кладем в&nbsp;кастрюлю 2&nbsp;раздавленных зубчика чеснока, 1&nbsp;крупно нарезанный стебель сельдерея, надрезанную крест-накрест небольшую луковицу, перец-горошек и&nbsp;лавровый лист. Вливаем 2,2&nbsp;литра воды. Солим. Доводим до&nbsp;кипения на&nbsp;сильном огне. Варим, периодически снимая пену, на&nbsp;небольшом огне минут 40-45.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-a8ed4c9b0b/big5738e6db33e1a.jpg",
       },
       {
         description:
@@ -312,8 +302,6 @@ export const soups = [
       {
         description:
           "В сковороде на&nbsp;среднем огне разогреваем 1&nbsp;ст.л. растительного масла. Кладем бекон и&nbsp;нарезанные овощи и&nbsp;жарим, помешивая, 5&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-8318452a63/big5738e6dc06785.jpg",
       },
       {
         description:
@@ -322,8 +310,6 @@ export const soups = [
       {
         description:
           "Сельдерей нарезаем кубиками, вяленые томаты&nbsp;—  полосками, оставшийся чеснок мелко рубим.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-7fb51e0cbd/big5738e6deacf9b.jpg",
       },
       {
         description:
@@ -342,8 +328,7 @@ export const soups = [
   },
   {
     title: "Гуляшевка",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-f4ccdb5364/big5733a0d77be6e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/goulashevka.jpg`,
     ingridients: [
       "крупная луковица&nbsp;—  1&nbsp;шт.",
       " крупная морковь&nbsp;—  1&nbsp;шт.",
@@ -365,20 +350,17 @@ export const soups = [
       {
         description:
           "В кастрюле с&nbsp;толстым дном на&nbsp;среднем огне разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и морковь и&nbsp;жарим, помешивая, 4-5 минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-ab8fa31114/big5733a0d95ed91.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_and_carrots.jpg`,
       },
       {
         description:
           "Добавляем чеснок, майоран и&nbsp;паприку, жарим, помешивая, 1&nbsp;минуту. Кладем мясо и&nbsp;жарим, помешивая, пока оно&nbsp;не потеряет красный оттенок.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-bce4d6092e/big5733a0da27ead.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_garlic_and_paprika.jpg`,
       },
       {
         description:
           "Добавляем нарезанный перец, размятые томаты вместе с&nbsp;соком, а&nbsp;также нарезанный кубиками картофель.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-d2e77f2dc4/big5733a0dade88e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_diced_potatoes.jpg`,
       },
       {
         description:
@@ -389,8 +371,7 @@ export const soups = [
   },
   {
     title: "Суп из утки с капустой и грибами",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-a8c3ac48a8/big5729bd9b52bae.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/duck_soup_with_cabbage_and_mushrooms.jpg`,
     ingridients: [
       "не очень жирная утка весом около 2&nbsp;кг&nbsp;—  1&nbsp;шт.",
       " небольшая луковица&nbsp;—  1&nbsp;шт. + 1&nbsp;крупная",
@@ -417,8 +398,7 @@ export const soups = [
       {
         description:
           "Возвращаем утку в&nbsp;кастрюлю, вливаем 2,5&nbsp;литра воды, кладем надрезанную крест-накрест небольшую луковицу, 2&nbsp;раздавленных зубчика чеснока, горошины перца, лавровый лист, крупно нарезанный сельдерей и&nbsp;тимьян. Солим. Доводим до&nbsp;кипения на&nbsp;сильном огне, затем варим на&nbsp;минимальном нагреве (бульон должен только слегка иногда побулькивать) около полутора часов.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-08186c5101/big5729bd9e67f84.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/duck_broth.jpg`,
       },
       {
         description:
@@ -426,14 +406,12 @@ export const soups = [
       },
       {
         description: "Картофель нарезаем кубиками, капусту тонко шинкуем.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-7b80ae7eb2/big5729bd9ed9bd7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_potatoes_and_cabbage.jpg`,
       },
       { description: "Лук и бекон мелко рубим." },
       {
         description: "Шампиньоны нарезаем пластинками.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-966b9f6ac4/big5729bd9f8488f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_the_champignons.jpg`,
       },
       {
         description:
@@ -442,14 +420,12 @@ export const soups = [
       {
         description:
           "В сковороде на&nbsp;среднем огне разогреваем 1&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и бекон, и&nbsp;жарим, помешивая, 3-4 минуты.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-c786c76161/big5729bda015f05.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_and_bacon.jpg`,
       },
       {
         description:
           "Добавляем мелко нарубленные 4&nbsp;зубчика чеснока, а&nbsp;также грибы и&nbsp;жарим, помешивая, еще&nbsp;3-4 минуты.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-0cac9030e3/big5729bda0bda9d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_mushrooms_with_garlic.jpg`,
       },
       {
         description:
@@ -468,8 +444,7 @@ export const soups = [
   },
   {
     title: "Быстрый куриный суп",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-66fdbd8118/big570d09377dc92.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/quick_chicken_soup.jpg`,
     ingridients: [
       "насыщенный куриный бульон&nbsp;—  400&nbsp;мл",
       "отварное яйцо&nbsp;—  2&nbsp;шт.",
@@ -494,8 +469,7 @@ export const soups = [
   },
   {
     title: "Томатный суп с фаршем и грибами",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-dd44ab5724/big5708c8175a8ae.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/tomato_soup_with_minced_meat_and_mushrooms.jpg`,
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " крупный стебель сельдерея&nbsp;—  1&nbsp;шт.",
@@ -519,26 +493,22 @@ export const soups = [
       {
         description:
           "В кастрюле на&nbsp;среднем огне разогреваем 1&nbsp;ст.л. растительного масла. Кладем лук, сельдерей и&nbsp;бекон и&nbsp;жарим, помешивая, 3-4 минуты.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-ae8b2de7f3/big5708c81a7d746.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_bacon_onion_and_celery.jpg`,
       },
       {
         description:
           "Добавляем чеснок и&nbsp;прованские травы, жарим, помешивая, еще&nbsp;полминуты. Добавляем фарш и&nbsp;жарим, разбивая лопаткой комки, пока он&nbsp;не потеряет розовый оттенок.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-b56ebfc9aa/big5708c81b300ff.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_minced_meat.jpg`,
       },
       {
         description:
           "Добавляем размятые томаты вместе с соком, а также бульон или воду.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-8865ad6b55/big5708c81c21a88.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_tomato_puree_and_water.jpg`,
       },
       {
         description:
           "Доводим до&nbsp;кипения, добавляем по&nbsp;вкусу соль, сахар и&nbsp;перец. Уменьшаем огонь практически до&nbsp;минимума и&nbsp;варим суп&nbsp;20&nbsp;минут. За&nbsp;10&nbsp;минут до&nbsp;конца добавляем шампиньоны.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-ab7ffd47dd/big5708c81e016eb.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_champignons.jpg`,
       },
       {
         description:
@@ -553,8 +523,7 @@ export const soups = [
   },
   {
     title: "Фасолада-греческий фасолевый суп",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d915febec0/big56f946d01ff92.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/fasolada-greek_bean_soup.jpg`,
     ingridients: [
       "фасоль&nbsp;—  375&nbsp;г",
       "асафетида молотая&nbsp;—  1/2&nbsp;ч. л.",
@@ -586,8 +555,7 @@ export const soups = [
   },
   {
     title: "Суп из сушеных грибов",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-95d5d1878b/big56efeade70f01.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/dried_mushroom_soup.jpg`,
     ingridients: [
       "картофель&nbsp;—  2&nbsp;шт.",
       "грибы (сушеные)&nbsp;—  1&nbsp;ст.",
@@ -638,8 +606,7 @@ export const soups = [
   },
   {
     title: "Альбондигас-мексиканский суп с фрикадельками",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-5230c41f99/big56c0fc65d3172.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/albondigas.jpg`,
     ingridients: [
       "мясной фарш&nbsp;—  1&nbsp;кг",
       " чеснок&nbsp;—  2&nbsp;зубчика",
@@ -659,14 +626,12 @@ export const soups = [
       {
         description:
           "Фарш смешиваем с натертым чесноком, яйцом, зирой, солью и перцем.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-6ec47d2bee/big56c0fc6864fbb.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/minced_meat.jpg`,
       },
       {
         description:
           "Формируем из него небольшие фрикадельки размером с грецкий орех.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-16e78b4e32/big56c0fc6924c61.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/meatballs.jpg`,
       },
       {
         description:
@@ -675,13 +640,11 @@ export const soups = [
       {
         description:
           "В кастрюле на&nbsp;среднем огне разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и морковь и&nbsp;жарим, помешивая, 3-4 минуты. Добавляем мелко нарубленный острый перчик и&nbsp;чеснок, а&nbsp;также зиру. Жарим, помешивая, 2-3 минуты.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-47a544e7d3/big56c0fc6abaad5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_hot_peppers_with_garlic.jpg`,
       },
       {
         description: "Добавляем раздавленные томаты вместе с соком.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-47cdc859f8/big56c0fc6bb31c1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_tomato_puree_and_juice.jpg`,
       },
       {
         description:
@@ -689,8 +652,7 @@ export const soups = [
       },
       {
         description: "Добавляем фрикадельки и цуккини.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-c83466e797/big56c0fc6c7f1b3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_zucchini.jpg`,
       },
       { description: "Перемешиваем и тушим еще 20 минут." },
       {
@@ -702,8 +664,7 @@ export const soups = [
   },
   {
     title: "Куриный суп с яйцом",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-6367456dfb/big56b0dbac8dc23.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_soup_with_egg.jpg`,
     ingridients: [
       "курица&nbsp;—  1&nbsp;кг",
       "луковица&nbsp;—  1&nbsp;шт.",
@@ -727,8 +688,7 @@ export const soups = [
   },
   {
     title: "Кислые щи с потрошками",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-853bc798c3/big56af94aee2221.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/sour_giblet_soup.jpg`,
     ingridients: [
       "    утиные шея&nbsp;и потроха (или куриные потрошка)&nbsp;—  0,5&nbsp;кг",
       "    картофель&nbsp;—  2&nbsp;шт.",
@@ -767,8 +727,7 @@ export const soups = [
   },
   {
     title: "Чили-суп из курицы с грибами",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-79f3010459/big568e3aa716dbb.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_chili_soup_with_mushrooms.jpg`,
     ingridients: [
       "курица, весом около 1,7&nbsp;кг&nbsp;—  1&nbsp;шт.",
       " маленькая луковица&nbsp;—  1-2 шт.",
@@ -808,34 +767,25 @@ export const soups = [
       {
         description:
           "В другой кастрюле с&nbsp;толстым дном на&nbsp;среднем огне разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и сельдерей, жарим, помешивая, 3-4 минуты.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-86684a2c7f/big568e3aa8e6ddc.jpg",
       },
       {
         description:
           "Добавляем острый перец, чеснок и специи. Жарим, помешивая, еще 1 минуту.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-5289470154/big568e3aabde13a.jpg",
       },
       {
         description:
           "Кладем курятину, готовим, помешивая, пока все кусочки не станут матовыми.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-0c12f079e0/big568e3aacce354.jpg",
       },
       {
         description:
           "Добавляем нарезанные грибы, вливаем бульон, солим по&nbsp;вкусу. Варим 15&nbsp;минут. За&nbsp;5&nbsp;минут до&nbsp;готовности добавляем фасоль и&nbsp;кукурузу. Выключаем плиту, добавляем зелень и&nbsp;лимонный сок&nbsp;по вкусу, даем супу настояться под&nbsp;крышкой 10&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-8a058241bd/big568e3aadb6c52.jpg",
       },
     ],
     type: soupsType,
   },
   {
     title: "Густой суп с говядиной,тыквой и перловкой",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-a449caf4f2/big566604e7c1c20.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/thick_soup_with_beef_pumpkin_and_barley.jpg`,
     ingridients: [
       "Для бульона:",
       "говяжья грудинка на&nbsp;кости&nbsp;—  1,5&nbsp;кг",
@@ -867,20 +817,17 @@ export const soups = [
       },
       {
         description: "Перловку промываем и кладем в кипящий бульон.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-bed96d8dd0/big566604e98ad38.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/place_pearl_barley_in_boiling_broth.jpg`,
       },
       {
         description:
           "Мелко рубим лук, сельдерей нарезаем ломтиками поперек, морковь&nbsp;—  кружками. Тыкву и&nbsp;картофель нарезаем средними кубиками.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-48d6c1fd06/big566604ea3b7b2.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/diced_pumpkin.jpg`,
       },
       {
         description:
           "В сковороде на&nbsp;среднем огне разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук, морковь и&nbsp;сельдерей. Жарим, помешивая, 3-4 минуты.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e1a2fee931/big566604eaf3ce6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_carrots_and_celery.jpg`,
       },
       {
         description:
@@ -889,8 +836,7 @@ export const soups = [
       {
         description:
           "Тем временем снимаем мясо с костей и нарезаем на кусочки.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-aa2c541e57/big566604ec2543b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_boiled_meat_into_pieces.jpg`,
       },
       { description: "Кладем в суп." },
       {
@@ -902,8 +848,7 @@ export const soups = [
   },
   {
     title: "Тыквенный суп-пюре с жареным острым фаршем",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-7ba1c59265/big565c21a813af8.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/pumpkin_soup_with_fried_spicy_minced_meat.jpg`,
     ingridients: [
       "очищенная тыква&nbsp;—  450&nbsp;г",
       " средняя морковь&nbsp;—  1&nbsp;шт.",
@@ -923,20 +868,17 @@ export const soups = [
       {
         description:
           "В кастрюле с&nbsp;толстым дном на&nbsp;среднем огне растапливаем 30&nbsp;г сливочного масла (или разогреваем 2&nbsp;ст.л. растительного). Кладем лук&nbsp;и морковь и&nbsp;жарим, помешивая, 3-4 минуты.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-fb4d0df8bd/big565c21aa6672d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_diced_onions_and_carrots.jpg`,
       },
       {
         description:
           "Добавляем картофель и&nbsp;тыкву, а&nbsp;также карри и&nbsp;половину мелко нарубленного чеснока. Жарим, помешивая, 1&nbsp;минуту.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2751c35096/big565c21ab20a00.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_potatoes_and_pumpkin.jpg`,
       },
       {
         description:
           "Вливаем бульон или воду, солим по вкусу, доводим до кипения.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d02907dd6e/big565c21ac13af2.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pour_in_the_broth.jpg`,
       },
       {
         description:
@@ -945,14 +887,12 @@ export const soups = [
       {
         description:
           "Снимаем кастрюлю с&nbsp;огня и&nbsp;перебиваем содержимое блендером до&nbsp;однородного состояния. Для&nbsp;большей гладкости можно протереть суп&nbsp;через сито.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-90f11714d5/big565c21acb1e38.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/blend_the_soup_with_a_blender.jpg`,
       },
       {
         description:
           "В сковороде на&nbsp;среднесильном огне разогреваем 1&nbsp;ст.л. растительного масла. Кладем фарш и&nbsp;жарим, помешивая, пока мясо не&nbsp;потеряет розовый оттенок. Затем добавляем зиру, паприку, вторую половину чеснока, соль и&nbsp;перец, жарим, помешивая, до&nbsp;готовности, еще&nbsp;около 10&nbsp;минут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-a81722c670/big565c21adf0e07.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_the_minced_meat.jpg`,
       },
       { description: "Подаем суп со сметаной и обжаренным фаршем." },
     ],
@@ -960,8 +900,7 @@ export const soups = [
   },
   {
     title: "Острый томатный суп с бараниной и рисом",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-84d94dd290/big56411ae799f64.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/spicy_tomato_soup_with_lamb_and_rice.jpg`,
     ingridients: [
       "баранина на&nbsp;кости&nbsp;—  800&nbsp;г",
       " луковица&nbsp;—  1&nbsp;шт.",
@@ -987,14 +926,12 @@ export const soups = [
       {
         description:
           "Параллельно занимаемся овощами. Лук, сельдерей и&nbsp;перец нарезаем средним кубиком. В&nbsp;сковороде на&nbsp;среднем огне разогреваем 1&nbsp; ст.л. растительного масла. Кладем лук&nbsp;и жарим, помешивая, 3&nbsp;минуты. Добавляем сельдерей и&nbsp;перец, жарим еще&nbsp;5&nbsp;минут. Кладем в&nbsp;сковороду мелко нарубленный острый перец и&nbsp;чеснок. а&nbsp;также специи. жарим, помешивая, еще&nbsp;1&nbsp;минуту.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-311f16c206/big56411ae96019e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_celery_peppers_and_onions.jpg`,
       },
       {
         description:
           "Добавляем размятые томаты вместе с соком. Доводим до кипения и выключаем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-abe6313c6e/big56411aeb9fd22.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_tomatoes_with_juice.jpg`,
       },
       {
         description:
@@ -1009,8 +946,7 @@ export const soups = [
   },
   {
     title: "Грибной суп с булгуром",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d63bb7dd13/big563ccc7476cc0.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/mushroom_soup_with_bulgur.jpg`,
     ingridients: [
       "    очищенные грибы&nbsp;—  800&nbsp;г",
       "    морковь&nbsp;—  1&nbsp;шт.",
@@ -1040,8 +976,7 @@ export const soups = [
   },
   {
     title: "Сырный суп с рыбой",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-b591abf388/big5630fc29ba7b1.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/cheese_soup_with_fish.jpg`,
     ingridients: [
       "филе осетрины&nbsp;—  150&nbsp;г",
       "плавленый сыр&nbsp;—  100&nbsp;г",
@@ -1070,8 +1005,7 @@ export const soups = [
   },
   {
     title: "Суп из красной чечевицы с тыквой",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-2966d2787e/big52ffe6e75feb5.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/red_lentil_soup_with_pumpkin.jpg`,
     ingridients: [
       "небольшие луковицы&nbsp;—  2&nbsp;шт.",
       " средняя морковь&nbsp;—  1&nbsp;шт.",
@@ -1093,19 +1027,13 @@ export const soups = [
       {
         description:
           "В кастрюле с&nbsp;толстым дном разогреваем 1&nbsp;ст.л. растительного масла. Кладем лук, морковь и&nbsp;сельдерей и&nbsp;жарим на&nbsp;среднем огне, помешивая, около 4&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-2bb9f081cc/big52ffe6ea3437d.jpg",
       },
       {
         description: "Добавляем тыкву и жарим, помешивая, еще 5 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-f5cb243bb4/big52ffe6eaa4475.jpg",
       },
       {
         description:
           "Кладем в кастрюлю чеснок, паприку и чечевицу, жарим, помешивая, 1 минуту.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-c83ae1e9a8/big52ffe6eb67f9c.jpg",
       },
       {
         description:
@@ -1120,8 +1048,7 @@ export const soups = [
   },
   {
     title: "Суп из красной чечевицы",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-092fb710bf/big56290de4041dd.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/red_lentil_soup.jpg`,
     ingridients: [
       "чечевица красная&nbsp;—  1&nbsp;стакан",
       "репчатый лук&nbsp;—  1&nbsp;шт.",
@@ -1165,8 +1092,7 @@ export const soups = [
   },
   {
     title: "Острый куриный суп в мексиканском стиле",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-2f8858855f/big529732c5034aa.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/mexican_style_spicy_chicken_soup.jpg`,
     ingridients: [
       "куриные окорочка&nbsp;—  3&nbsp;шт.",
       " крупная луковица&nbsp;—  1&nbsp;шт.",
@@ -1191,26 +1117,18 @@ export const soups = [
       {
         description:
           "Тем временем нарезаем средними кубиками морковь, лук и сельдерей.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-2c156d450a/big529732c97aad5.jpg",
       },
       {
         description:
           "В сковороде разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук, сельдерей, морковь, порошок чили, зиру и&nbsp;орегано. Жарим, периодически помешивая, до&nbsp;мягкости овощей, около 7-8 минут. Туда же&nbsp;кладем мелко нарубленный чеснок и&nbsp;готовим, помешивая, около 1&nbsp;минуты.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-443010e1c5/big529732cbcee81.jpg",
       },
       {
         description:
           "Добавляем размятые томаты вместе с соком. Готовим, помешивая, около 3 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-9819ad6b85/big529732cfacf84.jpg",
       },
       {
         description:
           "Вынимаем из&nbsp;бульона курицу и&nbsp;даем ей&nbsp;остыть так, чтобы можно было руками отделить мясо от&nbsp;костей. Нарезаем мясо на&nbsp;кусочки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-567a24e3d2/big529732d372602.jpg",
       },
       {
         description:
@@ -1225,8 +1143,7 @@ export const soups = [
   },
   {
     title: "Быстрый куриный суп",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-813bfdc959/big5620ee320a273.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/quick_chicken_soup1.jpg`,
     ingridients: [
       "насыщенный куриный бульон&nbsp;—  400&nbsp;мл",
       "вареное яйцо&nbsp;—  2&nbsp;шт.",
@@ -1247,8 +1164,7 @@ export const soups = [
   },
   {
     title: "Сладко-острый суп с индейкой и карри",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-e019662e8b/big52972ef3f3c55.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/sweet_and_spicy_turkey_curry_soup.jpg`,
     ingridients: [
       "картофель&nbsp;—  3&nbsp;шт.",
       " подогретое молоко&nbsp;—  50&nbsp;мл",
@@ -1280,26 +1196,18 @@ export const soups = [
       {
         description:
           "Картофель нарезаем на&nbsp;небольшие кусочки, кладем в&nbsp;подсоленную воду и&nbsp;отвариваем до&nbsp;готовности, около 15&nbsp;минут. Сливаем воду, добавляем подогретое молоко и&nbsp;делаем из&nbsp;картофеля пюре. Отставляем в&nbsp;сторону.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-11ea8ea72e/big52972ef889533.jpg",
       },
       {
         description:
           "В сковороде разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и сельдерей.  Жарим, помешивая, около 4&nbsp;минут, до&nbsp;мягкости и&nbsp;золотистого цвета.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-1edd19b0a2/big52972ef948627.jpg",
       },
       {
         description:
           "Добавляем соль, карри, черный, кайенский и&nbsp;душистый перец, сахар, имбирь и&nbsp;чеснок. Жарим около 2&nbsp;минут, до&nbsp;проявления сильного аромата специй.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-a9e616cbdc/big52972f0375cb3.jpg",
       },
       {
         description:
           "Вливаем в&nbsp;сковороду 100&nbsp;мл бульона и&nbsp;размешиваем, чтобы растворить все&nbsp;коричневые комочки, образовавшиеся при&nbsp;жарке.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-cf8c1fb042/big52972f104dc12.jpg",
       },
       {
         description:
@@ -1311,8 +1219,6 @@ export const soups = [
       },
       {
         description: "При подаче в каждую тарелку кладем рис.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-028a3eacf2/big52972f2612ac5.jpg",
       },
       { description: "Сверху наливаем суп." },
     ],
@@ -1320,8 +1226,7 @@ export const soups = [
   },
   {
     title: "Огненный куриный суп",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-03e6b3babf/big5617b517546d0.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/fire_chicken_soup.jpg`,
     ingridients: [
       "средняя курица, около 1,6&nbsp;кг&nbsp;—  1&nbsp;шт.",
       " крупная луковица&nbsp;—  1&nbsp;шт.",
@@ -1337,8 +1242,6 @@ export const soups = [
     cooking: [
       {
         description: "Лук нарезаем полукольцами.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-248c5cd525/big5297080288d65.jpg",
       },
       {
         description:
@@ -1347,24 +1250,16 @@ export const soups = [
       {
         description:
           "Курицу разрезаем на&nbsp;части. В&nbsp;большой кастрюле с&nbsp;толстым дном разогреваем 2&nbsp;ст.л. растительного масла. Кладем курицу и&nbsp;обжариваем на&nbsp;сильном огне со&nbsp;всех сторон до&nbsp;золотистой корочки, около 5-6 минут в&nbsp;общей сложности.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-d724a1aa76/big5297080323467.jpg",
       },
       {
         description: "Добавляем лук и жарим, помешивая, около 3 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-0bb125b5d6/big5297080742097.jpg",
       },
       {
         description:
           "Кладем в кастрюлю перцы и зиру и жарим, помешивая, еще пару минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-04df4a854f/big52970807ea017.jpg",
       },
       {
         description: "Добавляем кукурузу и размятые томаты вместе с соком.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-cd0c8a2f91/big52970808dc552.jpg",
       },
       {
         description:
@@ -1380,8 +1275,7 @@ export const soups = [
   },
   {
     title: "Гороховый суп с бараньими ребрышками",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-c01941ad8e/big5613ae5a75a19.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/pea_soup_with_lamb_ribs.jpg`,
     ingridients: [
       "горох&nbsp;—  1&nbsp;стакан",
       "бараньи ребрышки&nbsp;—  500&nbsp;г",
@@ -1416,8 +1310,7 @@ export const soups = [
   },
   {
     title: "Суп с курицей с шпинатом",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-9473249dc7/big56124b8e0da07.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_spinach_soup.jpg`,
     ingridients: [
       "грудка куриная&nbsp;—  1-2 шт.",
       "морковь&nbsp;—  1&nbsp;шт.",
@@ -1482,8 +1375,7 @@ export const soups = [
   },
   {
     title: "Куриный суп с горошком",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-3594030718/big560e7c6923a07.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_soup_with_peas.jpg`,
     ingridients: [
       "куриные окорочка&nbsp;—  3&nbsp;шт.",
       " черный перец&nbsp;—  10&nbsp;горошин",
@@ -1509,13 +1401,11 @@ export const soups = [
       {
         description:
           "Морковь разрезаем на&nbsp;2&nbsp;части вдоль, затем режем на&nbsp;тонкие ломтики. Лук&nbsp;и чеснок мелко рубим.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-1209de8450/big5296f494a71c7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_carrots_and_garlic.jpg`,
       },
       {
         description: "Картофель нарезаем кубиками.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-f6e34822eb/big5296f4951da8e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/potatoes_cut_into_cubes.jpg`,
       },
       {
         description:
@@ -1524,8 +1414,7 @@ export const soups = [
       {
         description:
           "Возвращаем на&nbsp;конфорку, добавляем 2&nbsp;ст.л. растительного масла. Кладем овощи и&nbsp;жарим, помешивая, 7&nbsp;минут. Добавляем прованские травы и&nbsp;жарим еще&nbsp;1&nbsp;минуту.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-a63a786ccb/big5296f49582bba.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/frying_vegetables.jpg`,
       },
       {
         description:
@@ -1533,8 +1422,7 @@ export const soups = [
       },
       {
         description: "Мясо снимаем с костей и разбираем на кусочки.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-600b2a3211/big5296f496560e5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/separate_meat_from_bones.jpg`,
       },
       {
         description:
@@ -1545,8 +1433,7 @@ export const soups = [
   },
   {
     title: "Французский луковый суп с крутонами",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d461358248/big560d4fd6695eb.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/french_onion_soup_with_croutons.jpg`,
     ingridients: [
       "масло сливочное&nbsp;—  50&nbsp;г",
       "лук репчатый&nbsp;—  1&nbsp;кг",
@@ -1581,8 +1468,7 @@ export const soups = [
   },
   {
     title: "Сливочный грибной суп с курицей",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-19f2da840b/big55167f287e78d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/creamy_mushroom_soup_with_chicken.jpg`,
     ingridients: [
       "куриные окорочка&nbsp;—  2&nbsp;шт.",
       " лавровый лист&nbsp;—  1&nbsp;шт.",
@@ -1601,8 +1487,7 @@ export const soups = [
       {
         description:
           "Окорочка, лавровый лист и&nbsp;маленькую луковицу, надрезанную крест-накрест, кладем в&nbsp;кастрюлю.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-e459e205a6/big55167f29d9897.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chicken_with_onion_in_a_pan.jpg`,
       },
       {
         description:
@@ -1611,19 +1496,16 @@ export const soups = [
       { description: "Вынимаем окорочка из кастрюли, бульон процеживаем." },
       {
         description: "Картофель нарезаем кубиками со стороной около 1 см.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-756f580b03/big55167f2a99158.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/potatoes_cut_into_cubes1.jpg`,
       },
       {
         description: "Лук мелко рубим.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-734c765219/big55167f2b59d9e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/finely_chop_the_onion.jpg`,
       },
       {
         description:
           "В кастрюле с&nbsp;толстым дном разогреваем на&nbsp;среднем огне 1&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и жарим, помешивая, 3-4 минуты.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-395b7fccc8/big55167f2c0abfd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_in_vegetable_oil.jpg`,
       },
       {
         description:
@@ -1631,8 +1513,7 @@ export const soups = [
       },
       {
         description: "Вливаем бульон, доводим до кипения.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-0725e54a6f/big55167f2cf231d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pour_the_broth.jpg`,
       },
       {
         description:
@@ -1641,8 +1522,7 @@ export const soups = [
       {
         description:
           "Тем временем не&nbsp;очень мелко нарезаем грибы и&nbsp;обжариваем их&nbsp;на средне сильном огне в&nbsp;течение 3-4 минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-b7fdcee7d8/big55167f2da029e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_mushrooms.jpg`,
       },
       {
         description:
@@ -1653,8 +1533,7 @@ export const soups = [
   },
   {
     title: "Грибной суп в хлебе",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-f0f53a6e1f/big56057e2691767.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/mushroom_soup_in_bread.jpg`,
     ingridients: [
       "шампиньоны свежие&nbsp;—  250&nbsp;г",
       "картофель&nbsp;—  100&nbsp;г",
@@ -1680,8 +1559,7 @@ export const soups = [
   },
   {
     title: "Овощной суп с нутом и лимоном",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-2ddfeef872/big55f29ba081cad.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/vegetable_soup_with_chickpeas_and_lemon.jpg`,
     ingridients: [
       "луковица&nbsp;—  1&nbsp;шт.",
       " морковь&nbsp;—  1&nbsp;шт.",
@@ -1704,14 +1582,12 @@ export const soups = [
       {
         description:
           "В кастрюле на&nbsp;среднем огне разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и морковь, жарим, помешивая, 5&nbsp;минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-e94577e54b/big55f29bad964cc.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_carrots_and_onions.jpg`,
       },
       {
         description:
           "Добавляем остальные овощи и жарим, помешивая, еще 5 минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-0c41bf87ab/big55f29bae2969b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_vegetables_and_fry.jpg`,
       },
       {
         description:
@@ -1722,8 +1598,7 @@ export const soups = [
   },
   {
     title: "Суп с фрикадельками и кус-кусом",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-11a5de9fe9/big55f9a685a05bf.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/soup_with_meatballs_and_couscous.jpg`,
     ingridients: [
       "картофель&nbsp;—  2&nbsp;шт.",
       "сельдерей (черешки)&nbsp;—  2&nbsp;шт.",
@@ -1778,8 +1653,7 @@ export const soups = [
   },
   {
     title: "Карри-суп из курицы с рисом",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-63bd755229/big551db15801f5c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_curry_soup_with_rice.jpg`,
     ingridients: [
       "крупные куриные окорочка&nbsp;—  2&nbsp;шт.",
       "маленькая луковица&nbsp;—  1&nbsp;шт.",
@@ -1803,8 +1677,7 @@ export const soups = [
       {
         description:
           "Окорочка, лавровый лист и&nbsp;надрезанную крест-накрест маленькую луковицу кладем в&nbsp;кастрюлю.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-a2989f6c54/big551db15a43256.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chicken_with_onion_in_a_pan.jpg`,
       },
       {
         description:
@@ -1813,8 +1686,7 @@ export const soups = [
       {
         description:
           "Мелко рубим лук&nbsp;и сельдерей. Морковь разрезаем пополам вдоль, затем&nbsp;—  ломтиками. В&nbsp;кастрюле на&nbsp;среднем огне разогреваем 1&nbsp;ст.л. растительного масла. Кладем лук. морковь и&nbsp;сельдерей, жарим, помешивая, 3-4 минуты.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-b7a5d17ec0/big551db15b21f17.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_carrots_and_celery.jpg`,
       },
       {
         description:
@@ -1823,8 +1695,7 @@ export const soups = [
       {
         description:
           "Вливаем кокосовое молоко. Варим до полуготовности моркови.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-ae69353ba1/big551db15bae146.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_coconut_milk.jpg`,
       },
       {
         description:
@@ -1839,8 +1710,7 @@ export const soups = [
   },
   {
     title: "Суп-гуляш",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-49cd0994cd/big55682e1951b23.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/goulash_soup.jpg`,
     ingridients: [
       "говядина&nbsp;—  1&nbsp;кг",
       "луковица&nbsp;—  2-3 шт.",
@@ -1855,32 +1725,27 @@ export const soups = [
       { description: "Мясо нарезаем на небольшие кусочки." },
       {
         description: "Лук мелко рубим.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-d0fa99a081/big55682e1b6b933.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/finely_chop_the_onion.jpg`,
       },
       {
         description: "Шампиньоны разрезаем на 2-4 части.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-a83847a6a6/big55682e1c12f3a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_the_champignons_into_four_parts.jpg`,
       },
       {
         description:
           "В сковороде на&nbsp;сильном огне разогреваем 2&nbsp;ст.л. растительного масла. В&nbsp;несколько заходов быстро подрумяниваем мясо.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-af874d8582/big55682e1cadfb3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_meat.jpg`,
       },
       { description: "Перекладываем в кастрюлю или горшок для тушения." },
       {
         description:
           "Уменьшаем огонь до&nbsp;среднего. Кладем в&nbsp;сковороду лук&nbsp;и жарим, помешивая, 3&nbsp;минуты.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-332e61a2b1/big55682e1d5a7c3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions.jpg`,
       },
       {
         description:
           "Добавляем паприку и&nbsp;жарим еще&nbsp;1&nbsp;минуту. Добавляем размятые томаты вместе с&nbsp;соком и&nbsp;перемешиваем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-3dca9c1b03/big55682e1de7d7b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_paprika_and_tomatoes.jpg`,
       },
       {
         description:
@@ -1892,8 +1757,7 @@ export const soups = [
   },
   {
     title: "Томатный суп-пюре с лососем и треской",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-04a4b29bbd/big55d98f18507a2.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/tomato_puree_soup_with_salmon_and_cod.jpg`,
     ingridients: [
       "сливочное масло&nbsp;—  30&nbsp;г",
       "средняя луковица&nbsp;—  1&nbsp;шт.",
@@ -1920,33 +1784,23 @@ export const soups = [
       {
         description:
           "Мелко рубим лук. В&nbsp;кастрюле на&nbsp;среднем огне растапливаем сливочное масло. Кладем лук&nbsp;и жарим, помешивая, 3-4 минуты.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-14b6052cee/big55d98f19b1a4d.jpg",
       },
       {
         description:
           "Добавляем муку и&nbsp;жарим, помешивая, еще&nbsp;1&nbsp;минуту. Добавляем помидоры и&nbsp;мелко нарубленный чеснок и&nbsp;готовим, помешивая, 5&nbsp;минут. Вливаем бульон и&nbsp;доводим до&nbsp;кипения.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-fb78e9ed45/big55d98f2e50f6b.jpg",
       },
       { description: "Кладем тимьян. Варим под крышкой 15 минут." },
       {
         description: "Тем временем нарезаем рыбу на небольшие кусочки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-dba1f16198/big55d98f2eeb050.jpg",
       },
       { description: "Солим и перчим." },
       {
         description:
           "В сковороде на&nbsp;средне сильном огне разогреваем 1&nbsp;ст.л. растительного масла. В&nbsp;несколько заходов обжариваем рыбу до&nbsp;готовности, по&nbsp;3&nbsp;минуты на&nbsp;заход.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-e225400039/big55d98f2f7de2e.jpg",
       },
       {
         description:
           "Снимаем кастрюлю с&nbsp;супом с&nbsp;плиты и&nbsp;перемалываем содержимое блендером до&nbsp;состояния пюре, предварительно вынув тимьян. Приправляем по&nbsp;вкусу солью и&nbsp;сахаром. Если вы&nbsp;хотите получить более гладкую консистенцию, протрите его&nbsp;через сито.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-51d5aca7ac/big55d98f302d134.jpg",
       },
       {
         description:
@@ -1957,8 +1811,7 @@ export const soups = [
   },
   {
     title: "Сливочный суп с картофелем и кукурузой",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-bebd60fb1d/big5296fbb5d6b84.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/creamy_soup_with_potatoes_and_corn.jpg`,
     ingridients: [
       "сливочное масло&nbsp;—  50&nbsp;г",
       " средняя луковица&nbsp;—  1&nbsp;шт.",
@@ -1982,13 +1835,11 @@ export const soups = [
       {
         description:
           "В кастрюле разогреваем масло, кладем лук&nbsp;и сельдерей и&nbsp;жарим, помешивая, на&nbsp;среднем огне около 5-7 минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-13364e987c/big5296fbba14619.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onion_and_celery.jpg`,
       },
       {
         description: "Добавляем чеснок и жарим еще 1 минуту. Кладем картофель.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-47bb11fd1e/big5296fbba9d1a0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_potatoes_and_garlic.jpg`,
       },
       {
         description:
@@ -2010,8 +1861,7 @@ export const soups = [
   },
   {
     title: "Томатный суп с курицей и зеленой фасолью",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-6e7ae67213/big55c095c1ed560.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/tomato_soup_with_chicken_and_green_beans.jpg`,
     ingridients: [
       "куриное филе&nbsp;—  2&nbsp;шт. (около 200&nbsp;г каждое)",
       " чеснок&nbsp;—  2&nbsp;зубчика",
@@ -2039,8 +1889,6 @@ export const soups = [
       {
         description:
           "В сковороде разогреваем 1&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и жарим, помешивая, до&nbsp;мягкости, около 5&nbsp;минут. Добавляем чеснок и&nbsp;жарим еще&nbsp;1&nbsp;минуту. Кладем в&nbsp;сковороду курятину и&nbsp;жарим, помешивая, пока она&nbsp;не станет матовой, около 3-4 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-15ac96e8aa/big52972cac4c4a2.jpg",
       },
       {
         description:
@@ -2052,8 +1900,6 @@ export const soups = [
       },
       {
         description: "Пока варится суп, мелко нарезаем фасоль.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-8bfb9ca67e/big52972cc87ed3f.jpg",
       },
       {
         description:
@@ -2064,8 +1910,7 @@ export const soups = [
   },
   {
     title: "Венгкрский суп 'Бограч'",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-0025cee505/big55ba2ec8f262a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/hungarian_soup_bograch.jpg`,
     ingridients: [
       "говядина&nbsp;—  1&nbsp;кг",
       "помидоры&nbsp;—  4&nbsp;шт.",
@@ -2089,8 +1934,7 @@ export const soups = [
       {
         description:
           "Через какое-то время грузим остальные овощи: перцы, фасоль, помидоры. Перемешиваем, солим чуть-чуть.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-3b27f4e3e5/55ba2da92dc26.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/vegetables_in_a_cauldron.jpg`,
       },
       {
         description:
@@ -2102,22 +1946,18 @@ export const soups = [
       {
         description:
           "Минут через 40-60 открываем казан, докидываем картошку, доливаем оставшийся бульон. Выправляем на&nbsp;соль и&nbsp;закрываем снова.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-ee159fac91/55ba2dea4a649.jpg",
       },
       {
         description:
           "Когда картошка сварится, добавляем чеснок и&nbsp;петрушку. Все&nbsp;готово!",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-b8ca3ffa91/55ba2e078f949.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/soup_in_a_cauldron.jpg`,
       },
     ],
     type: soupsType,
   },
   {
-    title: "Щавельный суп с копченостями",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-095095a830/big55785bfdc63f3.jpg",
+    title: "Щавелевый суп с копченостями",
+    image: `${process.env.PUBLIC_URL}/images/soups/sorrel_soup_with_smoked_meats.jpg`,
     ingridients: [
       "    копченые свиные ребра&nbsp;—  300&nbsp;г",
       "    вода&nbsp;—  2&nbsp;л",
@@ -2147,9 +1987,8 @@ export const soups = [
     type: soupsType,
   },
   {
-    title: "Остный мясной суп суп с фасолью",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-8252831bd6/big52973c988f6df.jpg",
+    title: "Острый мясной суп с фасолью",
+    image: `${process.env.PUBLIC_URL}/images/soups/spicy_meat_soup_with_beans.jpg`,
     ingridients: [
       "говядина&nbsp;—  600&nbsp;г",
       " крупные сладкие перцы&nbsp;—  2&nbsp;шт.",
@@ -2165,24 +2004,16 @@ export const soups = [
     cooking: [
       {
         description: "Мясо нарезаем кубиками со стороной 2 см.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-f67839294b/big52973ca230f25.jpg",
       },
       {
         description: "Лук мелко рубим.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-80cc7f4a5a/big52973ca569194.jpg",
       },
       {
         description:
           "Сладкий перец нарезаем на кубики со стороной 1 см, острый перец мелко рубим.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-36712374e5/big52973ca6ccf3e.jpg",
       },
       {
         description: "Сельдерей нарезаем кубиками со стороной 1 см.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-e620b0b2f4/big52973ca9c523e.jpg",
       },
       {
         description:
@@ -2191,14 +2022,10 @@ export const soups = [
       {
         description:
           "Отдельно на&nbsp;растительном масле в&nbsp;несколько партий обжигаем мясо, по&nbsp;5-7 минут на&nbsp;партию.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-4de225eaa1/big52973cb2bb217.jpg",
       },
       {
         description:
           "Добавляем мясо к&nbsp;овощам, добавляем муку и&nbsp;жарим, постоянно помешивая, около 2&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-0a1d51d065/big52973ccac7d37.jpg",
       },
       {
         description:
@@ -2214,8 +2041,7 @@ export const soups = [
   },
   {
     title: "Суп из ветчины с фасолью",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-f10794d474/big5296fd76af699.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/ham_and_bean_soup.jpg`,
     ingridients: [
       "крупный стебель сельдерея&nbsp;—  2&nbsp;шт.",
       " морковь&nbsp;—  2&nbsp;шт.",
@@ -2230,13 +2056,11 @@ export const soups = [
     cooking: [
       {
         description: "Сельдерей, лук и морковь рубим не очень мелко.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-bc5c07a6de/big5296fd789e13e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_onion_celery_and_carrots.jpg`,
       },
       {
         description: "Ветчину нарезаем кубиками.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-bd9f580130/big5296fd792401e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_the_ham_into_cubes.jpg`,
       },
       {
         description:
@@ -2263,8 +2087,7 @@ export const soups = [
   },
   {
     title: "Сырный суп с грибами",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-d8142ea9b0/big550b4a77d0fdf.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/cheese_soup_with_mushrooms.jpg`,
     ingridients: [
       "замороженные белые грибы&nbsp;—  200&nbsp;г",
       " шампиньоны&nbsp;—  250&nbsp;г",
@@ -2282,14 +2105,12 @@ export const soups = [
       {
         description:
           "Грибы нарезаем не&nbsp;небольшие кусочки. В&nbsp;сковороде  или&nbsp;кастрюле на&nbsp;среднем огне разогреваем 2&nbsp;ст.л. растительного масла. Кладем грибы и&nbsp;жарим до&nbsp;готовности, помешивая, около 7-8 минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-55a7808344/big550b4a8380e9e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_mushrooms_in_a_saucepan.jpg`,
       },
       {
         description:
           "Отдельно доводим до&nbsp;кипения бульон со&nbsp;сливками. Добавляем сыр&nbsp;и размешиваем до&nbsp;однородного состояния. Доводим до&nbsp;кипения и&nbsp;варим 5&nbsp;минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-840c2d1417/big550b4a8413c86.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/broth_with_cream.jpg`,
       },
       {
         description:
@@ -2301,8 +2122,7 @@ export const soups = [
   },
   {
     title: "Легкий куриный суп с вермишелью",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-ec3f7db353/big5297053488d66.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/light_chicken_noodle_soup.jpg`,
     ingridients: [
       "небольшая курица (около 1,5-1,6&nbsp;кг)&nbsp;—  1&nbsp;шт.",
       " небольшая луковица&nbsp;—  1&nbsp;шт.",
@@ -2318,8 +2138,6 @@ export const soups = [
       {
         description:
           "Курицу разрезаем на&nbsp;части, моем и&nbsp;кладем в&nbsp;кастрюлю. Добавляем одну крупно нарезанную морковь, чеснок, сельдерей и&nbsp;надрезанную крест-накрест луковицу.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-9f8fc0a7b3/big5297054320d5a.jpg",
       },
       {
         description:
@@ -2327,13 +2145,9 @@ export const soups = [
       },
       {
         description: "Картофель нарезаем кубиками.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-a446784d1f/big52970543dec67.jpg",
       },
       {
         description: "Морковь нарезаем шайбами толщиной около 4-5 мм.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-f908825930/big5297054e5d61a.jpg",
       },
       {
         description:
@@ -2360,8 +2174,7 @@ export const soups = [
   },
   {
     title: "Суп из индейки с макаронами",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-9c6ce31c88/big529735064a94e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/turkey_pasta_soup.jpg`,
     ingridients: [
       "индюшиные голени&nbsp;—  2&nbsp;шт. или&nbsp;1&nbsp;бедро весом около 600-700 г",
       " морковь&nbsp;—  3&nbsp;шт.",
@@ -2382,20 +2195,14 @@ export const soups = [
       {
         description:
           "Пока варится индейка, нарезаем морковь кружочками толщиной около 0,5 см.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-806affe743/big5297350d7d5ce.jpg",
       },
       {
         description:
           "Вынимаем готовое мясо из&nbsp;кастрюли и&nbsp;даем немного остыть. Нарезаем на&nbsp;средние кусочки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-8ac1a59d0c/big5297350e38c22.jpg",
       },
       {
         description:
           "В бульон кладем морковь, зеленую фасоль и&nbsp;макароны. Варим, пока макароны не&nbsp;достигнут состояния аль&nbsp;денте, а&nbsp;морковь не&nbsp;станет мягкой.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-6dcae9ba9a/big5297351248df3.jpg",
       },
       { description: "Кладем мясо в суп и прогреваем в течение пары минут." },
       {
@@ -2407,8 +2214,7 @@ export const soups = [
   },
   {
     title: "Крем-суп из шампиньонов",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-86d140e4a2/big550c58c6c3455.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/creamy_champignon_soup.jpg`,
     ingridients: [
       "шампиньоны&nbsp;—  500&nbsp;г",
       " небольшие луковички&nbsp;—  2&nbsp;шт.",
@@ -2423,20 +2229,14 @@ export const soups = [
       {
         description:
           "В кастрюле с&nbsp;толстым дном разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и жарим, помешивая, около 3-4 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-16e40529c8/big52970b1516d2b.jpg",
       },
       {
         description:
           "Добавляем грибы и жарим до мягкости, еще около 5-7 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-512078441d/big52970b19ea3ff.jpg",
       },
       {
         description:
           "В другой кастрюле растапливаем сливочное масло, вмешиваем в&nbsp;него муку и&nbsp;обжариваем в&nbsp;течение полутора-двух минут. Затем постепенно, постоянно помешивая, вливаем бульон и&nbsp;доводим его&nbsp;до кипения. Добавляем шампиньоны и&nbsp;лук, перемешиваем и&nbsp;снова доводим до&nbsp;кипения. Измельчаем при&nbsp;помощи погружного блендера.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-7e6581545e/big52970b1cd2917.jpg",
       },
       {
         description:
@@ -2451,8 +2251,7 @@ export const soups = [
   },
   {
     title: "Мясной суп с фасолью и томатами",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-f86a252a4a/big52971442b0252.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/meat_soup_with_beans_and_tomatoes.jpg`,
     ingridients: [
       "небольшая красная луковица&nbsp;—  1&nbsp;шт.",
       " нарубленный свежий розмарин&nbsp;—  1&nbsp;ч.л. или&nbsp;½ ч.л. сухого",
@@ -2471,14 +2270,10 @@ export const soups = [
       {
         description:
           "Мелко рубим лук. В&nbsp;кастрюле разогреваем 2&nbsp;ст.л. растительного масла, кладем лук&nbsp;и розмарин, жарим, помешивая, около 5&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-ca9ab7b7df/big5297144512eaf.jpg",
       },
       {
         description:
           "Добавляем в&nbsp;кастрюлю куриный или&nbsp;мясной бульон, 500&nbsp;мл воды, промытую фасоль и&nbsp;размятые томаты вместе с&nbsp;соком. Доводим до&nbsp;кипения, солим и&nbsp;перчим по&nbsp;вкусу.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-fdd6d3b5fc/big529714471e645.jpg",
       },
       {
         description: "Уменьшаем огонь и варим суп под крышкой около 20 минут.",
@@ -2487,8 +2282,6 @@ export const soups = [
       {
         description:
           "Добавляем в суп шпинат и варим, пока он не станет вялым, около 1 минуты.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-5fd78710dc/big5297144993d2f.jpg",
       },
       {
         description:
@@ -2499,8 +2292,7 @@ export const soups = [
   },
   {
     title: "Крем-суп из стебельного сельдерея с картофелем",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-7503075bb7/big5297063d3e5fa.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/cream_soup_of_stalk_celery_with_potatoes.jpg`,
     ingridients: [
       "стеблевой сельдерей&nbsp;—  500&nbsp;г",
       " средняя луковица&nbsp;—  1&nbsp;шт.",
@@ -2521,20 +2313,14 @@ export const soups = [
       {
         description:
           "Добавляем сельдерей и картофель и жарим еще около 10 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-b84f436a3c/big5297064a122f6.jpg",
       },
       {
         description:
           "Вливаем 1,5&nbsp;л&nbsp;воды или&nbsp;куриного бульона, доводим до&nbsp;кипения, накрываем крышкой и&nbsp;варим до&nbsp;готовности картофеля&nbsp;—  около 20&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-8fb7045a50/big5297064a783c6.jpg",
       },
       {
         description:
           "Перемалываем суп до гладкой консистенции при помощи блендера.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-8e38f0f905/big52970656e2317.jpg",
       },
       { description: "Вливаем лимонный сок, добавляем соль и перец по вкусу." },
       { description: "При подаче украшаем зеленью сельдерея." },
@@ -2543,8 +2329,7 @@ export const soups = [
   },
   {
     title: "Лимонный суп из чечевицы и риса",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-b2545fc369/big535ad05898cdc.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/lemon_lentil_and_rice_soup.jpg`,
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " чеснок&nbsp;—  2&nbsp;зубчика",
@@ -2563,8 +2348,6 @@ export const soups = [
       },
       {
         description: "Добавляем рис и чечевицу, перемешиваем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-74ae7482c6/big535ad05a6e917.jpg",
       },
       { description: "Вливаем бульон." },
       {
@@ -2584,8 +2367,7 @@ export const soups = [
   },
   {
     title: "Мукека",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-f472360bc4/big53ea83d703ea7.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/mukeka.jpg`,
     ingridients: [
       "филе белой морской рыбы&nbsp;—  400&nbsp;г",
       " очищенные креветки&nbsp;—  400&nbsp;г",
@@ -2610,38 +2392,44 @@ export const soups = [
       {
         description:
           "Рыбу нарезаем на&nbsp;небольшие кусочки. Кладем вместе с&nbsp;креветками в&nbsp;миску, добавляем сок&nbsp;одного лайма и&nbsp;растительное масло. Приправляем солью, перемешиваем и&nbsp;ставим в&nbsp;холодильник&nbsp;—  пусть маринуется, пока будут готовиться остальные ингредиенты.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6944372285/big53ea83d8b5676.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fish_and_shrimp.jpg`,
       },
       {
         description:
           "Половину луковицы крупно режем и&nbsp;кладем в&nbsp;блендер. Туда же&nbsp;отправляем нарубленный чили, чеснок и&nbsp;томаты вместе с&nbsp;соком.",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chili_garlic_and_tomatoes.jpg`,
       },
-      { description: "Рубим мелко, но так, чтобы осталась какая-то текстура." },
+      {
+        description: "Рубим мелко, но так, чтобы осталась какая-то текстура.",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chili_and_tomato_puree.jpg`,
+      },
       { description: "Оставшийся лук нарезаем на четвертинки колец." },
       {
         description:
           "В кастрюле на&nbsp;среднем огне разогреваем ст.л. растительного масла. Кладем лук&nbsp;и жарим, помешивая, 3-4 минуты.",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_in_a_saucepan.jpg`,
       },
       {
         description:
           "Добавляем измельченную томатную массу и готовим, помешивая, еще 5 минут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-3145855921/big53ea83dc0f24e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_tomato_mass.jpg`,
       },
       {
         description:
           "Тем временем нарезаем сладкий перец на кусочки со стороной 1,5-2 см.",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_red_pepper.jpg`,
       },
-      { description: "Добавляем перец в кастрюлю и тушим еще 5 минут." },
+      {
+        description: "Добавляем перец в кастрюлю и тушим еще 5 минут.",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_pepper_to_the_pan.jpg`,
+      },
       {
         description:
           "Вливаем бульон и&nbsp;доводим до&nbsp;кипения. Добавляем кокосовое молоко и&nbsp;снова доводим до&nbsp;кипения. Солим по&nbsp;вкусу.",
       },
       {
         description: "Кладем в кастрюлю замаринованную рыбу и креветки.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-41143f42a6/big53ea83dec257e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_fish_and_shrimp.jpg`,
       },
       {
         description:
@@ -2652,8 +2440,7 @@ export const soups = [
   },
   {
     title: "Куриный суп с грибами,шпинатом и перловкой",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-8e9c6e95a2/big5296e6bb01956.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_soup_with_mushrooms_spinach_and_pearls.jpg`,
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " чеснок&nbsp;—  3&nbsp;зубчика",
@@ -2673,21 +2460,18 @@ export const soups = [
       {
         description:
           "Морковь разрезаем на 4 части вдоль, затем режем тонкими ломтиками.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-89302f7da0/big5296e6bc4d449.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/carrot_slices.jpg`,
       },
       {
         description: "Сельдерей нарезаем ломтиками поперек.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8e19a48a82/big5296e6ca14a05.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_celery.jpg`,
       },
       { description: "Лук режем кубиками. Чеснок мелко рубим." },
       { description: "Шампиньоны нарезаем пластинками." },
       {
         description:
           "В сотейнике разогреваем 2&nbsp;ст.л. растительного масла. Кладем нарезанные овощи и&nbsp;жарим, помешивая, до&nbsp;мягкости, около 10&nbsp;минут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b4e1c73984/big5296e6cc11b26.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_mushrooms_carrots_and_onions.jpg`,
       },
       { description: "Добавляем вино и готовим, помешивая, пару минут." },
       { description: "Кладем в сотейник тимьян и готовим еще 1 минуту." },
@@ -2697,8 +2481,7 @@ export const soups = [
       },
       {
         description: "Кладем в кастрюлю курятину, орегано, розмарин и шпинат.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-28732e327a/big5296e6cf5e9a3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_spinach.jpg`,
       },
       { description: "Варим еще 5 минут. Выключаем плиту." },
     ],
@@ -2706,8 +2489,7 @@ export const soups = [
   },
   {
     title: "Грибной суп со стручковой фасолью и баклажанами",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-e40ad36b72/big54eb5637b0f5d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/mushroom_soup_with_green_beans_and_eggplants.jpg`,
     ingridients: [
       "картофель&nbsp;—  1&nbsp;шт.",
       "перец болгарский&nbsp;—  1/2&nbsp;шт.",
@@ -2758,8 +2540,7 @@ export const soups = [
   },
   {
     title: "Куриный суп с кукурузой и яйцом",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-842d8cffc1/big5296eacc685db.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_soup_with_corn_and_egg.jpg`,
     ingridients: [
       "куриный бульон&nbsp;—  1&nbsp;л",
       " отварные куриные окорочка, нарезанные на&nbsp;кусочки&nbsp;—  2-3 шт.",
@@ -2773,13 +2554,11 @@ export const soups = [
     cooking: [
       {
         description: "Яйца слегка взбиваем вилкой.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-1958067745/big5296ead21367b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beat_eggs_with_a_fork.jpg`,
       },
       {
         description: "Имбирь мелко рубим.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-35a96fa31d/big5296ead2adb40.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/finely_chop_ginger.jpg`,
       },
       {
         description:
@@ -2788,14 +2567,12 @@ export const soups = [
       {
         description:
           "Вливаем бульон и соевый соус, добавляем кукурузу. Перемешиваем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c4584a726e/big5296ead61f9cc.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_soy_sauce.jpg`,
       },
       {
         description:
           "Варим 5 минут. Затем при постоянном помешивании тонкой струйкой вливаем яйца.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e2cfeac676/big5296ead854592.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_eggs_to_soup.jpg`,
       },
       {
         description:
@@ -2806,8 +2583,7 @@ export const soups = [
   },
   {
     title: "Французский луковый суп",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-1ec1f8ec98/big54d53cfaeadef.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/french_onion_soup.jpg`,
     ingridients: [
       "лук&nbsp;—  500&nbsp;г",
       " чеснок&nbsp;—  3-4 зубчика",
@@ -2822,26 +2598,22 @@ export const soups = [
     cooking: [
       {
         description: "Лук нарезаем на тонкие полукольца.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-b470e0c9f0/big54d53d000afe5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_the_onion_into_half_rings.jpg`,
       },
       {
         description:
           "В толстостенной кастрюле на&nbsp;средне сильном огне растапливаем сливочное масло. Кладем лук&nbsp;и мелко нарубленный чеснок и&nbsp;жарим, помешивая, около 10&nbsp;минут, пока лук&nbsp;не приобретет коричневатый оттенок и&nbsp;не карамелизируется (не путать с&nbsp;подгоранием!). В&nbsp;процессе понемногу подсыпаем сахар.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-6195fcea10/big54d53d00b2f66.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_and_garlic.jpg`,
       },
       {
         description:
           "Уменьшаем огонь практически до&nbsp;минимума и&nbsp;жарим лук, периодически помешивая, еще&nbsp;20-25 минут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-0b1561d78b/big54d53d013440e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_wine_to_onions.jpg`,
       },
       {
         description:
           "Вливаем в&nbsp;кастрюлю вино и&nbsp;бульон, доводим до&nbsp;кипения на&nbsp;сильном огне, затем уменьшаем огонь до&nbsp;минимума и&nbsp;тушим, НЕ&nbsp;НАКРЫВАЯ КРЫШКОЙ, около часа.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-365468c1b6/big54d53d01e11ad.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/soup_is_cooking.jpg`,
       },
       {
         description:
@@ -2858,8 +2630,7 @@ export const soups = [
       {
         description:
           "Суп разливаем по&nbsp;супницам, сверху в&nbsp;каждую кладем по&nbsp;1-2 гренки (в зависимости от&nbsp;диаметра) и&nbsp;посыпаем тертым сыром.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-b042eac187/big54d53d025d837.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/sprinkle_the_soup_with_grated_cheese.jpg`,
       },
       {
         description:
@@ -2871,8 +2642,7 @@ export const soups = [
   },
   {
     title: "Суп-пюре из корневого сельдерея с голубым сыром",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-19133015c5/big52962424a113d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/celery_root_soup_with_blue_cheese.jpg`,
     ingridients: [
       "корень сельдерея&nbsp;—  350&nbsp;г",
       " сок&nbsp;половины лимона",
@@ -2888,14 +2658,10 @@ export const soups = [
       {
         description:
           "Сельдерей нарезаем на&nbsp;небольшие кубики, кладем в&nbsp;миску, заливаем водой так, чтобы она&nbsp;покрывала сельдерей полностью. Вливаем лимонный сок&nbsp;и размешиваем&nbsp;—  это&nbsp;нужно, чтобы сельдерей не&nbsp;потемнел.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-24c72c5089/big5296242cb68f8.jpg",
       },
       {
         description:
           "Мелко рубим лук, картофель нарезаем такими же кубиками, как и сельдерей.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-17cd595e8f/big5296242e14b20.jpg",
       },
       {
         description:
@@ -2904,14 +2670,10 @@ export const soups = [
       {
         description:
           "Пока обжаривается лук&nbsp;с картофелем, сливаем с&nbsp;сельдерея воду. Добавляем сельдерей в&nbsp;сковороду и&nbsp;жарим, помешивая, еще&nbsp;2-3 минуты.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-05519ab2a8/big529624318a9d9.jpg",
       },
       {
         description:
           "Перекладываем овощи в&nbsp;кастрюлю с&nbsp;кипящим бульоном. Варим около получаса или&nbsp;пока все&nbsp;овощи не&nbsp;станут мягкими. Снимаем кастрюлю с&nbsp;огня, вливаем сливки и&nbsp;кладет раскрошенный голубой сыр. Измельчаем суп&nbsp;при помощи блендера.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-268ee73c44/big5296243a75dd5.jpg",
       },
       { description: "Пробуем и при необходимости добавляем соль." },
       {
@@ -2923,8 +2685,7 @@ export const soups = [
   },
   {
     title: "Томатный овощной суп",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-20b55bd0c4/big5296fc89de87e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/tomato_vegetable_soup.jpg`,
     ingridients: [
       "крупная луковица&nbsp;—  1&nbsp;шт.",
       " крупный стебель сельдерея&nbsp;—  2&nbsp;шт.",
@@ -2942,8 +2703,7 @@ export const soups = [
       },
       {
         description: "Лук, морковь и сельдерей нарезаем кубиками.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-882e87d9e9/big5296fca1754e7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/onion_carrots_and_celery_cut_into_cubes.jpg`,
       },
       {
         description:
@@ -2952,8 +2712,7 @@ export const soups = [
       {
         description:
           "Добавляем тимьян, соль и перец. Кладем раздавленные томаты вместе с соком.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-70a4805e1a/big5296fcb19e526.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_thyme_and_tomatoes.jpg`,
       },
       {
         description:
@@ -2965,8 +2724,7 @@ export const soups = [
   },
   {
     title: "Рассольник",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-b1bb2eeb34/big52961d6ac4b8a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/rassolnik.jpg`,
     ingridients: [
       "говядина на&nbsp;косточке&nbsp;—  1&nbsp;кг",
       " лавровый лист&nbsp;—  2&nbsp;шт.",
@@ -2988,8 +2746,6 @@ export const soups = [
       {
         description:
           "Перловку промываем, кладем в бульон и варим около 30 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-807cae280e/big52961d6f31043.jpg",
       },
       {
         description:
@@ -2997,8 +2753,6 @@ export const soups = [
       },
       {
         description: "Пока варится перловка, нарезаем кубиками картофель.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-f61def69a6/big52961d724ba0e.jpg",
       },
       {
         description:
@@ -3007,15 +2761,11 @@ export const soups = [
       {
         description:
           "В сковороде разогреваем 1&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и морковь и&nbsp;жарим, помешивая, на&nbsp;среднем огне, около 5-7 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-99e1bd6dd3/big52961d73c4b88.jpg",
       },
       { description: "Кладем овощи в суп в месте с нарезанным картофелем." },
       {
         description:
           "На той же сковороде в течение 2-3 минут обжариваем огурцы.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-611bbb6ad7/big52961d750744d.jpg",
       },
       { description: "Также кладем в кастрюлю." },
       {
@@ -3031,8 +2781,7 @@ export const soups = [
   },
   {
     title: "Овощной суп с тыквой и фасолью",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-233d8f765b/big529744fabcd6b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/vegetable_soup_with_pumpkin_and_beans.jpg`,
     ingridients: [
       "крупные стебли сельдерея&nbsp;—  1-2 шт.",
       " средняя луковица&nbsp;—  1&nbsp;шт.",
@@ -3047,35 +2796,29 @@ export const soups = [
       {
         description:
           "Тыкву очищаем от кожи и нарезаем кубиками со стороной около 1,5 см.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-16803d9368/big529745014e7cf.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_pumpkin_into_cubes.jpg`,
       },
       {
         description: "Лук и чеснок мелко режем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-7534fdd23e/big529745075b2ed.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_onion_and_garlic.jpg`,
       },
       {
         description: "Сельдерей нарезаем поперек на кусочки толщиной 0,5 см.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-a5019f3bab/big52974508499ae.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_celery1.jpg`,
       },
       {
         description:
           "В кастрюле разогреваем пару ложек растительного масла. Кладем сельдерей и&nbsp;жарим, помешивая, около 2&nbsp;минут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5aa42f500f/big529745098eb22.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_celery.jpg`,
       },
       {
         description: "Добавляем лук и чеснок, жарим еще 5 минут, до мягкости.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-1ad2869e56/big5297450dc7950.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onion_garlic_and_celery.jpg`,
       },
       {
         description:
           "Кладем тыкву и&nbsp;томаты, тушим на&nbsp;среднем огне, пока жидкость немного не&nbsp;загустеет.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ce30b8a553/big529745101b37b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_pumpkin_and_tomatoes.jpg`,
       },
       {
         description:
@@ -3086,8 +2829,7 @@ export const soups = [
   },
   {
     title: "Простой гороховый суп с ветчиной",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-8b5a72cead/big529728b711f0a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/simple_pea_soup_with_ham.jpg`,
     ingridients: [
       "колотый горох, предварительно замоченный на&nbsp;2-3 часа&nbsp;—  400&nbsp;г",
       " морковь&nbsp;—  2&nbsp;шт.",
@@ -3102,8 +2844,6 @@ export const soups = [
     cooking: [
       {
         description: "Горох промываем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-5ff3652d9e/big529728be05002.jpg",
       },
       {
         description:
@@ -3135,8 +2875,7 @@ export const soups = [
   },
   {
     title: "Морковный суп с лососем",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-b076ed67ff/big5296e72c46acd.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/carrot_soup_with_salmon.jpg`,
     ingridients: [
       "морковь&nbsp;—  500&nbsp;г",
       " нарубленный свежий имбирь&nbsp;—  1&nbsp;ст.л.",
@@ -3157,29 +2896,24 @@ export const soups = [
       },
       {
         description: "Морковь разрезаем на 4 части вдоль, затем на ломтики.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-4df87832ff/big5296e746f05a3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_carrots_into_slices.jpg`,
       },
       {
         description: "Кабачок нарезаем кубиками.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-41745c2a89/big5296e747dc16e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/dice_zucchini.jpg`,
       },
       {
         description: "Лосось нарезаем на такие же кубики, как и цуккини.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-dc015a476e/big5296e74b84aff.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/dice_the_salmon.jpg`,
       },
       {
         description:
           "В кастрюле на&nbsp;среднем огне разогреваем 1&nbsp;ст.л. растительного масла. Кладем морковь и&nbsp;имбирь и&nbsp;жарим, помешивая, до&nbsp;полуготовности моркови, около 5-7 минут. Вливаем бульон, добавляем соль по&nbsp;вкусу, доводим до&nbsp;кипения и&nbsp;варим под&nbsp;крышкой до&nbsp;полной готовности, еще&nbsp;около 10&nbsp;минут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-aa85b99c77/big5296e750d4c3c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/carrots_in_broth.jpg`,
       },
       {
         description: "Перемалываем суп при помощи блендера.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-cd990e11fd/big5296e7516fb0f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/make_puree_soup.jpg`,
       },
       {
         description:
@@ -3194,8 +2928,7 @@ export const soups = [
   },
   {
     title: "Финский рыбный суп со сливками",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-cd0846fd66/big5446ccd8a5c75.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/finnish_fish_soup_with_cream.jpg`,
     ingridients: [
       "суповой набор из&nbsp;одного лосося (хребет, хвост и&nbsp;передняя часть; если есть голова&nbsp;—  прекрасно: вынимаем жабры и&nbsp;глаза и&nbsp;пускаем в&nbsp;тот же&nbsp;набор)",
       " луковицы средних размеров&nbsp;—  2&nbsp;шт.",
@@ -3213,8 +2946,6 @@ export const soups = [
       {
         description:
           "Кости кладем в&nbsp;кастрюлю. добавляем лавровый лист, перец и&nbsp;надрезанную крест-накрест луковицу.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-744a620468/big5446ccee591e4.jpg",
       },
       {
         description:
@@ -3228,20 +2959,14 @@ export const soups = [
       {
         description:
           "Кастрюлю споласкиваем и&nbsp;возвращаем на&nbsp;плиту. На&nbsp;среднем огне разогреваем в&nbsp;ней 1&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и жарим, помешивая, 3&nbsp;минуты.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-e7fe155fe2/big5446cceed468d.jpg",
       },
       {
         description:
           "Добавляем морковь и&nbsp;картофель, вливаем бульон. Солим по&nbsp;вкусу, доводим до&nbsp;кипения и&nbsp;варим до&nbsp;готовности картофеля.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-4e80effade/big5446ccef4bef5.jpg",
       },
       {
         description:
           "Кладем в&nbsp;кастрюлю сырое филе лосося, варим 5&nbsp;минут. Возвращаем в&nbsp;суп мякоть, снятую с&nbsp;костей, вливаем сливки и&nbsp;доводим до&nbsp;кипения.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-a0d79d5505/big5446ccefb622d.jpg",
       },
       {
         description:
@@ -3252,8 +2977,7 @@ export const soups = [
   },
   {
     title: "Куриный суп с нутом",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-5416bcbfb9/big52975f58ee280.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_soup_with_chickpeas.jpg`,
     ingridients: [
       "куриные бедра&nbsp;—  3-4 шт.",
       " размоченный и&nbsp;отваренный нут&nbsp;—  400&nbsp;г",
@@ -3276,40 +3000,33 @@ export const soups = [
       {
         description:
           "Если вы&nbsp;используете сухой горох нут&nbsp;—  заливаем его&nbsp;водой и&nbsp;оставляем на&nbsp;пару часов. Когда он&nbsp;разбухнет, сливаем воду, наливаем новую, ставим на&nbsp;плиту и&nbsp;варим на&nbsp;маленьком огне около 30-40 минут, до&nbsp;готовности.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-5eeae79255/big52975f87b15d5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boiled_chickpeas.jpg`,
       },
       {
         description:
           "В кастрюле разогреваем 2&nbsp;ст.л. растительного масла и&nbsp;обжариваем курицу до&nbsp;золотисто-коричневого цвета с&nbsp;обеих сторон, по&nbsp;6&nbsp;минут на&nbsp;сторону. Убираем на&nbsp;тарелку.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-62243974cb/big52975f958b477.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_chicken.jpg`,
       },
       {
         description: "Лук нарезаем тонкими полукольцами.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e79495936a/big52975fcb568b2.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_the_onion1.jpg`,
       },
       {
         description: "Жарим на том же масле до мягкости, примерно 4 минуты.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-8b471c5478/big52975fd1689c7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions1.jpg`,
       },
       {
         description:
           "Добавляем специи и 2 ч.л. нарубленного чеснока, жарим 1 минуту.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-542a4729af/big52975fe469d4e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_spices_to_onions.jpg`,
       },
       {
         description: "Морковь нарезаем на кружочки толщиной 5 мм.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-daaadc6815/big52975fe8c13bf.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/carrot_slices1.jpg`,
       },
       {
         description: "Добавляем в кастрюлю и жарим 2-3 минуты.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-217c05028d/big52975ff25a34d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_carrots_with_onions_and_spices.jpg`,
       },
       {
         description:
@@ -3332,8 +3049,7 @@ export const soups = [
   },
   {
     title: "Томатный суп с треской и тыквой",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-5282c2eb7c/big529a63672b54a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/tomato_soup_with_cod_and_pumpkin.jpg`,
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " стебель сельдерея&nbsp;—  1&nbsp;шт.",
@@ -3351,8 +3067,7 @@ export const soups = [
       {
         description:
           "Мелко рубим лук, перец и&nbsp;сельдерей. В&nbsp;кастрюле разогреваем 1&nbsp;ст.л. растительного масла, кладем овощи и&nbsp;жарим, помешивая, около 5&nbsp;минут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-30d394008b/big529a636d1b766.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_peppers_and_celery.jpg`,
       },
       {
         description:
@@ -3360,14 +3075,12 @@ export const soups = [
       },
       {
         description: "Тыкву нарезаем кубиками.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-baf9435cd7/big529a636da9cba.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/dice_the_pumpkin.jpg`,
       },
       {
         description:
           "Кладем тыкву в кастрюлю, добавляем размятые томаты вместе с соком.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-d316af8c51/big529a636e512c5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_pumpkin_and_tomatoes1.jpg`,
       },
       {
         description:
@@ -3375,8 +3088,7 @@ export const soups = [
       },
       {
         description: "Рыбу нарезаем на кусочки.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-ad81cd801a/big529a636fd5025.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chop_the_fish.jpg`,
       },
       {
         description:
@@ -3387,8 +3099,7 @@ export const soups = [
   },
   {
     title: "Куриный суп с гречневой лапшой",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-97e30c202e/big5296f8610d4d7.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_soup_with_buckwheat_noodles.jpg`,
     ingridients: [
       "натертый имбирь&nbsp;—  1&nbsp;ст.л.",
       " чеснок&nbsp;—  2&nbsp;зубчика",
@@ -3413,8 +3124,7 @@ export const soups = [
       {
         description:
           "Чеснок нарезаем на&nbsp;тонкие ломтики, сладкий перец режем соломкой, фасоль нарезаем на&nbsp;длинные косые кусочки.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-a4c6414eb3/big5296f86460cc7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_green_beans_and_peppers.jpg`,
       },
       { description: "Филе нарезаем на тонкие длинные кусочки." },
       { description: "Кладем в кастрюлю чеснок и имбирь." },
@@ -3436,8 +3146,7 @@ export const soups = [
   },
   {
     title: "Суп-пюре из кислой капусты",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-d2d7f24281/big534f9b9a00375.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/sauerkraut_soup.jpg`,
     ingridients: [
       "небольшая луковица&nbsp;—  1&nbsp;шт.",
       " чеснок&nbsp;—  2&nbsp;зубчика",
@@ -3453,31 +3162,26 @@ export const soups = [
       {
         description:
           "Мелко рубим чеснок. Лук&nbsp;нарезаем на&nbsp;половинки колец. Картофель нарезаем мелкими кубиками.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-49bc17f62e/big534f9b9de7e7e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_onions_and_potatoes.jpg`,
       },
       {
         description:
           "В кастрюле растапливаем сливочное масло. Кладем овощи и&nbsp;тмин, жарим, помешивая, около 5&nbsp;минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-c45c94aea1/big534f9b9e68386.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_vegetables_in_butter.jpg`,
       },
       {
         description: "Добавляем 150 г капусты и вливаем бульон.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-4e951842fe/big534f9b9eed084.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_cabbage_to_broth.jpg`,
       },
       { description: "Доводим до кипения и варим 20 минут." },
       {
         description:
           "Пока варится суп, обжариваем оставшиеся 100&nbsp;г капусты на&nbsp;растительном масле до&nbsp;золотистого цвета.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-94eb541b4a/big534f9b9f72f65.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_cabbage.jpg`,
       },
       {
         description: "Снимаем суп с огня и перемалываем блендером.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-7f29d81caf/big534f9b9fd6d0d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/make_the_soup_puree.jpg`,
       },
       {
         description:
@@ -3491,8 +3195,7 @@ export const soups = [
   },
   {
     title: "Суп из говядины с рисом",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-0f70e9cf92/big5297360ec235d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/beef_soup_with_rice.jpg`,
     ingridients: [
       "говядина&nbsp;—  300&nbsp;г",
       " луковица&nbsp;—  1&nbsp;шт.",
@@ -3509,26 +3212,18 @@ export const soups = [
       {
         description:
           "Мясо нарезаем кубиками со&nbsp;стороной 1,5&nbsp;см. Обжариваем на&nbsp;растительном масле на&nbsp;сильном огне до&nbsp;румяной корочки, постоянно помешивая, около 5&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-765f49e255/big52973611e3a81.jpg",
       },
       { description: "Снимаем на тарелку." },
       {
         description:
           "Морковь разрезаем пополам вдоль, а затем на тонкие ломтики поперек.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-bf75fac6ca/big529736161da8e.jpg",
       },
       {
         description: "Лук и чеснок мелко рубим.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-8d811c0f50/big5297362239fa8.jpg",
       },
       {
         description:
           "Кладем лук&nbsp;и чеснок в&nbsp;ту же&nbsp;сковороду, где&nbsp;жарилось мясо. Обжариваем до&nbsp;мягкости, около 10&nbsp;минут. Добавляем морковь и&nbsp;жарим еще&nbsp;5&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-cbd1372e4c/big52973622c523e.jpg",
       },
       {
         description:
@@ -3544,8 +3239,7 @@ export const soups = [
   },
   {
     title: "Густой куриный суп со сливками",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-dcd73d86f9/big52974e3aedaaf.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/thick_creamy_chicken_soup.jpg`,
     ingridients: [
       "целая курица&nbsp;—  1&nbsp;шт. (около 1500-1700 г)",
       " морковь&nbsp;—  2&nbsp;шт.",
@@ -3568,8 +3262,7 @@ export const soups = [
       {
         description:
           "Курицу кладем в&nbsp;большую кастрюлю грудкой вниз. Туда же&nbsp;отправляем разрезанные пополам 1&nbsp;луковицу и&nbsp;1&nbsp;морковь, стебли петрушки и&nbsp;горошины перца.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-8e51a076d4/big52974e79dcd24.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chicken_carrots_and_onions.jpg`,
       },
       {
         description:
@@ -3585,20 +3278,17 @@ export const soups = [
       },
       {
         description: "Морковь и лук нарезаем кубиками.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-84c4d5f7cd/big52974e8802cde.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/dice_the_carrots_and_onions.jpg`,
       },
       {
         description:
           "Картофель и репку нарезаем на кубики со стороной около 1-1,5 см.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-b3dd9f918c/big52974e99c0804.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_potatoes_and_turnips.jpg`,
       },
       {
         description:
           "В большой кастрюле растапливаем сливочное масло. Жарим лук&nbsp;и морковь около 5&nbsp;минут, пока лук&nbsp;не станет полупрозрачным. Добавляем муку и&nbsp;жарим, помешивая, еще&nbsp;1&nbsp;минуту.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-f79b966408/big52974ea619ff4.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_and_carrots1.jpg`,
       },
       {
         description:
@@ -3607,8 +3297,7 @@ export const soups = [
       {
         description:
           "С остывшей курицы снимаем мясо, кости и кожу выбрасываем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-dd240efbd0/big52974eab80c7f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/separate_the_chicken.jpg`,
       },
       {
         description:
@@ -3620,8 +3309,7 @@ export const soups = [
   },
   {
     title: "Суп из говядины с грибами и перловкой",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-6de61f6923/big5296f52264f2d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/beef_soup_with_mushrooms_and_barley.jpg`,
     ingridients: [
       "говядина (лучше всего, вырезка)&nbsp;—  400&nbsp;г",
       " крупная луковица&nbsp;—  1&nbsp;шт.",
@@ -3643,20 +3331,17 @@ export const soups = [
       {
         description:
           "В сотейнике на&nbsp;сильном огне разогреваем 2&nbsp;ст.л. растительного масла. Кладем мясо и&nbsp;обжариваем до&nbsp;румяной корочки со&nbsp;всех сторон, примерно 5&nbsp;минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-6c51563c6f/big5296f526410f1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_beef.jpg`,
       },
       { description: "Перекладываем в кастрюлю." },
       {
         description:
           "Уменьшаем огонь до&nbsp;среднего. Кладем в&nbsp;сотейник лук, морковь и&nbsp;сельдерей. Жарим, помешивая, около 5&nbsp;минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-20bf984b9a/big5296f52708e82.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_carrots_onion_and_celery.jpg`,
       },
       {
         description: "Добавляем грибы.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-3c27030a9b/big5296f527be8c3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_mushrooms.jpg`,
       },
       {
         description:
@@ -3672,8 +3357,7 @@ export const soups = [
   },
   {
     title: "Крупеня с белыми грибами",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-7cd0545c3d/big5320dc68be673.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/krupenya_with_porcini_mushrooms.jpg`,
     ingridients: [
       "сухие белые грибы&nbsp;—  6-8 шт. (по массе&nbsp;—  около 25&nbsp;г)",
       " лук&nbsp;—  2&nbsp;шт.",
@@ -3697,14 +3381,10 @@ export const soups = [
       {
         description:
           "Грибы кладем в&nbsp;кастрюлю, вливаем воду, доводим до&nbsp;кипения и&nbsp;варим на&nbsp;среднем огне около 30&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-4f402cdfc6/big5320dc6a5c41e.jpg",
       },
       {
         description:
           "Тем временем картофель нарезаем кубиками, лук&nbsp;мелко рубим, морковь режем соломкой.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-85851b4a39/big5320dc6b078a5.jpg",
       },
       {
         description:
@@ -3713,13 +3393,9 @@ export const soups = [
       {
         description:
           "Грибы нарезаем соломкой и&nbsp;вместе с&nbsp;луком и&nbsp;морковью обжариваем на&nbsp;растительном масле в&nbsp;течение примерно 5&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-95bb6c80fb/big5320dc6bb2aee.jpg",
       },
       {
         description: "Добавляем в суп вместе с гречкой.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-3897cdd93b/big5320dc6cce83d.jpg",
       },
       {
         description:
@@ -3734,8 +3410,7 @@ export const soups = [
   },
   {
     title: "Куриный суп с фрикадельками",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-28e8578ff6/big5296f0b00d0ed.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_soup_with_meatballs.jpg`,
     ingridients: [
       "куриный бульон&nbsp;—  1,2&nbsp;л",
       " картофель&nbsp;—  2&nbsp;шт.",
@@ -3773,8 +3448,7 @@ export const soups = [
   },
   {
     title: "Крем-суп из тыквы",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-add3cc71ac/big52972c2e706c2.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/creamy_pumpkin_soup.jpg`,
     ingridients: [
       "сливочное масло&nbsp;—  50&nbsp;г",
       " небольшая луковица&nbsp;—  1&nbsp;шт.",
@@ -3797,8 +3471,6 @@ export const soups = [
       {
         description:
           "В кастрюле растапливаем сливочное масло. Кладем лук&nbsp;и жарим, помешивая, около 2&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-6e571a7831/big52972c345c676.jpg",
       },
       {
         description:
@@ -3811,8 +3483,6 @@ export const soups = [
       {
         description:
           "Пюрируем суп&nbsp;при помощи блендера. Вливаем апельсиновый сок, добавляем соль и&nbsp;перец по&nbsp;вкусу, перемешиваем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-f25717d017/big52972c3c19055.jpg",
       },
       { description: "Подаем со сметаной и тыквенными семечками по желанию." },
     ],
@@ -3820,8 +3490,7 @@ export const soups = [
   },
   {
     title: "Капустный суп с курицей и клецками",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-6b48f2484f/big52973122aac61.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/cabbage_soup_with_chicken_and_dumplings.jpg`,
     ingridients: [
       "куриные бедра с&nbsp;кожей и&nbsp;костями&nbsp;—  4&nbsp;шт.",
       " стебель сельдерея&nbsp;—  2&nbsp;шт.",
@@ -3848,26 +3517,18 @@ export const soups = [
       {
         description:
           "Протираем картофель через сито или трем на очень мелкую терку.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-423e78fefa/big52973123cf26b.jpg",
       },
       {
         description:
           "Перекладываем на&nbsp;присыпанную мукой рабочую поверхность. Добавляем 120&nbsp;г муки и&nbsp;соль и&nbsp;аккуратно перемешиваем (не месим!). Делаем в&nbsp;центре картофельной массы углубление и&nbsp;вбиваем в&nbsp;него яйцо. Туда же&nbsp;кладем нарубленную зелень петрушки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-b246283d0a/big52973125499aa.jpg",
       },
       {
         description:
           "Замешиваем из&nbsp;массы тесто, при&nbsp;необходимости добавляя муку (допустимо около 2&nbsp;ст.л.). Тесто должно получиться нежным и&nbsp;немного липким на&nbsp;ощупь.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-3e5e40f5ea/big5297312bbc59f.jpg",
       },
       {
         description:
           "Делим тесто на&nbsp;10&nbsp;частей. Каждую раскатываем в&nbsp;колбаску около 1,5&nbsp;см&nbsp;толщиной. Разрезаем каждую колбаску на&nbsp;10&nbsp;частей и&nbsp;формируем клецки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-6075317071/big5297313896c07.jpg",
       },
       {
         description:
@@ -3876,8 +3537,6 @@ export const soups = [
       {
         description:
           "В это&nbsp;время нарезаем на&nbsp;мелкие кубики морковь, лук&nbsp;и сельдерей. Разогреваем в&nbsp;сковороде 2&nbsp;ст.л. растительного масла и&nbsp;жарим овощи, пока лук&nbsp;не станет полупрозрачным, около 5-7 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-1318dd7da4/big52973146de0ae.jpg",
       },
       {
         description:
@@ -3901,8 +3560,7 @@ export const soups = [
   },
   {
     title: "Куриный суп с сельдереем",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-80d6ff55ca/big529733cdd446f.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_soup_with_celery.jpg`,
     ingridients: [
       "окорочка&nbsp;—  2&nbsp;шт.",
       " небольшие картофелины&nbsp;—  3&nbsp;шт.",
@@ -3916,14 +3574,10 @@ export const soups = [
       {
         description:
           "Окорочка заливаем 2&nbsp;литрами воды, доводим до&nbsp;кипения, снимаем пену, солим-перчим и&nbsp;варим на&nbsp;небольшом огне 25&nbsp;минут. Затем вынимаем курятину из&nbsp;бульона, слегка остужаем, снимаем мясо с&nbsp;костей и&nbsp;отставляем в&nbsp;сторону. Бульон процеживаем, загружаем в&nbsp;него нарезанный картофель и&nbsp;продолжаем варить.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-74491777fa/big529733d528a52.jpg",
       },
       {
         description:
           "Овощи тонко нарезаем и обжариваем в растительном масле в течение 5 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-1cb9a5b004/big529733d9ab042.jpg",
       },
       {
         description:
@@ -3934,8 +3588,7 @@ export const soups = [
   },
   {
     title: "Суп-пюре из белых грибов",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-be4a02d810/big541bf41a6b6de.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/mashed_porcinicmushroom_soup.jpg`,
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       "чеснок&nbsp;—  2&nbsp;зубчика",
@@ -3953,26 +3606,22 @@ export const soups = [
       {
         description:
           "В кастрюле на&nbsp;среднем огне растапливаем сливочное масло. Кладем лук&nbsp;и жарим, помешивая, 3-4 минуты.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-a6eb6314d4/big541bf41c16b66.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_in_butter.jpg`,
       },
       {
         description:
           "Добавляем грибы (если они&nbsp;замороженные&nbsp;—  то&nbsp;разморозить и&nbsp;слить жидкость), жарим, помешивая, еще&nbsp;3-4 минуты.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-e18b93fcd5/big541bf41c8c636.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_mushrooms_with_onions.jpg`,
       },
       {
         description:
           "Вливаем бульон, добавляем тимьян, доводим до кипения. Варим 15 минут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b3906ba95e/big541bf41e85108.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_broth_and_thyme.jpg`,
       },
       {
         description:
           "Снимаем кастрюлю с&nbsp;огня и&nbsp;измельчаем суп&nbsp;блендером до&nbsp;как можно более гладкого состояния. При&nbsp;желании можно протереть суп&nbsp;через сито.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4021f14792/big541bf41f08cbe.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/blend_the_soup.jpg`,
       },
       {
         description:
@@ -3987,8 +3636,7 @@ export const soups = [
   },
   {
     title: "Острый суп с фрикадельками",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-8eb8cc0adf/big5296fe07e7136.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/spicy_meatball_soup.jpg`,
     ingridients: [
       "Для фрикаделек:",
       "говяжий или&nbsp;свиной фарш&nbsp;—  400&nbsp;г",
@@ -4017,20 +3665,17 @@ export const soups = [
       {
         description:
           "Готовим фрикадельки. Мелко рубим лук&nbsp;и смешиваем его&nbsp;с остальными ингредиентами.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-0e79e1036d/big5296fe151a7c1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mincemeat.jpg`,
       },
       { description: "Формируем из фарша фрикадельки размером с мандарин." },
       {
         description:
           "В сковороде на&nbsp;сильном огне разогреваем 2&nbsp;ст.л. растительного масла, кладем фрикадельки и&nbsp;жарим, периодически переворачивая, до&nbsp;румяной корочки со&nbsp;всех сторон, около 5-7 минут в&nbsp;сумме. Перекладываем на&nbsp;тарелку.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-30c97b834c/big5296fe183ce8f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fried_meatballs.jpg`,
       },
       {
         description: "Для супа лук нарезаем полукольцами, перец —  соломкой.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-0610af2091/big5296fe1c9e527.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_peppers_and_onions.jpg`,
       },
       {
         description:
@@ -4043,8 +3688,7 @@ export const soups = [
       {
         description:
           "В кастрюле разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и перец, жарим, помешивая, около 5-7 минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-1e51a95052/big5296fe1d19c0e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_peppers_and_onions.jpg`,
       },
       {
         description: "Добавляем бульон, воду и размятые томаты вместе с соком.",
@@ -4060,8 +3704,7 @@ export const soups = [
   },
   {
     title: "Чаудер из трески на кокосовом молоке",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-25f57f397a/big52970d89466e7.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/cod_chowder_with_coconut_milk.jpg`,
     ingridients: [
       "филе трески или&nbsp;другой белой рыбы&nbsp;—  400&nbsp;г",
       " средняя луковица&nbsp;—  1&nbsp;шт.",
@@ -4086,15 +3729,11 @@ export const soups = [
       {
         description:
           "Вливаем воду и кладем кукурузу (замороженные зерна необходимо разморозить).",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-6830ffb385/big52970d910a027.jpg",
       },
       { description: "Доводим до кипения и варим 4-5 минут." },
       {
         description:
           "При помощи шумовки вынимаем 2/3&nbsp;гущи из&nbsp;кастрюли и&nbsp;кладем в&nbsp;глубокую миску. Добавляем кокосовое молоко и&nbsp;перемалываем до&nbsp;однородности при&nbsp;помощи блендера.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-276178cfaf/big52970d92126da.jpg",
       },
       {
         description:
@@ -4114,8 +3753,7 @@ export const soups = [
   },
   {
     title: "Тыквенный суп-пюре на кокосовом молоке",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-a921968ce0/big52b56a29f40ec.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/pumpkin_puree_soup_with_coconut_milk.jpg`,
     ingridients: [
       "тыква (в очищенном виде)&nbsp;—  800&nbsp;г",
       " небольшая красная луковица&nbsp;—  1&nbsp;шт.",
@@ -4130,13 +3768,9 @@ export const soups = [
       {
         description:
           "Тыкву нарезаем на&nbsp;куски примерно одинакового размера по&nbsp;толщине. Кладем на&nbsp;смазанный растительным маслом противень и&nbsp;отправляем в&nbsp;предварительно разогретую до&nbsp;220&nbsp;градусов духовку. Запекаем до&nbsp;мягкости, около 20&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-8010aa152c/big52b56a34814fc.jpg",
       },
       {
         description: "Мелко рубим лук, чеснок и чили.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-cde3ff6b57/big52b56a351ac54.jpg",
       },
       {
         description:
@@ -4144,8 +3778,6 @@ export const soups = [
       },
       {
         description: "Запеченную тыкву кладем в чашу блендера.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-c8f03771d5/big52b56a35d3961.jpg",
       },
       {
         description:
@@ -4164,8 +3796,7 @@ export const soups = [
   },
   {
     title: "Густая похлебка с курицей и пореем",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-945c98d58b/big5297495bf3c56.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/thick_chowder_with_chicken_and_leeks.jpg`,
     ingridients: [
       "крупные окорочка&nbsp;—  4&nbsp;шт.",
       " куриный бульон&nbsp;—  2,5&nbsp;л",
@@ -4183,14 +3814,12 @@ export const soups = [
       {
         description:
           "В большой кастрюле разогреваем растительное масло. До&nbsp;золотисто-коричневого цвета обжариваем куски курицы с&nbsp;обеих сторон, по&nbsp;8&nbsp;минут на&nbsp;партию.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-fed8497266/big52974985b5c26.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fried_chicken_pieces.jpg`,
       },
       {
         description:
           "В кастрюлю вливаем бульон, вино или&nbsp;воду, кладем целую морковь, надрезанный чеснок и&nbsp;разрезанные пополам поперек стебли сельдерея. Хорошо размешиваем, чтобы растворились все&nbsp;коричневые комочки, которые остались после жарки курицы. Доводим до&nbsp;кипения и&nbsp;возвращаем в&nbsp;кастрюлю курятину. Солим по&nbsp;вкусу.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-5ee09072b3/big529749967127b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/carrots_celery_and_chicken_in_a_saucepan.jpg`,
       },
       {
         description:
@@ -4202,8 +3831,7 @@ export const soups = [
       },
       {
         description: "Порей тонко нарезаем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-e86b8c5b49/big529749ac7b691.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_leeks.jpg`,
       },
       {
         description:
@@ -4211,13 +3839,11 @@ export const soups = [
       },
       {
         description: "Тем временем нарезаем кубиками морковь и сельдерей.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-c4af01c730/big529749bad5028.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_carrots_and_celery.jpg`,
       },
       {
         description: "С курицы снимаем мясо и разбираем руками на кусочки.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-0b0c3381f9/big529749e5929a5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/strip_the_chicken_off_the_bone.jpg`,
       },
       { description: "Добавляем овощи и курятину в суп, прогреваем и подаем." },
     ],
@@ -4225,8 +3851,7 @@ export const soups = [
   },
   {
     title: "Мясной суп с макаронами и базиликом",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-68bcd3f32f/big5297047e0dca6.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/meat_soup_with_pasta_and_basil.jpg`,
     ingridients: [
       "куриный, мясной или&nbsp;овощной бульон&nbsp;—  2&nbsp;л",
       " сушеный базилик&nbsp;—  1&nbsp;ст.л.",
@@ -4243,14 +3868,10 @@ export const soups = [
       {
         description:
           "Мелко рубим лук&nbsp;и чеснок. В&nbsp;сотейнике на&nbsp;среднем огне разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук, морковь и&nbsp;чеснок, жарим, помешивая, около 3-4 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-2e96dcb211/big52970482abfe6.jpg",
       },
       {
         description:
           "Добавляем фарш и&nbsp;жарим, разбивая лопаткой комочки, около 6-7 минут, пока мясо не&nbsp;потеряет розовый цвет.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-2d805c6998/big529704991a3de.jpg",
       },
       {
         description:
@@ -4269,8 +3890,7 @@ export const soups = [
   },
   {
     title: "Перловый суп с бараниной",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-5818a96fba/big52973746228a9.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/barley_soup_with_lamb.jpg`,
     ingridients: [
       "баранья шея&nbsp;—  500&nbsp;г",
       " морковь&nbsp;—  4&nbsp;шт.",
@@ -4294,8 +3914,6 @@ export const soups = [
       {
         description:
           "Мясо заливаем 1,5&nbsp;л&nbsp;холодной воды, кладем соль и&nbsp;лавровый лист, доводим до&nbsp;кипения и&nbsp;варим до&nbsp;готовности, около 30&nbsp;минут. Вынимаем мясо из&nbsp;бульона, даем немного остыть и&nbsp;нарезаем кубиками.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-6bd19241da/big5297375359f62.jpg",
       },
       { description: "Бульон оставляем." },
       {
@@ -4315,8 +3933,7 @@ export const soups = [
   },
   {
     title: "Лимонный суп из индейки",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-29085f39f3/big5296f9c95d9fa.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/lemon_turkey_soup.jpg`,
     ingridients: [
       "крылья&nbsp;—  2&nbsp;шт. или&nbsp;1&nbsp;небольшая голень индейки",
       " лавровый лист&nbsp;—  1&nbsp;шт.",
@@ -4338,15 +3955,13 @@ export const soups = [
       {
         description:
           "С лимона срезаем 4-5 длинных полосок цедры (у меня много мелких).",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-7aeafc2cdc/big5296f9ccb600c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_the_zest_from_the_lemon.jpg`,
       },
       { description: "Выдавливаем 1 ст.л. сока и оставляем в сторону." },
       {
         description:
           "Морковь, сельдерей и&nbsp;лук нарезаем кубиками. В&nbsp;отдельной кастрюле с&nbsp;толстым дном на&nbsp;среднем огне разогреваем 2&nbsp;ст.л. растительного масла. Кладем овощи и&nbsp;жарим, помешивая, около 7&nbsp;минут, до&nbsp;слегка золотистого цвета.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-b9719f017a/big5296f9cf2ff81.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_carrots_celery_and_onions.jpg`,
       },
       {
         description:
@@ -4359,8 +3974,7 @@ export const soups = [
       {
         description:
           "Когда крылья слегка остынут, снимаем мясо с&nbsp;костей и&nbsp;нарезаем на&nbsp;небольшие кусочки.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-fd799da571/big5296f9d07398d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_the_chicken_into_pieces.jpg`,
       },
       {
         description:
@@ -4375,8 +3989,7 @@ export const soups = [
   },
   {
     title: "Брамборачка",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-c18dc56445/big5400ed58d94ae.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/bramborachka.jpg`,
     ingridients: [
       "сливочное масло&nbsp;—  50&nbsp;г",
       " крупная луковица&nbsp;—  1&nbsp;шт.",
@@ -4395,14 +4008,10 @@ export const soups = [
       {
         description:
           "В кастрюле на&nbsp;среднем огне растапливаем сливочное масло. Кладем лук&nbsp;и жарим. помешивая, до&nbsp;полупрозрачного состояния, около 3-4 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-90238ebf6b/big5400ed5c904b5.jpg",
       },
       {
         description:
           "Добавляем майоран и&nbsp;тмин, жарим еще&nbsp;минуту. Добавляем муку и&nbsp;жарим, помешивая, пока она&nbsp;не приобретет золотистый оттенок, 1-2 минуты.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-fb7c2cb0a4/big5400ed5d0560e.jpg",
       },
       {
         description:
@@ -4411,13 +4020,9 @@ export const soups = [
       {
         description:
           "Тем временем нарезаем грибы&nbsp;—  у&nbsp;меня это&nbsp;средний кубик, но&nbsp;можно резать мельче или&nbsp;крупнее.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-88d36b4c69/big5400ed6978db6.jpg",
       },
       {
         description: "Добавляем к картофелю и варим еще 15 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-643cd84eb5/big5400ed73db3ed.jpg",
       },
       {
         description:
@@ -4428,8 +4033,7 @@ export const soups = [
   },
   {
     title: "Густой суп с индюшиным фаршем и чечевицей",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-7bb1b67a3b/big5296f6079643a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/thick_soup_with_ground_turkey_and_lentils.jpg`,
     ingridients: [
       "средние луковицы&nbsp;—  2&nbsp;шт.",
       " крупный стебель сельдерея&nbsp;—  3&nbsp;шт.",
@@ -4450,19 +4054,16 @@ export const soups = [
       {
         description:
           "В кастрюле на&nbsp;среднем огне разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и сельдерей, жарим, помешивая 4-5 минут. Добавляем чеснок и&nbsp;тимьян, жарим еще&nbsp;1&nbsp;минуту.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-5df7244033/big5296f60bbf484.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_celery_onion_and_garlic.jpg`,
       },
       {
         description:
           "Добавляем фарш и&nbsp;жарим, разбивая лопаткой комочки, пока мясо не&nbsp;станет полностью матовым.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-3b9fa42eac/big5296f60c82fa5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_minced_meat1.jpg`,
       },
       {
         description: "Кладем чечевицу.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-f2029347ef/big5296f611689ca.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_red_lentils.jpg`,
       },
       {
         description:
@@ -4485,8 +4086,7 @@ export const soups = [
   },
   {
     title: "Суп-пюре из зеленого горошка с сырно-луковыми гренками",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-1c4bb3914b/big5297382752268.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/green_pea_soup_with_cheese_and_onion_croutons.jpg`,
     ingridients: [
       "замороженный или&nbsp;свежий зеленый горошек&nbsp;—  800-900 г",
       " стрелки зеленого лука (не перья, а&nbsp;именно стрелки)&nbsp;—  5-6 шт.",
@@ -4501,14 +4101,10 @@ export const soups = [
       {
         description:
           "У лука отрезаем зеленые части и&nbsp;откладываем в&nbsp;сторону. Белые корешки мелко режем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-12bdcd2235/big5297382e1079e.jpg",
       },
       {
         description:
           "Обжариваем в&nbsp;кастрюле на&nbsp;растопленном сливочном масле в&nbsp;течение 1-2 минут. Добавляем горошек (можно не&nbsp;размораживать предварительно), бульон и&nbsp;700&nbsp;мл&nbsp;воды.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-228ef02edf/big5297383f67a2c.jpg",
       },
       {
         description:
@@ -4517,8 +4113,6 @@ export const soups = [
       {
         description:
           "Готовим гренки. Для&nbsp;этого трем на&nbsp;крупной терке сыр&nbsp;и мелко режем зеленые части лука. Смешиваем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-3b4d467587/big52973843d57f7.jpg",
       },
       {
         description:
@@ -4527,14 +4121,10 @@ export const soups = [
       {
         description:
           "Снимаем со сковороды и нарезаем каждый сендвич на 4 полоски или квадратика.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-4378f24980/big52973846c0038.jpg",
       },
       {
         description:
           "Суп пюрируем погружным блендером. Добавляем по&nbsp;вкусу соль и&nbsp;перец, вливаем сок&nbsp;лимона. Перемешиваем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-8bdf41f2fa/big529738477be5d.jpg",
       },
       { description: "Подаем с сырно-луковыми гренками." },
     ],
@@ -4542,8 +4132,7 @@ export const soups = [
   },
   {
     title: "Крем-суп из брокколи",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-1397d10dae/big5297105cb2d45.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/broccoli_cream_soup.jpg`,
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " молотый мускатный орех&nbsp;—  1/8&nbsp;ч.л. (можно опустить, но&nbsp;с ним&nbsp;вкус интереснее)",
@@ -4560,14 +4149,10 @@ export const soups = [
       {
         description:
           "В кастрюле разогреваем 1&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и жарим, помешивая, до&nbsp;мягкости, около 4&nbsp;минут. Добавляем мускатный орех и&nbsp;жарим, помешивая, около 30&nbsp;секунд до&nbsp;раскрытия аромата.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-0ef46e7c3f/big52971060b351a.jpg",
       },
       {
         description:
           "Добавляем брокколи, бульон и 300 мл воды. Солим и перчим по вкусу.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-ce6f7e6819/big529710615af07.jpg",
       },
       {
         description:
@@ -4586,8 +4171,7 @@ export const soups = [
   },
   {
     title: "Суп-пюре из печеных баклажанов",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-d965eec06c/big529708c984717.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/baked_eggplant_puree_soup.jpg`,
     ingridients: [
       "помидоры&nbsp;—  2&nbsp;шт.",
       " баклажаны&nbsp;—  2&nbsp;шт.",
@@ -4608,8 +4192,6 @@ export const soups = [
       {
         description:
           "Помидоры и&nbsp;баклажаны разрезаем пополам и&nbsp;кладем в&nbsp;огнеупорную форму. Смазываем оливковым маслом, солим и&nbsp;перчим.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-272d9de8bc/big529708cac6d96.jpg",
       },
       {
         description:
@@ -4625,20 +4207,14 @@ export const soups = [
       },
       {
         description: "С запеченных овощей снимаем кожицу.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-0223c3c0b7/big529708cda98d6.jpg",
       },
       {
         description:
           "Кладем в&nbsp;сотейник к&nbsp;луку, вливаем бульон, добавляем тимьян, при&nbsp;необходимости добавляем соль по&nbsp;вкусу. Доводим до&nbsp;кипения, уменьшаем огонь, накрываем крышкой и&nbsp;тушим около 20&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-67f3b695a0/big529708ce1849c.jpg",
       },
       {
         description:
           "Переливаем в&nbsp;глубокую посуду (если варили в&nbsp;кастрюле&nbsp;—  переливать не&nbsp;нужно), вливаем сливки и&nbsp;пюрируем при&nbsp;помощи блендера.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-cc2160b4f7/big529708ce804b1.jpg",
       },
       { description: "Пробуем на соль, если нужно —  досаливаем." },
       {
@@ -4650,8 +4226,7 @@ export const soups = [
   },
   {
     title: "Суп из зеленых овощей с курицей",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-7a3098f79c/big53bd0822e8eae.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/green_vegetable_soup_with_chicken.jpg`,
     ingridients: [
       "небольшая луковица&nbsp;—  1&nbsp;шт.",
       " стебель сельдерея&nbsp;—  1&nbsp;шт.",
@@ -4669,19 +4244,16 @@ export const soups = [
       {
         description:
           "В сковороде разогреваем 1&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и сельдерей, жарим, помешивая, 3-4 минуты.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-c54938866f/big53bd082453424.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_celery_with_onions.jpg`,
       },
       {
         description: "Добавляем цуккини и жарим еще 2-3 минуты.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-48db7fd921/big53bd0824e8ac5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_zucchini.jpg`,
       },
       {
         description:
           "Кладем фасоль и&nbsp;мелко нарубленный чеснок. Жарим, помешивая, пару минут, затем добавляем муку и&nbsp;жарим, помешивая, еще&nbsp;1&nbsp;минуту.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-42c7ca0c4e/big53bd082573f95.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_garlic_beans_and_fry.jpg`,
       },
       {
         description:
@@ -4689,8 +4261,7 @@ export const soups = [
       },
       {
         description: "Куриное филе нарезаем на небольшие кусочки.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-91ac9fccc7/big53bd0825ebd8e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_chicken_fillet.jpg`,
       },
       {
         description:
@@ -4705,8 +4276,7 @@ export const soups = [
   },
   {
     title: "Суп-пюре из цветной капусты",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-c270f7a57e/big5296ff1ca4e9a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/cauliflower_puree_soup.jpg`,
     ingridients: [
       "цветная капуста&nbsp;—  1&nbsp;крупная голова (около 1&nbsp;кг, можно использовать замороженную)",
       " средняя луковица&nbsp;—  1&nbsp;шт.",
@@ -4723,8 +4293,7 @@ export const soups = [
       {
         description:
           "В кастрюле с&nbsp;толстым дном на&nbsp;среднем огне разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и капусту. Жарим, помешивая, около 10-12 минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-a4dd36eedf/big5296ff1f3b71e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_cauliflower_with_onions.jpg`,
       },
       {
         description:
@@ -4733,8 +4302,7 @@ export const soups = [
       {
         description:
           "В кастрюлю с&nbsp;овощами вливаем бульон и&nbsp;доводим до&nbsp;кипения. При&nbsp;помощи погружного блендера пюрируем суп.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-82af590e21/big5296ff2c32696.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/make_the_soup_puree1.jpg`,
       },
       {
         description:
@@ -4746,8 +4314,7 @@ export const soups = [
   },
   {
     title: "Куриный суп с цуккини и шампиньонами",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-8ee7b34a3d/big52972b462a992.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_soup_with_zucchini_and_champignons.jpg`,
     ingridients: [
       "мясо готовой курицы (отварной или&nbsp;запеченной)&nbsp;—  400&nbsp;г",
       " куриный бульон&nbsp;—  1,5&nbsp;л",
@@ -4773,8 +4340,6 @@ export const soups = [
       },
       {
         description: "Посыпаем овощи мукой и жарим, помешивая, еще 3 минуты.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-d3d72106fd/big52972b61d9e42.jpg",
       },
       {
         description:
@@ -4783,8 +4348,6 @@ export const soups = [
       {
         description:
           "Пока варится рис, шампиньоны нарезаем ломтиками, а&nbsp;цуккини&nbsp;—  средними кубиками.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-466a6d95c3/big52972b6e443be.jpg",
       },
       {
         description:
@@ -4803,8 +4366,7 @@ export const soups = [
   },
   {
     title: "Чихиртма из курицы",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-1d0bcd7096/big531061b2794f4.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_chikhirtma.jpg`,
     ingridients: [
       "куриные окорочка&nbsp;—  3&nbsp;шт.",
       " вода&nbsp;—  1,5&nbsp;л",
@@ -4836,8 +4398,6 @@ export const soups = [
       {
         description:
           "Пока варится курица, мелко рубим лук&nbsp;и обжариваем его&nbsp;на растительном масле до&nbsp;полупрозрачного состояния, около 5-7 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-72daee02dc/big531061b6e99d5.jpg",
       },
       {
         description:
@@ -4846,14 +4406,10 @@ export const soups = [
       {
         description:
           "Желтки взбиваем венчиком до&nbsp;однородности, добавляем в&nbsp;них 1&nbsp;ч.л. кукурузной муки, затем при&nbsp;постоянном помешивании понемногу вливаем половину стакана бульона. Добавляем лимонный сок, перемешиваем и&nbsp;отставляем в&nbsp;сторону.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-d3a69fe3fd/big531061b7e0950.jpg",
       },
       {
         description:
           "В отдельной плошке смешиваем оставшуюся кукурузную муку с&nbsp;оставшимся бульоном и&nbsp;обжаренным луком.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-2c84898295/big531061bbdbb2d.jpg",
       },
       {
         description:
@@ -4862,14 +4418,10 @@ export const soups = [
       {
         description:
           "Тем временем снимаем с костей мясо и разбираем его на кусочки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-eccd1cfefb/big531061beb790d.jpg",
       },
       {
         description:
           "По истечении 7&nbsp;минут снимаем кастрюлю с&nbsp;огня и&nbsp;даем постоять на&nbsp;столе 3-5 минут. Затем при&nbsp;постоянном помешивании тонкой струйкой вливаем яичную смесь. Сразу же&nbsp;добавляем нарубленную зелень.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-17bf1a7a91/big531061cce2c75.jpg",
       },
       {
         description:
@@ -4880,8 +4432,7 @@ export const soups = [
   },
   {
     title: "Чесночный крем-суп с лисичками",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-11e1b14834/big5296096f4dd31.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/garlic_cream_soup_with_chanterelles.jpg`,
     ingridients: [
       "чеснок&nbsp;—  30&nbsp;зубчиков",
       " куриный или&nbsp;овощной бульон&nbsp;—  1,5&nbsp;л",
@@ -4900,25 +4451,21 @@ export const soups = [
       {
         description:
           "Чеснок чистим. В&nbsp;кастрюле на&nbsp;небольшом огне разогреваем 1&nbsp;ст.л. растительного масла. Кладем чеснок и&nbsp;жарим, периодически помешивая, до&nbsp;мягкости, около 20&nbsp;минут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d93264fe3e/big5296097ca47e8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_garlic.jpg`,
       },
       {
         description:
           "Вливаем бульон, солим и&nbsp;перчим по&nbsp;вкусу, доводим до&nbsp;кипения и&nbsp;варим на&nbsp;небольшом огне 10&nbsp;минут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-e1821b6fea/big52960980ee781.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_broth_to_garlic.jpg`,
       },
       {
         description:
           "Тем временем обжариваем до готовности лисички, солим по вкусу.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-ff001b1fba/big5296098698881.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_chanterelles.jpg`,
       },
       {
         description: "Желтки взбиваем венчиком с оливковым маслом.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-58e6ddc913/big52960988d4975.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beat_the_yolks.jpg`,
       },
       {
         description:
@@ -4927,8 +4474,7 @@ export const soups = [
       {
         description:
           "По одной ложке, постоянно взбивая венчиком, добавляем 1&nbsp;стакан супа в&nbsp;желтково-масляную массу.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-612e329107/big5296098e1cc0c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_with_a_whisk.jpg`,
       },
       {
         description:
@@ -4941,8 +4487,7 @@ export const soups = [
   },
   {
     title: "Острый овощной суп с киноа",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-30453f1863/big5296f1f433632.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/spicy_vegetable_soup_with_quinoa.jpg`,
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " чеснок&nbsp;—  4&nbsp;зубчика",
@@ -4971,8 +4516,7 @@ export const soups = [
       {
         description:
           "В кастрюле с&nbsp;толстым дном разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и жарим, помешивая, около 5-7 минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-991cb11273/big5296f1fe38457.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_in_oil.jpg`,
       },
       { description: "Кладем сладкий перец и жарим около 5 минут." },
       {
@@ -4986,8 +4530,7 @@ export const soups = [
       {
         description:
           "Доводим до&nbsp;кипения и&nbsp;варим до&nbsp;готовности крупы и&nbsp;сладкого перца, около 25&nbsp;минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-2ad9c7f648/big5296f1ff16176.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_quinoa_and_tomatoes.jpg`,
       },
       {
         description:
@@ -4998,8 +4541,7 @@ export const soups = [
   },
   {
     title: "Суп из цветной капусты и нута с карри",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-5f9e64b122/big529709541655d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/cauliflower_and_chickpea_curry_soup.jpg`,
     ingridients: [
       "сухой нут&nbsp;—  150&nbsp;г",
       " крупная луковица&nbsp;—  1&nbsp;шт.",
@@ -5022,8 +4564,6 @@ export const soups = [
       {
         description:
           "Пока варится нут, мелко рубим лук, чеснок и острый перец.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-4f14056292/big52970957dd8de.jpg",
       },
       {
         description:
@@ -5032,8 +4572,6 @@ export const soups = [
       {
         description:
           "В кастрюле на&nbsp;среднем огне разогреваем 1&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и жарим, помешивая, около 3-4 минут. Добавляем имбирь, чеснок, острый перец и&nbsp;зиру. Жарим, помешивая, еще&nbsp;30&nbsp;секунд.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-b76f5d0e23/big5297095bb19bc.jpg",
       },
       {
         description:
@@ -5042,8 +4580,6 @@ export const soups = [
       {
         description:
           "Добавляем цветную капусту, оставшуюся 1&nbsp;ч.л. карри и&nbsp;размятые томаты вместе с&nbsp;соком.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-bdd36f7d42/big5297095ed4471.jpg",
       },
       {
         description:
@@ -5054,8 +4590,7 @@ export const soups = [
   },
   {
     title: "Суп из цуккини с белой фасолью",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-dffcce56de/big5296ff7959b79.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/zucchini_soup_with_white_beans.jpg`,
     ingridients: [
       "сухая белая фасоль*&nbsp;—  300&nbsp;г",
       " средние луковицы&nbsp;—  3&nbsp;шт.",
@@ -5082,14 +4617,12 @@ export const soups = [
       {
         description:
           "Лук мелко рубим. В&nbsp;кастрюле разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и жарим, помешивая, до&nbsp;полупрозрачного состояния, около 4-5 минут. Добавляем орегано и&nbsp;жарим, помешивая, еще&nbsp;1&nbsp;минуту.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-0e4de6fdcb/big5296ff86b8b06.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_with_oregano.jpg`,
       },
       {
         description:
           "Кабачки нарезаем на&nbsp;небольшие кубики. Чеснок мелко рубим. Кладем в&nbsp;кастрюлю к&nbsp;луку и&nbsp;жарим около 6-7 минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-ee38fd7fa0/big5296ff890a20b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_zucchini.jpg`,
       },
       {
         description:
@@ -5101,8 +4634,7 @@ export const soups = [
   },
   {
     title: "Быстрый суп из цветной капусты с ветчиной",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-35557b854d/big5296fe9f2672f.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/quick_cauliflower_soup_with_ham.jpg`,
     ingridients: [
       "картофель&nbsp;—  3&nbsp;шт.",
       " цветная капуста (можно использовать замороженную)&nbsp;—  300&nbsp;г",
@@ -5129,13 +4661,11 @@ export const soups = [
       {
         description:
           "Пока варится картофель, разделяем на соцветия цветную капусту.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-0ecf81af6c/big5296fea378f7d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cauliflower.jpg`,
       },
       {
         description: "Ветчину нарезаем на небольшие кусочки.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-b96bb9ef07/big5296fea436900.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_the_ham_into_pieces.jpg`,
       },
       {
         description:
@@ -5154,8 +4684,7 @@ export const soups = [
   },
   {
     title: "Быстрый овощной суп",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-b440af443b/big52970cfad5bdd.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/quick_vegetable_soup.jpg`,
     ingridients: [
       "чеснок&nbsp;—  2&nbsp;зубчика",
       " томаты в&nbsp;собственном соку&nbsp;—  800&nbsp;г",
@@ -5173,13 +4702,9 @@ export const soups = [
       },
       {
         description: "Пока варятся макароны, нарезаем кубиками кабачки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-198196fe69/big52970d133c6c1.jpg",
       },
       {
         description: "Капусту разделяем на небольшие соцветия.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-0c3d6c7899/big52970d1f3caa7.jpg",
       },
       {
         description:
@@ -5190,8 +4715,7 @@ export const soups = [
   },
   {
     title: "Сельдерейный суп с фрикадельками из индейки",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-2f9588d9dd/big5296f78595887.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/celery_soup_with_turkey_meatballs.jpg`,
     ingridients: [
       "крупная луковица&nbsp;—  1&nbsp;шт.",
       " средняя морковь&nbsp;—  1&nbsp;шт.",
@@ -5223,8 +4747,7 @@ export const soups = [
       {
         description:
           "Добавляем тимьян и корневой сельдерей, жарим, помешивая, еще около 5 минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-8a0f1e9b41/big5296f7898144e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_celery_and_carrots.jpg`,
       },
       {
         description:
@@ -5233,8 +4756,7 @@ export const soups = [
       {
         description:
           "Пока варятся овощи, готовим фрикадельки. Для&nbsp;этого смешиваем фарш с&nbsp;измельченным чесноком, солью и&nbsp;перцем по&nbsp;вкусу. Формируем маленькие фрикадельки.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-7607d49fe5/big5296f78bd8ac0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/make_meatballs.jpg`,
       },
       { description: "Кладем фрикадельки в суп и варим в течение 10 минут." },
       { description: "Снимаем суп с огня. Разливаем по мисочкам и подаем." },
@@ -5243,8 +4765,7 @@ export const soups = [
   },
   {
     title: "Рисовый суп из индейки",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-2e90063462/big52973dcd58be2.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/turkey_rice_soup.jpg`,
     ingridients: [
       "крупное индюшиное крыло&nbsp;—  1&nbsp;шт.",
       " крупный стебель сельдерея&nbsp;—  1&nbsp;шт.",
@@ -5261,29 +4782,19 @@ export const soups = [
       {
         description:
           "Кладем в&nbsp;кастрюлю индюшиное крыло, крупно нарезанную морковь и&nbsp;стебель сельдерея, лавровый лист и&nbsp;надрезанную накрест луковицу. Заливаем 1,5&nbsp;л&nbsp;воды, солим. Ставим на&nbsp;огонь, доводим до&nbsp;кипения. Убавляем пламя до&nbsp;минимума и&nbsp;варим бульон около 1,5&nbsp;часов, пока мясо не&nbsp;начнет отставать от&nbsp;костей.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-02394002df/big52973dd1750f8.jpg",
       },
       {
         description: "Пока варится бульон, нарезаем кольцами порей.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-b8c53132f7/big52973dd4e5daa.jpg",
       },
       {
         description: "Картофель и сельдерей нарезаем кубиками.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-ec702cb6bf/big52973dd68c416.jpg",
       },
       {
         description: "Обжариваем овощи на растительном масле около 5-7 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-82d21e203e/big52973dd6ef9ee.jpg",
       },
       {
         description:
           "Вынимаем готовое мясо из&nbsp;бульона, даем немного остыть и&nbsp;нарезаем на&nbsp;небольшие кусочки. Лук, морковь и&nbsp;сельдерей из&nbsp;бульона выбрасываем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-bac40251b4/big52973def7f50d.jpg",
       },
       {
         description:
@@ -5294,8 +4805,7 @@ export const soups = [
   },
   {
     title: "Густая похлебка из баранины в кокосовом молоке",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-548c1c1a0b/big5296ec8f345d9.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/thick_lamb_chowder_in_coconut_milk.jpg`,
     ingridients: [
       "баранина&nbsp;—  800&nbsp;г",
       " небольшой кусочек свежего имбиря, около 2&nbsp;ст.л. в&nbsp;нарубленном виде",
@@ -5322,8 +4832,7 @@ export const soups = [
       {
         description:
           "Мясо нарезаем на&nbsp;небольшие кусочки. Кладем в&nbsp;миску, добавляем натертый чеснок и&nbsp;нарубленные перчики с&nbsp;имбирем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b646dbdd73/big5296ec94d9a61.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/lamb_with_garlic_and_ginger.jpg`,
       },
       {
         description: "Вливаем 200 мл воды, перемешиваем и оставляем в сторону.",
@@ -5334,21 +4843,18 @@ export const soups = [
       {
         description:
           "В кастрюле с&nbsp;толстым дном на&nbsp;среднем огне разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и жарим, помешивая, 5&nbsp;минут. Добавляем кардамон, гвоздику, перец горошек, корицу и&nbsp;лавровый лист. Жарим, помешивая, еще&nbsp;1&nbsp;минуту.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d4d34df69b/big5296ec983edce.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_and_cardamom.jpg`,
       },
       {
         description:
           "Добавляем мясо вместе с&nbsp;маринадом. Готовим 10&nbsp;минут на&nbsp;умеренном огне.&nbsp; Добавляем картофель.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-28ff87dd3a/big5296ec9a9355d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_meat_and_potatoes.jpg`,
       },
       { description: "Вливаем бульон, солим по вкусу и перемешиваем." },
       {
         description:
           "Накрываем кастрюлю крышкой, уменьшаем огонь до&nbsp;минимума и&nbsp;тушим до&nbsp;мягкости мяса и&nbsp;картофеля. За&nbsp;5&nbsp;минут до&nbsp;готовности кладем в&nbsp;кастрюлю горошек и&nbsp;кокосовое молоко.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-bba57f2f81/big5296ec9bbc59d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_coconut_milk_to_soup.jpg`,
       },
       { description: "Подаем со свежим хлебом." },
     ],
@@ -5356,8 +4862,7 @@ export const soups = [
   },
   {
     title: "Грибной суп с фрикадельками",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-68423881d8/big52971209ccf3e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/mushroom_soup_with_meatballs.jpg`,
     ingridients: [
       "шампиньоны&nbsp;—  400&nbsp;г",
       " картофель&nbsp;—  2&nbsp;шт.",
@@ -5377,38 +4882,26 @@ export const soups = [
       {
         description:
           "Фисташки, чеснок и&nbsp;петрушку мелко рубим, смешиваем с&nbsp;фаршем и&nbsp;яйцом, солим и&nbsp;перчим по&nbsp;вкусу.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-0a88afe904/big5297121ea0083.jpg",
       },
       { description: "Полученный фарш ставим в холодильник на 10 минут." },
       {
         description: "Грибы нарезаем пластинками.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-6c581da717/big52971221b2961.jpg",
       },
       {
         description:
           "Лук режем полукольцами, а морковь и картофель —  брусочками.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-cdce6945e4/big52971223b15d6.jpg",
       },
       {
         description:
           "Достаем из&nbsp;холодильника фарш, делим его&nbsp;на 18&nbsp;частей и&nbsp;катаем маленькие фрикадельки. Обжариваем их&nbsp;в кастрюле на&nbsp;небольшом количестве растительного масла до&nbsp;золотистого цвета.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-99b89c4bac/big52971226ae715.jpg",
       },
       { description: "Снимаем на блюдо и отставляем в сторону." },
       {
         description:
           "В той&nbsp;же кастрюле, где&nbsp;жарились фрикадельки, в&nbsp;течение 6&nbsp;минут обжариваем лук&nbsp;и морковь.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-2b4d38ad8b/big52971228e0ba5.jpg",
       },
       {
         description: "Затем добавляем грибы и готовим еще 5 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-01c0c3d4bf/big5297122b5e1c9.jpg",
       },
       {
         description:
@@ -5423,8 +4916,7 @@ export const soups = [
   },
   {
     title: "Густой томатный суп с фаршем и чечевицей",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-ce9a9adc2e/big52960e484a680.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/thick_tomato_soup_with_minced_meat_and_lentils.jpg`,
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " средние сладкие перцы&nbsp;—  2&nbsp;шт.",
@@ -5441,20 +4933,17 @@ export const soups = [
       {
         description:
           "В кастрюле разогреваем 2&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и жарим, помешивая, 5&nbsp;минут. Добавляем чеснок и&nbsp;сладкий перец, жарим, помешивая, еще&nbsp;5&nbsp;минут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-3c9507e009/big52960e62c535c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_peppers_and_garlic.jpg`,
       },
       {
         description:
           "Кладем в&nbsp;кастрюлю фарш и&nbsp;жарим, разбивая комки фарша лопаткой, пока мясо не&nbsp;потеряет розовый цвет.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-2e501a1a35/big52960e7396944.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_minced_meat_with_vegetables.jpg`,
       },
       {
         description:
           "Добавляем вустерский соус и&nbsp;размятые томаты вместе с&nbsp;соком. Кладем в&nbsp;кастрюлю чечевицу и&nbsp;перемешиваем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-69a724f6b0/big52960e7b30873.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_tomatoes_and_lentils.jpg`,
       },
       {
         description:
@@ -5465,8 +4954,7 @@ export const soups = [
   },
   {
     title: "Минестроне",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-ad9963a7e5/big52972d850e08e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/minestrone.jpg`,
     ingridients: [
       "средняя красная луковица&nbsp;—  1&nbsp;шт.",
       " морковь&nbsp;—  2&nbsp;шт.",
@@ -5496,13 +4984,9 @@ export const soups = [
       {
         description:
           "В кастрюле на&nbsp;огне чуть ниже среднего разогреваем 1&nbsp;ст.л. оливкового масла. Кладем лук, морковь и&nbsp;сельдерей, добавляем розмарин, острый перец, 1,5&nbsp;ч.л. соли и&nbsp;0,25&nbsp;ч.л. черного молотого перца. Жарим, помешивая, пока лук&nbsp;не начнет становиться золотистым, около 5-8 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-da3a37ec98/big52972d95e2318.jpg",
       },
       {
         description: "Добавляем размятые томаты вместе с соком.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-b862c26393/big52972d98e4e0e.jpg",
       },
       {
         description:
@@ -5510,8 +4994,6 @@ export const soups = [
       },
       {
         description: "Добавляем картофель, цуккини, консервированную фасоль.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-8510e523f7/big52972da57609a.jpg",
       },
       {
         description:
@@ -5527,8 +5009,7 @@ export const soups = [
   },
   {
     title: "Куриный суп с зелеными клецками",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-6a9aed90c1/big5296fa1bee281.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_soup_with_green_dumplings.jpg`,
     ingridients: [
       "куриные окорочка&nbsp;—  4&nbsp;шт.",
       " морковь&nbsp;—  3&nbsp;шт.",
@@ -5567,14 +5048,12 @@ export const soups = [
       {
         description:
           "Пока варится курица, готовим клёцки. Смешиваем муку, разрыхлитель, цедру, соль, пармезан и&nbsp;мелко нарубленную петрушку. Добавляем масло и&nbsp;растираем его&nbsp;кончиками пальцев с&nbsp;сухими ингредиентами. Постепенно вливаем молоко и&nbsp;замешиваем мягкое немного липкое тесто.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-c280da9afa/big5296fa23662b1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/dumpling_dough.jpg`,
       },
       {
         description:
           "Формируем из&nbsp;него мокрыми руками небольшие клецки размером с&nbsp;грецкий орех. Кладем их&nbsp;в суп&nbsp;и варим в&nbsp;течение 10&nbsp;минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-d3585d724d/big5296fa23f2100.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/dumpling_boil.jpg`,
       },
       {
         description:
@@ -5585,8 +5064,7 @@ export const soups = [
   },
   {
     title: "Фасолевый суп с курицей",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-837c9779bf/big52972e8f8a4d1.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/bean_soup_with_chicken.jpg`,
     ingridients: [
       "куриное филе&nbsp;—  400&nbsp;г",
       " вермишель&nbsp;—  75&nbsp;г",
@@ -5605,8 +5083,6 @@ export const soups = [
       {
         description:
           "Филе нарезаем на&nbsp;кубики со&nbsp;стороной 2&nbsp;см и&nbsp;обжариваем в&nbsp;кастрюле на&nbsp;растительном масле до&nbsp;золотистого цвета, примерно 5-6 минут. Перекладываем на&nbsp;тарелку.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-c7eeac3b35/big52972e9ed7f07.jpg",
       },
       {
         description:
@@ -5614,8 +5090,6 @@ export const soups = [
       },
       {
         description: "Кладем томатную пасту и жарим, помешивая, еще 3 минуты.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-4be84b23a9/big52972ea2eafb1.jpg",
       },
       {
         description:
@@ -5630,8 +5104,7 @@ export const soups = [
   },
   {
     title: "Сливочный суп с курицей и грибами",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-f363953169/big52961c1ac5745.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/creamy_soup_with_chicken_and_mushrooms.jpg`,
     ingridients: [
       "куриные бедра&nbsp;—  4&nbsp;шт.",
       " лавровый лист&nbsp;—  1&nbsp;шт.",
@@ -5654,14 +5127,10 @@ export const soups = [
       {
         description:
           "Наливаем в&nbsp;чистую кастрюлю 1&nbsp;ст.л. растительного масла. Кладем мелко нарубленный лук&nbsp;и жарим, помешивая, на&nbsp;среднем огне около 4-5 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-b72a5ad119/big52961c2a1fed4.jpg",
       },
       {
         description:
           "Затем добавляем тимьян и&nbsp;нарезанные пластинками шампиньоны. Жарим, помешивая, пока грибы не&nbsp;будут почти готовы, около 5-7 минут. Добавляем муку и&nbsp;жарим, помешивая, около 1&nbsp;минуты. Вливаем процеженный бульон и&nbsp;добавляем по&nbsp;вкусу соль.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-c773c9c439/big52961c2b206a5.jpg",
       },
       {
         description:
@@ -5670,8 +5139,6 @@ export const soups = [
       {
         description:
           "С бедер снимаем кожу и удаляем кости. Мясо нарезаем на небольшие кусочки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-a533079113/big52961c3919558.jpg",
       },
       {
         description:
@@ -5686,8 +5153,7 @@ export const soups = [
   },
   {
     title: "Рыбный суп",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-7aa50ba883/big5326c53f2f5f0.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/fish_soup.jpg`,
     ingridients: [
       "рога и&nbsp;копыта от&nbsp;одного лосося (голова, хребет, плавники и&nbsp;обрезки); можно купить голову на&nbsp;рынке",
       " картофель&nbsp;—  4-5 шт.",
@@ -5720,8 +5186,7 @@ export const soups = [
   },
   {
     title: "Суп-пюре из картофеля и порея",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-7c44e774d8/big52970255c794f.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/mashed_potato_and_leek_soup.jpg`,
     ingridients: [
       "порей (только белая и&nbsp;светло-зеленая часть, вес&nbsp;в конечном виде, без&nbsp;ботвы)&nbsp;—  500&nbsp;г",
       " шампиньоны&nbsp;—  150&nbsp;г",
@@ -5737,8 +5202,6 @@ export const soups = [
       },
       {
         description: "Картофель нарезаем на небольшие кусочки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-c31d6c1343/big52970259a372f.jpg",
       },
       { description: "Шампиньоны нарезаем пластинками." },
       {
@@ -5748,8 +5211,6 @@ export const soups = [
       {
         description:
           "Добавляем грибы, порей и&nbsp;чеснок, солим и&nbsp;перчим по&nbsp;вкусу, жарим еще&nbsp;около 10&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-3226c9e71f/big5297025a4ff3e.jpg",
       },
       {
         description:
@@ -5758,8 +5219,6 @@ export const soups = [
       {
         description:
           "Снимаем кастрюлю с&nbsp;огня. Измельчаем овощи при&nbsp;помощи блендера. Если вы&nbsp;хотите получить более нежную текстуру, протрите суп&nbsp;еще и&nbsp;через сито.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-5810774e18/big5297025d4fb57.jpg",
       },
       {
         description:
@@ -5770,8 +5229,7 @@ export const soups = [
   },
   {
     title: "Капустный суп",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-f505f3f3ae/big52970333b600a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/cabbage_soup.jpg`,
     ingridients: [
       "средний стебель лука порея (только белая и&nbsp;светло-салатовая часть)&nbsp;—  2&nbsp;шт.",
       " средняя луковица&nbsp;—  1&nbsp;шт.",
@@ -5801,8 +5259,6 @@ export const soups = [
       {
         description:
           "В сковороде разогреваем 2&nbsp;ст.л. растительного масла. Кладем репчатый лук, морковь, сельдерей и&nbsp;жарим, помешивая, до&nbsp;мягкости, около&nbsp; 5&nbsp;минут. Добавляем чеснок и&nbsp;порей, жарим еще&nbsp;2&nbsp;минуты.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-68dc5c08fe/big5297033727e9d.jpg",
       },
       {
         description:
@@ -5810,14 +5266,10 @@ export const soups = [
       },
       {
         description: "Пока закипает суп, тонко шинкуем капусту.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-0c4e9133e0/big529703390c14e.jpg",
       },
       {
         description:
           "Добавляем в&nbsp;кастрюлю, солим по&nbsp;вкусу и&nbsp;варим на&nbsp;среднем огне под&nbsp;крышкой 15-20 минут, пока капуста не&nbsp;станет мягкой.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-2e2d48a3ec/big5297033969967.jpg",
       },
       {
         description:
@@ -5828,8 +5280,7 @@ export const soups = [
   },
   {
     title: "Сливочный суп с копченой курицей",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d6ab452935/big5297298c2dc5e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/creamy_soup_with_smoked_chicken.jpg`,
     ingridients: [
       "бекон, нарезанный на&nbsp;тонкие полоски&nbsp;—  70&nbsp;г",
       " маленькая луковица&nbsp;—  1&nbsp;шт.",
@@ -5854,8 +5305,6 @@ export const soups = [
       {
         description:
           "Бекон нарезаем на&nbsp;маленькие кусочки и&nbsp;обжариваем на&nbsp;среднем огне до&nbsp;коричневого цвета и&nbsp;хрустящего состояния, около 5&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-b5e11eaad5/big529729a091def.jpg",
       },
       {
         description:
@@ -5868,8 +5317,6 @@ export const soups = [
       {
         description:
           "В сковороде, где&nbsp;жарился бекон, оставляем 2&nbsp;ст. л. жира, остальной убираем. Кладем в&nbsp;сковороду морковь и&nbsp;лук, жарим, помешивая, до&nbsp;мягкости моркови, около 4&nbsp;минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-b94832552b/big529729ade0f8f.jpg",
       },
       {
         description:
@@ -5882,14 +5329,10 @@ export const soups = [
       {
         description:
           "Добавляем кукурузу и&nbsp;готовим еще&nbsp;5&nbsp;минут. Тем&nbsp;временем нарезаем на&nbsp;небольшие кубики копченую курицу.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-a89184e944/big529729ae67e09.jpg",
       },
       {
         description:
           "Добавляем курятину и сливки, доводим до кипения и выключаем плиту.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-cf5790cb0d/big529729b210b8b.jpg",
       },
       {
         description:
@@ -5900,8 +5343,7 @@ export const soups = [
   },
   {
     title: "Бульон из индейки с помидорами и острым перцем",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-7902e4339d/big52970e27c1f71.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/turkey_broth_with_tomatoes_and_hot_peppers.jpg`,
     ingridients: [
       "крупное индюшиное крыло&nbsp;—  1&nbsp;шт.",
       " вода&nbsp;—  2&nbsp;л",
@@ -5926,8 +5368,6 @@ export const soups = [
       {
         description:
           "Пока варится бульон, разогреваем духовку до&nbsp;200&nbsp;градусов. Над&nbsp;огнеупорной формой устанавливаем решетку. Кладем на&nbsp;нее перчик чили, помидоры и&nbsp;чеснок.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-d8983f115a/big52970e2e4823a.jpg",
       },
       {
         description:
@@ -5936,14 +5376,10 @@ export const soups = [
       {
         description:
           "Лук разрезаем на&nbsp;4&nbsp;части поперек колец, затем нарезаем на&nbsp;тонкие ломтики. Если луковица совсем маленькая, режем полукольцами.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-b54e8ee7de/big52970e2eb506f.jpg",
       },
       {
         description:
           "В кастрюле на&nbsp;среднем огне разогреваем 1&nbsp;ст.л. растительного масла. Кладем помидоры, чили и&nbsp;чеснок, жарим, помешивая, около 1&nbsp;минуты.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-c28f404e54/big52970e37ca061.jpg",
       },
       {
         description:
@@ -5962,8 +5398,7 @@ export const soups = [
   },
   {
     title: "Айнтопф с капустой и копчеными ребрышками",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-3e65e1d651/big5296f9187936b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/eintopf.jpg`,
     ingridients: [
       "копченые свиные ребра&nbsp;—  600&nbsp;г",
       " лавровый лист&nbsp;—  1&nbsp;шт.",
@@ -5989,33 +5424,28 @@ export const soups = [
       },
       {
         description: "Фасоль нарезаем на небольшие кусочки.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-86ef8b9965/big5296f91bb3130.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_the_beans.jpg`,
       },
       { description: "Капусту тонко шинкуем." },
       {
         description:
           "Не очень мелко рубим лук, морковь и&nbsp;сельдерей. В&nbsp;сотейнике на&nbsp;среднем огне разогреваем 2&nbsp;ст.л. растительного масла, кладем лук, морковь и&nbsp;сельдерей. Жарим, помешивая, около 5-7 минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-fa0b4a1e3e/big5296f921e175e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_carrots_celery_and_onions1.jpg`,
       },
       {
         description:
           "Добавляем томатную пасту и&nbsp;жарим, помешивая, до&nbsp;характерного сладковатого запаха, около 1-2 минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-8dc644ea86/big5296f922d928e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_tomato_paste.jpg`,
       },
       {
         description:
           "Вынимаем ребра из&nbsp;бульона. Снимаем мясо с&nbsp;костей и&nbsp;нарезаем на&nbsp;небольшие кусочки.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-82286eda92/big5296f923dcd23.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_pork.jpg`,
       },
       {
         description:
           "Кладем в&nbsp;бульон обжаренные с&nbsp;пастой овощи, нарезанный кубиками картофель, фасоль и&nbsp;капусту. Солим по&nbsp;вкусу.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-65a7f4719b/big5296f92738c22.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_vegetables_to_broth.jpg`,
       },
       {
         description:
@@ -6026,8 +5456,7 @@ export const soups = [
   },
   {
     title: "Острый суп-пюре из фасоли с авокадо",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-2aa8c249bf/big528df331d107f.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/spicy_bean_soup_with_avocado.jpg`,
     ingridients: [
       "средняя луковица&nbsp;—  1&nbsp;шт.",
       " средняя морковь&nbsp;—  1&nbsp;шт.",
@@ -6046,20 +5475,17 @@ export const soups = [
       {
         description:
           "Мелко рубим лук, морковь и&nbsp;и сельдерей. В&nbsp;кастрюле на&nbsp;среднем огне разогреваем 1&nbsp;ст.л. растительного масла, кладем овощи и&nbsp;жарим, помешивая, 3-4 минуты.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-f6bff4cb20/big528df34880f42.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_carrots_and_celery.jpg`,
       },
       {
         description:
           "Добавляем специи и мелко нарубленный чеснок, жарим, помешивая, еще 1 минуту.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-949d204fd5/big528df349586d7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_spices_to_vegetables.jpg`,
       },
       {
         description:
           "Кладем в&nbsp;кастрюлю размятые томаты вместе с&nbsp;соком, вливаем бульон. Доводим до&nbsp;кипения, солим по&nbsp;вкусу, уменьшаем огонь и&nbsp;варим до&nbsp;готовности овощей, около 20&nbsp;минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-9fda92c6bd/big528df34a6fdd2.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_broth_and_tomatoes.jpg`,
       },
       {
         description:
@@ -6079,8 +5505,7 @@ export const soups = [
   },
   {
     title: "Немецкий картофельный суп",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-b83d7f8b76/big528a3f934d4ed.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/german_potato_soup.jpg`,
     ingridients: [
       "луковица&nbsp;—  1&nbsp;шт.",
       "стебель лука порея&nbsp;—  1&nbsp;шт.",
@@ -6123,8 +5548,7 @@ export const soups = [
   },
   {
     title: "Итальянский суп с фрикадельками",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-45a2903d0c/big527cf0c289daf.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/italian_meatball_soup.jpg`,
     ingridients: [
       "говяжий фарш&nbsp;—  500&nbsp;г",
       "красный лук, мелко нарезанный&nbsp;—  1шт.",
@@ -6160,16 +5584,13 @@ export const soups = [
       {
         description:
           "Разлить итальянский суп&nbsp;с фрикадельками в&nbsp;глубокие порционные тарелки. Посыпать пармезаном и&nbsp;подавать с&nbsp;хрустящими итальянскими тостами.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-bf13a15502/527cf0abb8ddf.jpg",
       },
     ],
     type: soupsType,
   },
   {
     title: "Харчо из курицы с орехами",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-5c7636196f/big52404f0a844f0.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_kharcho_with_nuts.jpg`,
     ingridients: [
       "курица&nbsp;—  300&nbsp;г",
       "лук репчатый&nbsp;—  75&nbsp;г",
@@ -6205,8 +5626,7 @@ export const soups = [
   },
   {
     title: "Суп Чеснечка",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-519ba2f616/big51a608767be35.JPG",
+    image: `${process.env.PUBLIC_URL}/images/soups/garlic_soup.jpeg`,
     ingridients: [
       "Чеснок дольки 	10&nbsp;шт. 	",
       "Сливочное масло 	17&nbsp;г",
@@ -6220,51 +5640,36 @@ export const soups = [
       {
         description:
           "Для приготовления супа нужно не&nbsp;менее пяти долек чеснока. Я&nbsp;беру 10&nbsp;долек. Несколько долек мелко шинкуем, остальные режем кружочками.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-f4b3999d83/big51a6087751686.JPG",
       },
       {
         description: "Растапливаем одну столовую ложку сливочного масла						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-fcfa1e4d53/big51a60882d4440.JPG",
       },
       {
         description:
           "Добавляем к&nbsp;маслу чеснок, 1&nbsp;чайную ложку семян тмина (или молотого) и&nbsp;перец по&nbsp;вкусу и&nbsp;обжариваем 2-3 минуты.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-6d3ed0cffa/big51a608848d38e.JPG",
       },
       {
         description:
           "Затем добавляем горячий куриный бульон и&nbsp;картофель и&nbsp;варим 15-20 минут до&nbsp;готовности картофеля.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-006feca733/big51a6088546e8e.JPG",
       },
       {
         description:
           "Между тем&nbsp;слегка взбейте вилкой куриное яйцо. 						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-92dd2c84ac/big51a608863554d.JPG",
       },
       {
         description:
           "				 					 																					 																 							Когда картофель готов, постоянно помешивая, аккуратно вливаем в&nbsp;суп яйцо, добавляем соль по&nbsp;вкусу и&nbsp;даем ему&nbsp;повариться еще&nbsp;около 5&nbsp;минут. 						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-cd0a08e05b/big51a60887c5218.JPG",
       },
       {
         description:
           "				 					 																					 																 							Подать суп&nbsp;можно в&nbsp;хлебе. Я&nbsp;взяла то, что&nbsp;было под&nbsp;рукой, но&nbsp;лучше взять ржаной с&nbsp;твердой корочкой, чтобы такая 'тарелка' не&nbsp;размокла. Или&nbsp;же можно перед подачей добавить в&nbsp;суп сухарики. Приятного аппетита!&nbsp; 			 				 					 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-7c1bae1a30/big51a608889d556.JPG",
       },
     ],
     type: soupsType,
   },
   {
     title: "Суп из баранины",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-7953083394/big51a70be2b542b.JPG",
+    image: `${process.env.PUBLIC_URL}/images/soups/lamb_soup.jpeg`,
     ingridients: [
       "Баранина на&nbsp;косточке 	600&nbsp;г&nbsp;	",
       "Лавровый лист 	2&nbsp;шт.",
@@ -6280,38 +5685,27 @@ export const soups = [
       {
         description:
           "Мясо промыть под&nbsp;проточной водой, разрезать на&nbsp;средние кусочки, положить в&nbsp;кастрюлю и&nbsp;залить холодной водой, добавив лавровый лист, перец горошком и&nbsp;луковицу.  Варить на&nbsp;среднем огне.  Когда вода закипит, снять пенку и&nbsp;накрыть крышкой. Варить около часа.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-859d1a5ae1/big51a70be7c2ef6.JPG",
       },
       {
         description: "Морковку и&nbsp;сельдерей нарезать произвольно.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-79db624f7a/big51a70be84b8ca.JPG",
       },
       {
         description:
           "Картофель порезать уже&nbsp;перед тем, как&nbsp;забрасывать его&nbsp;в суп, чтоб он&nbsp;не потемнел. Листики тимьяна отделить от&nbsp;стебля. 						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-4bad24c760/big51a70be91de4c.JPG",
       },
       {
         description:
           "Когда мясо почти сварится (через час), бросить в&nbsp;суп все&nbsp;овощи и&nbsp;варить около 10&nbsp;минут, затем бросить пару горстей какой-нибудь вермишели и&nbsp;тимьян, посолить, и&nbsp;варить еще&nbsp;минут 5-7 до&nbsp;готовности.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-b31a92c56e/big51a70be98a4ad.JPG",
       },
       {
         description: "				 					 																					 																 							Можно подавать, дав&nbsp;немного остыть.			 				 					 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-d918e5e198/big51a70bead05c4.JPG",
       },
     ],
     type: soupsType,
   },
   {
     title: "Томатный суп",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-d56c77ca7e/big5215f9476f0aa.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/tomato_soup.jpg`,
     ingridients: [
       "помидоры&nbsp;—  4&nbsp;шт.",
       "лук репчатый&nbsp;—  1/2&nbsp;головки",
@@ -6335,8 +5729,7 @@ export const soups = [
   },
   {
     title: "Суп с зеленой чечевицей и овощами",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-ed16a85805/big51a6f3f962fc4.JPG",
+    image: `${process.env.PUBLIC_URL}/images/soups/soup_with_green_lentils_and_vegetables.jpeg`,
     ingridients: [
       "Чечевица зеленая 	280&nbsp;г&nbsp;	",
       "Лук репчатый (100г) 	1&nbsp;шт.",
@@ -6356,51 +5749,36 @@ export const soups = [
       {
         description:
           "Замочите чечевицу в&nbsp;холодной воде на&nbsp;два часа (к слову, потом, почитав про&nbsp;чечевицу, я&nbsp;выяснила, что&nbsp;ее необязательно замачивать, но&nbsp;оставляю так, как&nbsp;было в&nbsp;рецепте). Затем промойте ее&nbsp;и дайте стечь.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-40a469d291/big51a6f3fa00d74.JPG",
       },
       {
         description:
           "Нарежьте лук. Нагрейте 1&nbsp;столовую ложку масла в&nbsp;кастрюле и&nbsp;спассеруйте лук&nbsp;до мягкости. Добавьте паприку и&nbsp;орегано и&nbsp;готовьте еще&nbsp;около минуты.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-720a7cf410/big51a6f3fae59a3.JPG",
       },
       {
         description:
           "Добавьте к&nbsp;луку чечевицу. Влейте бульон, томаты в&nbsp;собственном соку (если целые, то&nbsp;их нужно нарезать) и&nbsp;добавьте 3&nbsp;ст.л. томатной пасты. Доведите до&nbsp;кипения, затем, уменьшив огонь до&nbsp;слабого, дайте медленно кипеть 5&nbsp;минут.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-e442662589/big51a6f3fb7f8d3.JPG",
       },
       {
         description:
           "Две средних моркови нарезаем кольцами. Три&nbsp;стебля сельдерея нарезаем поперек. ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-9f3b44e05b/big51a6f3fc5e58b.JPG",
       },
       {
         description:
           "Добавьте в&nbsp;кастрюлю нарезанные морковь и&nbsp;сельдерей, а&nbsp;также лавровый лист, хорошо перемешайте. Доведите до&nbsp;кипения и, накрыв крышкой, оставьте медленно покипеть 40&nbsp;минут.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-6c34b5a8ed/big51a6f3fd09a14.JPG",
       },
       {
         description: "Нарежьте 3&nbsp;небольших цуккини и&nbsp;фасоль. 						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-6917bfffa9/big51a6f3fe0480a.JPG",
       },
       {
         description:
           "				 					 																					 																 							Добавьте их&nbsp;к супу и&nbsp;дайте покипеть еще&nbsp;10-15 минут. ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-040d325f0c/big51a6f3fef2c8e.JPG",
       },
     ],
     type: soupsType,
   },
   {
     title: "Сливочный суп с лососем",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-3a4944eef3/big51efdf224f029.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/creamy_salmon_soup.jpg`,
     ingridients: [
       "Лосось целый (семга, форель, нерка, кижуч) 	2&nbsp;кг&nbsp;	",
       "Морковь 	200&nbsp;г",
@@ -6423,50 +5801,34 @@ export const soups = [
       {
         description:
           "Первым делом готовим бульон. У&nbsp;рыбы отрежьте голову, удалите у&nbsp;нее жабры и&nbsp;глаза. Отделите филе и&nbsp;отложите. Если рыба крупная, то&nbsp;используйте только часть филе, а&nbsp;остальное пригодится для&nbsp;других блюд.  Положите голову, хвост, кожу и&nbsp;скелет в&nbsp;кастрюлю, залейте чистой холодной водой, чтобы покрыть рыбу, и&nbsp;доведите до&nbsp;кипения на&nbsp;большом огне. Снимите пену, убавьте огонь до&nbsp;среднего, положите очищенную морковь, луковицу, перец и&nbsp;лавровый лист.  Варите при&nbsp;слабом кипении 30&nbsp;минут, затем удалите все&nbsp;из бульона, а&nbsp;бульон процедите.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-a4d3ec4392/big51a6f5eb3072d.jpg",
       },
       {
         description:
           "Должен получиться абсолютно прозрачный золотистый бульон. Посолите его.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-16b68d4f5e/big51a6f5ebc07dc.jpg",
       },
       {
         description:
           "Пока варится бульон, мелко нарежьте небольшую луковицу и&nbsp;натрите морковь на&nbsp;мелкой терке.  В&nbsp;небольшом количестве масла обжарьте лук&nbsp;до прозрачности, затем добавьте морковь и&nbsp;готовьте все&nbsp;вместе до&nbsp;мягкости.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-f70e534ae8/big51a6f5ec66e46.jpg",
       },
       {
         description:
           "Картофель нарежьте кубиками и&nbsp;положите в&nbsp;кипящий бульон.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-5f136f0202/big51a6f5eceaf8c.jpg",
       },
       {
         description:
           "Пока варится картофель, обжарьте столовую ложку муки (без верха) в&nbsp;сливочном масле, затем разведите смесь небольшим количество бульона и&nbsp;размешайте, чтобы не&nbsp;было комков.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-72603e1506/big51a6f5edab7ed.jpg",
       },
       {
         description:
           "				 					 																					 																 							Когда картофель будет почти готов, добавьте в&nbsp;суп морковно-луковую и&nbsp;мучную смеси.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-4d8dfb49fd/big51a6f5ee2bcf5.jpg",
       },
       {
         description:
           "				 					 																					 																 							Филе рыбы (должно остаться около 400&nbsp;грамм) нарежьте чуть крупнее картофеля и&nbsp;тоже положите в&nbsp;суп.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-2805162ac7/big51a6f5eeaf66d.jpg",
       },
       {
         description:
           "Влейте сливки, добавьте мелко нарезанный укроп (можно сушеный), доведите до&nbsp;кипения и&nbsp;снимите с&nbsp;огня.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-990ee10dc7/big51a6f5ef587cc.jpg",
       },
       {
         description:
@@ -6477,8 +5839,7 @@ export const soups = [
   },
   {
     title: "Финский рыбный суп",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-c3c666279e/big51ed95d8d5bb5.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/finnish_fish_soup.jpg`,
     ingridients: [
       "Лук красный 	1&nbsp;шт. 	",
       "Лавровый лист 	4&nbsp;шт.",
@@ -6495,26 +5856,20 @@ export const soups = [
       {
         description:
           "В кастрюлю с&nbsp;водой добавить нарезанную красную луковицу, лавровый лист, бульон и&nbsp;белый перец. Варить на&nbsp;среднем огне в&nbsp;течении 15&nbsp;минут.						 										  					 				  						 ",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-034dd6776c/big51a4952d98b24.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/onion_and_bay_leaf.jpg`,
       },
       {
         description:
           "Затем процедите бульон в&nbsp;другую кастрюлю, поставьте обратно на&nbsp;огонь, добавьте нарезанные кубиками картофель и&nbsp;морковь. Варите еще&nbsp;15&nbsp;минут.						 										  					 				  						 ",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-9cc1edda04/big51a4952f5782c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_potatoes_and_carrots.jpg`,
       },
       {
         description:
           "По истечении 15-ти минут порежьте стейк лосося на&nbsp;средние кубики и&nbsp;добавьте в&nbsp;кастрюлю. Увеличьте огонь, доведите до&nbsp;кипения.						 										  					 				  						 ",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-64d6f30255/big51a4953058bb1.jpg",
       },
       {
         description:
           "Убавьте огонь до&nbsp;среднего, добавьте сливки, сушеную петрушку или&nbsp;укроп и&nbsp;посолите по&nbsp;вкусу. Варите до&nbsp;готовности 10&nbsp;минут.						 										  					 				  						 ",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-89cd42f478/big51a495314bca7.jpg",
       },
       { description: "				 					 																					 																 							А теперь пора вкусно пообедать! :) " },
     ],
@@ -6522,8 +5877,7 @@ export const soups = [
   },
   {
     title: "Острый рыбный суп",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d6ecf53b57/big51a4a75723824.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/spicy_fish_soup.jpg`,
     ingridients: [
       "Семга 	1500&nbsp;г&nbsp;	",
       "Перец сладкий красный (паприка) 	½ шт.",
@@ -6540,52 +5894,43 @@ export const soups = [
       {
         description:
           "Рыба (суповой набор)&nbsp;—  семга или&nbsp;форель. В&nbsp;набор входит голова с&nbsp;частью тушки рыбы и&nbsp;хвост. Если хотите, то&nbsp;можно еще&nbsp;взять небольшой стейк  от&nbsp;той же&nbsp;рыбы, чтобы в&nbsp;супе было больше рыбной мякоти. Голова рыбы промывается, удаляются жабры. В&nbsp;кастрюлю наливаем 3,5&nbsp;л&nbsp;воды, закладываем промытую рыбу, доводим до&nbsp;кипения и&nbsp;варим 20-25 минут, периодически удаляя образующуюся пену.  После этого вынимаем голову и&nbsp;хвост, бульон процеживаем через сито или&nbsp;марлю и&nbsp;выливаем обратно в&nbsp;кастрюлю.						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-cd8185d2cc/big51a4a75869d21.jpg",
       },
       {
         description:
           "Пока варится бульон,  можно заняться подготовкой овощей. Перец  сладкий, болгарский (паприка) очищается от&nbsp;семян, вынимается сердцевина, и&nbsp;режется на&nbsp;кубики ~1&nbsp;на&nbsp;1&nbsp;см. Также очищается острый перец и&nbsp;режется очень мелко. Помидоры черри режем на&nbsp;2&nbsp;или&nbsp;4&nbsp;части, это&nbsp;как кому нравится. При&nbsp;желании, перед нарезкой можно обдать их&nbsp;кипятком и&nbsp;снять шкурку. Картошка и&nbsp;морковь режутся мелкими кубиками, но&nbsp;это дело вкуса, можно нарезать и&nbsp;соломкой. 						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-7a7ed58b46/big51a4a75908a77.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_sweet_and_hot_peppers.jpg`,
       },
       {
         description:
           "				 					 																					 																 							Закладываем в&nbsp;кипящий на&nbsp;медленном огне бульон картофель и&nbsp;морковь, доводим до&nbsp;кипения и&nbsp;варим 5&nbsp;мин.   						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-3de87db7b1/big51a4a75abd904.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_potatoes_to_broth.jpg`,
       },
       {
         description:
           "				 					 																					 																 							Пока варятся овощи, разделываем вареную рыбу. Выбираем и&nbsp;отделяем от&nbsp;костей мякоть рыбы на&nbsp;отдельную тарелку.    						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-ae549d1393/big51a4a75b98737.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_up_boiled_fish.jpg`,
       },
       {
         description:
           "				 					 																					 																 							В кипящий бульон с&nbsp;картофелем и&nbsp;морковью добавляем остальные заранее подготовленные овощи. Даем закипеть, затем варим на&nbsp;медленном огне 5&nbsp;мин, и&nbsp;после этого добавляем рыбу.   						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-31907956b0/big51a4a75c7933d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_pepper_to_broth.jpg`,
       },
       {
         description:
           "Если мы&nbsp;хотим получить действительно острый суп, то&nbsp;лучше всего лучше добавлять паприку острую и&nbsp;чайную ложку специальной острой венгерской пасты, но, увы, достать их&nbsp;в наших условиях весьма проблематично. Их&nbsp;можно заменить паприкой молотой сладкой (1-2 стол ложки) и&nbsp;молотый красный перец острый (кайенский), не&nbsp;более 1&nbsp;чайной ложки.  						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-54c250ac7f/big51a4a75dbf44f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_ground_pepper.jpg`,
       },
       {
         description:
           "В кипящий суп&nbsp;добавляем 2&nbsp;сырых яйца и&nbsp;быстро размешиваем, чтобы яйца разошлись на&nbsp;мелкие хлопья. Суп&nbsp;готов.  						 										  					 				  						 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-dc81a2aff5/big51a4a75eafe3c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_eggs_to_soup1.jpg`,
       },
     ],
     type: soupsType,
   },
   {
     title: "Гороховая похлебка",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-ba023e2309/big511286531f6d3.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/pea_soup.jpg`,
     ingridients: [
       "горох&nbsp;—  400&nbsp;г",
       "репчатый лук&nbsp;—  100&nbsp;г",
@@ -6607,8 +5952,7 @@ export const soups = [
   },
   {
     title: "Суп с грибами и фрикадельками",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-976c94f604/big50ab8177875bd.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/soup_with_mushrooms_and_meatballs.jpg`,
     ingridients: [
       "шампиньоны&nbsp;—  400&nbsp;г",
       "картофель&nbsp;—  2&nbsp;шт.",
@@ -6666,8 +6010,7 @@ export const soups = [
   },
   {
     title: "Легкий куриный супчик",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-bf84b6923e/big509277238b176.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/light_chicken_soup.jpg`,
     ingridients: [
       "курица (около 1,5-1,6&nbsp;кг)&nbsp;—  1&nbsp;шт.",
       "луковица&nbsp;—  1&nbsp;шт.",
@@ -6715,8 +6058,7 @@ export const soups = [
   },
   {
     title: "Тыквенный суп с имбирем",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-198ab42965/big509025bf1f5ab.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/pumpkin_soup_with_ginger.jpg`,
     ingridients: [
       "    тыква	—  300&nbsp;г",
       "    картофель	—  300&nbsp;г",
@@ -6755,8 +6097,7 @@ export const soups = [
   },
   {
     title: "Суп с чечевицей в индийском стиле",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-279edfc817/big505c6307a8a58.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/indian_style_lentil_soup.jpg`,
     ingridients: [
       "    200&nbsp;грамм красной чечевицы",
       "    250&nbsp;грамм лука репчатого",
@@ -6800,8 +6141,7 @@ export const soups = [
   },
   {
     title: "Суп грибной",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d5034f2794/big50531590b7824.gif",
+    image: `${process.env.PUBLIC_URL}/images/soups/mushroom_soup.gif`,
     ingridients: [
       "грибы свежие или&nbsp;замороженные&nbsp;—  450-500 г",
       "картофель&nbsp;—  600&nbsp;г",
@@ -6841,8 +6181,7 @@ export const soups = [
   },
   {
     title: "Тыквенный суп с рисом и мясными шариками",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-f2b6af2640/big4f24039019e8c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/pumpkin_soup_with_rice_and_meat_balls.jpg`,
     ingridients: [
       "Тыква 	700&nbsp;г&nbsp;",
       "	Соль 	1&nbsp;ч.л.",
@@ -6862,51 +6201,43 @@ export const soups = [
     cooking: [
       {
         description: "Тыкву очистить и&nbsp;нарезать.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2e4f3c323d/big4f240390f13da.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/peel_the_pumpkin.jpg`,
       },
       {
         description:
           "Посолить, поперчить, слегка сбрызнуть маслом. Перемешать. Отправить в&nbsp;духовку на&nbsp;20&nbsp;минут, при&nbsp;200&nbsp;г",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-3cd8aee876/big4f24039235bd8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/salt_pepper_and_cook_the_pumpkin_in_the_oven.jpg`,
       },
       {
         description:
           "Пока запекается, делаем мясные шарики. (смешиваем фарш+мелко тёртая морковь+ зелень+яйцо+соль) Варим 15&nbsp;минут в&nbsp;подсоленной воде. Для&nbsp;светлого, прозрачного супа я&nbsp;всегда их&nbsp;варю отдельно, сразу в&nbsp;суп не&nbsp;кидаю т.к.фарш закрашивает бульон. Может получится мутновато&nbsp;—  серовато.  					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-85c55658d5/big4f2403938ab3a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/making_meat_balls.jpg`,
       },
       {
         description: "Режем лук&nbsp;и чеснок					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c52610b0c1/big4f240394dc3ec.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_onion_and_garlic1.jpg`,
       },
       {
         description:
           "Разогреваем масло и&nbsp;быстренько обжариваем лук+чеснок&nbsp; Добавляем рис. Перемешиваем. Заливаем белое вино. Перемешиваем, чтобы вино впиталось и&nbsp;испарился алкоголь.  					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-029bbf0b01/big4f24039641371.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_garlic_and_onions.jpg`,
       },
       {
         description: "Заливаем бульоном					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-3774c44e4b/big4f240397a7c0c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_broth.jpg`,
       },
       { description: "Закрываем и&nbsp;варим 20&nbsp;минут " },
       { description: "В конце закидываем мясные шарики и&nbsp;тыкву  " },
       {
         description: "Крошим зелень.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5cbc4eb862/big4f24039c0df22.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_greens.jpg`,
       },
     ],
     type: soupsType,
   },
   {
     title: "Суп-пюре из зеленого горошка",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-a18ee3e5e4/big4f240514ebde4.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/green_pea_puree_soup.jpg`,
     ingridients: [
       "Курица (1,8&nbsp;кг) 	1&nbsp;шт. 	",
       "Соль 	2&nbsp;ч.л.",
@@ -6921,31 +6252,28 @@ export const soups = [
       {
         description:
           "Заранее отварить куриный бульон из курицы и тимьяна, а также посолите					 								  				 			  			 ",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chicken_broth.jpg`,
       },
       {
         description:
           "Слегка обжарить лук&nbsp;и чеснок на&nbsp;оливковом масле. Влить куриный бульон, выложить зеленый горошек и&nbsp;варить до&nbsp;готовности					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-cba1bc379f/big4f24052090cde.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_green_peas.jpg`,
       },
       {
         description:
           "Измельчить зеленый горошек в&nbsp;блендере. Бульон, оставшийся от&nbsp;варки, сохранить. Выложить пюре в&nbsp;кастрюлю, влить сливки и&nbsp;бульон, если возникнет такая необходимость. Слегка прогреть суп.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-486849c8c5/big4f24052180b12.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/green_peas_in_a_blender.jpg`,
       },
       {
         description: "			 				 																	 													 						Подавать с&nbsp;охотничьими колбасками					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2b9f20f65b/big4f2405227cc92.jpg",
+        image: `${process.env.PUBLIC_URL}/images/soups/green_pea_puree_soup.jpg`,
       },
     ],
     type: soupsType,
   },
   {
     title: "Суп Вишисуаз",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d2a5124776/big4f24052c95b02.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/vichyssoise.jpg`,
     ingridients: [
       "Лук порей 	2&nbsp;шт. ",
       "	Лук репчатый (100г) 	1&nbsp;шт.",
@@ -6965,14 +6293,12 @@ export const soups = [
       {
         description:
           "Лук-порей тщательно моем, снимаем верхний слой, отрезаем темно зеленую верхушку и&nbsp;режем тонкими колечками. Шинкуем обычный лук. Режем небольшими дольками картофель (2&nbsp;среднего размера картофелины),					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-433a014e38/big4f24052da0ead.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_leeks_and_potatoes.jpg`,
       },
       {
         description:
           "В растительном масле растапливаем сливочное, добавляем два&nbsp;вида лука. Готовим на&nbsp;среднем огне минут 8-10, лук&nbsp;должен стать очень мягким (лук должен тушим, а&nbsp;не обжариваем!).   					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-0fd4caff1b/big4f24052f2f25d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_and_leeks.jpg`,
       },
       {
         description:
@@ -6983,8 +6309,7 @@ export const soups = [
   },
   {
     title: "Суп в хлебном горшочке",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-f3f2807226/big4fcd05f84546d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/soup_in_a_bread_pot.jpg`,
     ingridients: [
       "небольшие круглые буханки хлеба&nbsp;—  2&nbsp;шт.",
       "тушенка из&nbsp;свинины&nbsp;—  200&nbsp;г",
@@ -7002,14 +6327,12 @@ export const soups = [
       {
         description:
           "На сковороде разогреть растительное масло, добавить нарезанный лук&nbsp;и жарить его&nbsp;до золотистого цвета. К&nbsp;луку добавить колбаски, нарезанные кружочками. Жарить все&nbsp;около 2&nbsp;минут. Добавить муку и&nbsp;перемешать. Положить томатную пасту и&nbsp;тушить все&nbsp;еще несколько минут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b09c795cd6/4fcd041381781.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_sliced​_sausages_with_tomato_paste.jpg`,
       },
       {
         description:
           "В кастрюлю налить 1&nbsp;литр воды. Поставить на&nbsp;огонь и&nbsp;довести до&nbsp;кипения. В&nbsp;кипящую воду положить тушеную свинину, картофель, нарезанный кубиками, посолить, поперчить. Когда картофель сварится, добавить колбаски и&nbsp;варить еще&nbsp;5&nbsp;минут.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-6902604b5e/4fcd0446932fd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boil_soup_with_sausages.jpg`,
       },
       { description: "С каждой буханки срезать верх&nbsp;—  крышечку." },
       {
@@ -7027,22 +6350,19 @@ export const soups = [
       {
         description:
           "3. Если хлеб очень рыхлый и&nbsp;пористый, т.е. впитывание жидкости будет очень интенсивным, подсушить внутреннюю поверхность горшочка как&nbsp;описано в&nbsp;п.2. Затем хорошо разболтать яйцо, вылить его&nbsp;в горшочек и&nbsp;кисточкой размазать по&nbsp;внутренним стенкам. Опять поставить в&nbsp;духовку до&nbsp;затвердения яичного покрытия. ",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-90d9202618/4fcd04fcc848c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/bread_pot.jpg`,
       },
       {
         description:
           "Перед подачей налить суп&nbsp;в горшочки и&nbsp;посыпать сверху петрушкой. ",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-344e9889ae/4fcd051d6e658.jpg",
+        image: `${process.env.PUBLIC_URL}/images/soups/soup_in_a_bread_pot.jpg`,
       },
     ],
     type: soupsType,
   },
   {
     title: "Пряный суп-пюре из нута",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-0b32634332/big4f240423a6c71.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/spicy_chickpea_puree_soup.jpg`,
     ingridients: [
       "Нут (турецкий горох) 	350&nbsp;г&nbsp;	",
       "Бульон говяжий 	2000&nbsp;мл",
@@ -7064,64 +6384,54 @@ export const soups = [
       {
         description:
           "Замочите нут&nbsp;в холодной воде на&nbsp;8-12 часов. За&nbsp;это время он&nbsp;должен набухнуть и&nbsp;стать более мягким.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9ad01789f9/big4f240425670e8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chickpeas.jpg`,
       },
       {
         description:
           "Когда нут&nbsp;набухнет, залейте его&nbsp;бульоном и&nbsp;поставьте варить на&nbsp;небольшом огне 1-1,5&nbsp;часа.  Тем&nbsp;временем подготовьте пряности&nbsp;—  очистите чеснок, вымойте чили и&nbsp;кинзу.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-37e530e689/big4f240428269aa.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/garlic_hot_pepper_and_parsley.jpg`,
       },
       {
         description:
           "Чили разрежьте пополам вдоль и&nbsp;тщательно вычистите семечки и&nbsp;соединительные перегородки. Будьте осторожны и&nbsp;работайте в&nbsp;перчатках, чтобы не&nbsp;обжечь кожу.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e585496376/big4f240429d79b1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_hot_pepper.jpg`,
       },
       {
         description:
           "На сухой сковородке поджарьте специи в&nbsp;течение 1-2 минут, помешивая.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-93b4ba7f77/big4f24042d301fc.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cumin_and_dried_coriander.jpg`,
       },
       {
         description:
           "Добавьте к&nbsp;специям масло, измельченный чеснок и&nbsp;перец. Готовьте еще&nbsp;2-3 минуты.	",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8eae52bf7a/big4f24042ebf6f9.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_garlic_and_hot_peppers_with_spices.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Часть бульона, в&nbsp;котором варился нут, отлейте в&nbsp;сотейник, доведите до&nbsp;кипения и&nbsp;положите туда специи. Варите на&nbsp;небольшом огне 15&nbsp;минут.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-830f020b5f/big4f24043131972.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_spices_to_broth.jpg`,
       },
       {
         description:
           "Нут с&nbsp;оставшимся бульоном превратите в&nbsp;пюре с&nbsp;помощью блендера. Затем смешайте пюре с&nbsp;бульоном, в&nbsp;который добавили специи и&nbsp;доведите все&nbsp;до кипения, посолите.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d04297b355/big4f240432747bf.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/make_chickpea_puree.jpg`,
       },
       {
         description:
           "Для заправки взбейте в&nbsp;блендере сметану с&nbsp;кинзой, цедрой и&nbsp;соком лайма. Сок&nbsp;добавляйте частями, чтобы не&nbsp;получилось слишком кисло.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b9547d61e8/big4f240433697f8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_sour_cream_with_cilantro.jpg`,
       },
       {
         description:
           "Подавайте горячий суп&nbsp;с холодной заправкой, украсив кусочками чили и&nbsp;листьями кинзы.					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6789eee9be/big4f24043e61329.jpg",
+        image: `${process.env.PUBLIC_URL}/images/soups/spicy_chickpea_puree_soup.jpg`,
       },
     ],
     type: soupsType,
   },
   {
     title: "Двухцветный суп из фасоли",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-61efcb55f3/big4f24036340ba0.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/two_color_bean_soup.jpg`,
     ingridients: [
       "Кориандр сушеный (кинза) 2 ч.л. ",
       "Оливковое масло 20&nbsp;мл ",
@@ -7145,46 +6455,39 @@ export const soups = [
       {
         description:
           "И белую, и&nbsp;красную фасоль необходимо предварительно залить холодной водой и&nbsp;оставить на&nbsp;2-3 часа. Перед тем, как&nbsp;начинать варить супы, воду, в&nbsp;которой вымачивалась фасоль, нужно слить. Обжарить бекон или&nbsp;панчетту на&nbsp;небольшом огне, пока он&nbsp;не станет золотистым. Затем добавить измельченную морковь, лук, чеснок и&nbsp;специи и&nbsp;тушить на&nbsp;слабом огне еще&nbsp;5&nbsp;минут. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8d157b6e4f/big4f24036461ee3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_bacon_and_onion_with_spices.jpg`,
       },
       {
         description:
           "Дальше перекладываем нашу зажарку в&nbsp;кастрюлю, добавляем фасоль и&nbsp;заливаем все&nbsp;бульоном. Доводим до&nbsp;кипения, затем уменьшаем огонь, снимаем крышку и&nbsp;варим до&nbsp;готовности&nbsp;—  1-1,5&nbsp;часа. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-1b6c7a9d27/big4f2403685635b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beans_with_onions.jpg`,
       },
       {
         description:
           "Обжарить лук&nbsp;на среднем огне, пока он&nbsp;не станет прозрачным. Затем добавить сельдерей, чеснок, тимьян, лавровый лист и&nbsp;томить еще&nbsp;пару минут&nbsp;—  просто, чтобы продукты друг к&nbsp;другу привыкли. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d52a47f6ed/big4f240369622c6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/onions_with_celery.jpg`,
       },
       {
         description:
           "Выкладываем зажарку в&nbsp;кастрюлю, добавляем белую фасоль и&nbsp;заливаем овощным бульоном. Доводим до&nbsp;кипения, снимаем крышку и&nbsp;тушим до&nbsp;готовности. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-a2601eecb8/big4f24036a868ce.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/white_beans_with_fried_onions.jpg`,
       },
       {
         description:
           "Когда фасоль сварилась, все&nbsp;ингридиенты нужно измельчить. Если бульона не&nbsp;осталось, добавить в&nbsp;измельченную с&nbsp;овощами фасоль сливки и&nbsp;прогреть суп-пюре. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-dcaa8a1b08/big4f24036cc73f2.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boiled_beans_in_a_blender.jpg`,
       },
       {
         description:
           "Смешать два&nbsp;разных супа-пюре: одновременно, двумя половниками, влить тонкой струйкой супы в&nbsp;супницу или&nbsp;обеденную тарелку. Сервировать жаренными шампиньонами или&nbsp;сальсой из&nbsp;томатов, перца чили и&nbsp;красного лука&nbsp;",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-215ab21b76/big4f24036d9cc47.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/ready_made_two_color_cream_soup.jpg`,
       },
     ],
     type: soupsType,
   },
   {
     title: "Детский суп с овощами",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d882186c3d/big4f2404cc9d418.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/baby_soup_with_vegetables.jpg`,
     ingridients: [
       "Куриная голень 100 г ",
       "Куриная грудка 100&nbsp;г ",
@@ -7205,49 +6508,41 @@ export const soups = [
       {
         description:
           "Сварите легкий бульон из&nbsp;курицы и&nbsp;1&nbsp;литра воды. Мясо отделите от&nbsp;костей, нарежьте и&nbsp;положите в&nbsp;бульон. Мелко нарезанный лук&nbsp;обжарьте до&nbsp;прозрачности на&nbsp;растительном масле.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-cd916c8005/big4f2404ce73056.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_in_oil1.jpg`,
       },
       {
         description: "Очистите репу и&nbsp;натрите на&nbsp;крупной терке. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-0c0709519c/big4f2404cf64dc0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_turnip.jpg`,
       },
       {
         description: "Морковь тоже крупно натрите. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5da26cab1d/big4f2404d02523b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_carrots.jpg`,
       },
       {
         description:
           "Добавьте репу и&nbsp;морковь к&nbsp;луку, потушите несколько минут до&nbsp;мягкости. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-79143f93ce/big4f2404d0e7796.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_turnips_carrots_and_onions.jpg`,
       },
       {
         description:
           "Положите овощи в&nbsp;суп, посолите и&nbsp;продолжайте варить на&nbsp;небольшом огне. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6516c2dc4c/big4f2404d22ac12.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cook_soup.jpg`,
       },
       {
         description:
           "Молодой кабачок натрите на&nbsp;крупной терке. Добавьте в&nbsp;суп и&nbsp;варите 5&nbsp;минут. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-3f5ecaea6b/big4f2404d383222.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_zucchini1.jpg`,
       },
       {
         description: "В самом конце варки добавьте сушеную зелень. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-f2652e9aa1/big4f2404d47769d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_dried_herbs_to_soup.jpg`,
       },
     ],
     type: soupsType,
   },
   {
-    title: "Суп из шпитаке",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-b660ef4719/big4f2404518a74d.jpg",
+    title: "Суп с шиитаке",
+    image: `${process.env.PUBLIC_URL}/images/soups/shiitake_soup.jpg`,
     ingridients: [
       "Шиитаке сушеные 	20&nbsp;г&nbsp;	",
       "Морковь 	150&nbsp;г",
@@ -7267,56 +6562,45 @@ export const soups = [
       {
         description:
           "Сушеные шиитаке замочите в&nbsp;теплой воде на&nbsp;30-40 минут, чтобы они&nbsp;стали мягкими.	",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4ea6d09f8c/big4f24045320030.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/dried_shiitake.jpg`,
       },
       {
         description: "Морковь очистите и&nbsp;нарежьте тонкой соломкой.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-31e4b375b4/big4f24045407992.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/carrots_cut_into_strips.jpg`,
       },
       {
         description: "Также поступите с&nbsp;кольраби.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-03cd1160a0/big4f240455042dd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_kohlrabi.jpg`,
       },
       {
         description:
           "Размоченные шляпки шиитаке тоже нарежьте соломкой и&nbsp;положите в&nbsp;кипящий бульон вместе с&nbsp;овощами. Варите 5-7 минут на&nbsp;среднем огне.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5a77665fa4/big4f240455ef49a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_shiitake.jpg`,
       },
       {
         description:
           "Нашинкуйте несколько листов китайской капусты и&nbsp;нарежьте стебель сельдерея.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c08d9ec261/big4f24045a25622.jpg",
       },
       {
         description:
           "Добавьте в&nbsp;бульон сельдерей с&nbsp;капустой, соусы и&nbsp;чили. Посолите по&nbsp;вкусу (количество соли зависит от&nbsp;бульона и&nbsp;соусов). Варите еще&nbsp;5&nbsp;минут.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9d8edb3ad0/big4f24045b6f5bb.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_celery_and_cabbage_to_the_broth.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Когда овощи будут готовы, выключите огонь, удалите чили и&nbsp;подавайте.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-96e2ca910a/big4f24045d232fb.jpg",
       },
       {
         description:
           "			 				 																	 													 						При подаче в&nbsp;суп можно добавить немного вареной лапши.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-546839b343/big4f2404667c0d8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/soups/shiitake_soup.jpg`,
       },
     ],
     type: soupsType,
   },
   {
     title: "Суп с вермишелью",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-7994c8ff51/big4f240481743d9.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/noodle_soup.jpg`,
     ingridients: [
       "Голяшка говяжья без&nbsp;кости 	1000&nbsp;г&nbsp;	",
       "Лук репчатый (100г) 	1&nbsp;шт.",
@@ -7332,46 +6616,39 @@ export const soups = [
       {
         description:
           "Мясо залейте холодной водой (около 3х&nbsp;литров) и&nbsp;поставьте на&nbsp;большой огонь.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-96fb561a1b/big4f24048276ed4.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beef_in_water.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Как только на&nbsp;поверхности начнет образовываться пена, уменьшите огонь и&nbsp;тщательно снимайте ее&nbsp;с помощью сита до&nbsp;тех пор, пока она&nbsp;не перестанет образовываться.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e68a60ac85/big4f2404840bfe0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/remove_foam_from_broth.jpg`,
       },
       {
         description:
           "Добавьте в&nbsp;суп очищенные овощи и&nbsp;пряности. Здесь можно использовать толстые жестковатые стебли петрушки или&nbsp;укропа, которые остались от&nbsp;других блюд. Их&nbsp;можно заморозить, а&nbsp;затем употребить для&nbsp;ароматизации бульона.  Продолжайте варить мясо на&nbsp;маленьком огне, неплотно прикрыв крышкой. 					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8434613dee/big4f240484c4907.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boil_onions_and_carrots_with_beef.jpg`,
       },
       {
         description:
           "Когда овощи станут мягкими, удалите их&nbsp;вместе с&nbsp;пряностями и&nbsp;продолжайте варить до&nbsp;тех пор, пока мясо не&nbsp;станет мягким (1,5-2 часа). Готовый бульон посолите и&nbsp;процедите.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c03650409f/big4f240485a60bb.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/remove_vegetables_from_broth.jpg`,
       },
       {
         description:
           "Если вы&nbsp;не собираетесь готовить суп&nbsp;из всего объема бульона, то&nbsp;отлейте нужное количество в&nbsp;небольшую кастрюлю, доведите до&nbsp;кипения и&nbsp;добавьте вермишель (в ингредиентах количество указано на&nbsp;весь объем продуктов). Варите 3-5 минут до&nbsp;готовности.  Оставшийся бульон можно разделить на&nbsp;порции и&nbsp;заморозить.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-0d02f3b6d9/big4f24048ba02fa.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/broth.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Подавайте суп&nbsp;горячим. В&nbsp;каждую тарелку можно положить кусочек мяса и&nbsp;немного зелени, свежей или&nbsp;сушеной.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-484fd5583e/big4f24048c9283b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/soups/noodle_soup.jpg`,
       },
     ],
     type: soupsType,
   },
   {
     title: "Луковый суп",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-f04d6f14c1/big4f24053439a5b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/onion_soup.jpg`,
     ingridients: [
       "Лук серебристый (белый) 	800&nbsp;г&nbsp;	",
       "Сливочное масло 	80&nbsp;г",
@@ -7390,52 +6667,44 @@ export const soups = [
       },
       {
         description: "Нарежьте лук&nbsp;тонкими полукольцами.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2d9733c883/big4f240536ca2db.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_onion_into_half_rings.jpg`,
       },
       {
         description:
           "Растопите сливочное масло в&nbsp;суповой кастрюле с&nbsp;толстым дном.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9b31b31050/big4f240537a4178.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/melt_butter_in_a_frying_pan.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Положите в&nbsp;нее лук&nbsp;и тушите на&nbsp;небольшом огне, помешивая, 20-25 минут.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4ec221dcc0/big4f240538e15f2.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_in_butter1.jpg`,
       },
       {
         description:
           "Затем добавьте к&nbsp;луку измельченный чеснок и&nbsp;муку. Хорошо перемешайте и&nbsp;влейте вино.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ecb69399ee/big4f240539b1464.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_garlic_and_flour.jpg`,
       },
       {
         description:
           "Готовьте 5&nbsp;минут, потом налейте бульон или&nbsp;воду, доведите до&nbsp;кипения и&nbsp;насыпьте тертый сыр. Размешайте, чтобы сыр&nbsp;растворился и&nbsp;посолите по&nbsp;вкусу.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b943a65ac1/big4f24053ae67f8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_grated_cheese_to_soup.jpg`,
       },
       {
         description:
           "Разлейте суп&nbsp;по порционным горшкам, в&nbsp;каждый положите сверху по&nbsp;кусочку поджаренного багета, посыпьте сыром и&nbsp;поставьте в&nbsp;разогретую до&nbsp;200&nbsp;градусов духовку на&nbsp;5-7 минут, чтобы сыр&nbsp;расплавился.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-59745c7ff1/big4f24053ba6c6f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/soup_in_pots.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Подавайте горячим. К&nbsp;супу отлично подойдут  сырные палочки.					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-a4b166944c/big4f24053cbb48c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/soup_with_cheese_sticks.jpg`,
       },
     ],
     type: soupsType,
   },
   {
     title: "Куриный суп с томатной пастой",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d4/003/149/203/big4e5bf4ffbc3b2.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_soup_with_tomato_paste.jpg`,
     ingridients: [
       "куриная ножка&nbsp;—  1&nbsp;шт.",
       "вода&nbsp;—  4&nbsp;стакана",
@@ -7483,4 +6752,3 @@ export const soups = [
 ];
 
 export const soupsTitle = "Супы";
-

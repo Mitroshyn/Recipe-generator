@@ -8,7 +8,7 @@ export function Nav() {
       <nav className="">
         <ul className="w-[210px]">
           <li>
-            <Link to="/">Главная страница</Link>
+            <Link to="/Recipe-generator">Главная страница</Link>
           </li>
 
           <li>

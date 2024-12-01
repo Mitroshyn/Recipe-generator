@@ -3,8 +3,7 @@ export const meatSaladsType = "meatSalads";
 export const meatSalads = [
   {
     title: "Салат с кукурузой и курицей",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-1c437649eb/big5897afa08b80d.png",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/corn_and_chicken_salad.png`,
     ingridients: [
       "2&nbsp;куриных филе&nbsp;",
       "1&nbsp;банка консервированной кукурузы&nbsp;",
@@ -45,8 +44,7 @@ export const meatSalads = [
   },
   {
     title: "Салат из рукколы с куриной печенкой",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-023ebbd7c7/big5827086769534.png",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/arugula_salad_with_chicken_liver.png`,
     ingridients: [
       "Куриная печень 150 г",
       "Руккола 100&nbsp;г",
@@ -71,8 +69,7 @@ export const meatSalads = [
       {
         description:
           "Добавьте горчицу и&nbsp;уксус, перемешайте, жарьте еще&nbsp;30&nbsp;секунд, снимите со&nbsp;сковороды.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-bbae074db1/582708258e264.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chicken_liver_champignons_and_spices.jpg`,
       },
       {
         description:
@@ -85,8 +82,7 @@ export const meatSalads = [
       {
         description:
           "Рукколу выложите на тарелки, сбрызните оливковым маслом и перемешайте.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-36e1dcc073/5827083d00fcf.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/arugula_in_a_frying_pan.jpg`,
       },
       { description: "На рукколу выложите печень и грибы, подавайте." },
     ],
@@ -94,8 +90,7 @@ export const meatSalads = [
   },
   {
     title: "Теплый салат с говядиной и грушей",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-8178f7ae38/big5826fec3a2cb2.png",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/warm_salad_with_beef_and_pear.png`,
     ingridients: [
       "Азу из говядины 200 г",
       "Помидоры 2 шт.",
@@ -117,14 +112,11 @@ export const meatSalads = [
       {
         description:
           "После того, как&nbsp;говядина в&nbsp;помидорах будет готова, немного остудить и&nbsp;добавить к&nbsp;смеси салатов.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-b67dd55305/5826fe6feb25b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beef_soy_sauce_and_tomato.jpg`,
       },
       {
         description:
           "Нарезать грушу небольшими кубиками и&nbsp;добавить в&nbsp;ту же&nbsp;самую сковородку с&nbsp;25&nbsp;мл&nbsp;соевого соуса. Готовить так&nbsp;5&nbsp;минут под&nbsp;крышкой.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-73462e7fc0/5826fe822cdf3.jpg",
       },
       {
         description:
@@ -135,8 +127,7 @@ export const meatSalads = [
   },
   {
     title: "Салат из утки с припущенными помидорами черри",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-24b9b39d7a/big5551c49e4e85a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/duck_salad_with_poached_cherry_tomatoes.jpg`,
     ingridients: [
       "филе утиных грудок&nbsp;—  2&nbsp;шт.",
       " соль и&nbsp;перец&nbsp;—  по&nbsp;вкусу",
@@ -160,14 +151,12 @@ export const meatSalads = [
       {
         description:
           "На утином филе делаем неглубокие надрезы со стороны кожи. Солим и перчим.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-57236bc65c/big5551c4a85ea2d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/duck_breast.jpg`,
       },
       {
         description:
           "На средне сильном огне разогреваем сухую сковороду, кладем филе кожей вниз и&nbsp;жарим около 5&nbsp;минут. Затем переворачиваем и&nbsp;жарим еще&nbsp;5&nbsp;минут, уменьшив огонь до&nbsp;среднего.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-92b41c5d7c/big5551c4a8d549c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_duck_breast.jpg`,
       },
       {
         description:
@@ -176,8 +165,7 @@ export const meatSalads = [
       {
         description:
           "Помидорки черри разрезаем пополам каждую. В&nbsp;сковороде на&nbsp;сильном огне разогреваем 1&nbsp;ст.л. оливкового масла. Кладем черри и&nbsp;жарим, помешивая, 1&nbsp;минуту. Добавляем мелко нарубленный чеснок и&nbsp;базилик, уксус и&nbsp;сахар. Жарим еще&nbsp;30&nbsp;секунд.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-ac8af7fa7e/big5551c4a97c6bb.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_cherry_tomatoes.jpg`,
       },
       {
         description: "Перекладываем на тарелку.",
@@ -185,14 +173,11 @@ export const meatSalads = [
       {
         description:
           "Готовим заправку. Для&nbsp;этого кладем все&nbsp;ингредиенты в&nbsp;миску и&nbsp;взбиваем вилкой до&nbsp;получения эмульсии.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-e3f93a3058/big5551c4b47900a.jpg",
       },
       {
         description:
           "Откладываем половину заправки. В&nbsp;остальную кладем салатные листья и&nbsp;перемешиваем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-b000aa1214/big5551c4b527b44.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_lettuce.jpg`,
       },
       {
         description:
@@ -207,8 +192,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с курицей и яичными блинчиками",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-c3df5ddd65/big5554c22fcc21a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_and_egg_pancake_salad.jpg`,
     ingridients: [
       "куриное филе&nbsp;—  500&nbsp;г",
       "яйца&nbsp;—  7&nbsp;шт.",
@@ -269,8 +253,7 @@ export const meatSalads = [
   },
   {
     title: "Салат 'Пасхальный венок'",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-074e31459d/big5523f1e9c4fb0.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_easter_wreath.jpg`,
     ingridients: [
       "    картофель отварной&nbsp;—  2&nbsp;шт.",
       "    шампиньоны&nbsp;—  300&nbsp;г",
@@ -286,42 +269,30 @@ export const meatSalads = [
       {
         description:
           "    Грибы нарезаем небольшими кусочками обжариваем на&nbsp;оливковом масле.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-d5221382cd/5523f0f941dae.jpg",
       },
       {
         description:
           "    Морковь натираем на&nbsp;крупной терке и&nbsp;также обжариваем на&nbsp;оливковом масле до&nbsp;мягкости.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-4efde997e8/5523f1130f511.jpg",
       },
       {
         description:
           "    Отварной картофель и&nbsp;яйца натираем на&nbsp;крупной терке, добавляем майонез и&nbsp;по отдельности перемешиваем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-ceab63f378/5523f146dc74a.jpg",
       },
       {
         description: "    Отварное мясо нарезаем кубиками.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-62cd3ae765/5523f1590bdd4.jpg",
       },
       {
         description:
           "    Салат будем выкладывать слоями. Первый слой&nbsp;—  картофель, второй&nbsp;—  грибы.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-3d947f2e48/5523f1709dde6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/potatoes_with_mushrooms.jpg`,
       },
       {
         description:
           "    Третий слой&nbsp;—  морковь. Четвертый&nbsp;—  мясо. Промазываем майонезом.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-90c7ba7f65/5523f1aa98d0a.jpg",
       },
       {
         description: "    Следующий слой&nbsp;—  яйца, затем тертый сыр.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-d1f4bb3354/5523f1be0e0e4.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_grated_cheese_on_top.jpg`,
       },
       { description: "    Украшаем по&nbsp;вкусу! " },
     ],
@@ -329,8 +300,7 @@ export const meatSalads = [
   },
   {
     title: "Салат из утки с овощами и соусом наршараб",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-68e918eca4/big544035651389e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/duck_salad_with_vegetables_and_narsharab_sauce.jpg`,
     ingridients: [
       "утиное филе с&nbsp;кожей&nbsp;—  4&nbsp;шт.",
       " небольшая розетка брокколи (около 250&nbsp;г)",
@@ -361,19 +331,13 @@ export const meatSalads = [
       {
         description:
           "Чеснок трем на&nbsp;мелкую терку и&nbsp;смешиваем с&nbsp;остальными ингредиентами для&nbsp;марианада.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-28ea489bc9/big544035677fefd.jpg",
       },
       {
         description:
           "Кожу на&nbsp;утином филе надрезаем по&nbsp;диагонали в&nbsp;нескольких местах. Кладем филе в&nbsp;маринад и&nbsp;оставляем мариноваться на&nbsp;30-60 минут (можно оставить в&nbsp;холодильнике на&nbsp;ночь).",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-4e019c6576/big5440356856ebe.jpg",
       },
       {
         description: "Брокколи разрезаем на небольшие соцветия.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-cd5d490d7f/big54403568ed4fd.jpg",
       },
       {
         description:
@@ -382,8 +346,6 @@ export const meatSalads = [
       {
         description:
           "Перец нарезаем соломкой, черри разрезаем на&nbsp;половинки или&nbsp;четвертинки в&nbsp;зависимости от&nbsp;размера.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-acffd12777/big5440356b284a6.jpg",
       },
       {
         description:
@@ -395,8 +357,6 @@ export const meatSalads = [
       {
         description:
           "Брокколи, перец и&nbsp;черри кладем в&nbsp;миску с&nbsp;салатной смесью, добавляем две&nbsp;трети заправки, соль по&nbsp;вкусу и&nbsp;перемешиваем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-db64fafd3a/big5440356bebd8f.jpg",
       },
       {
         description:
@@ -404,16 +364,13 @@ export const meatSalads = [
       },
       {
         description: "Подаем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-582bc71b72/big54403570416fc.jpg",
       },
     ],
     type: meatSaladsType,
   },
   {
     title: "Теплый салат с острой говядиной и сладким перцем",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-4c8c6905a8/big52961cb20aee0.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/warm_salad_with_spicy_beef_and_sweet_pepper.jpg`,
     ingridients: [
       "говяжья вырезка, нарезанная на&nbsp;тонкие ломтики&nbsp;—  400&nbsp;г",
       " чеснок&nbsp;—  2&nbsp;зубчика",
@@ -447,14 +404,10 @@ export const meatSalads = [
       {
         description:
           "Смешиваем в&nbsp;миске натертый чеснок, вустерский соус, специи, сахар, соль, масло и&nbsp;лаймовый сок. Кладем в&nbsp;эту смесь мясо, хорошо перемешиваем и&nbsp;даем постоять около 15-20 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-2c672f7799/big52961cc270fb5.jpg",
       },
       {
         description:
           "Тем временем готовим заправку. Для&nbsp;этого смешиваем в&nbsp;плошке все&nbsp;ингредиенты для&nbsp;нее и&nbsp;взбиваем вилкой до&nbsp;состояния эмульсии.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-89d8745c45/big52961cc331fe4.jpg",
       },
       {
         description: "Лук нарезаем на тонкие полукольца, перец режем соломкой.",
@@ -462,14 +415,10 @@ export const meatSalads = [
       {
         description:
           "В сковороде на&nbsp;среднем огне разогреваем 1&nbsp;ст.л. растительного масла. Кладем лук&nbsp;и жарим, помешивая, около 3-4 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-281de2f825/big52961cc5b49bc.jpg",
       },
       {
         description:
           "Добавляем перец и&nbsp;жарим, помешивая, до&nbsp;мягко хрустящего состояния, около 5-7 минут.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-95443816ac/big52961cc7d4d58.jpg",
       },
       { description: "Перекладываем овощи на тарелку." },
       {
@@ -478,8 +427,6 @@ export const meatSalads = [
       {
         description:
           "Увеличиваем огонь под&nbsp;сковородой до&nbsp;сильного и&nbsp;в несколько партий обжариваем вырезку, примерно по&nbsp;паре минут на&nbsp;партию.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-0d3fa6c92d/big52961cc8a47ee.jpg",
       },
       {
         description:
@@ -494,8 +441,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с курицей,вялеными томатами и жареным сыром",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-c41c474a8f/big5296041ac053d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_with_chicken_sundried_tomatoes_and_fried_cheese.jpg`,
     ingridients: [
       "крупное куриное филе (250-300 г)&nbsp;—  1&nbsp;шт.",
       " небольшой сладкий перец&nbsp;—  1&nbsp;шт.",
@@ -515,14 +461,12 @@ export const meatSalads = [
       {
         description:
           "Готовим заправку. Для&nbsp;этого смешиваем в&nbsp;миске все&nbsp;ингредиенты для&nbsp;нее и&nbsp;тщательно взбиваем вилкой до&nbsp;загустения.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-d7d7ee6f04/big52960437f398d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/make_salad_dressing.jpg`,
       },
       {
         description:
           "Томаты и лук нарезаем ломтиками, сладкий перец —  полосками средней ширины.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-aae39b62e1/big5296043b40275.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chop_red_onion_and_yellow_pepper.jpg`,
       },
       {
         description:
@@ -535,13 +479,11 @@ export const meatSalads = [
       {
         description:
           "Сыр жарим на&nbsp;сковороде-гриль по&nbsp;2&nbsp;минуты с&nbsp;каждой стороны. Перекладываем на&nbsp;доску.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-cc6703a4e9/big5296043cc5741.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fried_cheese.jpg`,
       },
       {
         description: "Салат кладем в миску с заправкой и перемешиваем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-359f5e2330/big5296043d40e2e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/lettuce1.jpg`,
       },
       {
         description:
@@ -552,8 +494,7 @@ export const meatSalads = [
   },
   {
     title: "Пикантный салат с курицей и виноградом",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-85ab383fe1/big541c2e133d8e2.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/spicy_salad_with_chicken_and_grapes.jpg`,
     ingridients: [
       " копченое куриное бедрышко&nbsp;—  1&nbsp;шт.",
       "белый виноград&nbsp;—  горсть",
@@ -588,8 +529,7 @@ export const meatSalads = [
   },
   {
     title: "Теплый салат из говядины и овощей",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-67ee1ba901/big5406e41c0466c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/warm_beef_and_vegetable_salad.jpg`,
     ingridients: [
       "филе говядины&nbsp;—  200&nbsp;г",
       "свежий шпинат&nbsp;—  150&nbsp;г",
@@ -629,8 +569,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с ростбифом и припущенными томатами черри",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-908f212a29/big5357849fc53cf.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_with_roast_beef_and_stewed_cherry_tomatoes.jpg`,
     ingridients: [
       "говяжий толстый край (он же&nbsp;длиннейшая мышца)&nbsp;—  500&nbsp;г",
       " соль и&nbsp;перец&nbsp;—  по&nbsp;вкусу",
@@ -660,34 +599,24 @@ export const meatSalads = [
       {
         description:
           "Редис и огурец трем на корейскую терку или нарезаем тонкой соломкой.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-99775e7bec/big535784a168384.jpg",
       },
       {
         description:
           "Для заправки кладем все&nbsp;ингредиенты в&nbsp;миску и&nbsp;взбиваем вилкой до&nbsp;получения эмульсии.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-a95fb21836/big535784a201ecc.jpg",
       },
       {
         description:
           "Кладем в миску салат и перемешиваем так, чтобы заправка покрыла каждый листик.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-fdd6aea5ce/big535784a2723ac.jpg",
       },
       {
         description:
           "Помидоры разрезаем на&nbsp;половинки (или четвертинки, если они&nbsp;покрупнее). В&nbsp;сковороде на&nbsp;среднем огне разогреваем 1&nbsp;ст.л. оливкового масла. Кладем томаты и&nbsp;жарим, постоянно помешивая, 1&nbsp;минуту. Добавляем натертый чеснок и&nbsp;мелко нарубленный базилик и&nbsp;жарим еще&nbsp;полминуты.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-f82313cedf/big535784a30075e.jpg",
       },
       {
         description: "Снимаем со сковороды.",
       },
       {
         description: "Ростбиф нарезаем на тонкие ломтики.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-1ecc1bd895/big535784a3f2675.jpg",
       },
       {
         description:
@@ -698,8 +627,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с уткой и печеным сладким перцем",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-2c90fc52e2/big534709d8dda6e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_with_duck_and_baked_sweet_pepper.jpg`,
     ingridients: [
       "филе утиной грудки&nbsp;—  2&nbsp;шт. (около 230&nbsp;г каждое)",
       " крупный сладкий перец&nbsp;—  1&nbsp;шт.",
@@ -721,20 +649,17 @@ export const meatSalads = [
       {
         description:
           "Перец кладем на&nbsp;противень и&nbsp;отправляем в&nbsp;разогретую до&nbsp;200&nbsp;градусов духовку. Запекаем до&nbsp;мягкости и&nbsp;черных подпалин, около 40&nbsp;минут. Затем вынимаем, кладем в&nbsp;контейнер, закрываем крышкой. Даем постоять 10&nbsp;минут, после чего очищаем от&nbsp;кожицы и&nbsp;семян. Нарезаем на&nbsp;полоски, приправляем сушеным чесноком (можно использовать и&nbsp;свежий), солью, перцем и&nbsp;лимонным соком. Перемешиваем и&nbsp;отставляем в&nbsp;сторону.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-32d55406a6/big534709da95dfe.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/roasted_red_pepper.jpg`,
       },
       {
         description:
           "На кофе утиного филе делаем неглубокие надрезы ножом&nbsp;—  это&nbsp;нужно для&nbsp;того, чтобы при&nbsp;обжаривании из&nbsp;кожи вытопился лишний жир. Солим и&nbsp;перчим.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-d7c0a1c851/big534709db10d3d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/duck_breast.jpg`,
       },
       {
         description:
           "Жарим на&nbsp;сильном огне до&nbsp;золотистой корочки с&nbsp;обеих сторон, примерно по&nbsp;3&nbsp;минуты на&nbsp;сторону.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-56073bb097/big534709dba502d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_duck_breast.jpg`,
       },
       {
         description:
@@ -743,14 +668,11 @@ export const meatSalads = [
       {
         description:
           "Готовим заправку. Для&nbsp;этого кладем все&nbsp;ингредиенты с&nbsp;миску и&nbsp;взбиваем вилкой до&nbsp;получения эмульсии.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-85ffc2a2cd/big534709dc362bd.jpg",
       },
       {
         description:
           "Половину заправки отливаем и&nbsp;убираем. В&nbsp;миску к&nbsp;оставшейся заправке кладем салатный микс и&nbsp;перемешиваем, чтобы заправка покрыла каждый листик.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-29f7170527/big534709dcca202.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_lettuce.jpg`,
       },
       {
         description: "Утку нарезаем на тонкие ломтики. Сыр крупно крошим.",
@@ -764,8 +686,7 @@ export const meatSalads = [
   },
   {
     title: "Салат из курицы с цуккини и помидорами",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-88ed2804f8/big5296fe806a905.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_salad_with_zucchini_and_tomatoes.jpg`,
     ingridients: [
       "отварные куриные филе&nbsp;—  2&nbsp;шт.",
       " цуккини&nbsp;—  1&nbsp;шт. (около 250&nbsp;г)",
@@ -779,14 +700,12 @@ export const meatSalads = [
       {
         description:
           "Кабачок разрезаем пополам вдоль, затем нарезаем ломтиками толщиной около 3 мм.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-79220b206a/big5296fe83593ad.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_zucchini.jpg`,
       },
       {
         description:
           "В сковороде на&nbsp;среднем огне разогреваем 2&nbsp;ст.л. растительного масла. Кладем кабачки и&nbsp;жарим, помешивая, до&nbsp;мягко хрустящего состояния, около 5-7 минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-ab55c9dc59/big5296fe860e85a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_zucchini1.jpg`,
       },
       {
         description:
@@ -794,8 +713,7 @@ export const meatSalads = [
       },
       {
         description: "Помидоры режем дольками.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-2926e8f154/big5296fe887703e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_tomatoes1.jpg`,
       },
       {
         description:
@@ -809,8 +727,7 @@ export const meatSalads = [
   },
   {
     title: "Салат из рукколы с уткой и грушей",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-f5691ca9b7/big529717c19029a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/arugula_salad_with_duck_and_pear.jpg`,
     ingridients: [
       "утиное филе с&nbsp;кожей&nbsp;—  4&nbsp;шт.",
       " средняя груша&nbsp;—  1&nbsp;шт.",
@@ -837,15 +754,11 @@ export const meatSalads = [
       {
         description:
           "На коже утиного филе делаем по&nbsp;несколько неглубоких надрезов острым ножом. Солим и&nbsp;перчим. Жарим на&nbsp;среднем огне с&nbsp;обеих сторон примерно по&nbsp;5&nbsp;минут. Перекладываем на&nbsp;тарелку.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-6d0e6f7430/big529717cce751e.jpg",
       },
       { description: "Накрываем фольгой и даем отдохнуть." },
       {
         description:
           "Тем временем готовим заправку. Для&nbsp;этого смешиваем все&nbsp;ингредиента в&nbsp;плошке и&nbsp;взбиваем вилкой до&nbsp;состояния эмульсии.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-8152395a9a/big529717cf97f92.jpg",
       },
       {
         description:
@@ -866,8 +779,7 @@ export const meatSalads = [
   },
   {
     title: "Азиатский салат с острой говядиной",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-f3ff24ac60/big529624a1a7ab5.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/asian_salad_with_spicy_beef.jpg`,
     ingridients: [
       "говяжья вырезка&nbsp;—  250&nbsp;г",
       " огурцы&nbsp;—  2-3 шт.",
@@ -886,8 +798,6 @@ export const meatSalads = [
       {
         description:
           "Готовим соус. Да&nbsp;этого смешиваем мелко нарубленный перчик, натертый чеснок, сахар, воду и&nbsp;соусы.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-198dc3cf90/big529624a7bab60.jpg",
       },
       {
         description:
@@ -896,16 +806,12 @@ export const meatSalads = [
       {
         description:
           "На сильном огне разогреваем сковороду с&nbsp;1&nbsp;ст.л. растительного масла. Кладем мясо и&nbsp;жарим, помешивая, 1&nbsp;минуту. Добавляем соус и&nbsp;готовим еще&nbsp;1-2 минуты, пока жидкость не&nbsp;загустеет.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-9f8942d044/big529624aa91b25.jpg",
       },
       {
         description: "Выключаем огонь.",
       },
       {
         description: "Салат рвем руками и кладем в салатник.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-a0e92c65f2/big529624ac4065c.jpg",
       },
       {
         description:
@@ -919,8 +825,7 @@ export const meatSalads = [
   },
   {
     title: "Салат со стейком и медово-бальзамической заправкой",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-53db780cd9/big529622ad01688.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_with_steak_and_honey_balsamic_dressing.jpg`,
     ingridients: [
       "говяжий стейк из&nbsp;толстого края или&nbsp;вырезки&nbsp;—  1&nbsp;шт. (около 300-350 г)",
       " огурец&nbsp;—  1&nbsp;шт.",
@@ -939,20 +844,14 @@ export const meatSalads = [
       {
         description:
           "Для заправки смешиваем в&nbsp;плошке все&nbsp;ингредиенты и&nbsp;взбиваем вилкой до&nbsp;состояния эмульсии (как вариант, наливаем в&nbsp;небольшую баночку, закрываем крышкой и&nbsp;энергично трясем до&nbsp;получения все&nbsp;той же&nbsp;эмульсии).",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-218507c1bd/big529622bbd4974.jpg",
       },
       {
         description:
           "Салат рвем руками, огурцы нарезаем ломтиками, кладем в салатник.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-41175c1c87/big529622d307060.jpg",
       },
       {
         description:
           "Помидорки разрезаем на 2-4 части, в зависимости от размера.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-d47db3fa7c/big529622d56216e.jpg",
       },
       {
         description: "Кладем в салатник.",
@@ -970,8 +869,7 @@ export const meatSalads = [
   },
   {
     title: "Салат из курицы и помидоров",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d6adbddd92/big5296f5b8535ee.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_and_tomato_salad.jpg`,
     ingridients: [
       "помидоры&nbsp;—  4&nbsp;шт.",
       " сельдерей&nbsp;—  1&nbsp;стебель",
@@ -989,24 +887,20 @@ export const meatSalads = [
       },
       {
         description: "Пока варится курица, мелко рубим лук и сельдерей.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-b603f64167/big5296f5bae59c7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_red_onion_and_celery.jpg`,
       },
       {
         description: "Шинкуем салат.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-a478517cb1/big5296f5c9735a2.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_lettuce.jpg`,
       },
       {
         description:
           "Каждый помидор разрезаем на 8 долек, немного не дорезая до конца.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-468d989ef4/big5296f5ca89532.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/slice_the_tomato.jpg`,
       },
       {
         description: "Остывшее филе нарезаем кубиками.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-c62f615732/big5296f5d5b871e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_chicken_fillet1.jpg`,
       },
       {
         description:
@@ -1021,8 +915,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с курицей,ананасом и арахисовой заправкой",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-40e1810113/big52970d20b312b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_with_chicken_pineapple_and_peanut_dressing.jpg`,
     ingridients: [
       "куриное филе&nbsp;—  350&nbsp;г",
       " картофель&nbsp;—  400&nbsp;г",
@@ -1051,24 +944,16 @@ export const meatSalads = [
       },
       {
         description: "Ананас нарезаем на небольшие кусочки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-c89b99daeb/big52970d275d22d.jpg",
       },
       {
         description: "Огурец режем соломкой, морковь трем на крупную терку.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-8985d4db97/big52970d344b11d.jpg",
       },
       {
         description: "Остывшее филе нарезаем на небольшие кусочки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-371a5a45f4/big52970d38b0a1e.jpg",
       },
       {
         description:
           "Для заправки кладем в&nbsp;миску арахисовое масло, имбирь, мелко нарубленный чили, соевый соус и&nbsp;кунжутное и&nbsp;растительное масло. Выдавливаем сок&nbsp;из лайма. Перемешиваем до&nbsp;однородности.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-7bd52f5998/big52970d3b633d7.jpg",
       },
       {
         description:
@@ -1079,8 +964,7 @@ export const meatSalads = [
   },
   {
     title: "Салат из индейки в ананасе",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-44e93693ed/big5297089c610aa.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/turkey_salad_with_pineapple.jpg`,
     ingridients: [
       "цветная капуста&nbsp;—  300&nbsp;г",
       " зеленый лук&nbsp;—  10&nbsp;перьев",
@@ -1096,8 +980,6 @@ export const meatSalads = [
       {
         description:
           "Аккуратно вырезаем мякоть, чтобы из&nbsp;половинок ананаса получились чаши. Мякоть нарезаем на&nbsp;небольшие кусочки.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-abcb2b6105/big529708a5eafbc.jpg",
       },
       {
         description: "Сок и мелкую мякоть сохраняем.",
@@ -1112,14 +994,10 @@ export const meatSalads = [
       {
         description:
           "На огне чуть сильнее среднего разогреваем вок&nbsp;с 1&nbsp;ст.л. растительного масла. Кладем цветную капусту и&nbsp;жарим, помешивая, около 3&nbsp;минут, до&nbsp;мягко хрустящего состояния.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-a042d71a34/big529708a6a46cd.jpg",
       },
       {
         description:
           "Добавляем лук и сладкий перец, жарим, помешивая, еще 1 минуту.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-1ba92600df/big529708a90250d.jpg",
       },
       {
         description: "Убираем овощи из вока в салатник.",
@@ -1127,8 +1005,6 @@ export const meatSalads = [
       {
         description:
           "Кладем в&nbsp;вок филе индейки и&nbsp;жарим, помешивая, около 4&nbsp;минут, пока кусочки филе не&nbsp;перестанут быть розовыми внутри.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-5606852afd/big529708ab2ad7e.jpg",
       },
       {
         description: "Перекладываем в салатник.",
@@ -1136,8 +1012,6 @@ export const meatSalads = [
       {
         description:
           "Добавляем в салатник ананас, солим и перчим по вкусу и перемешиваем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-4865e23b7f/big529708b2c811e.jpg",
       },
       {
         description: "Выкладываем салат в половинки ананаса.",
@@ -1151,8 +1025,7 @@ export const meatSalads = [
   },
   {
     title: "Куриный салат",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-278130849b/big528256d8a7c65.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_salad.jpg`,
     ingridients: [
       "китайский салат (китайская капуста)&nbsp;—  300&nbsp;г",
       "перец сладкий красный (паприка)&nbsp;—  1&nbsp;шт.",
@@ -1194,8 +1067,7 @@ export const meatSalads = [
   },
   {
     title: "Салат 'Итальянский'",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-45520463e0/big527cf9294d59e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_italian.jpg`,
     ingridients: [
       "куриная грудка копченая 	—  200&nbsp;г",
       "лук репчатый&nbsp;—  1&nbsp;шт.",
@@ -1237,8 +1109,7 @@ export const meatSalads = [
   },
   {
     title: "Куриный салат с грибами",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-7e5974e3cb/big5257f2019a753.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_salad_with_mushrooms.jpg`,
     ingridients: [
       "куриное филе (отварное)&nbsp;—  200&nbsp;г",
       "ветчина&nbsp;—  70&nbsp;г",
@@ -1293,8 +1164,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с копченой курицей,черносливом и авокадо",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-4fb9a9b988/big524998ca38cd2.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_with_smoked_chicken_prunes_and_avocado.jpg`,
     ingridients: [
       "копченая курица (у меня грудка)&nbsp;—  350&nbsp;г",
       "чернослив&nbsp;—  100&nbsp;г",
@@ -1338,8 +1208,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с курицей и манго",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-72a991cc36/big51a7007ed6386.JPG",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_and_mango_salad.jpeg`,
     ingridients: [
       "Куриная грудка 	500&nbsp;г&nbsp;	",
       "Соль 	1&nbsp;ч.л.",
@@ -1355,46 +1224,39 @@ export const meatSalads = [
       {
         description:
           "Помойте куриную грудку, обмакните салфеткой, чтобы удалить лишнюю влагу. Поперчите, посолите, щедро посыпьте сушеными травками: орегано, базиликом, прованскими, итальянскими травами, можно выбрать то, что&nbsp;больше по&nbsp;вкусу. Запекать, завернув в&nbsp;фольгу, 30&nbsp;—  40&nbsp;минут при&nbsp;220&nbsp;градусах. Следите, чтобы фольга не&nbsp;порвалась, лучше завернуть в&nbsp;пару слоев, бульон, который получится при&nbsp;запекании, нам&nbsp;еще пригодится.						 										  					 				  						 ",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-6bd675ec7d/big51a7007f656d7.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pepper_the_chicken_breast.jpeg`,
       },
       {
         description:
           "&nbsp;Очистите манго от&nbsp;кожуры, нарежьте небольшими дольками.						 										  					 				  						 ",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-d84c8736d3/big51a7008007306.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/slice_the_mango.jpeg`,
       },
       {
         description:
           "Стебли сельдерея нарежьте тонкими полосками, можно воспользоваться приспособлением для&nbsp;чистки овощей, чтобы получить действительно тонкие полоски. Это&nbsp;важно. Сельдерей не&nbsp;должен сильно хрустеть. Часть зелени нарезать, часть оставить для&nbsp;украшения при&nbsp;подаче.						 										  					 				  						 ",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-500e6a6065/big51a7008081fe1.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_celery.jpeg`,
       },
       {
         description:
           "Для соуса необходимо смешать майонез с&nbsp;лимонным соком и&nbsp;бульоном из-под курицы и&nbsp;куркумой. Если майонез слишком жидкий, бульона нужно взять меньшее количество.						 										  					 				  						 ",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-cef0163db3/big51a700845aaf6.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_turmeric.jpeg`,
       },
       {
         description:
           "				 					 																					 																 							Куриные грудки режем небольшими продолговатыми кусочками.						 										  					 				  						 ",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-61436c4142/big51a70085178bc.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_cooked_chicken_breast.jpeg`,
       },
       {
         description:
           "Курицу, манго, сельдерей и&nbsp;соус смешиваем, чтобы все&nbsp;равномерно распределилось. Добавляем кедровые орешки.  Это&nbsp;опционно, т.е., можно обойтись и&nbsp;без них. Готово!						 										  					 				  					 						 		",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-f80cf7aa61/big51a70085aa84d.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pour_the_sauce_over_the_breast.jpeg`,
       },
     ],
     type: meatSaladsType,
   },
   {
     title: "Салат с курицей-гриль",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-52f0debd86/big5203ae314d919.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/grilled_chicken_salad.jpg`,
     ingridients: [
       "салат листовой&nbsp;—  1-2 головки",
       "красный перец&nbsp;—  1&nbsp;шт.",
@@ -1420,46 +1282,36 @@ export const meatSalads = [
       {
         description:
           "Нагрейте духовку до&nbsp;180&nbsp;градусов. Мелко нарежьте чеснок. ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-c5fe351a80/5203ad9c1103d.jpg",
       },
       {
         description:
           "Чеснок смешайте с&nbsp;чили перцем, солью и&nbsp;черным перцем. Добавьте оливковое масло и&nbsp;столовую ложку воды. Смешайте до&nbsp;однородной массы. 						 										  					 				  						 ",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-6a52d95f46/5203adae2cad1.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_olive_oil_with_garlic_and_chili_pepper.jpg`,
       },
       {
         description: "Обваляйте грудки в&nbsp;маринаде с&nbsp;обеих сторон. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-4ef5416366/5203adc0e34af.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chicken_breast_in_marinade.jpg`,
       },
       {
         description:
           "Оставьте на&nbsp;15-20 минут. Обжарьте на&nbsp;гриле с&nbsp;обеих сторон (10&nbsp;минут).",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-5b320b1fcf/5203adcaa6351.jpg",
       },
       {
         description: "Вымойте овощи. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-01aaef3cf6/5203ae04c4f50.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/washed_vegetables.jpg`,
       },
       {
         description:
           "Кукурузу снимите с&nbsp;початка. Мелко нарежьте лук. Смешайте все&nbsp;овощи. ",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-fb7fe61633/5203ae1603a4e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_vegetables_in_a_bowl.jpg`,
       },
       {
         description: "Выложите натертый сыр. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-4ebba4a920/5203add803568.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_grated_cheese1.jpg`,
       },
       {
         description: "Нарежьте грудки.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-76dbb28d7b/5203adeb00acf.jpg",
+        image: `${process.env.PUBLIC_URL}/images/meat_salads/grilled_chicken_salad.jpg`,
       },
       {
         description:
@@ -1470,8 +1322,7 @@ export const meatSalads = [
   },
   {
     title: "Салат из мяса на гриле",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-1595c17f47/big51ff90f598c38.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/grilled_meat_salad.jpg`,
     ingridients: [
       "майонез или&nbsp;йогуртовый соус&nbsp;—  350&nbsp;г",
       "домашняя аджика&nbsp;—  300&nbsp;г",
@@ -1490,82 +1341,63 @@ export const meatSalads = [
       {
         description:
           "Сначала готовим маринад для&nbsp;мяса. Налейте в&nbsp;емкость оливковое масло.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-b7fee33003/51ff8fe1380ad.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pour_olive_oil.jpg`,
       },
       {
         description: "Добавьте Вустерский соус.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-b709a8d47f/51ff8ff014028.jpg",
       },
       {
         description: "Теперь кладем 3-4 столовых ложки аджики.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-ae746dadb8/51ff900bb6f0f.jpg",
       },
       {
         description: "Приправляем тмином.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-78d3521997/51ff901a637bd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_cumin.jpg`,
       },
       {
         description: "Теперь черед орегано.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-ea41e1ca48/51ff90311d493.jpg",
       },
       { description: "Теперь добавляем ложку меда." },
       {
         description:
           "Натрите мясо приготовленным маринадом, уберите его&nbsp;в контейнер и&nbsp;положите в&nbsp;холодильник на&nbsp;2&nbsp;часа.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-972db50887/51ff9062986ea.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pour_marinade_on_meat.jpg`,
       },
       {
         description:
           "Пока мясо маринуется, готовим заправку для&nbsp;салата. Смешайте в&nbsp;блендере майонез и&nbsp;остатки аджики. Количество аджики зависит от&nbsp;ваших кулинарных предпочтений&nbsp;—  поострее или&nbsp;умеренно.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-7b058c95c3/51ff90756c7a6.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_mayonnaise_with_adjika.jpg`,
       },
       {
         description: "Поджарьте мясо на&nbsp;гриле.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-25f7832894/51ff90878c4fe.jpg",
       },
       {
         description:
           "Снимите мясо с&nbsp;огня и&nbsp;дайте ему&nbsp;отдохнуть 10&nbsp;минут.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-1c8ed3519c/51ff90956d897.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fried_piece_of_meat.jpg`,
       },
       {
         description:
           "Пока мясо остывает, нарежьте помидоры, огурцы и&nbsp;лук.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c5574ce7c7/51ff90a99514a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_tomatoes_cucumbers_and_red_onions.jpg`,
       },
       {
         description: "Режем мясо на&nbsp;тонкие кусочки.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-9b418551e3/51ff90ba941a8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_fried_meat.jpg`,
       },
       {
         description: "Режем салатные листья, добавляем мясо.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-bb8864dac2/51ff90d1922b1.jpg",
       },
       {
         description:
           "Кладем овощи, которые мы&nbsp;порезали заранее, и&nbsp;заправляем смесью майонеза и&nbsp;аджики. Перемешиваем и&nbsp;подаем на&nbsp;стол.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-394ebc9f4f/51ff90e5bd8da.jpg",
+        image: `${process.env.PUBLIC_URL}/images/meat_salads/grilled_meat_salad.jpg`,
       },
     ],
     type: meatSaladsType,
   },
   {
     title: "Салат с нежной говядиной",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-ba745a4d05/big51a5ca75e1f03.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_with_tender_beef.jpg`,
     ingridients: [
       "Говяжья вырезка 	400&nbsp;г&nbsp;",
       "	Вустерский соус 	80&nbsp;мл",
@@ -1587,55 +1419,38 @@ export const meatSalads = [
     cooking: [
       {
         description: "Нарежьте говядину на&nbsp;тонкие кусочки.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-31aa8bb68c/big51a5ca768e710.jpg",
       },
       {
         description:
           "Налейте на&nbsp;сковороду небольшое количество оливкового масла.   Обжарьте говядину на&nbsp;сильном огне по&nbsp;1&nbsp;минуте с&nbsp;каждой стороны.  Затем добавьте Вустерский соус и&nbsp;готовьте ещё&nbsp;1&nbsp;минуту.   Перемешайте говядину и&nbsp;добавьте в&nbsp;сковороду или&nbsp;карамель или&nbsp;шоколадный соус						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-379a6017a4/big51a5ca772b910.jpg",
       },
       {
         description:
           "				 					 																										 							Тщательно перемешайте все&nbsp;ингредиенты и&nbsp;через 1-2 минуты снимайте мясо с&nbsp;огня.	",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-ce27a358bb/big51a5ca77afe3d.jpg",
       },
       {
         description:
           "Разотрите мёд&nbsp;с листиками мяты. Затем добавьте соевый соус,лаймовый сок,лимонный сок,имбирь,чеснок,уксус,горччицу,оливковое масло и&nbsp;размешайте соус.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-a7ad1fa902/big51a5ca78506e5.jpg",
       },
       {
         description:
           "Нарвите листья салата.  Нарежьте перец соломкой.  Разрежьте помидоры черри на&nbsp;2&nbsp;или&nbsp;4&nbsp;части.  Заправьте овощи приготовленным соусом.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-d07e08adc5/big51a5ca791bb1e.jpg",
       },
       {
         description: "				 					 																					 																 							Перемешайте овощи.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-2fd5f99fc7/big51a5ca79d34a1.jpg",
       },
       {
         description: "				 					 																					 																 							Выложите овощи на&nbsp;плоскую тарелку.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-993cae9605/big51a5ca7a996dc.jpg",
       },
       {
         description: "				 					 																					 																 							Сверху разложите кусочки говядины.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-d7644e055a/big51a5ca7b583e5.jpg",
       },
     ],
     type: meatSaladsType,
   },
   {
     title: "Салат с говядиной",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-302342d128/big51e930708d95d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/beef_salad.jpg`,
     ingridients: [
       "Говяжья вырезка 	300&nbsp;г&nbsp;	",
       "Соль 	½ ч.л.",
@@ -1659,46 +1474,33 @@ export const meatSalads = [
       {
         description:
           "Прежде всего сварите яйца вкрутую, пока они&nbsp;варятся, займитесь мясом.  Для&nbsp;этого салата нужна хорошая постная говядина, пригодная для&nbsp;кратковременной тепловой обработки: вырезка или&nbsp;филейный край.   Кусок говядины комнатной температуры посолите, поперчите и&nbsp;целиком положите на&nbsp;сильно разогретую сковороду без&nbsp;масла и&nbsp;обжаривайте со&nbsp;всех сторон до&nbsp;образования румяной корочки (по 1-2 минуты с&nbsp;каждой стороны). Затем накройте фольгой и&nbsp;поставьте в&nbsp;теплое место на&nbsp;10&nbsp;минут, чтобы мясо равномерно прогрелось.   Мясо должно остаться розовым и&nbsp;сочным в&nbsp;разрезе.  Точное время приготовления зависит от&nbsp;толщины куска, его&nbsp;исходной температуры и&nbsp;силы нагрева, поэтому ориентируйтесь на&nbsp;внешний вид&nbsp;и мягкость мяса при&nbsp;нажатии.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-061dd13662/big51a60f47e0f65.jpg",
       },
       {
         description:
           "Репчатый лук&nbsp;тонко нарежьте и&nbsp;залейте 200&nbsp;мл воды, смешанной с&nbsp;тремя столовыми ложками уксуса минут на&nbsp;10-15. Лук&nbsp;слегка замаринуется и&nbsp;из него уйдет ненужная резкость.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-9013ed25b5/big51a60f4964b19.jpg",
       },
       {
         description:
           "Вымытую и&nbsp;высушенную рукколу разложите на&nbsp;тарелках, сверху положите яйцо, разрезанное вдоль на&nbsp;4&nbsp;части.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-4350b72065/big51a60f4a1c2f0.jpg",
       },
       {
         description:
           "				 					 																					 																 							Готовую говядину нарежьте поперек волокон тонкими ломтиками.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-57070ceea3/big51a60f4b01544.jpg",
       },
       {
         description:
           "На рукколу положите ломтики говядины и&nbsp;подмаринованный лук, предварительно дав&nbsp;хорошо стечь маринаду. Добавьте разрезанные пополам черри и&nbsp;украсьте маслинами.						 										  					 				  						 ",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-ca68a881c6/big51a60f4bb0609.jpg",
       },
       {
         description:
           "Для заправки  все&nbsp;ингредиенты смешайте вилкой до&nbsp;однородности и&nbsp;полейте ею&nbsp;салат.						 										  					 				  					 						 		",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-5f02242dd6/big51a60f566c435.jpg",
       },
     ],
     type: meatSaladsType,
   },
   {
     title: "Салат 'Тбилиси'",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-64cfe9a423/big519cb86c120ca.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_tbilisi.jpg`,
     ingridients: [
       "красная фасоль&nbsp;—  1&nbsp;банка",
       "отварная говядина&nbsp;—  200-250 г",
@@ -1716,26 +1518,22 @@ export const meatSalads = [
       {
         description:
           "Лук режем тонкими полукольцами. Если лук&nbsp;'домашний'&nbsp;—  сочный и&nbsp;острый, то&nbsp;лучше его&nbsp;порезать и&nbsp;опустить на&nbsp;2&nbsp;минуты в&nbsp;горячую воду, иначе вкус лука забьет все&nbsp;остальное в&nbsp;салате.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-863cea0f60/519cb7a72ab16.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_red_onion2.jpg`,
       },
       {
         description:
           "Из болгарского перца удаляем семена и&nbsp;режем соломкой.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e59cbf6177/519cb7b6b48f2.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_bell_pepper.jpg`,
       },
       {
         description:
           "Мясо режем кубиками. Из&nbsp;острого перца также аккуратно удаляем семена и&nbsp;мелко-мелко рубим. Чеснок можно порубить или&nbsp;пропустить через пресс.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-d8ce12fb30/519cb7dec2281.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_boiled_beef.jpg`,
       },
       {
         description:
           "Из банки фасоли сливаем воду и&nbsp;промываем ее. Добавляем лук, говядину, перцы, чеснок, порезанную кинзу, обжаренные и&nbsp;мелко порубленные грецкие орехи.",
-        image:
-          "https://proxy12.online.ua/retsepty/r3-e61f907de6/519cb7fc29005.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/onion_pepper_and_beef.jpg`,
       },
       {
         description:
@@ -1744,21 +1542,17 @@ export const meatSalads = [
       {
         description:
           "Заправку делаем из&nbsp;4-5 столовых ложек оливкового масла и&nbsp;1&nbsp;столовой ложки винного уксуса.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-71ef20bd4d/519cb80f44a99.jpg",
       },
       {
         description: "Заправляем. Перемешиваем.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-1d7eacd95d/519cb8328c73d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_tbilisi_salad.jpg`,
       },
     ],
     type: meatSaladsType,
   },
   {
     title: "Куриный салат с помидорами",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-2475466ca9/big5194ac6963c2e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_salad_with_tomatoes.jpg`,
     ingridients: [
       "куриные грудки&nbsp;—  2&nbsp;шт.",
       "помидоры, очищенные от&nbsp;кожуры&nbsp;—  2&nbsp;шт.",
@@ -1776,33 +1570,26 @@ export const meatSalads = [
     cooking: [
       {
         description: "Режем куриную грудку полосочками.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-3b9fbb549a/5194abd1705d9.jpg",
       },
       {
         description:
           "Нарезаем лук, сельдерей, помидоры и&nbsp;оливки. Перемалываем орехи.",
-        image:
-          "https://proxy12.online.ua/retsepty/r2-d905e84eeb/5194abebb1815.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_olives_tomatoes_and_celery.jpg`,
       },
       {
         description:
           "Делаем заправку: смешиваем уксус, масло, соль, перец, выдавливаем чеснок (по желанию).",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-e71a42cfe3/5194abffd3220.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_garlic_oil_and_vinegar.jpg`,
       },
       {
         description: "Заправляем салат заправкой, аккуратно перемешиваем.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-2f90385cc7/5194ac1771de0.jpg",
       },
     ],
     type: meatSaladsType,
   },
   {
     title: "Салат 'Весенний'",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-4e445aa547/big515427ea51ad0.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_spring.jpg`,
     ingridients: [
       "куриное филе&nbsp;—  300&nbsp;г",
       "огурцы&nbsp;—  150&nbsp;г",
@@ -1833,8 +1620,7 @@ export const meatSalads = [
   },
   {
     title: "Салат 'Ягодка'",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-98b3586ba7/big51223ddbe6523.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_berry.jpg`,
     ingridients: [
       "    картофель&nbsp;—  3-4 шт.",
       "    копченая курица&nbsp;—  200&nbsp;г",
@@ -1870,8 +1656,7 @@ export const meatSalads = [
   },
   {
     title: "Мясной салат в корзинках",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-10a65fb832/big50d36ff2efe04.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/meat_salad_in_baskets.jpg`,
     ingridients: [
       "отварное мясо (говядина)&nbsp;—  300&nbsp;г",
       "морковь&nbsp;—  2&nbsp;шт.",
@@ -1918,8 +1703,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с копченой курицей",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-d30bb8c743/big50b5f9c301bed.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/smoked_chicken_salad.jpg`,
     ingridients: [
       "копченая курица&nbsp;—  200&nbsp;г",
       "консервированная кукуруза&nbsp;—  2/3&nbsp;банки",
@@ -1947,8 +1731,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с курицей и грибами",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-beb37624f9/big509c0eefd3cd1.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_with_chicken_and_mushrooms.jpg`,
     ingridients: [
       "вареный картофель&nbsp;—  2&nbsp;шт.",
       "куриная грудка&nbsp;—  1/2&nbsp;шт.",
@@ -1986,8 +1769,7 @@ export const meatSalads = [
   },
   {
     title: "Куриный салат с фасолью",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-288361807e/big5076b0d73ef6d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_salad_with_beans.jpg`,
     ingridients: [
       "отварное куриное филе&nbsp;—  300&nbsp;г",
       "фасоль (отварная или&nbsp;консервированная)&nbsp;—  200&nbsp;г",
@@ -2014,8 +1796,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с курицей и виноградом",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-02b6c12f7b/big4feae03aa7cca.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_and_grape_salad.jpg`,
     ingridients: [
       "копченная курица&nbsp;—  1&nbsp;грудка",
       "орехи (пекан / грецкий)&nbsp;—  60&nbsp;г",
@@ -2054,8 +1835,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с курицей и авокадо",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-321da61e0f/big4fe1f80fe1037.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_and_avocado_salad.jpg`,
     ingridients: [
       "куриное филе&nbsp;—  300&nbsp;г",
       "авокадо&nbsp;—  1&nbsp;шт.",
@@ -2100,8 +1880,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с курицей и крабовыми палочками",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-ff6437ee1a/big4f2400fc81ab0.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_with_chicken_and_crab_sticks.jpg`,
     ingridients: [
       "Куриное филе 	300&nbsp;г&nbsp;	",
       "Перец сладкий желтый 	1&nbsp;шт.",
@@ -2117,55 +1896,46 @@ export const meatSalads = [
     cooking: [
       {
         description: "Подготавливаем ингредиенты					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-88a32a795d/big4f2400fd6e61b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chicken_fillet_crab_sticks_and_yellow_pepper.jpg`,
       },
       {
         description:
           "Куриное филе нарезается достаточно большими кусочками					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b25b3ba90b/big4f24010166912.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_chicken_fillet.jpeg`,
       },
       {
         description: "Болгарский перец нарезается соломкой					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-721a5a00fc/big4f240107e8b21.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/dice_the_peppers.jpeg`,
       },
       {
         description: "Обжариваем куриное филе в&nbsp;сливочном масле					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8fb6d2d9dc/big4f2401091b9e6.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_chicken_fillet_in_butter.jpeg`,
       },
       {
         description: "Нарезаем помидор тонкими полукругами					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-7b993a2789/big4f24010a2e2c2.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_a_tomato.jpeg`,
       },
       {
         description:
           "Палочки с&nbsp;мясом краба разбираем на&nbsp;'лапшу'.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-13ddcb465a/big4f24010af0439.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_crab_sticks.jpeg`,
       },
       {
         description:
           "Все нарезанные ингредиенты перемешиваются с&nbsp;куриным филе в&nbsp;отдельной посуде и&nbsp;заправляются майонезом, солью и&nbsp;перцем по&nbsp;вкусу.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-79f7f0cad2/big4f2401102ea8c.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_with_mayonnaise.jpeg`,
       },
       {
         description:
           "Салат выкладывается в&nbsp;блюдо и&nbsp;украшается листом салата и&nbsp;кусочком лимона					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-2c5c7c963c/big4f2401115153d.JPG",
+        image: `${process.env.PUBLIC_URL}/images/other_images/crab_salad_with_lettuce.jpeg`,
       },
     ],
     type: meatSaladsType,
   },
   {
     title: "Салат 'Новогодний'",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-b2ead1028f/big4f1093ded9985.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_new_year.jpg`,
     ingridients: [
       "куриное мясо&nbsp;—  300-400 г",
       "лук репчатый&nbsp;—  1&nbsp;шт.",
@@ -2190,8 +1960,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с куриным мясом",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-a3d538e91c/big4f0ca6e3b71a1.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_meat_salad.jpg`,
     ingridients: [
       " куриное филе&nbsp;—  200&nbsp;г",
       "отварной картофель&nbsp;—  50&nbsp;г ",
@@ -2224,8 +1993,7 @@ export const meatSalads = [
   },
   {
     title: "Куриный салат с виноградом",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-5ddb844bcf/big4eea6d549f81d.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_salad_with_grapes.jpg`,
     ingridients: [
       "яйца&nbsp;—  3&nbsp;шт.",
       "куриное филе&nbsp;—  300&nbsp;г",
@@ -2249,8 +2017,7 @@ export const meatSalads = [
   },
   {
     title: "Мясной салат с маслинами",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-68b94f6816/big4ee139018e644.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/meat_salad_with_olives.jpg`,
     ingridients: [
       "ветчина&nbsp;—  50&nbsp;г",
       "говядина отварная&nbsp;—  50&nbsp;г",
@@ -2284,8 +2051,7 @@ export const meatSalads = [
   },
   {
     title: "Салат 'Прага'",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-767d6db419/big4edfe1202e1e8.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_prague.jpg`,
     ingridients: [
       "курица&nbsp;—  300&nbsp;г",
       "огурцы соленые&nbsp;—  150&nbsp;г",
@@ -2334,8 +2100,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с копченой куриной грудкой",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-660c2013fd/big4ed3f3d6aed8c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_with_smoked_chicken_breast.jpg`,
     ingridients: [
       "копченая куриная грудка&nbsp;—  300&nbsp;г",
       "чернослив&nbsp;—  200&nbsp;г",
@@ -2390,8 +2155,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с куриной грудкой и яблоками",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d3/009/032/289/big4e6926ebf0a76.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_with_chicken_breast_and_apples.jpg`,
     ingridients: [
       "филе куриное&nbsp;—  2&nbsp;шт.",
       "    яблоко (кисло-сладкое)&nbsp;—  1&nbsp;шт.",
@@ -2412,8 +2176,7 @@ export const meatSalads = [
   },
   {
     title: "Салат 'Инь Янь'",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/003/125/160/big4d558cc69fdb6.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_yin_yang.jpg`,
     ingridients: [
       "—  куриное филе&nbsp;—  300&nbsp;г",
       "—  яйца&nbsp;—  3&nbsp;шт.",
@@ -2450,8 +2213,7 @@ export const meatSalads = [
   },
   {
     title: "Салат 'Сердце'",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/003/125/113/big4d558279d5a51.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_heart.jpg`,
     ingridients: [
       "—  куриная грудка (вареная)&nbsp;—  1&nbsp;шт.",
       "—  яблоки (кисло-сладкие)&nbsp;—  1-2 шт.",
@@ -2502,8 +2264,7 @@ export const meatSalads = [
   },
   {
     title: "Салат 'Морская звезда'",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/003/071/232/big4d52f9afa31f3.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_starfish.jpg`,
     ingridients: [
       "вареная куриная грудка&nbsp;—  250&nbsp;г ",
       "легкий майонез&nbsp;—  3&nbsp;ст. лож. ",
@@ -2524,8 +2285,7 @@ export const meatSalads = [
   },
   {
     title: "Салат 'Подсолнух'",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/002/249/165/big4d25bea1683a5.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_sunflower.jpg`,
     ingridients: [
       "—  филе куриное отварное, 2&nbsp;кусочка;",
       "—  яйца куриные вареные, 3&nbsp;шт;",
@@ -2575,8 +2335,7 @@ export const meatSalads = [
   },
   {
     title: "Салат 'Дубок'",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d1/006/163/158/big4ceec53ce18fe.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_oak.jpg`,
     ingridients: [
       "—  шампиньоны&nbsp;—  500&nbsp;г",
       "—  мясо отварное (или ветчина)&nbsp;—  300&nbsp;г",
@@ -2609,8 +2368,7 @@ export const meatSalads = [
   },
   {
     title: "Салат из языка",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/016/046/big4cac9f128e055.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/tongue_salad.jpg`,
     ingridients: [
       "—  язык говяжий или&nbsp;свиной (отварной)&nbsp;—  300-400 г&nbsp;",
       "—  маринованные огурцы&nbsp;—  3-4 шт. ",
@@ -2634,8 +2392,7 @@ export const meatSalads = [
   },
   {
     title: "Салат 'Арагонский'",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/003/277/big4ca0a070a9f7b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_aragonese.jpg`,
     ingridients: [
       "—  ветчина&nbsp;—  150&nbsp;г ",
       "—  яйца&nbsp;—  4&nbsp;шт. ",
@@ -2660,8 +2417,7 @@ export const meatSalads = [
       },
       {
         description: "4. Перец нарезать соломкой. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c4f56b61ed/4ca0a054cfa7f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_eggs_tomatoes_and_peppers.jpg`,
       },
       {
         description:
@@ -2679,8 +2435,7 @@ export const meatSalads = [
   },
   {
     title: "Салат из индейки,авокадо и яблока",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/210/057/big4ca0a0e64d13b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/turkey_avocado_and_apple_salad.jpg`,
     ingridients: [
       "—  филе индейки&nbsp;—  300&nbsp;г ",
       "—  листья салата ",
@@ -2731,8 +2486,7 @@ export const meatSalads = [
   },
   {
     title: "Ямайский куриный салат",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d1/005/240/199/big4caee75450d4e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/jamaican_chicken_salad.jpg`,
     ingridients: [
       "Куриная грудка 								400&nbsp;г&nbsp;															",
       "Растительное масло 								20&nbsp;мл&nbsp;															",
@@ -2751,57 +2505,48 @@ export const meatSalads = [
       {
         description:
           "Куриное филе или&nbsp;филе индейки нарежьте небольшими кусочками и&nbsp;обжарьте в&nbsp;растительном масле.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9f7919cc97/big4caee755b52fd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_chopped_chicken_fillet.jpg`,
       },
       {
         description:
           "Довольно крупные кусочки салата разложите на&nbsp;тарелке.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-45d72f62af/big4caee757da54f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/сhinese_cabbage.jpg`,
       },
       {
         description:
           "Груши очистите от&nbsp;семян и&nbsp;порежьте кусочками такого же&nbsp;размера, как&nbsp;филе. Выложите на&nbsp;листья салата сначала мясо, затем груши.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-432678fe65/big4caee759514bd.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pears_with_сhinese_cabbage.jpg`,
       },
       {
         description: "Куриную печень обжарьте в&nbsp;сливочном масле. 					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-f56dee10c4/big4caee75ab7655.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_chicken_liver_in_butter.jpg`,
       },
       {
         description:
           "			 				 													 													 						Не передерживайте, она&nbsp;готовится всего пару минут.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4cec3ef6ba/big4caee75c7160f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fried_chicken_liver.jpg`,
       },
       {
         description:
           "Обжаренную печень положите в&nbsp;блендер вместе с&nbsp;образовавшейся жидкостью, добавьте сметану, лимонный сок, горчицу, соль и&nbsp;перец.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-1e04c524e9/big4caee75dd3044.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chicken_liver_with_sour_cream.jpg`,
       },
       {
         description:
           "			 				 													 													 						Хорошенько измельчите, чтобы получился нежный кремовый соус.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-316c5d16e7/big4caee75f405bc.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_liver_with_sour_cream_in_a_blender.jpg`,
       },
       {
         description:
           "Соус выложите на&nbsp;салат. Сверху слегка присыпьте перцем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-cd23cf423a/big4caee7613295b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/meat_salads/jamaican_chicken_salad.jpg`,
       },
     ],
     type: meatSaladsType,
   },
   {
     title: "Салат 'Ташкент'",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/254/215/big4caee7267753e.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_tashkent.jpg`,
     ingridients: [
       "Говяжья вырезка 								250&nbsp;г&nbsp;															",
       "Яйцо куриное 								2&nbsp;шт. 															",
@@ -2817,40 +2562,34 @@ export const meatSalads = [
       {
         description:
           "Сначала надо сварить мясо. Одновременно можно поставить варить и&nbsp;яйца.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ac9e27a001/big4caee727b334d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beef_tenderloin.jpg`,
       },
       {
         description:
           "Пока мясо варится, редьку натираем на&nbsp;крупной терке и&nbsp;заливаем холодной водой на&nbsp;полчаса. Затем воду отжимаем, а&nbsp;редьку кладем в&nbsp;салатницу.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-73de46c294/big4caee728d2a7e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/grated_radish.jpg`,
       },
       {
         description:
           "Мясо режем мелкими кусочками. Можно порезать брусками, но&nbsp;у меня получилось вот&nbsp;так.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-6f30b7f45a/big4caee72a0147c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_boiled_beef1.jpg`,
       },
       {
         description:
           "Репчатый лук&nbsp;нужно слегка спассеровать на&nbsp;растительном масле.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-3ca62c39bf/big4caee72b1c800.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_onions_in_oil2.jpg`,
       },
       {
         description:
           "Теперь в&nbsp;салат надо добавить сваренные вкрутую и&nbsp;мелко нарезанные яйца и&nbsp;зелень, посолить и&nbsp;заправить сметаной.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-9451b9dff1/big4caee72c36172.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_dill_and_sour_cream.jpg`,
       },
     ],
     type: meatSaladsType,
   },
   {
     title: "Куриный салат с манго",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/022/066/big4caee65aa0474.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_salad_with_mango.jpg`,
     ingridients: [
       " Огурцы 200 г ",
       "Куриная грудка 250 г ",
@@ -2863,34 +2602,29 @@ export const meatSalads = [
       {
         description:
           "Ставим варить яйца и&nbsp;куриные грудки, а&nbsp;сами приступаем к&nbsp;очистке огурцов и&nbsp;манго. На&nbsp;фото фрукт в&nbsp;неочищенном виде, больно уж&nbsp;красивый :)&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-bf28a3becb/big4caee65c0ee8e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mango.jpg`,
       },
       {
         description:
           "Грудки нарезаем небольшими кусочками, добавляем кукурузу, предварительно слив жидкость.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5bb2e5aee4/big4caee65da0692.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/corn_with_boiled_chicken_breast.jpg`,
       },
       {
         description:
           "Манго режем кусочками как курицу, яйца измельчаем и добавляем в салат.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-d312c81384/big4caee65f15e23.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_eggs_and_mango.jpg`,
       },
       {
         description:
           "Очищенные огурцы режем вдоль на&nbsp;4&nbsp;части, затем режем кубиками. Солим, заправляем йогуртом и&nbsp;быстренько подаем, украсив помидорчиком черри. (В ингредиентах украшение не&nbsp;указываю, т.к. можно обойтись и&nbsp;без него). ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-801d87e56c/big4caee660b21f5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_cucumbers.jpg`,
       },
     ],
     type: meatSaladsType,
   },
   {
     title: "Куриный салат с авокадо и сладким перцем",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/254/172/big4caee63c34c5c.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_salad_with_avocado_and_sweet_pepper.jpg`,
     ingridients: [
       "Куриная грудка 250 г ",
       "Перец сладкий желтый 1 шт. ",
@@ -2908,40 +2642,34 @@ export const meatSalads = [
       {
         description:
           "Вареную или запеченную куриную грудку режем на небольшие кусочки.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-1ecee9db74/big4caee63d8fdeb.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_boiled_chicken_breast.jpg`,
       },
       {
         description:
           "Разноцветные сладкие перцы нарезаем брусочками, очистив от семян.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5ecfdf53b4/big4caee63ebb330.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_green_red_and_yellow_peppers.jpg`,
       },
       {
         description:
           "Из авокадо удаляем косточку, очищаем от кожицы и режем кубиками.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-15c56fc0cb/big4caee63ff08ce.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/peeling_the_avocado.jpg`,
       },
       {
         description:
           "Очищенный апельсин разделяем на дольки и режем кубиками.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c912c193ed/big4caee64143273.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_oranges.jpg`,
       },
       {
         description:
           "Для приготовления заправки смешиваем мелко нарезанные листики мяты, оливковое масло, сок&nbsp;лайма, горчицу и&nbsp;мед. По&nbsp;вкусу добавьте соль и&nbsp;черный перец.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-0daaf3cd3a/big4caee6428a9be.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_mint.jpg`,
       },
     ],
     type: meatSaladsType,
   },
   {
     title: "Салат из курицы с ананасом",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d2/005/254/171/big4caee63706fb3.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_salad_with_pineapple.jpg`,
     ingridients: [
       "Куриная грудка 								500&nbsp;г&nbsp;															",
       "Китайский салат (китайская капуста) 								100&nbsp;г&nbsp;															",
@@ -2955,14 +2683,12 @@ export const meatSalads = [
     cooking: [
       {
         description: "Отварить куриные грудки и&nbsp;мелко порезать.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-80c5845a61/big4caee638c3e19.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boiled_chicken_breast.jpg`,
       },
       {
         description:
           "Также не&nbsp;крупно порезать салат, перец и&nbsp;ананас.					 								  				 			  			 			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e549200f30/big4caee63a4862e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_yellow_pepper_and_pineapple.jpg`,
       },
       {
         description:
@@ -2973,8 +2699,7 @@ export const meatSalads = [
   },
   {
     title: "Салат с перловкой",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/022/047/big4caee5ff4be6a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_with_pearl_barley.jpg`,
     ingridients: [
       "Перловая крупа 								100&nbsp;г&nbsp;															",
       "Соль 								2&nbsp;ч.л. 															",
@@ -2988,34 +2713,29 @@ export const meatSalads = [
       {
         description:
           "Варим перловку в&nbsp;подсоленной воде, по&nbsp;готовности воду сливаем и&nbsp;вот начало салата уже&nbsp;готово.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-53d650b1f6/big4caee6009d72f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boiled_pearl_barley.jpg`,
       },
       {
         description:
           "Одновременно с&nbsp;перловкой ставим варить кусочек постной говядины. Пока все&nbsp;это варится, режем огурец и&nbsp;красный сладкий лук&nbsp;небольшими кусочками. Добавляем в&nbsp;салат.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-c76252ff65/big4caee602025a9.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_cucumber_and_red_onion.jpg`,
       },
       {
         description:
           "Когда мясо будет готово, его&nbsp;нужно нарезать мелкими кубиками и&nbsp;положить в&nbsp;салат.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-a50751dbf7/big4caee603dab58.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_boiled_beef.jpg`,
       },
       {
         description:
           "Осталось добавить заправку. Это&nbsp;может быть сметана, майонез, какой-то другой соус, который вы&nbsp;любите.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ec1cf8a477/big4caee6054be96.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_sour_cream.jpg`,
       },
     ],
     type: meatSaladsType,
   },
   {
     title: "Салат из курицы с ананасами",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/022/041/big4caee5d88baab.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken__salad_with_pineapple.jpg`,
     ingridients: [
       "Салат айсберг 								100&nbsp;г&nbsp;															",
       "Куриное филе 								300&nbsp;г&nbsp;															",
@@ -3033,40 +2753,33 @@ export const meatSalads = [
       {
         description:
           "Листья салата вымыть холодной водой, хорошенько просушить и&nbsp;порвать на&nbsp;кусочки небольшого размера.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b44a455927/big4caee5d9ede5f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/lettuce2.jpg`,
       },
       {
         description:
           "Куриную грудку (берем одно филе на&nbsp;порцию) режем кусочками и&nbsp;обжариваем на&nbsp;горячей сковороде до&nbsp;золотистого цвета, чуть посолив.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4c2c33eb82/big4caee5db6b05f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_chopped_chicken_fillet1.jpg`,
       },
       {
         description:
           "Сладкий перец (в принципе, можно использовать тот&nbsp;цвет, который вам&nbsp;больше нравится) нарезаем кусочками как&nbsp;куриное филе.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-43e8cada7b/big4caee5dd05e26.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_yellow_pepper.jpg`,
       },
       {
         description:
           "Смешиваем ингредиенты заправки и&nbsp;слегка взбиваем, чтобы получился однородный соус. Для&nbsp;более сладкой заправки можно вместо части лимонного сока добавить пару столовых ложек жидкости от&nbsp;ананасов.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5c5ab7a99f/big4caee5de7ead0.jpg",
       },
       {
         description:
           "На большую тарелку выкладываем слоями листья салата, курицу, ананас и&nbsp;перец, поливаем заправкой и&nbsp;украшаем ягодами брусники.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ae92ae4021/big4caee5e020d51.jpg",
+        image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken__salad_with_pineapple.jpg`,
       },
     ],
     type: meatSaladsType,
   },
   {
     title: "Салат из фасоли",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/001/022/040/big4caee5cbedcde.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/bean_salad.jpg`,
     ingridients: [
       "Куриное филе 								300&nbsp;г&nbsp;															",
       "Фасоль красная в&nbsp;собственном соку 								300&nbsp;г&nbsp;															",
@@ -3086,25 +2799,21 @@ export const meatSalads = [
       {
         description:
           "Сварите куриную грудку и&nbsp;нарежьте кубиками.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-7e54e33848/big4caee5cd88627.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/sliced_boiled_chicken_breast.jpg`,
       },
       {
         description: "Положите фасоль, слив с&nbsp;нее сок.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5395644cc9/big4caee5d38113f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/red_beans_with_chicken_breast.jpg`,
       },
       {
         description:
           "Добавьте нарезанный китайский салат и&nbsp;сельдерей. У&nbsp;сельдерея лучше удалить волокна, если он&nbsp;не слишком молодой.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e85c470db6/big4caee5d4dc985.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_celery_and_chinese_cabbage.jpg`,
       },
       {
         description:
           "Для заправки смешайте мелко-мелко нарезанный чеснок с&nbsp;солью, перцем, маслом и&nbsp;лимонным соком. Полейте заправкой салат и&nbsp;хорошо перемешайте.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ba93aaafca/big4caee5d67a5f8.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/ready_made_bean_salad.jpg`,
       },
     ],
     type: meatSaladsType,
@@ -3112,8 +2821,7 @@ export const meatSalads = [
 
   {
     title: "Салат 'Милые крошки'",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d2/005/230/082/big4ca0a18a9d6e0.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/salad_cute_crumbs.jpg`,
     ingridients: [
       "—  перепелиные яйца ",
       "—  помидоры черри ",

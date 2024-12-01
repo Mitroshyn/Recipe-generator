@@ -1,8 +1,18 @@
+import { borschType } from "./borsch";
+import { fruitDrinksType } from "./fruitDrinks";
+import { fruitSaladsType } from "./fruitSalads";
+import { meatSaladsType } from "./meatSalads";
+import { milkshakesType } from "./milkshakes";
+import { pancakesType } from "./pancakes";
+import { saucesType } from "./sauces";
+import { softDrinksType } from "./softDrinks";
+import { soupsType } from "./soups";
+import { vegetableSaladsType } from "./vegetableSalads";
+
 export const popular = [
   {
     title: "Куриный суп с яйцом",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-6367456dfb/big56b0dbac8dc23.jpg",
+    image: `${process.env.PUBLIC_URL}/images/soups/chicken_soup_with_egg.jpg`,
     ingridients: [
       "курица&nbsp;—  1&nbsp;кг",
       "луковица&nbsp;—  1&nbsp;шт.",
@@ -22,11 +32,11 @@ export const popular = [
           "Посолить, поперчить и&nbsp;варить еще&nbsp;около 5-10 минут. Попробовать, сварился ли&nbsp;картофель, достаточно ли&nbsp;соли, при&nbsp;необходимости досолить. В&nbsp;пиале взбить немного яйца. Зелень порезать и&nbsp;добавить в&nbsp;суп. Быстро мешая суп&nbsp;ложкой в&nbsp;центре, тонкой струйкой влить яйца. Дать минуту провариться и&nbsp;убрать с&nbsp;огня.",
       },
     ],
+    type: soupsType,
   },
   {
     title: "Зеленый борщ",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-97fd289735/big53aae578eff97.jpg",
+    image: `${process.env.PUBLIC_URL}/images/borsch/green_borsch.jpg`,
     ingridients: [
       "картофель&nbsp;—  4&nbsp;шт.",
       " крупная луковица&nbsp;—  1&nbsp;шт.",
@@ -40,30 +50,24 @@ export const popular = [
       {
         description:
           "Режем картошку&nbsp;и засыпаем ее&nbsp;в кастрюлю. Одну большую морковку трем на&nbsp;крупной терке, мелко рубим большую луковицу. Можно все&nbsp;это зажарить на&nbsp;масле, но&nbsp;я засыпаю морковь и&nbsp;лук в&nbsp;кастрюлю в&nbsp;сыром виде&nbsp;—  меньше жира&nbsp;—  здоровее пища.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-e9f62adf4c/big5298524db15d6.jpg",
       },
       {
         description:
           " Когда картошка готова&nbsp;—  разбираем руками на&nbsp;кусочки мясо с&nbsp;косточек и&nbsp;отправляем в&nbsp;бульон.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-417ef67338/big5298525e322a9.jpg",
       },
       {
         description: "Режем и засыпаем щавель.",
-        image:
-          "https://proxy10.online.ua/retsepty/r3-6f4cbc4daf/big5298527ea660d.jpg",
       },
       {
         description:
           " Как&nbsp;только он&nbsp;потемнеет&nbsp;—  снимаем борщ с&nbsp;огня, разливаем по&nbsp;тарелкам, в&nbsp;каждую кладем по&nbsp;половинке яйца (можно мелко нарубить) и&nbsp;по паре ложек сметаны.",
       },
     ],
+    type: borschType,
   },
   {
     title: "Фруктовый салат",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/210/069/big4ca0a63dee47b.jpg",
+    image: `${process.env.PUBLIC_URL}/images/fruit_salads/fruit_salad.jpg`,
     ingridients: [
       "—  бананы&nbsp;—  1-2 шт. ",
       "—  яблоко&nbsp;—  1-2 шт. ",
@@ -104,11 +108,11 @@ export const popular = [
           "7. Готовый салатик посыпать кедровыми орешками или&nbsp;любыми другими орехами (грецкие орехи, арахис&nbsp;и&nbsp;др.). ",
       },
     ],
+    type: fruitSaladsType,
   },
   {
     title: "Куриный салат",
-    image:
-      "https://proxy12.online.ua/retsepty/r2-278130849b/big528256d8a7c65.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken_salad.jpg`,
     ingridients: [
       "китайский салат (китайская капуста)&nbsp;—  300&nbsp;г",
       "перец сладкий красный (паприка)&nbsp;—  1&nbsp;шт.",
@@ -146,11 +150,11 @@ export const popular = [
           "Готовую и&nbsp;слегка остывшую курицу добавьте в&nbsp;салат, хорошо перемешайте.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из курицы с ананасами",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d3/001/022/041/big4caee5d88baab.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken__salad_with_pineapple.jpg`,
     ingridients: [
       "Салат айсберг 								100&nbsp;г&nbsp;															",
       "Куриное филе 								300&nbsp;г&nbsp;															",
@@ -168,39 +172,33 @@ export const popular = [
       {
         description:
           "Листья салата вымыть холодной водой, хорошенько просушить и&nbsp;порвать на&nbsp;кусочки небольшого размера.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-b44a455927/big4caee5d9ede5f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/lettuce2.jpg`,
       },
       {
         description:
           "Куриную грудку (берем одно филе на&nbsp;порцию) режем кусочками и&nbsp;обжариваем на&nbsp;горячей сковороде до&nbsp;золотистого цвета, чуть посолив.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4c2c33eb82/big4caee5db6b05f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_chopped_chicken_fillet1.jpg`,
       },
       {
         description:
           "Сладкий перец (в принципе, можно использовать тот&nbsp;цвет, который вам&nbsp;больше нравится) нарезаем кусочками как&nbsp;куриное филе.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-43e8cada7b/big4caee5dd05e26.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_yellow_pepper.jpg`,
       },
       {
         description:
           "Смешиваем ингредиенты заправки и&nbsp;слегка взбиваем, чтобы получился однородный соус. Для&nbsp;более сладкой заправки можно вместо части лимонного сока добавить пару столовых ложек жидкости от&nbsp;ананасов.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5c5ab7a99f/big4caee5de7ead0.jpg",
       },
       {
         description:
           "На большую тарелку выкладываем слоями листья салата, курицу, ананас и&nbsp;перец, поливаем заправкой и&nbsp;украшаем ягодами брусники.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ae92ae4021/big4caee5e020d51.jpg",
+        image: `${process.env.PUBLIC_URL}/images/meat_salads/chicken__salad_with_pineapple.jpg`,
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Салат из утки с припущенными помидорами черри",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-24b9b39d7a/big5551c49e4e85a.jpg",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/duck_salad_with_poached_cherry_tomatoes.jpg`,
     ingridients: [
       "филе утиных грудок&nbsp;—  2&nbsp;шт.",
       " соль и&nbsp;перец&nbsp;—  по&nbsp;вкусу",
@@ -224,14 +222,12 @@ export const popular = [
       {
         description:
           "На утином филе делаем неглубокие надрезы со стороны кожи. Солим и перчим.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-57236bc65c/big5551c4a85ea2d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/duck_breast.jpg`,
       },
       {
         description:
           "На средне сильном огне разогреваем сухую сковороду, кладем филе кожей вниз и&nbsp;жарим около 5&nbsp;минут. Затем переворачиваем и&nbsp;жарим еще&nbsp;5&nbsp;минут, уменьшив огонь до&nbsp;среднего.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-92b41c5d7c/big5551c4a8d549c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_duck_breast.jpg`,
       },
       {
         description:
@@ -240,8 +236,7 @@ export const popular = [
       {
         description:
           "Помидорки черри разрезаем пополам каждую. В&nbsp;сковороде на&nbsp;сильном огне разогреваем 1&nbsp;ст.л. оливкового масла. Кладем черри и&nbsp;жарим, помешивая, 1&nbsp;минуту. Добавляем мелко нарубленный чеснок и&nbsp;базилик, уксус и&nbsp;сахар. Жарим еще&nbsp;30&nbsp;секунд.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-ac8af7fa7e/big5551c4a97c6bb.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_cherry_tomatoes.jpg`,
       },
       {
         description: "Перекладываем на тарелку.",
@@ -249,14 +244,11 @@ export const popular = [
       {
         description:
           "Готовим заправку. Для&nbsp;этого кладем все&nbsp;ингредиенты в&nbsp;миску и&nbsp;взбиваем вилкой до&nbsp;получения эмульсии.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-e3f93a3058/big5551c4b47900a.jpg",
       },
       {
         description:
           "Откладываем половину заправки. В&nbsp;остальную кладем салатные листья и&nbsp;перемешиваем.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-b000aa1214/big5551c4b527b44.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_lettuce.jpg`,
       },
       {
         description:
@@ -267,11 +259,11 @@ export const popular = [
           "В тарелки кладем заправленные салатные листья, ломтики утки, припущенные черри и&nbsp;раскрошенный сыр. Поливаем остатками заправки и&nbsp;посыпаем нарубленными орехами.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Теплый салат с говядиной и грушей",
-    image:
-      "https://proxy10.online.ua/retsepty/r2-8178f7ae38/big5826fec3a2cb2.png",
+    image: `${process.env.PUBLIC_URL}/images/meat_salads/warm_salad_with_beef_and_pear.png`,
     ingridients: [
       "Азу из говядины 200 г",
       "Помидоры 2 шт.",
@@ -293,25 +285,22 @@ export const popular = [
       {
         description:
           "После того, как&nbsp;говядина в&nbsp;помидорах будет готова, немного остудить и&nbsp;добавить к&nbsp;смеси салатов.",
-        image:
-          "https://proxy11.online.ua/retsepty/r2-b67dd55305/5826fe6feb25b.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/beef_soy_sauce_and_tomato.jpg`,
       },
       {
         description:
           "Нарезать грушу небольшими кубиками и&nbsp;добавить в&nbsp;ту же&nbsp;самую сковородку с&nbsp;25&nbsp;мл&nbsp;соевого соуса. Готовить так&nbsp;5&nbsp;минут под&nbsp;крышкой.",
-        image:
-          "https://proxy10.online.ua/retsepty/r2-73462e7fc0/5826fe822cdf3.jpg",
       },
       {
         description:
           "Добавить груши в&nbsp;салат, посыпать кунжутными семечками и&nbsp;заправить небольшим количеством соевого соуса и&nbsp;перца.",
       },
     ],
+    type: meatSaladsType,
   },
   {
     title: "Молочный коктейль с клубникой",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-947b565b90/big5576fe9dc7aad.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/milkshake_with_strawberries.jpg`,
     ingridients: [
       "молоко&nbsp;—  2/3&nbsp;стакана",
       "мороженое сливочное&nbsp;—  100&nbsp;г",
@@ -337,11 +326,11 @@ export const popular = [
         description: "Готово!",
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Бананово-клубничный коктейль",
-    image:
-      "https://proxy12.online.ua/retsepty/r3-d3/001/020/272/big4caedb0d3d8be.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/banana_strawberry_smoothie.jpg`,
     ingridients: [
       "Сливки 20-22% 100&nbsp;мл",
       "Бананы 1&nbsp;шт.",
@@ -357,27 +346,24 @@ export const popular = [
       {
         description:
           "Кладем спелый банан в блендер и превращаем его в пюре вместе со сливками  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-688bc4a06e/big4caedb0eabf4f.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/bananas_in_blender.jpg`,
       },
       {
         description:
           "Замороженную клубнику и&nbsp;сахар добавляем в&nbsp;банановое пюре и&nbsp;все вместе хорошо взбиваем (клубнику не&nbsp;размораживать, она&nbsp;будет служить естественным охладителем и&nbsp;заменителем льда и&nbsp;мороженного).&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-309c7dca8d/big4caedb0ff4014.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_strawberries_to_banana_puree.jpg`,
       },
       {
         description:
           "В конце разбавляем молоком, еще&nbsp;раз взбиваем. Вкуснее всего пить из&nbsp;прозрачных бокалов с&nbsp;помощью довольно толстых соломинок (коктейль густой получается, тонкой будет сложно орудовать). ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-e74a605f9c/big4caedb1157245.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/banana_strawberry_smoothie.jpg`,
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Горячий банановый коктейль с шоколадом",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/253/096/big4caedb13661d6.jpg",
+    image: `${process.env.PUBLIC_URL}/images/milkshakes/hot_banana_smoothie_with_chocolate.jpg`,
     ingridients: [
       "Молоко коровье 500&nbsp;мл",
       "Ваниль в&nbsp;стручках 1&nbsp;шт.",
@@ -393,68 +379,59 @@ export const popular = [
       {
         description:
           "Нагрейте молоко в&nbsp;кастрюле. Можете положить туда разрезанный вдоль стручок ванили, а&nbsp;затем вынуть.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4e1cc6a54b/big4caedb14afdba.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/warming_the_milk.jpg`,
       },
       {
         description: "С помощью блендера превратите банан в&nbsp;пюре. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4e200979d5/big4caedb161a4fa.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/banana_in_blender.jpg`,
       },
       {
         description:
           " Подогрейте молоко и добавьте в него банановое пюре, продолжая нагревать.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-8489a3d6d5/big4caedb179d733.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_banana_puree.jpg`,
       },
       {
         description: "Наломайте шоколад и бросьте его в кастрюлю с напитком.  ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-cf8efee358/big4caedb190f02e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_chocolate_to_drink.jpg`,
       },
       {
         description:
           "Хорошо мешайте, чтобы шоколад полностью растворился. Когда коктейль станет однородным, снимите с&nbsp;огня и&nbsp;разлейте по&nbsp;чашкам. При&nbsp;подаче посыпьте корицей. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-f12501d8e5/big4caedb1aabec7.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/hot_chocolate_cocktail.jpg`,
       },
     ],
+    type: milkshakesType,
   },
   {
     title: "Компот из слив",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-d2/005/253/090/big4caedaf512aec.jpg",
+    image: `${process.env.PUBLIC_URL}/images/fruit_drinks/plum_compote.jpg`,
     ingridients: ["Сливы красные 1000&nbsp;г&nbsp;", "Сахар-песок 250&nbsp;г"],
     cooking: [
       {
         description: "Сливы нужно перебрать и&nbsp;хорошо вымыть. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-21dfcade4f/big4caedaf647dbe.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/plums.jpg`,
       },
       {
         description:
           "Разрезать сливы пополам и&nbsp;вынуть косточки. Этот этап могут пропустить те, кто&nbsp;хочет приготовить компот из&nbsp;слив максимально быстро и&nbsp;не трудозатратно.&nbsp; ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5965dff209/big4caedaf78d63d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_the_plums_in_half.jpg`,
       },
       {
         description:
           "В горячей воде (я брал около 650&nbsp;мл на&nbsp;500&nbsp;г&nbsp;слив) растворить сахар и&nbsp;опустить туда сливы. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-603c8d090b/big4caedaf8b8da9.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/plums_in_hot_water.jpg`,
       },
       {
         description:
           "Довести компот до&nbsp;кипения и&nbsp;выключить. Употреблять сливовый компот вкуснее всего в&nbsp;охлажденном виде. ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-7b0092f992/big4caedaf9eae6d.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/bring_to_a_boil.jpg`,
       },
     ],
+    type: fruitDrinksType,
   },
   {
     title: "Компот из черной смородины",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-6452a1d003/big5012f83e74cbb.jpg",
+    image: `${process.env.PUBLIC_URL}/images/fruit_drinks/blackcurrant_compote.jpg`,
     ingridients: [
       "смородина&nbsp;—  600&nbsp;г",
       "вода&nbsp;—  1,5&nbsp;л",
@@ -478,11 +455,11 @@ export const popular = [
           "Вы можете варьировать как&nbsp;и количество сахара, так&nbsp;и добавки в&nbsp;него, это&nbsp;может быть имбирь или&nbsp;лимон, корица или&nbsp;гвоздика, лаванда, ваниль или&nbsp;мята.",
       },
     ],
+    type: fruitDrinksType,
   },
   {
     title: "Блины на воде",
-    image:
-      "https://proxy11.online.ua/retsepty/r3-42ba9ca976/big513dd39bcf9da.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/water_pancakes.jpg`,
     ingridients: [
       "мука&nbsp;—  500&nbsp;г",
       "вода&nbsp;—  3&nbsp;стакана и&nbsp;1&nbsp;стакан для&nbsp;разведения лимонной кислоты",
@@ -503,11 +480,11 @@ export const popular = [
           "Лимонную кислоту развести в&nbsp;стакане воды, влить в&nbsp;подготовленное тесто, размешать и&nbsp;сразу же&nbsp;печь блины.",
       },
     ],
+    type: pancakesType,
   },
   {
     title: "Оладьи с яблоками",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-d3/001/017/167/big4cade3a4ee816.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/fritters_with_apples.jpg`,
     ingridients: [
       "Кефир 								500&nbsp;мл&nbsp;															",
       "Мука пшеничная 								300&nbsp;г&nbsp;															",
@@ -527,39 +504,34 @@ export const popular = [
       {
         description:
           "Для теста нужно соединить все&nbsp;ингредиенты и&nbsp;размешать тесто (можно миксером), чтобы не&nbsp;было комков.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-065b2688ad/big4cade3a62a451.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/pancake_dough.jpg`,
       },
       {
         description:
           "Яблоки очистить от&nbsp;семечек и&nbsp;шкурки, нарезать небольшими кусочками. Лучше, чтобы они&nbsp;были немного плоскими, тогда они&nbsp;будут легче укладываться в&nbsp;оладьях.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-441f1a7484/big4cade3a7736a3.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_apple_pieces_to_the_dough.jpg`,
       },
       {
         description:
           "Перемешать тесто с&nbsp;яблоками, добавив пару чайных ложек корицы. Если хотите, можно добавить также ванильный сахар или&nbsp;тертую лимонную цедру для&nbsp;усиления аромата. Но&nbsp;вообще, корица отлично оттеняет яблоки и&nbsp;поэтому я&nbsp;ничего больше не&nbsp;стала добавлять.&nbsp;			 				 								 					",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-1a7b04b0e0/big4cade3a8a4824.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_cinnamon_to_the_dough.jpg`,
       },
       {
         description:
           "Жарить оладьи нужно на&nbsp;среднем огне в&nbsp;небольшом количестве растительного масла.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4328e48e3b/big4cade3ad2be57.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_pancakes_with_apples.jpg`,
       },
       {
         description:
           "Когда вы&nbsp;будете их&nbsp;переворачивать, они&nbsp;должны хорошо подниматься за&nbsp;счет добавления разрыхлителя и&nbsp;становиться пышными.  Даже если они&nbsp;потом осядут, все&nbsp;равно останутся нежными и&nbsp;нетяжелыми.",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-485a0462c2/big4cade3b046dfc.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/flip_the_apple_pancakes.jpg`,
       },
     ],
+    type: pancakesType,
   },
   {
     title: "Оладьи с вишней",
-    image:
-      "https://proxy11.online.ua/retsepty/r2-68336965a2/big55c8eb6935ad7.jpg",
+    image: `${process.env.PUBLIC_URL}/images/pancakes/cherry_fritters.jpg`,
     ingridients: [
       "мука&nbsp;—  200&nbsp;г",
       "молоко&nbsp;—  150&nbsp;мл",
@@ -575,11 +547,11 @@ export const popular = [
           "Сперва следует смешать все&nbsp;ингредиенты, кроме вишни. Затем взбить миксером. Разрезать каждую вишню на&nbsp;4&nbsp;части. Разогреть сковороду с&nbsp;растительным маслом. Столовой ложкой выкладывать тесто на&nbsp;сковороду. Пока оладьи жарятся с&nbsp;одной стороны, посыпать их&nbsp;сверху вишней. Затем перевернуть и&nbsp;обжарить с&nbsp;другой стороны.",
       },
     ],
+    type: pancakesType,
   },
   {
     title: "Рецепт —  Винегрет",
-    image:
-      "https://proxy10.online.ua/retsepty/r3-ab1f63e521/big4f23fb090eebe.jpg",
+    image: `${process.env.PUBLIC_URL}/images/vegetable_salads/vinaigrette.jpg`,
     ingridients: [
       "Свекла 	800&nbsp;г&nbsp;",
       "	Картофель 	800&nbsp;г",
@@ -596,51 +568,113 @@ export const popular = [
       {
         description:
           "Свеклу, картофель и&nbsp;морковь нужно предварительно сварить 'в мундире'. Лучше всего это&nbsp;делать в&nbsp;пароварке, так&nbsp;они теряют меньше витаминов и&nbsp;получаются вкуснее. Перед варкой просто помойте их.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-dfa29ebe31/big4f23fb0de0266.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boil_potatoes.jpg`,
       },
       {
         description: "			 				 																	 													 						Дайте овощам немного остыть, затем очистите.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-ba17f55633/big4f23fb0f2a825.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/boiled_beets_carrots_and_potatoes.jpg`,
       },
       {
         description:
           "Мелко нарежьте вареные овощи и&nbsp;соленые огурцы. Слишком крупная нарезка отрицательно повлияет на&nbsp;конечный вкус. Количество огурцов может быть разным в&nbsp;зависимости от&nbsp;крепости их&nbsp;посола. 					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-a96648eb40/big4f23fb104fdd0.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_beets_carrots_and_potatoes.jpg`,
       },
       {
         description:
           "Лук лучше взять сладкий и&nbsp;нарезать как&nbsp;можно мельче. Если сладкого лука нет, можно взять любой и&nbsp;ошпарить его&nbsp;кипятком.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-caf18f216d/big4f23fb1141f28.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_red_onion1.jpg`,
       },
       {
         description:
           "Свежий зеленый лук&nbsp;очень украшает винегрет. Если взять его&nbsp;побольше, можно даже совсем не&nbsp;добавлять репчатый лук.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-4fc7857e2f/big4f23fb13451f5.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/chopped_green_onions.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Хорошо перемешайте все&nbsp;овощи в&nbsp;большой миске.					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-90870f3b0b/big4f23fb14a9f3a.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mix_boiled_vegetables.jpg`,
       },
       {
         description:
           "Заправка для&nbsp;винегрета&nbsp;—  один из&nbsp;самых важных моментов. Дижонская горчица подходит лучше всего, т.к. она&nbsp;не сладкая и&nbsp;умеренно острая.  Чайную ложку горчицы смешайте с&nbsp;тремя столовыми ложками 9%-ного уксуса и&nbsp;5&nbsp;столовыми ложками масла и&nbsp;черным перцем. Тщательно перемешайте до&nbsp;однородности и&nbsp;заправьте винегрет.   Для&nbsp;особого аромата можно добавить в&nbsp;винегрет горчичное или&nbsp;нерафинированное подсолнечное масло (смешать наполовину с&nbsp;рафинированным).					 								  				 			  			 ",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-bafcee2857/big4f23fb163a60e.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/make_the_vinaigrette_dressing.jpg`,
       },
       {
         description:
           "			 				 																	 													 						Перед подачей дайте винегрету настояться в&nbsp;холодильнике пару часов.					 								  				 			  			 									",
-        image:
-          "https://proxy11.online.ua/retsepty/r3-5f4f34a49f/big4f23fb17a4d2c.jpg",
+        image: `${process.env.PUBLIC_URL}/images/other_images/vinaigrette.jpg`,
       },
     ],
+    type: vegetableSaladsType,
+  },
+  {
+    title: "Мясная подлива",
+    image: `${process.env.PUBLIC_URL}/images/sauces/meat_gravy.jpeg`,
+    ingridients: [
+      "мясо (говядина)&nbsp;—  200&nbsp;г",
+      "    лук&nbsp;—  1&nbsp;шт.",
+      "    зелень петрушки&nbsp;—  1&nbsp;пучок",
+      "    томатная паста&nbsp;—  1&nbsp;ст.л.",
+      "    кипяченая вода&nbsp;—  250&nbsp;г",
+      "    растительное масло (для обжаривания)",
+      "    соль, специи&nbsp;—  по&nbsp;вкусу",
+    ],
+    cooking: [
+      {
+        description:
+          "Мясо нарезаем небольшими, но&nbsp;одинаковыми по&nbsp;размеру кусочками. Одинаковые кусочки будут равномерно прожариваться, сырых или&nbsp;пережаренных кусочков в&nbsp;такой подливе не&nbsp;будет, а&nbsp;значит и&nbsp;качество блюда не&nbsp;пострадает.",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_beef.jpg`,
+      },
+      {
+        description:
+          "Лук очищаем от&nbsp;кожицы и&nbsp;мелко шинкуем (режем кубиками). В&nbsp;принципе, лук&nbsp;можно нарезать и&nbsp;полукольцами, но&nbsp;тогда подлива будет смотреться не&nbsp;совсем эстетично: маленькие кусочки мяса будут казаться слишком мелкими по&nbsp;сравнению с&nbsp;длинными полосками лука. Поэтому кубики&nbsp;—  оптимальный вид&nbsp;нарезки лука для&nbsp;этого блюда.",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cut_the_onion2.jpg`,
+      },
+      {
+        description:
+          "Зелень моем в&nbsp;проточной воде, чтобы на&nbsp;ней не&nbsp;осталось песка, обсушиваем на&nbsp;бумажном полотенце и&nbsp;также мело шинкуем.",
+        image: `${process.env.PUBLIC_URL}/images/other_images/cutting_greens.jpeg`,
+      },
+      {
+        description:
+          "На хорошо разогретую сковородку вливаем пару ложек растительного масла, как&nbsp;только оно&nbsp;нагреется кладем в&nbsp;сковородку мясо и&nbsp;немного припускаем его. Затем добавляем лук, соль и&nbsp;специи и&nbsp;жарим мясо на&nbsp;медленном огне под&nbsp;крышкой минут 5-7.",
+        image: `${process.env.PUBLIC_URL}/images/other_images/fry_ beef_with_onions.jpeg`,
+      },
+      {
+        description:
+          "Смешиваем томатную пасту с&nbsp;кипяченой водой, взбивем вилкой для&nbsp;образования однородной консистенции и&nbsp;выливаем томатную смесь в&nbsp;сковородку. Даем подливе закипеть, накрываем крышкой и&nbsp;продолжаем тушить, помешивая, еще&nbsp;20&nbsp;минут. За&nbsp;несколько минут до&nbsp;готовности бросаем в&nbsp;сковородку нашинкованную зелень.",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_tomato_paste_and_herbs.jpeg`,
+      },
+      {
+        description:
+          "Подаем мясную подливу к&nbsp;гарнирам из&nbsp;овощей, круп или&nbsp;макаронных изделий.",
+      },
+    ],
+    type: saucesType,
+  },
+  {
+    title: "Безалкогольный мохито",
+    image: `${process.env.PUBLIC_URL}/images/soft_drinks/nonalcoholic_mojito.jpg`,
+    ingridients: [
+      " Мята свежая 40 г ",
+      "Лаймы 1 шт. ",
+      "Клюквенный сок 100 мл ",
+      "Содовая 200 мл ",
+      "Сахарный сироп 30 мл ",
+    ],
+    cooking: [
+      {
+        description:
+          "Мелко режем мяту, добавляем туда лайм, все вместе разминаем.  ",
+        image: `${process.env.PUBLIC_URL}/images/other_images/mint_and_lime_wedges.jpg`,
+      },
+      {
+        description:
+          "Добавляем туда же&nbsp;клюквенный сок&nbsp;и сахарный сироп. (У меня был&nbsp;клюквенный сок&nbsp;с сахаром, поэтому сироп добавлять я&nbsp;не стал, а&nbsp;просто увеличил количество сока). Доливаем содовой, кладем лед, наливаем в&nbsp;стаканы. ",
+        image: `${process.env.PUBLIC_URL}/images/other_images/add_cranberry_juice.jpg`,
+      },
+    ],
+    type: softDrinksType,
   },
 ];
 export const popularRecipesTitle = "Популярные рецепты";
