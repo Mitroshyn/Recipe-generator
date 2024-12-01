@@ -1,7 +1,7 @@
 {
   "name": "recipe_generator",
   "version": "0.1.0",
-  "homepage": "https://Mitroshyn.github.io/Recipe-generator",
+  "homepage": "https://mitroshyn.github.io/Recipe-generator",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
