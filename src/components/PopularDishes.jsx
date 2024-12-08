@@ -5,12 +5,14 @@ import { popularRecipesType } from "../data/popularRecipes";
 export function PopularDishes({ data }) {
   const historyPush = useNavigate();
   return (
-    <div className="flex">
+    <div className="grid grid-cols-3 xs:grid-cols-4 sm:grid-cols-6 lg:grid-cols-8">
       {data.map((item, index) => (
         <div
-          className="flex-1 flex-grow max-w-[128px] p-2 cursor-pointer hover:bg-blue-200"
+          className="p-2 cursor-pointer hover:bg-blue-200"
           key={index}
-          onClick={() => historyPush(`/dishes/${popularRecipesType}/${item.title}`)}
+          onClick={() =>
+            historyPush(`/dishes/${popularRecipesType}/${item.title}`)
+          }
         >
           <img
             className="w-full h-20 object-cover "
