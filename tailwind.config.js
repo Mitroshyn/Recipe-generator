@@ -3,6 +3,10 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
+      screens: {
+        xxs: "320px",
+        xs: "480px",
+      },
       spacing: {
         "safe-bottom": "env(safe-area-inset-bottom)",
         "2-px": "2px",

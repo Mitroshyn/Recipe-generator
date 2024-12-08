@@ -12,7 +12,9 @@ export function Main() {
   return (
     <>
       <div>
-        <h1 className="text-4xl pb-4 ml-4">{currentTabData?.title || ""}</h1>
+        <h1 className="text-2xl xs:text-4xl pb-4 ml-4">
+          {currentTabData?.title || ""}
+        </h1>
         <Tabs activeTab={activeTab} onActiveTabChange={setActiveTab} />
         <Data
           data={currentTabData?.data || []}

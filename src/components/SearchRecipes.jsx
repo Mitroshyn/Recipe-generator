@@ -41,8 +41,10 @@ export function SearchRecipes() {
           value={searchTerm}
           onChange={handleSearchChange}
           placeholder="Введите название рецепта..."
-          className={`border p-2 ease-linear ${
-            searchTerm.length > 0 ? "w-[750px]" : "w-full"
+          className={`border p-2 text-base lg:text-xl ease-linear ${
+            searchTerm.length > 0
+              ? "p-0 xxs:w-[190px] xs:w-[350px] sm:w-[500px] md:w-[600px] lg:w-[750px]"
+              : "w-full"
           }`}
         />
       </div>
@@ -53,7 +55,7 @@ export function SearchRecipes() {
             filteredDishes.map((dish, index) => (
               <div
                 key={index}
-                className="p-2 bg-white cursor-pointer hover:bg-gray-200"
+                className="flex xxs:flex-col xs:flex-row p-2 bg-white cursor-pointer hover:bg-gray-200"
                 onClick={() => handleRecipeClick(dish)}
               >
                 <img
@@ -61,7 +63,7 @@ export function SearchRecipes() {
                   alt={dish.title}
                   className="w-16 h-16 mr-2 inline-block"
                 />
-                <span>{dish.title}</span>
+                <span className="flex items-center">{dish.title}</span>
               </div>
             ))
           ) : (
