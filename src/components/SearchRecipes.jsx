@@ -29,7 +29,7 @@ export function SearchRecipes() {
 
   return (
     <div
-      className="search-recipes relative max-w-full w-full"
+      className="relative max-w-full w-full flex justify-end"
       onClick={handleClickOutside}
     >
       <div
@@ -37,7 +37,7 @@ export function SearchRecipes() {
           searchTerm.length > 0 ? "fixed inset-0 backdrop-blur-sm" : ""
         }`}
       ></div>
-      <div className="relative">
+      <div className={`relative ${searchTerm.length > 0 && "w-full"}`}>
         <input
           type="text"
           value={searchTerm}
@@ -48,9 +48,7 @@ export function SearchRecipes() {
           }`}
         />
       </div>
-      {/* ? "p-0 xxs:w-[190px] xs:w-[350px] sm:w-[500px] md:w-[600px] lg:w-[750px]"
-      : "w-full" */}
-      <div className="filtered-dishes absolute max-h-[40rem] overflow-y-auto z-20 w-full">
+      <div className="filtered-dishes absolute max-h-[40rem] overflow-y-auto z-20 w-full top-[43px]">
         {searchTerm.length > 0 ? (
           filteredDishes.length > 0 ? (
             filteredDishes.map((dish, index) => (
