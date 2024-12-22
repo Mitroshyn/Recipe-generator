@@ -29,11 +29,11 @@ export function DishesDetails() {
   return (
     <>
       <div>
-        <div className="dishDetail bg-amber-100  pb-8">
+        <div className="dishDetail bg-amber-100 mt-4 pb-8">
           <div className="flex flex-col gap-10-px mx-6">
             <h1 className="text-2xl pt-3.5">{currentData.title}</h1>
             <img
-              className="w-3/6"
+              className="xs:w-5/6 md:w-5/6 lg:w-4/6"
               src={currentData.image}
               alt={currentData.title}
             />

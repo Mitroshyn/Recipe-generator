@@ -7,7 +7,7 @@ function Header() {
   return (
     <header className="header bg-headerColor">
       <Container>
-        <div className="flex justify-between w-full">
+        <div className="flex justify-between items-center w-full gap-3">
           <div className="header-recipes text-2xl text-white">Рецепты</div>
           <SearchRecipes />
         </div>

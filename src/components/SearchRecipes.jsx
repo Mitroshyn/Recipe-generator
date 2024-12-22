@@ -28,27 +28,28 @@ export function SearchRecipes() {
   };
 
   return (
-    <div className="search-recipes relative" onClick={handleClickOutside}>
+    <div
+      className="search-recipes relative max-w-full w-full"
+      onClick={handleClickOutside}
+    >
       <div
         className={`${
           searchTerm.length > 0 ? "fixed inset-0 backdrop-blur-sm" : ""
         }`}
       ></div>
-
       <div className="relative">
         <input
           type="text"
           value={searchTerm}
           onChange={handleSearchChange}
           placeholder="Введите название рецепта..."
-          className={`border p-2 text-base lg:text-xl ease-linear ${
-            searchTerm.length > 0
-              ? "p-0 xxs:w-[190px] xs:w-[350px] sm:w-[500px] md:w-[600px] lg:w-[750px]"
-              : "w-full"
+          className={`w-full border p-2 text-base lg:text-xl ease-linear ${
+            searchTerm.length > 0 ? "p-0 " : "xxs:max-w-xs "
           }`}
         />
       </div>
-
+      {/* ? "p-0 xxs:w-[190px] xs:w-[350px] sm:w-[500px] md:w-[600px] lg:w-[750px]"
+      : "w-full" */}
       <div className="filtered-dishes absolute max-h-[40rem] overflow-y-auto z-20 w-full">
         {searchTerm.length > 0 ? (
           filteredDishes.length > 0 ? (

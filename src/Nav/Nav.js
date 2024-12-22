@@ -6,7 +6,7 @@ export function Nav() {
   return (
     <Container>
       <nav className="">
-        <ul className="w-[210px]">
+        <ul className="w-[210px] mt-3">
           <li>
             <Link to="/Recipe-generator">Главная страница</Link>
           </li>

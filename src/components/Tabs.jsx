@@ -8,13 +8,14 @@ export function Tabs({ activeTab, onActiveTabChange }) {
   };
   return (
     <div>
-      {MAIN_TABS.map((tab) => {
+      {MAIN_TABS.map((tab, index) => {
         return (
           <span
             onClick={() => handleTabClick(tab.key)}
             className={`cursor-pointer bg-amber-300 ml-4 text-xl ${
               activeTab === tab.key ? "bg-green-500 text-white" : ""
             }`}
+            key={index}
           >
             {tab.label}
           </span>
