@@ -4,7 +4,7 @@ export function DishesList({ data, title, type }) {
   return (
     <>
       <div className="">
-        <h1 className="text-2xl xs:text-4xl ml-4">{title}</h1>
+        <h1 className="text-2xl xs:text-4xl ml-4 mt-5">{title}</h1>
 
         <Data data={data} type={type} />
       </div>
